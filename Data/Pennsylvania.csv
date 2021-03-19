@@ -1,0 +1,431 @@
+,SearchState,SearchCity,Category,SearchTitle,Title,Company,Stars,Location,Wage,Remote
+0, Pennsylvania,Philadelphia,17,Nuclear Engineers,Associate Technical Estimator,Astro Pak Corporation,4.0,United States,Unknown,Remote
+1, Pennsylvania,Philadelphia,17,Nuclear Engineers,Submarine Systems Engineer (Navy Nuclear),MCKEAN DEFENSE/CABRILLO TECHNOLOGIES,,"Philadelphia, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,17,Nuclear Engineers,Systems Engineer (Engineer Systems 2),Huntington Ingalls Industries Inc.,3.8,"Philadelphia, PA",Unknown,Not Remote
+3, Pennsylvania,Philadelphia,17,Nuclear Engineers,Mechanical Engineer,HOLTEC INTERNATIONAL,2.4,"Camden, NJ",Unknown,Not Remote
+4, Pennsylvania,Philadelphia,17,Nuclear Engineers,Senior Mechanical Design Engineer,Holtec International,2.4,"Camden, NJ",Unknown,Not Remote
+5, Pennsylvania,Philadelphia,17,Nuclear Engineers,Medical Physicist D,University of Pennsylvania,4.2,"Philadelphia, PA",Unknown,Not Remote
+6, Pennsylvania,Philadelphia,17,Nuclear Engineers,Adjunct Product Line Manager,HOLTEC INTERNATIONAL,2.4,"Camden, NJ",Unknown,Not Remote
+7, Pennsylvania,Philadelphia,17,Nuclear Engineers,Systems Engineer IV,The GBS Group,3.8,"Philadelphia, PA",Unknown,Not Remote
+8, Pennsylvania,Philadelphia,17,Nuclear Engineers,Adjunct Product Line Manager,Holtec International,2.4,"Camden, NJ",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Analyzer Specialist / Technician,JCIS Inc.,,"Philadelphia, PA","$100,000 - $120,000 a year",Not Remote
+1, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Biomedical Technician - Novasyte,IQVIA,3.8,"Philadelphia, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Solar Electrician / Technician (Commerical O&M)(NJ),Confidential Fastgrowing Solar O&M Company,,"Cherry Hill, NJ",$27 - $38 an hour,Remote
+3, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Analyzer Specialist / Technician,JCIS Inc.,,"Philadelphia, PA","$100,000 - $120,000 a year",Not Remote
+4, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,CW/ECWS System Senior Engineering Technician,MCKEAN DEFENSE/CABRILLO TECHNOLOGIES,,"Philadelphia, PA",Unknown,Not Remote
+5, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Director of Facilities,Brightside Academy,2.8,"Philadelphia, PA",Unknown,Not Remote
+6, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Building Maintenance Supervisor,Madison Parke LLC,4.0,"Philadelphia, PA",$30 an hour,Not Remote
+7, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Service Technician - Field,Powerhouse Equipment & Engineering Co. I,,"Philadelphia, PA",Unknown,Not Remote
+8, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Technician - Facilities,Sungard Availability Services,3.3,"Philadelphia, PA",Unknown,Not Remote
+9, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Maintenance Technician,Inglis Foundation,3.4,"Philadelphia, PA",$21.47 an hour,Not Remote
+10, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,A&P Mechanic,AAA AEROSPACE USA INC,,"Philadelphia, PA",Unknown,Not Remote
+11, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,HVAC Technician,Philadelphia Zoo,3.8,"Philadelphia, PA",$32.18 an hour,Not Remote
+12, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Field Service Specialist,Emerson,3.9,"Philadelphia, PA",Unknown,Not Remote
+13, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Maintenance Apprentice,Holtec International,2.4,"Camden, NJ",Unknown,Not Remote
+14, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Service Technician Electrical,"Krones, Inc",3.8,"Philadelphia, PA",$20 - $30 an hour,Not Remote
+15, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Machine Repair Maintenance Technician,Jade Precision Medical Components,1.9,"Philadelphia, PA",Unknown,Not Remote
+16, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,"Manager, Mechanical Engrg",L3Harris Technologies,3.7,"Camden, NJ",Unknown,Not Remote
+17, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,"Field Service Engineer (Philadelphia, PA)",Bio-techne,3.1,"Philadelphia, PA",Unknown,Not Remote
+18, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Biomed Tech II,Children's Hospital of Philadelphia,4.0,"Philadelphia, PA",Unknown,Not Remote
+19, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Biomedical Technician - Novasyte,IQVIA,3.8,"Philadelphia, PA",Unknown,Not Remote
+20, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Corporate Port Engineer,KIA Motors America,3.6,"Philadelphia, PA",Unknown,Not Remote
+21, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Field Service Engineer/Technician,"Fedegari Technologies, Inc.",,"Philadelphia, PA","$50,000 - $60,000 a year",Not Remote
+22, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,ACI Certified Concrete Inspector,"HRV, Inc",,"Philadelphia, PA",Unknown,Not Remote
+23, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Machine Repair Maintenance Technician,ARCH Medical Solutions - Philadelphia,,"Philadelphia, PA",Unknown,Not Remote
+24, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Field Service Technician,CDS - Custom Downstream Systems,,"Philadelphia, PA",Unknown,Not Remote
+25, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Senior Mechanical Design Engineer,Holtec International,2.4,"Camden, NJ",Unknown,Not Remote
+26, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Junior Field Service Engineer (Entry Level Position),Advanced Dicing Technologies,,"Camden, NJ","$35,000 - $45,000 a year",Not Remote
+27, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Capital Equipment Field Service Engineer,Bystronic,4.0,"Philadelphia, PA",From $25 an hour,Not Remote
+28, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,HVAC Truck Base Senior Controls Technician,Johnson Controls,3.7,"Pennsauken, NJ",Unknown,Not Remote
+29, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Test Technician,System One,3.6,"Philadelphia, PA",Unknown,Not Remote
+30, Pennsylvania,Philadelphia,17,Mechanical Engineering Technicians,Building Maintenance Supervisor,Madison Parke LLC,4.0,"Philadelphia, PA",$30 an hour,Not Remote
+0, Pennsylvania,Philadelphia,23,Legal Support Worker,"Care Coordinator- RN, OTR/L, MSW",AdvancedRM,,"Philadelphia, PA",$20 - $30 an hour,Not Remote
+1, Pennsylvania,Philadelphia,23,Legal Support Worker,Legal Assistant/Legal Secretary,Mammuth and Rosenberg,,"Bala-Cynwyd, PA",$15 - $25 an hour,Not Remote
+2, Pennsylvania,Philadelphia,23,Legal Support Worker,Admissions Specialist,Bancroft NeuroHealth,3.0,"Cherry Hill, NJ",Unknown,Not Remote
+3, Pennsylvania,Philadelphia,23,Legal Support Worker,Social Worker,University of Pennsylvania,4.2,"Philadelphia, PA",Unknown,Not Remote
+4, Pennsylvania,Philadelphia,23,Legal Support Worker,"Specialist, Family Support FEC FHS",Congreso De Latinos Uni,4.0,"Philadelphia, PA",Unknown,Temporarily remote
+5, Pennsylvania,Philadelphia,23,Legal Support Worker,Legal Assistant/Legal Secretary,Mammuth and Rosenberg,,"Bala-Cynwyd, PA",$15 - $25 an hour,Not Remote
+6, Pennsylvania,Philadelphia,23,Legal Support Worker,Field Service Specialist,Emerson,3.9,"Philadelphia, PA",Unknown,Not Remote
+7, Pennsylvania,Philadelphia,23,Legal Support Worker,"Vice President, Operations",The Philadelphia Inquirer,3.7,"Philadelphia, PA",Unknown,Not Remote
+8, Pennsylvania,Philadelphia,23,Legal Support Worker,Logistics Coordinator - LTM I,"Mobile Outfitters, a Curio company",,"Philadelphia, PA",$16.50 - $19.50 an hour,Not Remote
+9, Pennsylvania,Philadelphia,23,Legal Support Worker,Logistics Coordinator - LTM I,Curio Holding Company,,"Philadelphia, PA",$16.50 - $19.50 an hour,Not Remote
+10, Pennsylvania,Philadelphia,23,Legal Support Worker,Operations Representative (Boarding Agent),Inchcape Shipping,3.7,"Philadelphia, PA",Unknown,Not Remote
+11, Pennsylvania,Philadelphia,23,Legal Support Worker,Asst Dir Archit Trades,Temple University,4.2,"Philadelphia, PA",Unknown,Not Remote
+12, Pennsylvania,Philadelphia,23,Legal Support Worker,HR Administrative Specialist,"Equiscript, LLC",3.9,"Philadelphia, PA",Unknown,Not Remote
+13, Pennsylvania,Philadelphia,23,Legal Support Worker,Occupational Therapist,Good Shepherd Rehabilitation Network,3.8,"Philadelphia, PA",Unknown,Not Remote
+14, Pennsylvania,Philadelphia,23,Legal Support Worker,"Care Coordinator- RN, OTR/L, MSW",AdvancedRM,,"Philadelphia, PA",$20 - $30 an hour,Not Remote
+15, Pennsylvania,Philadelphia,23,Legal Support Worker,Member Service Representative,TruMark Financial Credit Union,3.5,"Upper Darby, PA",Unknown,Not Remote
+16, Pennsylvania,Philadelphia,23,Legal Support Worker,"Vice President, Risk Management","DUFF AND PHELPS, LLC",3.4,"Philadelphia, PA",Unknown,Not Remote
+17, Pennsylvania,Philadelphia,23,Legal Support Worker,Business Development Coordinator (Temporary),Fox Rothschild LLP,3.3,"Philadelphia, PA",Unknown,Not Remote
+18, Pennsylvania,Philadelphia,23,Legal Support Worker,HR Business Partner,Matrix Absence Management,2.7,"Philadelphia, PA",Unknown,Not Remote
+19, Pennsylvania,Philadelphia,23,Legal Support Worker,Live-in Caregiver,Home Helpers,,"Philadelphia, PA",$8 - $12 an hour,Not Remote
+20, Pennsylvania,Philadelphia,23,Legal Support Worker,Mobile Therapist,Gemma Services (formerly theVillage and Silver Spr...,,"Philadelphia, PA",$30 - $35 an hour,Not Remote
+21, Pennsylvania,Philadelphia,23,Legal Support Worker,"Project Manager, Contractor",Macquarie Group Limited,3.8,"Philadelphia, PA",Unknown,Not Remote
+22, Pennsylvania,Philadelphia,23,Legal Support Worker,RN- Critical Care Nurse,Nihon Kohden,3.1,"Philadelphia, PA",Unknown,Remote
+23, Pennsylvania,Philadelphia,23,Legal Support Worker,Physical Therapist,Good Shepherd Rehabilitation Network,3.8,"Philadelphia, PA",Unknown,Not Remote
+24, Pennsylvania,Philadelphia,23,Legal Support Worker,Admissions Specialist,Bancroft NeuroHealth,3.0,"Cherry Hill, NJ",Unknown,Not Remote
+25, Pennsylvania,Philadelphia,23,Legal Support Worker,Employee Relations Specialist,Project HOME,3.6,"Philadelphia, PA",Unknown,Not Remote
+26, Pennsylvania,Philadelphia,23,Legal Support Worker,SELF + Cooperative Property Manager,Urban Affairs Coalition,,"Philadelphia, PA",Unknown,Not Remote
+27, Pennsylvania,Philadelphia,23,Legal Support Worker,Per Diem Family Peer Specialist,Mental Health Partnerships,3.9,"Upper Darby, PA",Unknown,Not Remote
+28, Pennsylvania,Philadelphia,23,Legal Support Worker,"Associate Director, Network and Medical Costs - Philadelphia",ChenMed,3.3,"Philadelphia, PA",Unknown,Not Remote
+29, Pennsylvania,Philadelphia,23,Legal Support Worker,Commercial Counsel,Brightcove,3.9,"Philadelphia, PA",Unknown,Temporarily remote
+30, Pennsylvania,Philadelphia,23,Legal Support Worker,Extraction Laboratory Supervisor,Curaleaf,2.1,"Bellmawr, NJ",Unknown,Not Remote
+31, Pennsylvania,Philadelphia,23,Legal Support Worker,"Valuation Advisory Services, Managing Director",CBRE,3.7,"Philadelphia, PA",Unknown,Not Remote
+32, Pennsylvania,Philadelphia,23,Legal Support Worker,Corporate Transactions Counsel,BAYADA Home Health Care,3.8,"Township of Pennsauken, NJ",Unknown,Temporarily remote
+33, Pennsylvania,Philadelphia,23,Legal Support Worker,Assistant Director of Health and Wellness - RN,Artis Senior Living of Evesham,3.1,"Cherry Hill, NJ",Unknown,Not Remote
+34, Pennsylvania,Philadelphia,23,Legal Support Worker,"Project Manager, Contractor",Macquarie Group Limited,3.8,"Philadelphia, PA",Unknown,Not Remote
+35, Pennsylvania,Philadelphia,23,Legal Support Worker,Logistics Coordinator - LTM I,"Mobile Outfitters, a Curio company",,"Philadelphia, PA",$16.50 - $19.50 an hour,Not Remote
+0, Pennsylvania,Philadelphia,23,Legal Occupations,Associate Attorney – Personal Injury,"Lowenthal & Abrams, PC",,"Philadelphia, PA","$75,000 - $150,000 a year",Temporarily remote
+1, Pennsylvania,Philadelphia,23,Legal Occupations,Personal Injury Litigation Attorney,"Lowenthal & Abrams, PC",,"Philadelphia, PA","$100,000 - $200,000 a year",Temporarily remote
+2, Pennsylvania,Philadelphia,23,Legal Occupations,Professional Liability Associate,Swartz Campbell LLC,3.5,"Philadelphia, PA",Unknown,Not Remote
+3, Pennsylvania,Philadelphia,23,Legal Occupations,Legal Executive Assistant,"Kline & Specter, PC",,"Philadelphia, PA","Up to $55,000 a year",Not Remote
+4, Pennsylvania,Philadelphia,23,Legal Occupations,Paralegal (Senior & Junior Positions),Rosen Injury Lawyers,2.5,"Jenkintown, PA","$40,000 - $52,000 a year",Not Remote
+5, Pennsylvania,Philadelphia,23,Legal Occupations,Legal-Mid Level Associate,"FisherZucker, LLC",,"Philadelphia, PA",$36 - $60 an hour,Temporarily remote
+6, Pennsylvania,Philadelphia,23,Legal Occupations,Senior Legal Counsel,Market Resource Partners (MRP),3.1,"Philadelphia, PA",Unknown,Temporarily remote
+7, Pennsylvania,Philadelphia,23,Legal Occupations,Legal Assistant,Clearfield & Kofsky,,"Philadelphia, PA","$40,000 - $45,000 a year",Not Remote
+8, Pennsylvania,Philadelphia,23,Legal Occupations,Paralegal/Office Manager,Saint Joseph's University,4.2,"Philadelphia, PA",Unknown,Not Remote
+9, Pennsylvania,Philadelphia,23,Legal Occupations,Foreclosure Legal Assistant,KML Law Group P C,,"Philadelphia, PA",Unknown,Not Remote
+10, Pennsylvania,Philadelphia,23,Legal Occupations,law clerk,Taxrole,,"Philadelphia, PA",Unknown,Not Remote
+11, Pennsylvania,Philadelphia,23,Legal Occupations,Law Clerk I,ARK Solutions,3.8,"Philadelphia, PA",Unknown,Not Remote
+12, Pennsylvania,Philadelphia,23,Legal Occupations,Legal Executive Assistant,"Kline & Specter, PC",,"Philadelphia, PA","Up to $55,000 a year",Not Remote
+13, Pennsylvania,Philadelphia,23,Legal Occupations,Judicial Law Clerk,Administrative Office of PA Courts,1.5,"Philadelphia, PA",Unknown,Not Remote
+14, Pennsylvania,Philadelphia,23,Legal Occupations,Paralegal,Stevens Capital Management LP,,"Philadelphia, PA",Unknown,Not Remote
+15, Pennsylvania,Philadelphia,23,Legal Occupations,Paralegal,"The Killino Firm, PC",,"Philadelphia, PA","$31,000 - $62,000 a year",Temporarily remote
+16, Pennsylvania,Philadelphia,23,Legal Occupations,TRIAL ATTORNEY (LABOR),US Department of Labor,4.0,"Philadelphia, PA","$84,231 - $159,286 a year",Remote
+17, Pennsylvania,Philadelphia,23,Legal Occupations,Paralegal,ARK Solutions,3.8,"Philadelphia, PA",Unknown,Not Remote
+18, Pennsylvania,Philadelphia,23,Legal Occupations,Information Technology Specialist (Litigation Support),US Department of Justice,4.1,"Philadelphia, PA","$58,083 - $75,507 a year",Not Remote
+19, Pennsylvania,Philadelphia,23,Legal Occupations,US-Licensed Corporate Lawyer | Remote | Part-Time,InCloudCounsel,,"Philadelphia, PA",Unknown,Remote
+20, Pennsylvania,Philadelphia,23,Legal Occupations,Paralegal (Senior & Junior Positions),Rosen Injury Lawyers,2.5,"Jenkintown, PA","$40,000 - $52,000 a year",Not Remote
+21, Pennsylvania,Philadelphia,23,Legal Occupations,Corporate Paralegal,Fox Rothschild LLP,3.3,"Philadelphia, PA",Unknown,Not Remote
+22, Pennsylvania,Philadelphia,23,Legal Occupations,Subrogation Paralegal,White and Williams LLP,3.7,"Philadelphia, PA",Unknown,Not Remote
+23, Pennsylvania,Philadelphia,23,Legal Occupations,Legal Assistant/Legal Secretary,Mammuth and Rosenberg,,"Bala-Cynwyd, PA",$15 - $25 an hour,Not Remote
+24, Pennsylvania,Philadelphia,23,Legal Occupations,Attorney-Adviser,US Other Agencies and Independent Organizations,3.8,"Philadelphia, PA","$100,161 - $153,866 a year",Temporarily remote
+25, Pennsylvania,Philadelphia,23,Legal Occupations,Senior Legal Counsel,Market Resource Partners (MRP),3.1,"Philadelphia, PA",Unknown,Temporarily remote
+26, Pennsylvania,Philadelphia,23,Legal Occupations,Associate Position - Casualty Litigation Department - 3 - 4 years' experience,"Post & Schell, P.C.",,"Philadelphia, PA",Unknown,Not Remote
+27, Pennsylvania,Philadelphia,23,Legal Occupations,Senior Counsel,Entercom Communications Corp.,3.5,"Philadelphia, PA",Unknown,Not Remote
+28, Pennsylvania,Philadelphia,23,Legal Occupations,PARALEGAL,CLJ Consulting And Contracting LLC,,"Philadelphia, PA",$25 - $30 an hour,Not Remote
+29, Pennsylvania,Philadelphia,23,Legal Occupations,Assistant General Counsel,Deloitte,4.0,"Philadelphia, PA",Unknown,Not Remote
+30, Pennsylvania,Philadelphia,23,Legal Occupations,Legal Process Server,ABC Legal Services,2.9,"Cheltenham, PA",Unknown,Not Remote
+31, Pennsylvania,Philadelphia,23,Legal Occupations,PARALEGAL,Cooper University Health Care,3.5,"Camden, NJ",Unknown,Not Remote
+32, Pennsylvania,Philadelphia,23,Legal Occupations,Attorney Advisor,Federal Bureau of Prisons (BOP),3.7,"Philadelphia, PA",Unknown,Not Remote
+33, Pennsylvania,Philadelphia,23,Legal Occupations,Litigation Paralegal/Legal Assistant,"Edelstein Martin & Nelson, LLP",,"Philadelphia, PA",Unknown,Not Remote
+34, Pennsylvania,Philadelphia,23,Legal Occupations,Senior Counsel,Entercom Communications Corp.,3.5,"Philadelphia, PA",Unknown,Not Remote
+35, Pennsylvania,Philadelphia,23,Legal Occupations,Medical Malpractice Paralegal,Anapol Weiss,,"Philadelphia, PA",Unknown,Temporarily remote
+36, Pennsylvania,Philadelphia,23,Legal Occupations,Paralegal - Plaintiff Personal Injury,Plaintiff Personal Injury Firm,,"Philadelphia, PA",Unknown,Not Remote
+37, Pennsylvania,Philadelphia,23,Legal Occupations,Paralegal (Contracts/Licensing),Hersha Hospitality Management (HHM),3.1,"Philadelphia, PA",Unknown,Not Remote
+38, Pennsylvania,Philadelphia,23,Legal Occupations,Corporate Counsel,Hersha Hospitality Management (HHM),3.1,"Philadelphia, PA",Unknown,Not Remote
+39, Pennsylvania,Philadelphia,23,Legal Occupations,Pro Bono Manager,Greenberg Traurig,3.7,"Philadelphia, PA",Unknown,Not Remote
+40, Pennsylvania,Philadelphia,23,Legal Occupations,Patent Agent,Morgan Lewis,3.8,"Philadelphia, PA",Unknown,Not Remote
+41, Pennsylvania,Philadelphia,23,Legal Occupations,Legal Assistant/Secretary,Coffey Kaye Myers & Olley,,"Bala-Cynwyd, PA",$20 - $24 an hour,Not Remote
+42, Pennsylvania,Philadelphia,23,Legal Occupations,Litigation Associate Attorney,Wilson Elser,2.8,"Philadelphia, PA",Unknown,Not Remote
+43, Pennsylvania,Philadelphia,23,Legal Occupations,Entry Level Paralegal,"Friedman Schuman, P.C.",,"Jenkintown, PA",Unknown,Temporarily remote
+44, Pennsylvania,Philadelphia,23,Legal Occupations,Conflicts Analyst,Morgan Lewis,3.8,"Philadelphia, PA",Unknown,Not Remote
+45, Pennsylvania,Philadelphia,23,Legal Occupations,Legal Administrative Assistant - Corporate Transactional & Real Estate,Offit Kurman,3.4,"Philadelphia, PA",Unknown,Not Remote
+46, Pennsylvania,Philadelphia,23,Legal Occupations,HIPAA Investigator / Law Clerk,Leidos,3.7,"Philadelphia, PA",Unknown,Not Remote
+47, Pennsylvania,Philadelphia,23,Legal Occupations,Courtroom/Trial Presentation Specialist/Coordinator,Marshall Dennehey Warner Coleman & Goggin,3.6,"Philadelphia, PA",Unknown,Not Remote
+48, Pennsylvania,Philadelphia,23,Legal Occupations,Corporate Counsel,Deloitte,4.0,"Philadelphia, PA",Unknown,Not Remote
+49, Pennsylvania,Philadelphia,23,Legal Occupations,Corporate Counsel,"Hill International, Inc",4.1,"Philadelphia, PA",Unknown,Not Remote
+50, Pennsylvania,Philadelphia,23,Legal Occupations,Conveyancer,Compass,,"Philadelphia, PA",Unknown,Not Remote
+51, Pennsylvania,Philadelphia,23,Legal Occupations,Litigation Paralegal,"Derek Smith Law Group, PLLC (Philadelphia)",,"Philadelphia, PA","$36,000 - $44,000 a year",Temporarily remote
+52, Pennsylvania,Philadelphia,23,Legal Occupations,"Director, Legal Counsel Commercial",Amicus Therapeutics,3.9,"Philadelphia, PA",Unknown,Remote
+53, Pennsylvania,Philadelphia,23,Legal Occupations,Attorney - Arbitration Litigation Attorney,Plaintiff Personal Injury Firm,,"Philadelphia, PA",Unknown,Not Remote
+54, Pennsylvania,Philadelphia,23,Legal Occupations,Personal Injury Litigation Attorney,"Lowenthal & Abrams, PC",,"Philadelphia, PA","$100,000 - $200,000 a year",Temporarily remote
+55, Pennsylvania,Philadelphia,23,Legal Occupations,Courtroom/Trial Presentation Specialist/Coordinator,"Marshall Dennehey Warner Coleman & Goggin, P.C.",3.6,"Philadelphia, PA",Unknown,Not Remote
+56, Pennsylvania,Philadelphia,23,Legal Occupations,Attorney,KML Law Group P C,,"Philadelphia, PA",Unknown,Not Remote
+57, Pennsylvania,Philadelphia,23,Legal Occupations,Case Distribution Specialist,Personal Injury Law Firm,,"Philadelphia, PA",Unknown,Temporarily remote
+58, Pennsylvania,Philadelphia,23,Legal Occupations,Attorney,"Del Duca Lewis, LLC",,"Haddonfield, NJ",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,35,Food Serving,Associate,Panera Bread,3.5,"Philadelphia, PA",Unknown,Not Remote
+1, Pennsylvania,Philadelphia,35,Food Serving,Associate,American Bread,,"Philadelphia, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,35,Food Serving,Server,The Boat House,3.3,"Philadelphia, PA",Unknown,Not Remote
+3, Pennsylvania,Philadelphia,35,Food Serving,Food Server,Sunrise Senior Living,3.4,"Haverford, PA",Unknown,Not Remote
+4, Pennsylvania,Philadelphia,35,Food Serving,Cashier/Customer Service,Femis Pizza,,"Collingdale, PA",$9 - $15 an hour,Not Remote
+5, Pennsylvania,Philadelphia,35,Food Serving,All Positions,Hook & Reel Inc.,3.2,"Wyncote, PA",Unknown,Not Remote
+6, Pennsylvania,Philadelphia,35,Food Serving,Restaurant Team Member - Crew (3315 - Lincoln Square Philadelphia),Chipotle,3.6,"Philadelphia, PA",Unknown,Not Remote
+7, Pennsylvania,Philadelphia,35,Food Serving,Food Runner,Green Eggs Cafe,4.3,"Philadelphia, PA",Unknown,Not Remote
+8, Pennsylvania,Philadelphia,35,Food Serving,Crew Member,Dunkin' Donuts | Sigma Hospitality,,"Philadelphia, PA",$8 - $12 an hour,Not Remote
+9, Pennsylvania,Philadelphia,35,Food Serving,Crew Member,Dunkin' Donuts | Sigma Hospitality,,"Philadelphia, PA",$8 - $12 an hour,Not Remote
+10, Pennsylvania,Philadelphia,35,Food Serving,Part Time (Rotating) Food Service Worker- Methodist,"Jefferson - South Philadelphia, PA",3.9,"Philadelphia, PA",Unknown,Not Remote
+11, Pennsylvania,Philadelphia,35,Food Serving,FOOD SERVICE WORKER (PART-TIME) 1,Compass Group,3.3,"Philadelphia, PA",Unknown,Not Remote
+12, Pennsylvania,Philadelphia,35,Food Serving,Food Program Coordinator,City of Philadelphia,4.0,"Philadelphia, PA","$40,589 - $44,289 a year",Not Remote
+13, Pennsylvania,Philadelphia,35,Food Serving,Associate,Panera Bread | American Bread Co,3.5,"Philadelphia, PA",Unknown,Not Remote
+14, Pennsylvania,Philadelphia,35,Food Serving,Associate,Panera Bread | American Bread Co,3.5,"Philadelphia, PA",Unknown,Not Remote
+15, Pennsylvania,Philadelphia,35,Food Serving,FOOD SERVICE WORKER (PART-TIME),Compass Group,3.3,"Philadelphia, PA",Unknown,Not Remote
+16, Pennsylvania,Philadelphia,35,Food Serving,Restaurant Team Member,Shake Shack,3.6,"Philadelphia, PA",$13 an hour,Not Remote
+17, Pennsylvania,Philadelphia,35,Food Serving,Food runner,K-Pot South Philly,,"Philadelphia, PA",$9 - $11 an hour,Not Remote
+18, Pennsylvania,Philadelphia,35,Food Serving,DIRECTOR FOOD NUTRITION SERVICES - PA/NJ Market,Compass Group,3.3,"Philadelphia, PA",Unknown,Not Remote
+19, Pennsylvania,Philadelphia,35,Food Serving,Food Service & Kitchen Inventory Assistant,"Women Against Abuse, Inc",3.9,"Philadelphia, PA",$15 an hour,Not Remote
+20, Pennsylvania,Philadelphia,35,Food Serving,Associate,Panera Bread | American Bread Co,3.5,"Philadelphia, PA",Unknown,Not Remote
+21, Pennsylvania,Philadelphia,35,Food Serving,Busser/Food Runner,Green Eggs Cafe,4.3,"Philadelphia, PA",Unknown,Not Remote
+22, Pennsylvania,Philadelphia,35,Food Serving,Restaurant Team Member - Crew (2050 - PHL Airport),Chipotle,3.6,"Philadelphia, PA",Unknown,Not Remote
+23, Pennsylvania,Philadelphia,35,Food Serving,Servers,PJ Clarke's at the Curtis,,"Philadelphia, PA",$15 - $30 an hour,Not Remote
+24, Pennsylvania,Philadelphia,35,Food Serving,Food Service Worker/Kitchen Helper/Dietary Aide,"Healthcare Services Group, Inc.",2.6,"Philadelphia, PA",Unknown,Not Remote
+25, Pennsylvania,Philadelphia,35,Food Serving,Associate,American Bread,,"Philadelphia, PA",Unknown,Not Remote
+26, Pennsylvania,Philadelphia,35,Food Serving,Cook II,University of Pennsylvania,4.2,"Philadelphia, PA",Unknown,Not Remote
+27, Pennsylvania,Philadelphia,35,Food Serving,Crew Member,Saladworks Andorra,,"Philadelphia, PA",Unknown,Not Remote
+28, Pennsylvania,Philadelphia,35,Food Serving,Food Server,Aksum Restaurant,2.3,"Philadelphia, PA",Unknown,Not Remote
+29, Pennsylvania,Philadelphia,35,Food Serving,Front of House Staff,Bao Nine,,"Philadelphia, PA",Unknown,Not Remote
+30, Pennsylvania,Philadelphia,35,Food Serving,Food Runner/Busser,The Lucky Well,4.0,"Philadelphia, PA",Unknown,Not Remote
+31, Pennsylvania,Philadelphia,35,Food Serving,Cashier,Saladworks Andorra,,"Philadelphia, PA",Unknown,Not Remote
+32, Pennsylvania,Philadelphia,35,Food Serving,Dishwasher,PQ Restaurants Inc.,,"Philadelphia, PA",Unknown,Not Remote
+33, Pennsylvania,Philadelphia,35,Food Serving,Server and Bartender,Jet Wine Bar,,"Philadelphia, PA",Unknown,Not Remote
+34, Pennsylvania,Philadelphia,35,Food Serving,Restaurant Team Member,Shake Shack,3.6,"Philadelphia, PA",$13 an hour,Not Remote
+35, Pennsylvania,Philadelphia,35,Food Serving,Team Member,Burger King | Carrols Corporation,3.4,"Philadelphia, PA",Unknown,Not Remote
+36, Pennsylvania,Philadelphia,35,Food Serving,"Server, Food Runner, Host",K-Pot South Philly,,"Philadelphia, PA",Unknown,Not Remote
+37, Pennsylvania,Philadelphia,35,Food Serving,Server - Full Time,Rivers Casino,3.5,"Philadelphia, PA",Unknown,Not Remote
+38, Pennsylvania,Philadelphia,35,Food Serving,Restaurant Team Member,Shake Shack,3.6,"Philadelphia, PA",$13 an hour,Not Remote
+39, Pennsylvania,Philadelphia,35,Food Serving,Server (Part-time),Rivers Casino,3.5,"Philadelphia, PA",Unknown,Not Remote
+40, Pennsylvania,Philadelphia,35,Food Serving,Play Coordinator (Dog Daycare Attendant) - Philadelphia (Full-Time),Heart + Paw,4.4,"Philadelphia, PA",Unknown,Not Remote
+41, Pennsylvania,Philadelphia,35,Food Serving,Server,Fork,4.1,"Philadelphia, PA",Unknown,Not Remote
+42, Pennsylvania,Philadelphia,35,Food Serving,Banquet Server - Philadelphia,Live! Casino and Hotel Philadelphia,4.3,"Philadelphia, PA",Unknown,Not Remote
+43, Pennsylvania,Philadelphia,35,Food Serving,Food Service Worker,Sodexo,3.7,"Yeadon, PA",Unknown,Not Remote
+44, Pennsylvania,Philadelphia,35,Food Serving,Overnight Team Member - 18yrs or older - up to $10.50 (min. 3 nights),"McDonald's (Earle Enterprises, LP)",,"Philadelphia, PA",Unknown,Not Remote
+45, Pennsylvania,Philadelphia,35,Food Serving,Food Server,Thang Long Vietnamese Restaurant,,"Philadelphia, PA",$9 - $25 an hour,Not Remote
+46, Pennsylvania,Philadelphia,35,Food Serving,Dietary Aide - Part-Time,The Watermark at Logan Square,2.6,"Philadelphia, PA",Unknown,Not Remote
+47, Pennsylvania,Philadelphia,35,Food Serving,Restaurant Server,Felly bistro on pass,,"Philadelphia, PA",Unknown,Not Remote
+48, Pennsylvania,Philadelphia,35,Food Serving,Team Member,Cinnabon,3.6,"Philadelphia, PA",$7.50 - $10.00 an hour,Not Remote
+49, Pennsylvania,Philadelphia,35,Food Serving,Associate,Panera Bread | American Bread Co,3.5,"Wynnewood, PA",Unknown,Not Remote
+50, Pennsylvania,Philadelphia,35,Food Serving,Server,The Boat House,3.3,"Philadelphia, PA",Unknown,Not Remote
+51, Pennsylvania,Philadelphia,35,Food Serving,Crew Member,Dunkin Donuts | RGI Management,3.4,"Lansdowne, PA",Unknown,Not Remote
+52, Pennsylvania,Philadelphia,35,Food Serving,Crew Member,Dunkin Donuts | RGI Management,3.4,"Darby, PA",Unknown,Not Remote
+53, Pennsylvania,Philadelphia,35,Food Serving,Crew Member,Dunkin Donuts | RGI Management,3.4,"Darby, PA",Unknown,Not Remote
+54, Pennsylvania,Philadelphia,35,Food Serving,Night Shift Team Member,Burger King | Carrols Corporation,3.4,"Philadelphia, PA",Unknown,Not Remote
+55, Pennsylvania,Philadelphia,35,Food Serving,General Manager (Multi- Unit experience),Veterans Canteen Service,3.2,"Philadelphia, PA",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician - $40-45k with benefits!,OCF Realty,3.0,"Philadelphia, PA","$40,000 - $45,000 a year",Not Remote
+1, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Building Engineer,"U.S. Facilities, Inc",3.6,"Philadelphia, PA",$35.85 an hour,Not Remote
+2, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Apartment Maintenance Manager,Company Name Withheld,,"Ardmore, PA",Unknown,Not Remote
+3, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Plumber - First Class,SEPTA,3.8,"Philadelphia, PA",Unknown,Not Remote
+4, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Team Member - Part Time Job,"BJ's Wholesale Club, Inc.",3.3,"Springfield, PA",Unknown,Not Remote
+5, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician,Madison Parke LLC,4.0,"Philadelphia, PA",$23 - $26 an hour,Not Remote
+6, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Crew Leader,SCOTT'S LAWN CARE & Snow Removal,,"Philadelphia, PA",From $17 an hour,Not Remote
+7, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Building Maintenance Tech,Children's Hospital of Philadelphia,4.0,"Philadelphia, PA",Unknown,Not Remote
+8, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Assistant Director Facilities Maintenance,Crothall Healthcare,3.2,"Philadelphia, PA","$72,000 - $85,000 a year",Not Remote
+9, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,General Maintenance Worker,Sodexo,3.7,"Philadelphia, PA",Unknown,Not Remote
+10, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Custodian/Grounds keeper,Northport Distribution LLC,,"Philadelphia, PA",Unknown,Not Remote
+11, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Building Engineer,"U.S. Facilities, Inc",3.6,"Philadelphia, PA",$35.85 an hour,Not Remote
+12, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Engineer Full Time-105010,Extended Stay America,3.1,"Philadelphia, PA",Unknown,Not Remote
+13, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Copy - Janitor,McDonald's,3.5,"Philadelphia, PA",Up to $13 an hour,Not Remote
+14, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Building Engineer -022,"U.S. Facilities, Inc",3.6,"Philadelphia, PA",Unknown,Not Remote
+15, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Painter (Facilities),Children's Hospital of Philadelphia,4.0,"Philadelphia, PA",Unknown,Not Remote
+16, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance,"Women of Excellence, Inc.",,"Philadelphia, PA","$29,640 a year",Not Remote
+17, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Supervisor,Gaudenzia,3.2,"Philadelphia, PA",Unknown,Not Remote
+18, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Building Supervisor,Penn Wynne Presbyterian Church and School,,"Wynnewood, PA",From $21 an hour,Not Remote
+19, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Apartment Building Superintendent,Overbrook Tower,,"Philadelphia, PA",$17 - $23 an hour,Not Remote
+20, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Porter,The View At Montgomery,4.0,"Philadelphia, PA",$10.50 - $12.00 an hour,Not Remote
+21, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Associate,Manor College,3.4,"Jenkintown, PA",From $18 an hour,Not Remote
+22, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician,Pennrose,2.8,"Philadelphia, PA",From $15.75 an hour,Not Remote
+23, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Supervisor,University City Housing Company,4.0,"Philadelphia, PA",Unknown,Not Remote
+24, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Director of Facilities,Brightside Academy,2.8,"Philadelphia, PA",Unknown,Not Remote
+25, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician,Madison Parke LLC,4.0,"Philadelphia, PA",$23 - $26 an hour,Not Remote
+26, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,"Patient Service Specialist - Philadelphia, PA",NovaCare Rehabilitation,3.3,"Philadelphia, PA",Unknown,Not Remote
+27, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,"Patient Service Specialist - Philadelphia, PA",NovaCare Rehabilitation,3.3,"Philadelphia, PA",Unknown,Not Remote
+28, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician,Inglis Foundation,3.4,"Philadelphia, PA",$21.47 an hour,Not Remote
+29, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Supvr Facilities Operations,Exelon Corporation,3.9,"Philadelphia, PA",Unknown,Not Remote
+30, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Housekeeping/Maintenance - Lansdowne YMCA,Young Mens Christian Association Of Delaware Count...,,"Lansdowne, PA",$10 - $16 an hour,Not Remote
+31, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Team Member - Part Time Job,"BJ's Wholesale Club, Inc.",3.3,"Springfield, PA",Unknown,Not Remote
+32, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Porter/Groundskeeper,GoldOller Real Estate Investments,3.9,"Philadelphia, PA",Up to $13 an hour ++,Not Remote
+33, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Facilities Maintenance Techn,Hertz,3.3,"Philadelphia, PA",Unknown,Not Remote
+34, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Porter,PMA Fairmount Staffing LLC,,"Philadelphia, PA",$10.50 - $14.50 an hour,Not Remote
+35, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Shop Maintenance Support Technician,"A. Duie Pyle, INC.",3.0,"Philadelphia, PA",Unknown,Not Remote
+36, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Part-time Maintenance Worker,Archdiocese of Philadelphia,3.7,"Philadelphia, PA",Unknown,Not Remote
+37, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Housekeeper/Building Service Representative,The Michaels Organization,3.4,"Camden, NJ",Unknown,Not Remote
+38, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Manager,Enlivant,2.3,"Wyncote, PA",Unknown,Not Remote
+39, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Apartment Maintenance Supervisor,Occupancy Heroes Incorporated,3.4,"Philadelphia, PA",Unknown,Not Remote
+40, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Plumber - First Class,SEPTA,3.8,"Philadelphia, PA",Unknown,Not Remote
+41, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician,Belmont Charter Network Careers,,"Philadelphia, PA",Unknown,Not Remote
+42, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,HVAC/ Building Maintenance Mechanic - 029,"U.S. Facilities, Inc",3.6,"Camden, NJ",Unknown,Not Remote
+43, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Assistant (Full Time),Aventura @ Prospect Park,,"Prospect Park, PA",Unknown,Not Remote
+44, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Temporary Assistant of Maintenance,DEER MEADOWS RETIREMENT COMMUNITY,3.7,"Philadelphia, PA",Unknown,Not Remote
+45, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Museum Facilities Specialist (36 hours/week),The Barnes Foundation,3.6,"Philadelphia, PA",Unknown,Not Remote
+46, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician,Project HOME,3.6,"Philadelphia, PA",Unknown,Not Remote
+47, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,"Patient Service Specialist - Bala Cynwyd, PA",NovaCare Rehabilitation,3.3,"Bala-Cynwyd, PA",Unknown,Not Remote
+48, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Housekeeping/Maintenance - Springfield YMCA,Young Mens Christian Association Of Delaware Count...,,"Springfield, PA",$10 - $16 an hour,Not Remote
+49, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician - Manayunk Garden Aapartments,The Michaels Organization,3.4,"Philadelphia, PA",Unknown,Not Remote
+50, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Floor Care Worker,Wesley Enhanced Living,3.2,"Philadelphia, PA",Unknown,Not Remote
+51, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Worker,All-State Career School,3.6,"Essington, PA",$10 - $12 an hour,Not Remote
+52, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Customer Service Representative,Public Storage,2.9,"Upper Darby, PA",Unknown,Not Remote
+53, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Principal – Transit - Buildings,Stantec,3.7,"Philadelphia, PA",Unknown,Not Remote
+54, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Customer Service Representative,Public Storage,2.9,"Darby, PA",Unknown,Not Remote
+55, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Maintenance Technician,HumanGood,3.6,"Philadelphia, PA",Unknown,Not Remote
+56, Pennsylvania,Philadelphia,37,Building and Grounds  Maintenance,Customer Service Representative,Public Storage,2.9,"Clifton Heights, PA",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,37,Supervisor Building and Grounds Maintenance Workers,Maintenance Supervisor,Gaudenzia,3.2,"Philadelphia, PA",Unknown,Not Remote
+1, Pennsylvania,Philadelphia,37,Supervisor Building and Grounds Maintenance Workers,SELF + Cooperative Property Manager,Urban Affairs Coalition,,"Philadelphia, PA",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Technician,Greenix PC,4.4,"Philadelphia, PA",$15 - $17 an hour,Not Remote
+1, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Service Professional,Greenix PC,4.4,"Philadelphia, PA",$15 - $17 an hour,Not Remote
+2, Pennsylvania,Philadelphia,37,Pest Control,Skilled Commercial Maintenance Technician (Handyman),Maximum Handyman,,"Philadelphia, PA",$15 - $20 an hour,Not Remote
+3, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Technician,AB-Con Termite & Pest Control,,"Cherry Hill, NJ","$28,850 - $81,644 a year",Not Remote
+4, Pennsylvania,Philadelphia,37,Pest Control,"Safety Manager ""w/ PA. Pest License""",Greenix PC,4.4,"Philadelphia, PA","$60,000 - $75,000 a year",Not Remote
+5, Pennsylvania,Philadelphia,37,Pest Control,Maintenance Technician,Rittenhouse Portfolio Associates,,"Philadelphia, PA",$18 - $21 an hour,Not Remote
+6, Pennsylvania,Philadelphia,37,Pest Control,Administrative Assistant - Reception,New Horizons Housing,,"Philadelphia, PA","$34,000 - $36,000 a year",Not Remote
+7, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Technician,Greenix PC,4.4,"Philadelphia, PA",$15 - $17 an hour,Not Remote
+8, Pennsylvania,Philadelphia,37,Pest Control,Commercial Pest Control Technician,Terminix,3.0,"Philadelphia, PA",From $17 an hour,Not Remote
+9, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Technician,Target Pest Control,,"Philadelphia, PA",From $20 an hour,Not Remote
+10, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Manager,Natura Pest Control,3.7,"Philadelphia, PA",$18 - $21 an hour,Not Remote
+11, Pennsylvania,Philadelphia,37,Pest Control,"Safety Manager ""w/ PA. Pest License""",Greenix PC,4.4,"Philadelphia, PA","$60,000 - $75,000 a year",Not Remote
+12, Pennsylvania,Philadelphia,37,Pest Control,Administrative Assistant - Reception,New Horizons Housing,,"Philadelphia, PA","$34,000 - $36,000 a year",Not Remote
+13, Pennsylvania,Philadelphia,37,Pest Control,House Manager,Gaudenzia,3.2,"Philadelphia, PA",Unknown,Not Remote
+14, Pennsylvania,Philadelphia,37,Pest Control,Dietary Aide,Care Pavilion Nursing and Rehab,,"Philadelphia, PA",Unknown,Not Remote
+15, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Technician,All State Pest Management,,"Darby, PA",From $18 an hour,Not Remote
+16, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Service Professional,Greenix PC,4.4,"Philadelphia, PA",$15 - $17 an hour,Not Remote
+17, Pennsylvania,Philadelphia,37,Pest Control,"Manager, Corporate Social Responsibility",FMC Corporation,4.0,"Philadelphia, PA",Unknown,Not Remote
+18, Pennsylvania,Philadelphia,37,Pest Control,Service Center Manager,Rentokil Initial,3.8,"Philadelphia, PA",Unknown,Not Remote
+19, Pennsylvania,Philadelphia,37,Pest Control,Pest Control Technician,AB-Con Termite & Pest Control,,"Cherry Hill, NJ","$28,850 - $81,644 a year",Not Remote
+20, Pennsylvania,Philadelphia,37,Pest Control,Reseach Assistant,PhylloZyme,,"Philadelphia, PA","$40,000 - $45,000 a year",Not Remote
+21, Pennsylvania,Philadelphia,37,Pest Control,Sourcing Manager Operations and Capex North America,FMC Corporation,4.0,"Philadelphia, PA",Unknown,Not Remote
+22, Pennsylvania,Philadelphia,37,Pest Control,Machine Cleaner,Nature Soy,3.8,"Folcroft, PA",$14 an hour,Not Remote
+23, Pennsylvania,Philadelphia,37,Pest Control,Service Center Manager,Rentokil North America,3.0,"Philadelphia, PA",Unknown,Not Remote
+24, Pennsylvania,Philadelphia,37,Pest Control,Experienced Pest Control Technician,Viking Pest Control,,"Audubon, NJ",Unknown,Not Remote
+25, Pennsylvania,Philadelphia,37,Pest Control,Bird Control Technician,Freedom Specialty Services,,"Westville, NJ",Unknown,Not Remote
+26, Pennsylvania,Philadelphia,37,Pest Control,Sales Representative,Moxie Pest Control,3.5,"Philadelphia, PA","$32,499 - $129,959 a year",Remote
+27, Pennsylvania,Philadelphia,37,Pest Control,"Safety Manager ""w/ PA. Pest License""",Greenix PC,4.4,"Cherry Hill, NJ","$60,000 - $75,000 a year",Not Remote
+28, Pennsylvania,Philadelphia,37,Pest Control,Quality Assurance Inspector,Catalent Pharma Solutions,3.1,"Philadelphia, PA",Unknown,Not Remote
+29, Pennsylvania,Philadelphia,37,Pest Control,Maintenance Technician,Core Realty,2.9,"Philadelphia, PA",Unknown,Not Remote
+30, Pennsylvania,Philadelphia,37,Pest Control,Field Sales Supervisor,Slomin's Inc.,3.0,"Philadelphia, PA",$18 - $20 an hour,Not Remote
+31, Pennsylvania,Philadelphia,37,Pest Control,Stewarding Supervisor,UnionLeague,,"Philadelphia, PA",Unknown,Not Remote
+32, Pennsylvania,Philadelphia,37,Pest Control,Maintenance Technician,Rittenhouse Portfolio Associates,,"Philadelphia, PA",$18 - $21 an hour,Not Remote
+33, Pennsylvania,Philadelphia,37,Pest Control,Financial Auditor,FMC Corporation,4.0,"Philadelphia, PA",Unknown,Not Remote
+34, Pennsylvania,Philadelphia,37,Pest Control,Maintenance Technician,Ferraro Properties,,"Philadelphia, PA",$10 - $20 an hour,Not Remote
+35, Pennsylvania,Philadelphia,37,Pest Control,GSS Financial Business Analyst,FMC Corporation,4.0,"Philadelphia, PA",Unknown,Not Remote
+36, Pennsylvania,Philadelphia,37,Pest Control,Commercial Sales Representative - Hunters Needed,Orkin LLC,3.2,"Sharon Hill, PA",Unknown,Not Remote
+37, Pennsylvania,Philadelphia,37,Pest Control,House Manager,Gaudenzia,3.2,"Philadelphia, PA",Unknown,Not Remote
+38, Pennsylvania,Philadelphia,37,Pest Control,House Manager,Gaudenzia,3.2,"Philadelphia, PA",Unknown,Not Remote
+39, Pennsylvania,Philadelphia,37,Pest Control,Commercial Sales Professional,Terminix,3.0,"Philadelphia, PA","$40,000 - $60,000 a year",Not Remote
+40, Pennsylvania,Philadelphia,37,Pest Control,Commercial Sales Representative - Hunters Needed,Orkin LLC,3.2,"Sharon Hill, PA",Unknown,Not Remote
+41, Pennsylvania,Philadelphia,37,Pest Control,Branch Manager (Operations & Sales Leader),Orkin LLC,3.2,"Sharon Hill, PA",Unknown,Not Remote
+42, Pennsylvania,Philadelphia,37,Pest Control,Field Technician,Rentokil Initial,3.8,"Havertown, PA",Unknown,Not Remote
+43, Pennsylvania,Philadelphia,37,Pest Control,Commercial Sales Representative - Hunters Needed,Orkin LLC,3.2,"Upper Darby, PA",Unknown,Not Remote
+44, Pennsylvania,Philadelphia,37,Pest Control,Field Technician,Rentokil North America,3.0,"Havertown, PA",Unknown,Not Remote
+45, Pennsylvania,Philadelphia,37,Pest Control,Field Technician,Mosquito Joe of Gloucester and Camden,,"Bellmawr, NJ",$14 - $17 an hour,Not Remote
+46, Pennsylvania,Philadelphia,37,Pest Control,Branch Manager (Operations & Sales Leader),Orkin LLC,3.2,"Sharon Hill, PA",Unknown,Not Remote
+47, Pennsylvania,Philadelphia,37,Pest Control,Branch Manager (Operations & Sales Leader),Orkin LLC,3.2,"Sharon Hill, PA",Unknown,Not Remote
+48, Pennsylvania,Philadelphia,37,Pest Control,Service Technician,Western Pest Services,3.3,"Maple Shade, NJ",Unknown,Not Remote
+49, Pennsylvania,Philadelphia,37,Pest Control,Branch Manager (Operations & Sales Leader),Orkin LLC,3.2,"Upper Darby, PA",Unknown,Not Remote
+50, Pennsylvania,Philadelphia,37,Pest Control,Branch Manager (Operations & Sales Leader),Orkin LLC,3.2,"Upper Darby, PA",Unknown,Not Remote
+51, Pennsylvania,Philadelphia,37,Pest Control,Skilled Commercial Maintenance Technician (Handyman),Maximum Handyman,,"Philadelphia, PA",$15 - $20 an hour,Not Remote
+52, Pennsylvania,Philadelphia,37,Pest Control,Commercial Sales and Account Manager,Viking Pest Control,,"Cherry Hill, NJ",Unknown,Remote
+53, Pennsylvania,Philadelphia,37,Pest Control,Licensed Practical Nurse FT Nights,Advanced Recovery Systems,3.0,"Cherry Hill, NJ",Unknown,Not Remote
+54, Pennsylvania,Philadelphia,37,Pest Control,Experienced Lawn Care Technician Needed ($14+/ Monthly & Yearly Bonuses),Weed Man Lawn Care Company,,"Haddonfield, NJ",$13.50 - $15.00 an hour,Not Remote
+55, Pennsylvania,Philadelphia,37,Pest Control,Licensed Practical Nurse FT Days,Advanced Recovery Systems,3.0,"Cherry Hill, NJ",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,37,Tree Trimmers and Pruners,Experienced Trimmer / Climber,"Asplundh Tree Expert, LLC- 021",3.4,"Fort Washington, PA",Unknown,Not Remote
+1, Pennsylvania,Philadelphia,37,Tree Trimmers and Pruners,Tree Trimmer/General Labor,Doyle and McDonnell Inc,,"Berwyn, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,37,Tree Trimmers and Pruners,Experienced Foreperson,"Asplundh Tree Expert, LLC- 021",3.4,"Fort Washington, PA",Unknown,Not Remote
+3, Pennsylvania,Philadelphia,37,Tree Trimmers and Pruners,Landscape Laborer,Ramsey’s Lawn and Landscape Service,,"Fairless Hills, PA",$15 - $20 an hour,Not Remote
+0, Pennsylvania,Philadelphia,39,Tour Guides,Ghost Tour Guide & Storyteller (Philly),US Ghost Adventures,,"Philadelphia, PA",From $25 an hour,Not Remote
+1, Pennsylvania,Philadelphia,39,Tour Guides,"Betsy Ross House Guide (Part-time, Seasonal Position)",Historic Philadelphia,4.9,"Philadelphia, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,39,Tour Guides,Part time Segway tour guide,Philly By Segway,,"Philadelphia, PA",$13.99 - $14.00 an hour,Not Remote
+3, Pennsylvania,Philadelphia,39,Tour Guides,Kayak Excursion Guide,Independence Seaport Museum,4.0,"Philadelphia, PA",$14 an hour,Not Remote
+0, Pennsylvania,Philadelphia,39,Hairdressers,Hairdresser,St. Francis Center for Rehabilitation & Healthcare,2.1,"Darby, PA",Unknown,Not Remote
+1, Pennsylvania,Philadelphia,39,Hairdressers,Cosmetologist / Hairstylist / Hairdresser / Beautician / Salon,PS Lifestyle,3.0,"Bryn Mawr, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,39,Hairdressers,Cosmetologist / Hairstylist / Hairdresser / Beautician / Salon,PS Lifestyle,3.0,"Philadelphia, PA",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,45,Logging Equipment Operators,25S Satellite Communication Systems Operator-Maintainer,Army National Guard,4.4,"Philadelphia, PA",Unknown,Not Remote
+1, Pennsylvania,Philadelphia,45,Logging Equipment Operators,25S Satellite Communication Systems Operator-Maintainer,Army National Guard,4.4,"Philadelphia, PA",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,45,Logging Workers,Class A CDL - Over-the-Road (OTR) Tanker Truck Driver,Schneider,3.4,"Philadelphia, PA",Up to $0.54 per mile ++,Not Remote
+1, Pennsylvania,Philadelphia,45,Logging Workers,Front Desk Agent,Fairfield Philadelphia,3.1,"Philadelphia, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,45,Logging Workers,Front Desk Agent,Warwick Hotel Philadelphia,3.1,"Philadelphia, PA",Unknown,Not Remote
+3, Pennsylvania,Philadelphia,45,Logging Workers,Front Desk Agent,Warwick Hotel Philadelphia,3.1,"Philadelphia, PA",Unknown,Not Remote
+4, Pennsylvania,Philadelphia,45,Logging Workers,Dock to Driver Program,New Penn,3.0,"Cinnaminson, NJ",Unknown,Not Remote
+5, Pennsylvania,Philadelphia,45,Logging Workers,Front Desk Agent,Fairfield Deptford,3.1,"Township of Deptford, NJ",Unknown,Not Remote
+6, Pennsylvania,Philadelphia,45,Logging Workers,Front Desk Agent,Residence Deptford,3.1,"Township of Deptford, NJ",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,47,Drywall Installer,Metal Framing Superintendent,Digital Building Components,,United States,"$65,000 - $130,000 a year",Not Remote
+0, Pennsylvania,Philadelphia,47,Construction and Maintenance,Maintenance Mechanic,EMR Southern Recycling,4.1,"Camden, NJ",$14 an hour,Not Remote
+1, Pennsylvania,Philadelphia,47,Construction and Maintenance,Mine Maintenance Planning Superintendent - Texas,North American Construction Group Inc.,,United States,Unknown,Not Remote
+2, Pennsylvania,Philadelphia,47,Construction and Maintenance,Swimming Pool Service and Renovation Technicians,Budd's Pools & Spas,,"Audubon, NJ",$13 - $25 an hour,Not Remote
+3, Pennsylvania,Philadelphia,47,Construction and Maintenance,HVAC Service Manager,Sulpizio Inc.,,"Philadelphia, PA","$85,000 - $95,000 a year",Not Remote
+4, Pennsylvania,Philadelphia,47,Construction and Maintenance,Maintenance Technician,Pennrose,2.8,"Philadelphia, PA",From $15.75 an hour,Not Remote
+5, Pennsylvania,Philadelphia,47,Construction and Maintenance,Maintenance Superintendent,Pennrose,2.8,"Philadelphia, PA",From $22.50 an hour,Not Remote
+6, Pennsylvania,Philadelphia,47,Construction and Maintenance,Painter (Facilities),Children's Hospital of Philadelphia,4.0,"Philadelphia, PA",Unknown,Not Remote
+7, Pennsylvania,Philadelphia,47,Construction and Maintenance,Director of Facilities,Brightside Academy,2.8,"Philadelphia, PA",Unknown,Not Remote
+8, Pennsylvania,Philadelphia,47,Construction and Maintenance,Carpenter - 022,"U.S. Facilities, Inc",3.6,"Philadelphia, PA",Unknown,Not Remote
+9, Pennsylvania,Philadelphia,47,Construction and Maintenance,Carpenter - First Class,SEPTA,3.8,"Philadelphia, PA",Unknown,Not Remote
+10, Pennsylvania,Philadelphia,47,Construction and Maintenance,Plumbing & HVAC Apprentice / Helper,"McLoughlin Plumbing, Heating & Cooling",,"Springfield, PA",$14 - $17 an hour,Not Remote
+11, Pennsylvania,Philadelphia,47,Construction and Maintenance,Industrial Maintenance Electrician (FT),Manufacturing Alliance of Philadelphia,,"Philadelphia, PA",$30 - $33 an hour,Not Remote
+12, Pennsylvania,Philadelphia,47,Construction and Maintenance,Carpenter,Fitler Properties,,"Philadelphia, PA",$20 - $35 an hour,Not Remote
+13, Pennsylvania,Philadelphia,47,Construction and Maintenance,Welder - Maintenance,"Dietz & Watson, Inc.",3.3,"Philadelphia, PA",Unknown,Not Remote
+14, Pennsylvania,Philadelphia,47,Construction and Maintenance,Carpenter/ Locksmith,"U.S. Facilities, Inc",3.6,"Philadelphia, PA",$35.85 an hour,Not Remote
+15, Pennsylvania,Philadelphia,47,Construction and Maintenance,Electric Meter Service Technician,"Grid One Solutions, LLC - 196",,"Philadelphia, PA",Unknown,Not Remote
+16, Pennsylvania,Philadelphia,47,Construction and Maintenance,Maintenance Superintendent,Pennrose,2.8,"Camden, NJ",From $22 an hour,Not Remote
+17, Pennsylvania,Philadelphia,47,Construction and Maintenance,Maintenance Technician,Pennrose,2.8,"Camden, NJ",From $15.75 an hour,Not Remote
+18, Pennsylvania,Philadelphia,47,Construction and Maintenance,Maintenance Supervisor,Ingerman,3.3,"Philadelphia, PA",Unknown,Not Remote
+19, Pennsylvania,Philadelphia,47,Construction and Maintenance,HVAC Service Manager,Sulpizio Inc.,,"Philadelphia, PA","$85,000 - $95,000 a year",Not Remote
+20, Pennsylvania,Philadelphia,47,Construction and Maintenance,Maintenance Mechanic,EMR Southern Recycling,4.1,"Camden, NJ",$14 an hour,Not Remote
+21, Pennsylvania,Philadelphia,47,Construction and Maintenance,Mechanic Electrician II - Tech,"LiDestri Foods, Inc.",3.4,"Pennsauken, NJ",Unknown,Not Remote
+22, Pennsylvania,Philadelphia,47,Construction and Maintenance,Master Carpenter - General Contractor,Orbit Energy & Power,,"Cherry Hill, NJ",$20 - $30 an hour,Not Remote
+23, Pennsylvania,Philadelphia,47,Construction and Maintenance,Master Carpenter,Orbit Energy & Power,3.1,"Cherry Hill, NJ",Unknown,Not Remote
+24, Pennsylvania,Philadelphia,47,Construction and Maintenance,Plumbing Service Tech / Residential Plumber,"McLoughlin Plumbing, Heating & Cooling",,"Springfield, PA",$26 - $35 an hour,Not Remote
+25, Pennsylvania,Philadelphia,47,Construction and Maintenance,Master Carpenter,Orbit Energy & Power,3.1,"Cherry Hill, NJ",Unknown,Not Remote
+26, Pennsylvania,Philadelphia,47,Construction and Maintenance,Carpenter - First Class,SEPTA,3.8,"Philadelphia, PA",Unknown,Not Remote
+27, Pennsylvania,Philadelphia,47,Construction and Maintenance,Carpenter Helper,keystone floor works,,"Philadelphia, PA",$12.50 - $17.50 an hour,Not Remote
+0, Pennsylvania,Philadelphia,49,Maintenance and Repair,Mechanic Virtual Hiring Event,Transaxle,3.3,"Philadelphia, PA",Unknown,Not Remote
+1, Pennsylvania,Philadelphia,49,Maintenance and Repair,Mechanic,MHS Lift,2.8,"Philadelphia, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,49,Maintenance and Repair,HVAC Technician,Allure window treatments,,"Philadelphia, PA",$20 - $30 an hour,Not Remote
+3, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Technician,Rittenhouse Portfolio Associates,,"Philadelphia, PA",$18 - $21 an hour,Not Remote
+4, Pennsylvania,Philadelphia,49,Maintenance and Repair,Industrial Maintenance Mechanic,Manufacturing Alliance of Philadelphia,,"Philadelphia, PA",$30 - $33 an hour,Not Remote
+5, Pennsylvania,Philadelphia,49,Maintenance and Repair,Automotive Mechanic,Schafers Auto Center,,"Philadelphia, PA",$18 - $40 an hour,Not Remote
+6, Pennsylvania,Philadelphia,49,Maintenance and Repair,"Food Industry - Career Opportunities - Maint., Mfg., Production, and more!","Cooper Assocs, Inc",,"Philadelphia, PA","$50,000 - $150,000 a year",Not Remote
+7, Pennsylvania,Philadelphia,49,Maintenance and Repair,Motor Induction Equip Repair Maintainer First Class,SEPTA,3.8,"Philadelphia, PA",$30.04 an hour,Not Remote
+8, Pennsylvania,Philadelphia,49,Maintenance and Repair,HVAC Service Technician,AJH Management,3.4,"Philadelphia, PA",$16 - $30 an hour,Not Remote
+9, Pennsylvania,Philadelphia,49,Maintenance and Repair,Parking Attendant/Concierge (Monday thru Friday 11A to 7:30PM. No weekends or holidays),Children's Hospital of Philadelphia,4.0,"Philadelphia, PA",Unknown,Not Remote
+10, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance/Cleaner,Sweat Fitness,3.5,"Philadelphia, PA",$11 - $14 an hour,Not Remote
+11, Pennsylvania,Philadelphia,49,Maintenance and Repair,Part and Full Time Maintenance and/or Custodians,Independence Mission Schools,2.7,"Philadelphia, PA",Unknown,Not Remote
+12, Pennsylvania,Philadelphia,49,Maintenance and Repair,Building Maintenance Tech,Children's Hospital of Philadelphia,4.0,"Philadelphia, PA",Unknown,Not Remote
+13, Pennsylvania,Philadelphia,49,Maintenance and Repair,Industrial Maintenance Mechanic,Manufacturing Alliance of Philadelphia,,"Philadelphia, PA",$30 - $33 an hour,Not Remote
+14, Pennsylvania,Philadelphia,49,Maintenance and Repair,Building Service Attendant & Maintenance Technician,Pearl Properties,4.4,"Philadelphia, PA",From $18 an hour,Not Remote
+15, Pennsylvania,Philadelphia,49,Maintenance and Repair,Apartment Maintenance,Pinelake management,,"Philadelphia, PA",$19 - $20 an hour,Not Remote
+16, Pennsylvania,Philadelphia,49,Maintenance and Repair,Director of Maintenance,Care Pavilion Nursing and Rehabilitation Center,2.6,"Philadelphia, PA",Unknown,Not Remote
+17, Pennsylvania,Philadelphia,49,Maintenance and Repair,Director of Maintenance,Care Pavilion Nursing and Rehab,,"Philadelphia, PA",Unknown,Not Remote
+18, Pennsylvania,Philadelphia,49,Maintenance and Repair,Motor Induction Equip Repair Maintainer First Class,SEPTA,3.8,"Philadelphia, PA",$30.04 an hour,Not Remote
+19, Pennsylvania,Philadelphia,49,Maintenance and Repair,General Maintenance Worker,Sodexo,3.7,"Philadelphia, PA",Unknown,Not Remote
+20, Pennsylvania,Philadelphia,49,Maintenance and Repair,Apartment Cleaner,AJH Management,3.4,"Philadelphia, PA",Unknown,Not Remote
+21, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Engineer Full Time-105010,Extended Stay America,3.1,"Philadelphia, PA",Unknown,Not Remote
+22, Pennsylvania,Philadelphia,49,Maintenance and Repair,Building Maintenance Supervisor,Madison Parke LLC,4.0,"Philadelphia, PA",$30 an hour,Not Remote
+23, Pennsylvania,Philadelphia,49,Maintenance and Repair,Restoration cleanings,Respro,3.0,"Philadelphia, PA",$25 - $100 an hour,Not Remote
+24, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Associate,"NEST Center City, Children's Indoor Playspace & En...",,"Philadelphia, PA",$13 - $15 an hour,Not Remote
+25, Pennsylvania,Philadelphia,49,Maintenance and Repair,ENGINEER,ABM Industries,3.2,"Philadelphia, PA",$39.21 an hour,Not Remote
+26, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance/Assembly Technician,Fluitron Inc.,2.0,"Philadelphia, PA",$18 - $28 an hour,Not Remote
+27, Pennsylvania,Philadelphia,49,Maintenance and Repair,ADMINISTRATIVE/TECHNICAL SPECIALIST,US Department of the Navy,4.3,"Philadelphia, PA","$63,963 - $109,505 a year",Not Remote
+28, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Mechanic,"Frontida BioPharm, Inc.",4.3,"Philadelphia, PA",Unknown,Not Remote
+29, Pennsylvania,Philadelphia,49,Maintenance and Repair,Assistant Director of Exhibit Operations,The Franklin Institute,,"Philadelphia, PA","From $70,000 a year",Temporarily remote
+30, Pennsylvania,Philadelphia,49,Maintenance and Repair,Machine Repair Maintenance Technician,Jade Precision Medical Components,1.9,"Philadelphia, PA",Unknown,Not Remote
+31, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Supervisor,Gaudenzia,3.2,"Philadelphia, PA",Unknown,Not Remote
+32, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Technician,Pennrose,2.8,"Philadelphia, PA",From $15.75 an hour,Not Remote
+33, Pennsylvania,Philadelphia,49,Maintenance and Repair,Shift Lead,WALGREENS,3.6,"Philadelphia, PA",Unknown,Not Remote
+34, Pennsylvania,Philadelphia,49,Maintenance and Repair,Entry Level Automotive Technician,Goodyear,3.7,"Philadelphia, PA",Unknown,Not Remote
+35, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance,"Women of Excellence, Inc.",,"Philadelphia, PA","$29,640 a year",Not Remote
+36, Pennsylvania,Philadelphia,49,Maintenance and Repair,Field Service Engineer-Medical Imaging Equipment-NUC MED- GE-Siemens,626 Holdings LLC,5.0,"Philadelphia, PA","$103,000 - $140,000 a year",Remote
+37, Pennsylvania,Philadelphia,49,Maintenance and Repair,"Training Specialist (Aircraft Manufacturing Background) - Ridley Park, PA",GP Strategies Corporation,3.2,"Philadelphia, PA",Unknown,Not Remote
+38, Pennsylvania,Philadelphia,49,Maintenance and Repair,AAA Automotive Service Advisor,AAA Club Alliance,3.3,"Philadelphia, PA","$35,000 - $50,000 a year",Not Remote
+39, Pennsylvania,Philadelphia,49,Maintenance and Repair,Bldg Systems Ventilation Spec II,Children's Hospital of Philadelphia,4.0,"Philadelphia, PA",Unknown,Not Remote
+40, Pennsylvania,Philadelphia,49,Maintenance and Repair,Women of Change Support Staff,Project HOME,3.6,"Philadelphia, PA",Unknown,Not Remote
+41, Pennsylvania,Philadelphia,49,Maintenance and Repair,House Manager,Gaudenzia,3.2,"Philadelphia, PA",Unknown,Not Remote
+42, Pennsylvania,Philadelphia,49,Maintenance and Repair,Porter,The View At Montgomery,4.0,"Philadelphia, PA",$10.50 - $12.00 an hour,Not Remote
+43, Pennsylvania,Philadelphia,49,Maintenance and Repair,Sheet Metal Mechanic,US Department of the Treasury,4.0,"Philadelphia, PA",$28.13 - $32.87 an hour,Not Remote
+44, Pennsylvania,Philadelphia,49,Maintenance and Repair,Painter - First Class,SEPTA,3.8,"Philadelphia, PA",Unknown,Not Remote
+45, Pennsylvania,Philadelphia,49,Maintenance and Repair,Folding Carton Gluer Operator,Complete Finishings Folding Cartons,,"Philadelphia, PA",$18 - $28 an hour,Not Remote
+46, Pennsylvania,Philadelphia,49,Maintenance and Repair,Janitor,Building Bok,,"Philadelphia, PA",$11 - $13 an hour,Not Remote
+47, Pennsylvania,Philadelphia,49,Maintenance and Repair,Community Assistant,Red Stone Properties,,"Philadelphia, PA",$14 - $16 an hour,Not Remote
+48, Pennsylvania,Philadelphia,49,Maintenance and Repair,Multi,University of Pennsylvania Health System,4.0,"Philadelphia, PA",Unknown,Not Remote
+49, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Porter,SP+,3.5,"Philadelphia, PA",Unknown,Not Remote
+50, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Supervisor,University City Housing Company,4.0,"Philadelphia, PA",Unknown,Not Remote
+51, Pennsylvania,Philadelphia,49,Maintenance and Repair,Associate Maintenance Technician,STERIS,3.3,"Sharon Hill, PA",Unknown,Not Remote
+52, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Technician,University City Housing Company,4.0,"Philadelphia, PA",Unknown,Not Remote
+53, Pennsylvania,Philadelphia,49,Maintenance and Repair,AV Systems Technician - Philadelphia,Live! Casino and Hotel Philadelphia,4.3,"Philadelphia, PA",Unknown,Not Remote
+54, Pennsylvania,Philadelphia,49,Maintenance and Repair,Skilled Maintenance Worker,Cathedral Village,2.5,"Philadelphia, PA",Unknown,Not Remote
+55, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Technician,Inglis Foundation,3.4,"Philadelphia, PA",$21.47 an hour,Not Remote
+56, Pennsylvania,Philadelphia,49,Maintenance and Repair,Analyzer Specialist / Technician,JCIS Inc.,,"Philadelphia, PA","$100,000 - $120,000 a year",Not Remote
+57, Pennsylvania,Philadelphia,49,Maintenance and Repair,Maintenance Technician,Ari Investment LP,,"Philadelphia, PA","$50,000 - $55,000 a year",Not Remote
+58, Pennsylvania,Philadelphia,49,Maintenance and Repair,Director of Facilities,Brightside Academy,2.8,"Philadelphia, PA",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,49,Security and Fire Alarm Systems Installers,Physical Security Installer,"G.L. Kreiner, Inc.",,"Philadelphia, PA",$15 - $35 an hour,Not Remote
+1, Pennsylvania,Philadelphia,49,Security and Fire Alarm Systems Installers,Licensed Security Alarm Installer/Technician,Synergy,,"Chestnut Hill, PA",$20 - $40 an hour,Not Remote
+0, Pennsylvania,Philadelphia,49,Avionics Technicians,Aircrafts Avionics Technicians,Aerotek,,"Philadelphia, PA",$26 - $34 an hour,Not Remote
+1, Pennsylvania,Philadelphia,49,Avionics Technicians,Sr. Field Service Calibration Technician,"Transcat, Inc.",3.4,United States,From $28 an hour,Not Remote
+2, Pennsylvania,Philadelphia,49,Avionics Technicians,Senior Calibration Technician,"Transcat, Inc.",3.4,"Cherry Hill, NJ",Up to $30 an hour,Not Remote
+3, Pennsylvania,Philadelphia,49,Avionics Technicians,Senior Calibration Technician,"Transcat, Inc.",3.4,"Cherry Hill, NJ",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,51,Extruding Machine Operators,Extruder Operator - NOW HIRING,Americhem,3.3,"Morrisville, PA",$17.50 an hour,Not Remote
+1, Pennsylvania,Philadelphia,51,Extruding Machine Operators,Extruder Machine Operator,Aerotek,3.7,"Boothwyn, PA",$15.50 an hour,Not Remote
+0, Pennsylvania,Philadelphia,51,Butcher,Meat Cutter,"A. ESPOSITO, INC.",,"Philadelphia, PA",$20 - $23 an hour,Not Remote
+1, Pennsylvania,Philadelphia,51,Butcher,Line Cook,Alpen Rose,,"Philadelphia, PA",Unknown,Not Remote
+2, Pennsylvania,Philadelphia,51,Butcher,Line Cook,Butcher and Singer,4.0,"Philadelphia, PA",Unknown,Not Remote
+3, Pennsylvania,Philadelphia,51,Butcher,Meat Cutter,"A. ESPOSITO, INC.",,"Philadelphia, PA",$20 - $23 an hour,Not Remote
+4, Pennsylvania,Philadelphia,51,Butcher,Meat Cutter/Butcher,ShopRite of Whitman Plaza,3.5,"Philadelphia, PA",From $20 an hour,Not Remote
+5, Pennsylvania,Philadelphia,51,Butcher,Prep Cook,Lost Bread Co.,,"Philadelphia, PA",Unknown,Not Remote
+6, Pennsylvania,Philadelphia,51,Butcher,Culinary Specialist,Army Mid-Atlantic Recruiting Battalion,4.3,"Cherry Hill, NJ",Unknown,Not Remote
+0, Pennsylvania,Philadelphia,51,Power Distributors and Dispatchers,POWER ONLY/DRY VAN CARRIERS,National Cargo Services,,"Philadelphia, PA","From $1,250 a day",Not Remote

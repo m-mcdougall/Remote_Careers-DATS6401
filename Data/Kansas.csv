@@ -1,0 +1,942 @@
+,SearchState,SearchCity,Category,SearchTitle,Title,Company,Stars,Location,Wage,Remote
+0, Kansas,Wichita,11,Facilities Manager,Maintenance Supervisor,Minneapolis Healthcare & Rehabilitation,,Kansas,Unknown,Not Remote
+1, Kansas,Wichita,11,Facilities Manager,"Director of Facilities - Relocation assistance to Yuma, AZ",Yuma Regional Medical Center,3.8,United States,"$110,000 - $150,000 a year",Not Remote
+2, Kansas,Wichita,11,Facilities Manager,Facilities Manager,Health Ministries Clinic,3.7,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,11,Facilities Manager,Facilities Manager,Wichita Children's Home,2.9,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,11,Facilities Manager,Operations Manager (Facilities Maintenance),JLL,3.7,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,11,Facilities Manager,Supv Maintenance,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,11,Facilities Manager,Director of Maintenance,Healthcare Resort of Wichita,,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,11,Facilities Manager,ELS - AMZ - Area Maintenance Manager,Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+8, Kansas,Wichita,11,Facilities Manager,ELS - AMZ - Maintenance Manager,Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+9, Kansas,Wichita,11,Facilities Manager,Maintenance Director,Regent Park Assisted Living and Memory Care,2.3,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,11,Facilities Manager,Maintenance Supervisor,Vineyards Management Group,4.1,"Wichita, KS",From $16 an hour,Not Remote
+11, Kansas,Wichita,11,Facilities Manager,ELS - AMZ - Maintenance Manager,Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+12, Kansas,Wichita,11,Facilities Manager,ELS - AMZ - Area Maintenance Manager,Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+0, Kansas,Wichita,11,Funeral Home Managers,Veterans Employment Rep (DVOP),The State of Kansas,3.6,"Sedgwick County, KS",$17.39 an hour,Not Remote
+1, Kansas,Wichita,11,Funeral Home Managers,Hospice Case Manager,Amedisys,3.1,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,11,Manager,Estimator/Project Manager,McCormick Excavation And Paving LLC,,"Wichita, KS","$65,000 - $95,000 a year",Not Remote
+1, Kansas,Wichita,11,Manager,"Restaurant Manager - Wichita, KS",McAlister's Deli (The Saxton Group),3.6,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,11,Manager,Automotive Store Manager,Kansasland Tire and Auto Service,2.9,"Wichita, KS","$56,000 - $80,000 a year",Not Remote
+3, Kansas,Wichita,11,Manager,Electrical Project Manager,FSG,,"Wichita, KS","Up to $125,000 a year",Not Remote
+4, Kansas,Wichita,11,Manager,Full-Time Store Manager Trainee,ALDI,3.4,"Wichita, KS",$25 an hour,Not Remote
+5, Kansas,Wichita,11,Manager,Manager in Training,Johnd Agency,,"Wichita, KS","$40,000 - $71,000 a year",Temporarily remote
+6, Kansas,Wichita,11,Manager,Event Planning Manager,Hyatt Regency Wichita,4.1,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,11,Manager,Customer Account Representative/Program Manager,Cadence Aerospace,2.6,"Wichita, KS",From $24 an hour,Not Remote
+8, Kansas,Wichita,11,Manager,Customer Success Manager,"Alltite, Inc",3.3,"Wichita, KS",$21 - $24 an hour,Not Remote
+9, Kansas,Wichita,11,Manager,Social Media Manager,IAE Marketing,,"Wichita, KS",$10 an hour,Remote
+10, Kansas,Wichita,11,Manager,Manager Trainee,Menards,3.5,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,11,Manager,Milieu Manager,KVC Hospitals Inc.,3.1,"Wichita, KS","$45,000 a year",Not Remote
+12, Kansas,Wichita,11,Manager,Office Manager,AFI,4.0,"Wichita, KS","$28,000 - $36,000 a year",Not Remote
+13, Kansas,Wichita,11,Manager,Fulfillment Operations Manager,HomeWetBar.com- Oklahoma City,,"Wichita, KS","$65,000 - $80,000 a year",Not Remote
+14, Kansas,Wichita,11,Manager,"Practice Manager, Operations",Wheatland Family Dental,3.0,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,11,Manager,Site Manager,Dash Technologies Inc.,,"Wichita, KS",$28 an hour,Not Remote
+16, Kansas,Wichita,11,Manager,Food/Beverage Manager,Best Western,,"Wichita, KS","$36,000 - $40,000 a year",Not Remote
+17, Kansas,Wichita,11,Manager,Technical Manager,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,11,Manager,Program Manager,The Atlas Group,4.2,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,11,Manager,Assistant Manager/Co-Manager,Rainbow USA,3.4,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,11,Manager,UNIT DEPLOYMENT MANAGER,US Department of the Air Force,4.4,"McConnell AFB, KS","$53,433 - $69,462 a year",Not Remote
+21, Kansas,Wichita,11,Manager,Office Manager,"Pyxis, Inc. aka Behavioral Link",,"Wichita, KS","$30,000 - $38,000 a year",Not Remote
+22, Kansas,Wichita,11,Manager,Trim Pricing Manager,Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,11,Manager,"Program Resource Manager, National Hypertension Control Initiative",American Heart Association,3.8,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,11,Manager,Market Operations Manager,Carvana,2.7,"Wichita, KS",Unknown,Not Remote
+25, Kansas,Wichita,11,Manager,Plasma Center Operations Manager Trainee,"Grifols Shared Services North America, Inc",3.1,"Wichita, KS","$45,000 - $67,000 a year",Not Remote
+26, Kansas,Wichita,11,Manager,Area Manager,Kimco Facility Services,,"Wichita, KS","$46,000 - $50,000 a year",Not Remote
+27, Kansas,Wichita,11,Manager,Office Manager,Dingers Roofing & Construction,,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,11,Manager,Operations Manager,Camping World,2.8,"Wichita, KS",Unknown,Not Remote
+29, Kansas,Wichita,11,Manager,Territory Sales Manager,THRASHER INC,,"Wichita, KS","$38,516 - $186,995 a year",Not Remote
+30, Kansas,Wichita,11,Manager,Office Manager,Dingers Roofing & Construction,,"Wichita, KS","$35,000 - $55,000 a year",Not Remote
+31, Kansas,Wichita,11,Manager,Facilities Manager,Health Ministries Clinic,3.7,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,11,Manager,Turf Service Manager,Prairieland Partners Llc,,"Wichita, KS",Unknown,Not Remote
+33, Kansas,Wichita,11,Manager,Payroll Manager,Presbyterian Manors of Mid America,3.2,"Wichita, KS",Unknown,Not Remote
+34, Kansas,Wichita,11,Manager,Sales Manager,Genesis Health Clubs,2.9,"Wichita, KS",Unknown,Not Remote
+35, Kansas,Wichita,11,Manager,Sales Associate – Manager in Training,Furniture Row,3.1,"Wichita, KS","$40,000 - $75,000 a year",Not Remote
+36, Kansas,Wichita,11,Manager,Property Manager,A&G Management Company,,"Park East, KS",Unknown,Not Remote
+37, Kansas,Wichita,11,Manager,District Sales Manager - Abbott Diabetes Care - Kansas,Abbott Laboratories,4.0,"Wichita, KS",Unknown,Not Remote
+38, Kansas,Wichita,11,Manager,"Supervisor, Production",Newell Brands,3.5,"Wichita, KS",Unknown,Not Remote
+39, Kansas,Wichita,11,Manager,Cafe Manager,Barnes & Noble,3.8,"Wichita, KS",Unknown,Not Remote
+40, Kansas,Wichita,11,Manager,General Manager,Sonesta,3.9,"Wichita, KS",Unknown,Not Remote
+41, Kansas,Wichita,11,Manager,Quality Manager,GLOBAL ENGINEERING & TECHNOLOGY,2.8,"Wichita, KS",Unknown,Not Remote
+42, Kansas,Wichita,11,Manager,Process Supervisor,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+43, Kansas,Wichita,11,Manager,RETAIL DISTRICT MANAGER,Dollar General,3.1,"Wichita, KS",Unknown,Not Remote
+44, Kansas,Wichita,11,Manager,Assistant Manager - Operations,Veterans Canteen Service,3.2,"Wichita, KS",Unknown,Not Remote
+45, Kansas,Wichita,11,Manager,FirePoint Manager Marketing and Communications,Wichita State University,4.2,"Wichita, KS",Unknown,Not Remote
+46, Kansas,Wichita,11,Manager,Service Manager,Camping World,2.8,"Wichita, KS",Unknown,Not Remote
+47, Kansas,Wichita,11,Manager,Regional Manager - Residential Programs,KETCH,,"Wichita, KS",Unknown,Not Remote
+48, Kansas,Wichita,11,Manager,Social Media Manager,Miracle Home Care LLC,,"Wichita, KS",$13 - $15 an hour,Not Remote
+49, Kansas,Wichita,11,Manager,Assistant Store Manager,Extra Space Storage,3.8,"Wichita, KS",$14 - $16 an hour,Not Remote
+50, Kansas,Wichita,11,Manager,Restaurant Brand District Manager,Kwik Shop,3.4,"Wichita, KS",Unknown,Not Remote
+51, Kansas,Wichita,11,Manager,RETAIL DISTRICT MANAGER,Dollar General,3.1,"Wichita, KS",Unknown,Not Remote
+52, Kansas,Wichita,11,Manager,Surgical Services Manager,Ascension,3.7,"Wichita, KS",Unknown,Not Remote
+53, Kansas,Wichita,11,Manager,Apartment Manager,The Preiss Company - 2909 Oliver,,"Wichita, KS","$48,000 - $60,000 a year",Not Remote
+54, Kansas,Wichita,11,Manager,Branch Manager,LSI Staffing,,"Wichita, KS","$37,771 - $68,829 a year",Not Remote
+55, Kansas,Wichita,11,Manager,Service Manager,Camping World,2.8,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,11,Personal Service Managers,Restaurant District Managers and General Managers,Capstone Restaurant Group (Hardee's),,"Wichita, KS","$36,000 - $55,000 a year",Not Remote
+1, Kansas,Wichita,11,Personal Service Managers,Electrical Project Manager,FSG,,"Wichita, KS","Up to $125,000 a year",Not Remote
+2, Kansas,Wichita,11,Personal Service Managers,Manager of Residential Programs,KETCH,,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,11,Personal Service Managers,ASSISTANT RURAL CARRIER (ARC),United States Postal Service,3.4,"Wichita, KS",$19.06 an hour,Not Remote
+4, Kansas,Wichita,11,Personal Service Managers,CITY CARRIER ASSISTANT,United States Postal Service,3.4,"Haysville, KS",$17.29 an hour,Not Remote
+5, Kansas,Wichita,11,Personal Service Managers,Customer Service Associate,WALGREENS,3.6,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,11,Personal Service Managers,Service Advisor,Scholfield Honda,3.8,"Wichita, KS","$35,758 - $100,000 a year",Not Remote
+7, Kansas,Wichita,11,Personal Service Managers,Restaurant District Managers and General Managers,Capstone Restaurant Group (Hardee's),,"Wichita, KS","$36,000 - $55,000 a year",Not Remote
+8, Kansas,Wichita,11,Personal Service Managers,Customer Account Representative/Program Manager,Cadence Aerospace,2.6,"Wichita, KS",From $24 an hour,Not Remote
+9, Kansas,Wichita,11,Personal Service Managers,Automotive Service Advisor,L&M Auto Repair,5.0,"Wichita, KS","$40,000 - $100,000 a year",Not Remote
+10, Kansas,Wichita,11,Personal Service Managers,Program Assistant,CASA of Sedgwick County,,"Wichita, KS",$14.50 an hour,Not Remote
+11, Kansas,Wichita,11,Personal Service Managers,Customer Service / Property Management / Storage Consultant,Metro Storage LLC,3.9,"Wichita, KS",From $11.50 an hour,Not Remote
+12, Kansas,Wichita,11,Personal Service Managers,Executive Director,"Wichita Habitat for Humanity, Inc.",,"Wichita, KS","$78,500 - $98,083 a year",Temporarily remote
+13, Kansas,Wichita,11,Personal Service Managers,Automotive Service Advisor,L&M Auto Repair,,"Wichita, KS","$40,000 - $100,000 a year",Not Remote
+14, Kansas,Wichita,11,Personal Service Managers,Route Driver,Far From Normal Supply Inc,,"Wichita, KS",$15 - $18 an hour,Not Remote
+15, Kansas,Wichita,11,Personal Service Managers,Housekeeping Svc Attnd,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,11,Personal Service Managers,"Cashier/Food Service Worker - McConnell AFB - Wichita, KS","Training, Rehabilitation & Development",,"McConnell AFB, KS",$15.30 an hour,Not Remote
+17, Kansas,Wichita,11,Personal Service Managers,Scheduler - Medical Office,Associates in Women's Health,4.1,"Wichita, KS",$12 - $16 an hour,Not Remote
+18, Kansas,Wichita,11,Personal Service Managers,TLP Case Manager,Wichita Children's Home,2.9,"Wichita, KS",$17 - $18 an hour,Not Remote
+19, Kansas,Wichita,11,Personal Service Managers,Summer Camp Counselor,"White Memorial Camp Management Group, Inc.",,"Wichita, KS",From $50 a day,Not Remote
+20, Kansas,Wichita,11,Personal Service Managers,"Cashier/Food Service Worker - McConnell AFB - Wichita, KS",Training Rehabilitation and Development Institute,,"McConnell AFB, KS",Unknown,Not Remote
+21, Kansas,Wichita,11,Personal Service Managers,Food Service Associate SSA at Sedgewick County Zoo,"SSA Group, LLC",3.4,"Wichita, KS",Unknown,Not Remote
+22, Kansas,Wichita,11,Personal Service Managers,Unit Clerk,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,11,Personal Service Managers,Store Associate,Diamond Vogel,3.5,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,11,Personal Service Managers,Area Service Manager,Smart Start Inc.,3.0,"Wichita, KS","$30,000 - $40,000 a year",Not Remote
+25, Kansas,Wichita,11,Personal Service Managers,Retail Associate,"SSA Group, LLC",3.4,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,11,Personal Service Managers,Patient Care Tech,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,11,Personal Service Managers,Sales Associate,BOB MILLS FURNITURE,3.2,"Wichita, KS","$70,000 - $80,000 a year",Not Remote
+28, Kansas,Wichita,11,Personal Service Managers,Summer Internship Program - Construction,"UCI, Industrial Construction Services",,"Wichita, KS",$15 an hour,Not Remote
+29, Kansas,Wichita,11,Personal Service Managers,Retail Sales Associate,Fleet Feet Wichita,,"Wichita, KS",$10 - $12 an hour,Not Remote
+30, Kansas,Wichita,11,Personal Service Managers,Manager of Residential Programs,KETCH,,"Wichita, KS",Unknown,Not Remote
+31, Kansas,Wichita,11,Personal Service Managers,Area Manager,Kimco Facility Services,,"Wichita, KS","$46,000 - $50,000 a year",Not Remote
+32, Kansas,Wichita,11,Personal Service Managers,Sales Associate,Auburn Spirits,,"Wichita, KS",$9 - $15 an hour,Not Remote
+33, Kansas,Wichita,11,Personal Service Managers,Full Time Sales Associate,Westlake ACE Hardware,3.8,"Wichita, KS",Unknown,Not Remote
+34, Kansas,Wichita,11,Personal Service Managers,Program Manager,The Atlas Group,4.2,"Wichita, KS",Unknown,Not Remote
+35, Kansas,Wichita,11,Personal Service Managers,Part Time Seasonal Customer Service Representative- Wichita (2525 Seneca),Check 'n Go,3.1,"Wichita, KS",Unknown,Not Remote
+36, Kansas,Wichita,11,Personal Service Managers,Full-Time Sales Teammate,Buckle,3.7,"Wichita, KS",Unknown,Not Remote
+37, Kansas,Wichita,11,Personal Service Managers,Assistant Manager/Leasing Professional,ATM GROUP,4.5,"Wichita, KS",$10 - $15 an hour,Not Remote
+38, Kansas,Wichita,11,Personal Service Managers,Fitness Specialist Cardiac Services PRN,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+39, Kansas,Wichita,11,Personal Service Managers,Customer Service Associate,WALGREENS,3.6,"Wichita, KS",Unknown,Not Remote
+40, Kansas,Wichita,11,Personal Service Managers,Food/Beverage Manager,Best Western,,"Wichita, KS","$36,000 - $40,000 a year",Not Remote
+41, Kansas,Wichita,11,Personal Service Managers,"Sales Representative - Wichita, KS - Orthopaedic Instruments",Stryker Corporation,3.9,"Wichita, KS",Unknown,Not Remote
+42, Kansas,Wichita,11,Personal Service Managers,Medical Assistant,Wesleycare Clinic,3.6,"Wichita, KS",Unknown,Not Remote
+43, Kansas,Wichita,11,Personal Service Managers,Lash Artist/Licensed Cosmo/Esthetician. Prev. Experience Preferred,Deka Lash,3.4,"Wichita, KS",$10 - $35 an hour,Not Remote
+44, Kansas,Wichita,11,Personal Service Managers,Part Time Cashier,At Home The Home Decor Superstore,3.0,"Wichita, KS",Unknown,Not Remote
+45, Kansas,Wichita,11,Personal Service Managers,Customer Service Representative / Pizza Maker (47th and Broadway),Domino's,3.6,"Wichita, KS",From $8 an hour,Not Remote
+46, Kansas,Wichita,11,Personal Service Managers,Service Coordinator,Sheer Enterprises,,"Wichita, KS","$37,500 - $40,000 a year",Not Remote
+47, Kansas,Wichita,11,Personal Service Managers,Regional Manager - Residential Programs,KETCH,,"Wichita, KS",Unknown,Not Remote
+48, Kansas,Wichita,11,Personal Service Managers,Full Time Sales Associate,Westlake ACE Hardware,3.8,"Wichita, KS",Unknown,Not Remote
+49, Kansas,Wichita,11,Personal Service Managers,Head Cashier,Westlake ACE Hardware,3.8,"Wichita, KS",Unknown,Not Remote
+50, Kansas,Wichita,11,Personal Service Managers,Customer Service Associate,WALGREENS,3.6,"Wichita, KS",Unknown,Not Remote
+51, Kansas,Wichita,11,Personal Service Managers,Executive Director,Rise Up For Youth,,"Wichita, KS",Unknown,Not Remote
+52, Kansas,Wichita,11,Personal Service Managers,Registered Dietitian,Providence Home Health and Hospice,,"Wichita, KS",$65 - $75 an hour,Not Remote
+53, Kansas,Wichita,11,Personal Service Managers,Branch Manager,LSI Staffing,,"Wichita, KS","$37,771 - $68,829 a year",Not Remote
+54, Kansas,Wichita,11,Personal Service Managers,Customer Service / Property Management / Storage Consultant,Metro Storage LLC,3.9,"Wichita, KS",From $11.50 an hour,Not Remote
+55, Kansas,Wichita,11,Personal Service Managers,Pharmacy Technician / Pharm Tech Apprenticeship,Walgreens,3.6,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,13,Financial Specialists,Entry-Level Management/Benefits Specialist,Final Expense Insurance,,"Wichita, KS","$49,000 - $120,000 a year",Not Remote
+1, Kansas,Wichita,13,Financial Specialists,Resolution Specialist,"Account Recovery Specialists, Inc.",,"Wichita, KS",$16 - $18 an hour,Not Remote
+2, Kansas,Wichita,13,Financial Specialists,Administrative Assistant to Vice President of Collections,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+3, Kansas,Wichita,13,Financial Specialists,Administrative Assistant to Vice President of Legal,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+4, Kansas,Wichita,13,Financial Specialists,Credentialing Specialist / HR Coordinator (Part-Time),HealthCore Clinic,,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,13,Financial Specialists,Administration - Billing Specialist,"Weigand Omega Management, Inc",,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,13,Financial Specialists,Resolution Specialist,"Account Recovery Specialists, Inc.",,"Wichita, KS",$16 - $18 an hour,Not Remote
+7, Kansas,Wichita,13,Financial Specialists,BSA Specialist II,INTRUST Financial Corporation,,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,13,Financial Specialists,Video Specialist,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,13,Financial Specialists,Video Specialist,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,13,Financial Specialists,Program Specialist,US Department of Veterans Affairs,3.8,"Wichita, KS","$53,433 - $69,462 a year",Not Remote
+11, Kansas,Wichita,13,Financial Specialists,Insurance Verification Specialist,Advanced Physical Therapy Specialists,,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,13,Financial Specialists,ATS/CIAC Office Specialist - COMCARE,Sedgwick County,3.5,"Wichita, KS",$12.67 an hour,Not Remote
+13, Kansas,Wichita,13,Financial Specialists,Medical Assistant,Wesleycare Clinic,3.6,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,13,Financial Specialists,Medical Assistant,WesleyCare - Pediatrics,3.6,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,13,Financial Specialists,Dental Front Desk Receptionist (Bilingual Preferred),HealthCore Clinic,,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,13,Financial Specialists,Jaguar Land Rover Sales Customer Service,Jaguar Land Rover Wichita,3.1,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,13,Financial Specialists,Administrative Assistant to Vice President of Collections,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+18, Kansas,Wichita,13,Financial Specialists,Patient Account Specialist-Billing,Mid-America Orthopedics,2.9,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,13,Financial Specialists,Fitness Specialist Cardiac Services PRN,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,13,Financial Specialists,Recreation Specialist,US Department of the Air Force,4.4,"Wichita, KS",$14.35 - $16.00 an hour,Not Remote
+21, Kansas,Wichita,13,Financial Specialists,HRIS Project Coordinator,InfoSync,2.5,"Wichita, KS",Unknown,Not Remote
+22, Kansas,Wichita,13,Financial Specialists,Marketing Specialist,TFI Family Services,2.9,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,13,Financial Specialists,Corporate Communications Specialist 3,Spirit AeroSystems,3.6,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,13,Financial Specialists,Staff Accountant 2,Profit Builders,2.0,"Wichita, KS",Unknown,Not Remote
+25, Kansas,Wichita,13,Financial Specialists,Project Management Specialist 3,Spirit AeroSystems,3.6,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,13,Financial Specialists,Accounting Manager,Axiom Healthcare Services,4.1,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,13,Financial Specialists,Administration - Billing Specialist,Weigand Omega,,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,13,Financial Specialists,Remote Outside Sales Executive - Rapid Funnel,Rapid Funnel,4.0,"Wichita, KS","$38,318 - $146,703 a year",Remote
+29, Kansas,Wichita,13,Financial Specialists,Credentialing Specialist / HR Coordinator (Part-Time),HealthCore Clinic,,"Wichita, KS",Unknown,Not Remote
+30, Kansas,Wichita,13,Financial Specialists,Quality Review Specialist - Central Coast,Brookdale Home Health,2.9,"Wichita, KS",Unknown,Not Remote
+31, Kansas,Wichita,13,Financial Specialists,Pediatric Clinical Specialist Registered Respiratory Therapist,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,13,Financial Specialists,Administrative Assistant to Vice President of Legal,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+33, Kansas,Wichita,13,Financial Specialists,Army Reserve Service Member (PT/Contract),Army Recruiting Battalion - Oklahoma City,,"Wichita, KS","$19,228 - $39,445 a year",Not Remote
+34, Kansas,Wichita,13,Financial Specialists,"Senior Manager, Solutions Architecture, Cloud Management & Cloud Health, Canada & LATAM - Opportunity for Working Remotely Wichita, KS",CloudHealth,5.0,"Wichita, KS",Unknown,Remote
+0, Kansas,Wichita,13,Business Operations Specialist,Resolution Specialist,"Account Recovery Specialists, Inc.",,"Wichita, KS",$16 - $18 an hour,Not Remote
+1, Kansas,Wichita,13,Business Operations Specialist,Specialist III - Business Support,Florida Blue,4.0,United States,Unknown,Not Remote
+2, Kansas,Wichita,13,Business Operations Specialist,Compliance Specialist,Ascension,3.7,"Wichita, KS",Unknown,Remote
+3, Kansas,Wichita,13,Business Operations Specialist,Resolution Specialist,"Account Recovery Specialists, Inc.",,"Wichita, KS",$16 - $18 an hour,Not Remote
+4, Kansas,Wichita,13,Business Operations Specialist,Rental Coordinator (Out Bound Calls),Foley Equipment,3.1,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,13,Business Operations Specialist,Marketing Specialist,TFI Family Services,2.9,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,13,Business Operations Specialist,Loan Quality Review Specialist,Equity Bank,3.6,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,13,Business Operations Specialist,Spec Technical Service,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,13,Business Operations Specialist,Recreation Specialist,US Department of the Air Force,4.4,"Wichita, KS",$14.35 - $16.00 an hour,Not Remote
+9, Kansas,Wichita,13,Business Operations Specialist,Senior Payroll Specialist,InfoSync,2.5,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,13,Business Operations Specialist,HRIS Project Coordinator,InfoSync,2.5,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,13,Business Operations Specialist,FT-Sales Specialist Millwork-Day,Lowe's,3.6,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,13,Business Operations Specialist,"Hybrid Sales Representatives- Wichita, KS",Amplity Health,3.8,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,13,Business Operations Specialist,Urgently hiring- Delivery Driver Specialist,Rent-A-Center,3.2,"Wichita, KS",$11 - $14 an hour,Not Remote
+14, Kansas,Wichita,13,Business Operations Specialist,Vaccine Mobile Clinic Coordinator - COVID-19,Sedgwick County,3.5,"Wichita, KS",$19.64 an hour,Not Remote
+15, Kansas,Wichita,13,Business Operations Specialist,Cleaning Supervisor Assistant,"Office Cleaners, L.L.C.",,"Wichita, KS",$11 - $13 an hour,Not Remote
+16, Kansas,Wichita,13,Business Operations Specialist,Housing Specialist,City of Wichita,3.7,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,13,Business Operations Specialist,"Consultant, vSAN & VCF - Worldwide Consulting Center (WWCC) - Opportunity for Working Remotely Wichita, KS",VMware,4.0,"Wichita, KS",Unknown,Remote
+18, Kansas,Wichita,13,Business Operations Specialist,Urgently hiring- Delivery Driver Specialist,Rent-A-Center,3.2,"Wichita, KS",$11 - $13 an hour,Not Remote
+19, Kansas,Wichita,13,Business Operations Specialist,"Senior Consultant, vRealize (vRA) - Worldwide Consulting Center (WWCC) - Opportunity for Working Remotely Wichita, KS",VMware,4.0,"Wichita, KS",Unknown,Remote
+20, Kansas,Wichita,13,Business Operations Specialist,"Senior Consultant, NSX - Worldwide Consulting Center (WWCC) - Opportunity for Working Remotely Wichita, KS",VMware,4.0,"Wichita, KS",Unknown,Remote
+21, Kansas,Wichita,13,Business Operations Specialist,"Senior Manager, Solutions Architecture, Cloud Management & Cloud Health, Canada & LATAM - Opportunity for Working Remotely Wichita, KS",CloudHealth,5.0,"Wichita, KS",Unknown,Remote
+0, Kansas,Wichita,13,Tax Preparer,CPA / EA Tax Preparer,Taxes for Expats,4.8,"Wichita, KS","$80,000 - $120,000 a year",Remote
+1, Kansas,Wichita,13,Tax Preparer,Sr Investment Accountant (Real Estate Housing Sector),TIAA,3.7,United States,"$85,000 - $92,000 a year",Temporarily remote
+0, Kansas,Wichita,15,Data Scientists,Data Scientist,Ascension,3.7,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,15,Data Scientists,"AI/ML - Annotation Analyst, Hebrew Language",Apple,4.2,United States,Unknown,Temporarily remote
+2, Kansas,Wichita,15,Data Scientists,Senior Data Analyst,Koch Ag & Energy Solutions,3.6,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,15,Computer Programmers,Programmer Analyst,"Hampel Oil Distributors, Inc.",3.1,"Wichita, KS","From $75,000 a year",Not Remote
+1, Kansas,Wichita,15,Computer Programmers,"Infor Lawson Programmer Analyst - Relocation bonus to Yuma, AZ",Yuma Regional Medical Center,3.8,United States,"$71,000 - $100,000 a year",Not Remote
+2, Kansas,Wichita,15,Computer Programmers,Technician 5a-c - Mechanical Systems,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,15,Computer Programmers,CMM Programmer (FARO Software),TRIGO Global Quality Solutions,2.7,"Wichita, KS",$20 - $23 an hour,Not Remote
+4, Kansas,Wichita,15,Computer Programmers,IT Specialist,Kansas National Guard,4.4,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,15,Software Quality Assurance Analyst,Information Security Analyst,Juniper Payments,,"Wichita, KS",$24 - $29 an hour,Temporarily remote
+1, Kansas,Wichita,15,Software Quality Assurance Analyst,"Infor Lawson Programmer Analyst - Relocation bonus to Yuma, AZ",Yuma Regional Medical Center,3.8,United States,"$71,000 - $100,000 a year",Not Remote
+2, Kansas,Wichita,15,Software Quality Assurance Analyst,Information Security Analyst,Juniper Payments,,"Wichita, KS",$24 - $29 an hour,Temporarily remote
+0, Kansas,Wichita,17,Electrical Engineering Technicians,"Control Systems Lead - Relocate to Colorado Springs, CO!",Elite Line Services,2.9,United States,$37.82 an hour,Not Remote
+1, Kansas,Wichita,17,Electrical Engineering Technicians,Electronics Technician,Viavi Solutions,3.6,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,17,Electrical Engineering Technicians,ELS - AMZ - Controls System Lead (CSL),Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+3, Kansas,Wichita,17,Electrical Engineering Technicians,ELS - AMZ - Controls System Lead (CSL),Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+0, Kansas,Wichita,17,Nuclear Engineers,Associate Technical Estimator,Astro Pak Corporation,4.0,United States,Unknown,Remote
+0, Kansas,Wichita,17,Mechanical Engineering Technicians,Electrical Project Manager,FSG,,"Wichita, KS","Up to $125,000 a year",Not Remote
+1, Kansas,Wichita,17,Mechanical Engineering Technicians,Upholstery Tech I,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,17,Mechanical Engineering Technicians,"Equipment Assembler; Mechanical/Electrical, Installer",EMS Group USA,,United States,$20 - $26 an hour,Not Remote
+3, Kansas,Wichita,17,Mechanical Engineering Technicians,"Technician, Hydraulic Mechanical NDI",Bombardier,3.8,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,17,Mechanical Engineering Technicians,Customer Service Technician,GLOBAL ENGINEERING & TECHNOLOGY,2.8,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,17,Mechanical Engineering Technicians,Upholstery Tech I,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,17,Mechanical Engineering Technicians,Upholstery Tech I,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,17,Mechanical Engineering Technicians,Repair Station Technician,Aerospace Systems & Components,3.4,"Wichita, KS",$13 - $15 an hour,Not Remote
+8, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Maintenance Technician - Wheel & Tire,Bombardier,3.8,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Structure Technician MRO,Expleo,3.3,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,17,Mechanical Engineering Technicians,Environmental Technician,GSI Engineering,3.2,"Wichita, KS",$14 - $16 an hour,Not Remote
+11, Kansas,Wichita,17,Mechanical Engineering Technicians,Drilling Technician (Wichita),GSI Engineering,3.2,"Wichita, KS",$15 - $17 an hour,Not Remote
+12, Kansas,Wichita,17,Mechanical Engineering Technicians,Service Technician - General Labor,Parker Hannifin Corporation,3.7,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Sheet Metal Technician,AAA AEROSPACE USA INC,,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,17,Mechanical Engineering Technicians,Advance Product Development and Research 5,Spirit AeroSystems,3.6,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,17,Mechanical Engineering Technicians,Reliability Maintenance Engineer,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,17,Mechanical Engineering Technicians,Aviation Sheet Metal Mechanic,1 Vision Aviation,,"Wichita, KS",$18 - $28 an hour,Not Remote
+17, Kansas,Wichita,17,Mechanical Engineering Technicians,A&P Mechanic,AAA AEROSPACE USA INC,,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,17,Mechanical Engineering Technicians,"Field Service Technician - Wichita, KS",MULTIVAC Inc.,3.6,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Mechanic,Expleo,3.3,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,17,Mechanical Engineering Technicians,ELS - AMZ - Controls System Lead (CSL),Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+21, Kansas,Wichita,17,Mechanical Engineering Technicians,Electrical Project Manager,FSG,,"Wichita, KS","Up to $125,000 a year",Not Remote
+22, Kansas,Wichita,17,Mechanical Engineering Technicians,"HVAC Field Service Technician - Wichita, KS",Trane Technologies,3.3,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,17,Mechanical Engineering Technicians,ELS - AMZ - Maintenance Manager,Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+24, Kansas,Wichita,17,Mechanical Engineering Technicians,ELS - AMZ - Maintenance Manager,Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+25, Kansas,Wichita,17,Mechanical Engineering Technicians,Regional Hotel Engineer (Field-Based),Avantic Lodging Enterprises,2.0,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Sheet Metal Technician,AAA AEROSPACE USA INC,,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Sheet Metal Technician,AAA AEROSPACE USA INC,,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Sheet Metal Technician,AAA AEROSPACE USA INC,,"Wichita, KS",Unknown,Not Remote
+29, Kansas,Wichita,17,Mechanical Engineering Technicians,ELS - AMZ - Controls System Lead (CSL),Daifuku,2.7,"Park City, KS",Unknown,Not Remote
+30, Kansas,Wichita,17,Mechanical Engineering Technicians,A&P Mechanic,Aerotek,3.7,"Wichita, KS",$29.50 an hour,Not Remote
+31, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Mechanic,Expleo,3.3,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,17,Mechanical Engineering Technicians,Aircraft Structure Technician MRO,Expleo,3.3,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,19,Medical Scientists,Laboratory Compliance Officer,Baptist Health South Florida,4.2,United States,Unknown,Not Remote
+1, Kansas,Wichita,19,Medical Scientists,Data Entry Epidemiology Team Leader COVID-19,Sedgwick County,3.5,"Wichita, KS",$16.98 an hour,Not Remote
+2, Kansas,Wichita,19,Medical Scientists,Medical Lab Scientist (MLS),Ascension,3.7,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,19,Medical Scientists,Research Nurse,Cancer Center of Kansas,3.3,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,19,Medical Scientists,Medical Lab Scientist - Microbiology,Ascension Via Christi,3.7,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,19,Food Scientist,Food Scientist,Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,21,Counselor,Pediatric Behavioral Health Therapist,Heartspring,3.8,"Wichita, KS","$55,000 - $75,000 a year",Not Remote
+1, Kansas,Wichita,21,Counselor,Substance Abuse Licensed Therapist,Confidential,,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,21,Counselor,Therapist,Community Solutions Inc,3.0,"Sedgwick County, KS","$43,000 - $47,000 a year",Not Remote
+3, Kansas,Wichita,21,Counselor,"Therapist, Psychologist or Counselor - Telehealth (Remote)",Happier Living,4.0,United States,Unknown,Remote
+4, Kansas,Wichita,21,Counselor,Elementary Guidance Counselor 2021-2022 SY,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,21,Counselor,Procurement Counselor,Wichita State University,4.2,"Wichita, KS","$37,058 - $64,226 a year",Not Remote
+6, Kansas,Wichita,21,Counselor,Genetic Counselor,University of Kansas Medical Center,3.9,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,21,Counselor,Patient Financial Counselor,Cancer Center of Kansas,3.3,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,21,Counselor,Guidance Counselor (2021-2022),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,21,Counselor,"Therapist, LSCSW",Health Ministries Clinic,3.7,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,21,Counselor,Mental Health Counselor,Wichita Children's Home,2.9,"Wichita, KS","From $41,647 a year",Not Remote
+11, Kansas,Wichita,21,Counselor,Licensed Mental Health Therapists - Kansas Licensing,Resolutions Therapy,,"Wichita, KS",$35.00 - $71.50 an hour,Remote
+12, Kansas,Wichita,21,Counselor,Pediatric Behavioral Health Therapist,Heartspring,3.8,"Wichita, KS","$55,000 - $75,000 a year",Not Remote
+13, Kansas,Wichita,21,Counselor,Behavioral Health Utilization Manager,Sunflower State Health Plan,3.2,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,21,Counselor,Clinical Supervisor,Saint Francis Community and Residential,,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,21,Counselor,Behavioral Health/Mental Health Therapist,DCCCA,4.4,"Wichita, KS",$22 - $23 an hour,Not Remote
+16, Kansas,Wichita,21,Counselor,Eyewear Addiction Specialist,Eyewear Junkie,,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,21,Counselor,Clinical Manager - Home Health,Ascension at Home – Together with Compassus,2.3,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,21,Counselor,PCIT - Therapist,TFI Family Services,2.9,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,21,Counselor,Clinical Supervisor,TFI Family Services,2.9,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,21,Counselor,"Substance Abuse Counselor - $5,000 Sign On Bonus",Acadia Healthcare Comprehensive Treatment Centers,2.4,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,21,Probation Officers ,Intensive Supervision Officer II - AFS,Sedgwick County,3.5,"Wichita, KS",$18.72 an hour,Not Remote
+1, Kansas,Wichita,21,Probation Officers ,Intensive Supervision Officer I / Program Provider AISP,Sedgwick County,3.5,"Wichita, KS",$16.98 an hour,Not Remote
+0, Kansas,Wichita,21,Community Social Service,Director of Nursing,Homestead Health Center,,"Wichita, KS","$69,500 - $75,000 a year",Not Remote
+1, Kansas,Wichita,21,Community Social Service,Speech Language Pathologist,Heartspring,3.8,"Wichita, KS","$55,000 - $76,000 a year",Not Remote
+2, Kansas,Wichita,21,Community Social Service,Licensed Nursing Home Administrator,Reflection Living,2.3,"Wichita, KS","From $65,000 a year",Not Remote
+3, Kansas,Wichita,21,Community Social Service,Praise and Worship Leader,Rose Hill United Methodist Church,,"Wichita, KS",$13 - $15 an hour,Not Remote
+4, Kansas,Wichita,21,Community Social Service,Super Hero LPN (Licensed Practical Nurse) who wants to LOVE where they work,Derby Health & Rehabilitation,3.4,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,21,Community Social Service,Executive Director,"Wichita Habitat for Humanity, Inc.",,"Wichita, KS","$78,500 - $98,083 a year",Temporarily remote
+6, Kansas,Wichita,21,Community Social Service,School Social Worker - Elementary (2021-2022 School Year),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,21,Community Social Service,Social Media Coordinator,Genesis Health Clubs,2.9,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,21,Community Social Service,Social Worker,Healthcare Resort of Wichita,,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,21,Community Social Service,Intensive Supervision Officer I / Program Provider AISP,Sedgwick County,3.5,"Wichita, KS",$16.98 an hour,Not Remote
+10, Kansas,Wichita,21,Community Social Service,Community Liaison,Larksfield Place,3.7,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,21,Community Social Service,Unit Clerk,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,21,Community Social Service,Medical Support Assistant,US Department of Veterans Affairs,3.8,"Wichita, KS","$28,078 - $45,847 a year",Not Remote
+13, Kansas,Wichita,21,Community Social Service,Elementary Guidance Counselor 2021-2022 SY,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,21,Community Social Service,TLP Case Manager,Wichita Children's Home,2.9,"Wichita, KS",$17 - $18 an hour,Not Remote
+15, Kansas,Wichita,21,Community Social Service,Intensive Supervision Officer II - AFS,Sedgwick County,3.5,"Wichita, KS",$18.72 an hour,Not Remote
+16, Kansas,Wichita,21,Community Social Service,Program Specialist,US Department of Veterans Affairs,3.8,"Wichita, KS","$53,433 - $69,462 a year",Not Remote
+17, Kansas,Wichita,21,Community Social Service,Food Service Associate SSA at Sedgewick County Zoo,"SSA Group, LLC",3.4,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,21,Community Social Service,Administrative Assistant 5 - AVID Program,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,21,Community Social Service,"Coordinator of Early Intervention, Testing & Tutoring Services",Newman University,4.0,"Wichita, KS",Unknown,Not Remote
+21, Kansas,Wichita,21,Community Social Service,Patient Care Tech,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+22, Kansas,Wichita,21,Community Social Service,Foster Home Training and Licensing Specialist,DCCCA,4.4,"Wichita, KS",$16.21 - $17.00 an hour,Not Remote
+23, Kansas,Wichita,21,Community Social Service,Senior Corrections Worker - 1st shift JDF,Sedgwick County,3.5,"Wichita, KS",$16.16 an hour,Not Remote
+24, Kansas,Wichita,21,Community Social Service,Winery Tasting Room Operations Lead,Jenny Dawn Cellars LLC,,"Wichita, KS",From $15 an hour,Not Remote
+25, Kansas,Wichita,21,Community Social Service,Eligibility and Options Specialist - Aging,Sedgwick County,3.5,"Wichita, KS",$15.40 an hour,Not Remote
+26, Kansas,Wichita,21,Community Social Service,Network Coordinator,Unite Us,5.0,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,21,Community Social Service,"Benefited Paraeducator -Special Education, High Incidence (.75 FTE)",Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,21,Community Social Service,Guest Services Representative,US Department of the Air Force,4.4,"McConnell AFB, KS",$11 an hour,Not Remote
+29, Kansas,Wichita,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Wichita, KS",Unknown,Not Remote
+30, Kansas,Wichita,21,Community Social Service,Housekeeper,Catholic Care Center,3.3,"Bel Aire, KS",$13 an hour,Not Remote
+31, Kansas,Wichita,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,21,Community Social Service,Early Childhood Teacher - Prekindergarten Developmentally Delayed Teacher (2021-2022 SY),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+33, Kansas,Wichita,21,Community Social Service,Para Educator - Classroom,Heartspring,3.8,"Wichita, KS",$12 - $16 an hour,Not Remote
+34, Kansas,Wichita,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Wichita, KS",Unknown,Not Remote
+35, Kansas,Wichita,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Wichita, KS",Unknown,Not Remote
+36, Kansas,Wichita,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Wichita, KS",Unknown,Not Remote
+37, Kansas,Wichita,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Wichita, KS",Unknown,Not Remote
+38, Kansas,Wichita,21,Community Social Service,Administrative RN Director of Women's/Children,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+39, Kansas,Wichita,21,Community Social Service,Assistant Manager/Leasing Professional,ATM GROUP,4.5,"Wichita, KS",$10 - $15 an hour,Not Remote
+40, Kansas,Wichita,21,Community Social Service,KDOC Case Manager - COMCARE,Sedgwick County,3.5,"Wichita, KS",$15.40 an hour,Not Remote
+41, Kansas,Wichita,21,Community Social Service,Marketing Community Liaison,St. Anthony's Behavioral Health Hospital - Wichita,,"Wichita, KS",Unknown,Not Remote
+42, Kansas,Wichita,21,Community Social Service,Supervisory Police Officer,US Department of Veterans Affairs,3.8,"Wichita, KS","$58,842 - $76,499 a year",Not Remote
+43, Kansas,Wichita,21,Community Social Service,Coordination of Services - Program Facilitator,Sedgwick County,3.5,"Wichita, KS",$16.98 an hour,Not Remote
+44, Kansas,Wichita,21,Community Social Service,Kona Ice Driver/Kona Ice Event Specialist,Kona Ice of Central Wichita and Mulvane,,"Wichita, KS",$11 - $15 an hour,Not Remote
+45, Kansas,Wichita,21,Community Social Service,SAFS Shelter Supervisor,Catholic Charities,3.8,"Wichita, KS",Unknown,Not Remote
+46, Kansas,Wichita,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Wichita, KS",Unknown,Not Remote
+47, Kansas,Wichita,21,Community Social Service,Non-Emergency Medical Transport Driver,United Medical Transport of Kansas,,"Wichita, KS",From $10 an hour,Not Remote
+48, Kansas,Wichita,21,Community Social Service,Licensed Nursing Home Administrator,Reflection Living,2.3,"Wichita, KS","From $65,000 a year",Not Remote
+49, Kansas,Wichita,21,Community Social Service,Retail Associate,"SSA Group, LLC",3.4,"Wichita, KS",Unknown,Not Remote
+50, Kansas,Wichita,21,Community Social Service,Associate for Business Initiatives,Kansas Leadership Center,,"Wichita, KS",Unknown,Temporarily remote
+51, Kansas,Wichita,21,Community Social Service,Paralegal Specialist,US Department of Justice,4.1,"Wichita, KS","$53,433 - $69,462 a year",Not Remote
+52, Kansas,Wichita,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Haysville, KS",Unknown,Not Remote
+53, Kansas,Wichita,21,Community Social Service,Field Service Power Generation Technician,Cummins Inc.,3.9,"Wichita, KS",Unknown,Not Remote
+54, Kansas,Wichita,21,Community Social Service,Golf Shop Attendant,Tallgrass Country Club,3.2,"Wichita, KS",$8 - $10 an hour,Not Remote
+55, Kansas,Wichita,21,Community Social Service,Branch Manager,LSI Staffing,,"Wichita, KS","$37,771 - $68,829 a year",Not Remote
+56, Kansas,Wichita,21,Community Social Service,Winery Tasting Room Operations Lead,Jenny Dawn Cellars LLC,,"Wichita, KS",From $15 an hour,Not Remote
+0, Kansas,Wichita,21,Religious Worker,Receptionist and Clerical Assistant,The Salvation Army USA Central Territory,3.9,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,23,Legal Support Worker,Administrative Assistant to Vice President of Legal,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+1, Kansas,Wichita,23,Legal Support Worker,Licensed Clinical Social Worker,Blomquist Hale Solutions,,United States,$29.50 - $32.00 an hour,Remote
+2, Kansas,Wichita,23,Legal Support Worker,Foster Care Homes Worker,Saint Francis Community and Residential,,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,23,Legal Support Worker,Family Support Worker - After Hours - Flexible Hours,Saint Francis Community and Residential,,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,23,Legal Support Worker,FSW-After Hours- Multiple Hours,Saint Francis Community and Residential,,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,23,Legal Support Worker,FOOD SERVICE WORKER (FULL-TIME),Compass Group,3.3,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,23,Legal Support Worker,CULINARY AMBASSADOR (PART-TIME),Compass Group,3.3,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,23,Legal Support Worker,LPS-Reintegration,Saint Francis Community and Residential,,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,23,Legal Support Worker,Human Resources Manager/Generalist,Harlan County Health System,3.2,"Wichita, KS","$70,000 - $90,000 a year",Not Remote
+9, Kansas,Wichita,23,Legal Support Worker,Administrative Assistant to Vice President of Legal,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+10, Kansas,Wichita,23,Legal Support Worker,Respiratory Therapist (RT),"Spiras Health, Inc.",5.0,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,23,Legal Support Worker,Permanency Specialist-Reintegration,Saint Francis Community and Residential,,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,23,Legal Support Worker,Medical Liability Analyst (MLA),KAMMCO,,Kansas,Unknown,Temporarily remote
+0, Kansas,Wichita,23,Legal Occupations,Paralegal/Legal Assistant,"Riedmiller, Andersen & Scott LLC",,"Wichita, KS",$11 - $25 an hour,Not Remote
+1, Kansas,Wichita,23,Legal Occupations,Administrative Assistant to Vice President of Legal,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+2, Kansas,Wichita,23,Legal Occupations,LEGAL SECRETARY,Kansas Legal Services,3.5,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,23,Legal Occupations,Paralegal/Legal Assistant,Ardelle Associates,,"Wichita, KS",$22.22 - $26.44 an hour,Remote
+4, Kansas,Wichita,23,Legal Occupations,PARALEGAL,Kansas Legal Services,3.5,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,23,Legal Occupations,Legal Assistant,King of Freight,2.2,"Wichita, KS",$15 - $17 an hour,Not Remote
+6, Kansas,Wichita,23,Legal Occupations,Paralegal Specialist,US Department of Justice,4.1,"Wichita, KS","$53,433 - $69,462 a year",Not Remote
+7, Kansas,Wichita,23,Legal Occupations,Paralegal/Legal Assistant,"Riedmiller, Andersen & Scott LLC",,"Wichita, KS",$11 - $25 an hour,Not Remote
+8, Kansas,Wichita,23,Legal Occupations,Legal Case Coordinator Assistant - Litigation,"Patterson Legal Group, L.C.",,"Wichita, KS",Unknown,Remote
+9, Kansas,Wichita,23,Legal Occupations,Paralegal Specialist,US Department of Justice,4.1,"Wichita, KS","$53,433 - $69,462 a year",Not Remote
+10, Kansas,Wichita,23,Legal Occupations,Real Estate Title Searcher/Examiner - Title Officer,"KANSAS SECURED TITLE, INC.",,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,23,Legal Occupations,Municipal Court Judge,City of Wichita,3.7,"Wichita, KS","$88,668 - $147,900 a year",Not Remote
+12, Kansas,Wichita,23,Legal Occupations,Associate General Counsel,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,23,Legal Occupations,Private Investigator/Process Server,"Red Spade Investigations, Inc",,"Wichita, KS",$12 - $20 an hour,Not Remote
+14, Kansas,Wichita,23,Legal Occupations,Administrative Assistant to Vice President of Legal,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+15, Kansas,Wichita,23,Legal Occupations,Plaintiff Personal Injury Attorney,"Parnall Law Firm, LLC",4.5,Kansas,Unknown,Remote
+0, Kansas,Wichita,23,Title Examiner,Remote- Title Insurance Examiner,JobTracks,4.4,United States,"$55,000 - $90,000 a year",Remote
+1, Kansas,Wichita,23,Title Examiner,Real Estate Title Searcher/Examiner - Title Officer,"KANSAS SECURED TITLE, INC.",,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,25,Teaching Assistants,Ski Coach + Teacher's Assistant + Household Assistant,Caroline Jeske,,United States,From $15 an hour,Not Remote
+1, Kansas,Wichita,25,Teaching Assistants,Assistant Paraeducator - High Incidence (.74 FTE),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,25,Teaching Assistants,"Benefited Paraeducator -Special Education, High Incidence (.75 FTE)",Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,25,Teaching Assistants,Benefited Paraeducator - Pre-K (.88 FTE) Categorical 20-21 SY,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,25,Teaching Assistants,Assistant Paraeducator - Title I (.74FTE) 2020-21 School Year,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,25,Teaching Assistants,Teacher's Aide,NorthRidge Academy,3.8,"Wichita, KS",$9 - $11 an hour,Not Remote
+6, Kansas,Wichita,25,Teaching Assistants,Para Educator - Classroom,Heartspring,3.8,"Wichita, KS",$12 - $16 an hour,Not Remote
+7, Kansas,Wichita,25,Teaching Assistants,Assistant Paraeducator - Title I (.74FTE) 2020-21 School Year,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,25,Teaching Assistants,"Benefited Paraeducator, Special Education - Low Incidence (.88 FTE) 2021-2022 School Year",Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,25,Teaching Assistants,Assistant Teacher (Wichita),Tutor Time,3.2,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,25,Teaching Assistants,Para Educator - 2nd shift,Heartspring,3.8,"Wichita, KS",$12 - $16 an hour,Not Remote
+11, Kansas,Wichita,25,Teaching Assistants,"Paraeducator, Title Instructional Support .81FTE 2020-2021 SY",Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,25,Teaching Assistants,Assistant Teacher- Tutor Time (West 21st Street),Tutor Time Learning Centers,3.2,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,25,Teaching Assistants,Assistant Paraeducator - LRE (.50FTE) 2021-2022 School Year,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,25,Teaching Assistants,"Benefited Paraeducator -Special Education, High Incidence (.81 FTE)",Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,25,Teaching Assistants,Assistant Paraeducator - High Incidence (.74FTE) 2020-21 School Year,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,25,Teaching Assistants,Assistant Paraeducator - LRE (.50FTE) 2020-2021 School Year,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,25,Teaching Assistants,Assistant Paraeducator - LRE (.5 FTE),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,25,Teaching Assistants,Floater/Assistant Teacher,All About Kids,2.4,"Wichita, KS",$8.00 - $9.50 an hour,Not Remote
+19, Kansas,Wichita,25,Teaching Assistants,Para Educator - Weekend,Heartspring,3.8,"Wichita, KS",$12 - $16 an hour,Not Remote
+20, Kansas,Wichita,25,Teaching Assistants,Para Edcuator - 3rd Shift Weekend,Heartspring,3.8,"Wichita, KS",$12 - $16 an hour,Not Remote
+0, Kansas,Wichita,27,Illustrators,UI Artist - Unreal Engine 4,MERCER PROJECT,,United States,"$65,000 - $90,000 a year",Remote
+0, Kansas,Wichita,27,Media and Communication Workers,Inside Loan Originator,Nations Lending,3.2,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,27,Media and Communication Workers,Front End Web Designer,Berry Companies Inc.,4.0,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,27,Interior Designers,Interior Designer,Nies Homes Inc.,,"Wichita, KS",From $18 an hour,Not Remote
+1, Kansas,Wichita,27,Interior Designers,Design Assistant,Wichita Home Works LLC,,"Wichita, KS",$15 - $25 an hour,Not Remote
+2, Kansas,Wichita,27,Interior Designers,Design Assistant,Wichita Home Works LLC,,"Wichita, KS",$15 - $25 an hour,Not Remote
+3, Kansas,Wichita,27,Interior Designers,Interior Designer,Nies Homes Inc.,,"Wichita, KS",From $18 an hour,Not Remote
+4, Kansas,Wichita,27,Interior Designers,Architectural Designer,Specht Architects,,United States,Unknown,Temporarily remote
+0, Kansas,Wichita,29,Health Technologists,CT Technologist,Kansas Heart Hospital,3.9,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,29,Health Technologists,Vascular Surgeon,US Vascular Management Group,,United States,From $125 an hour,Not Remote
+2, Kansas,Wichita,29,Health Technologists,Lab Manager,Cameron Craig Group,5.0,"Wichita, KS","$65,000 - $80,000 a year",Not Remote
+3, Kansas,Wichita,29,Health Technologists,Lab Manager,NewCareers,,"Wichita, KS","$65,000 - $80,000 a year",Not Remote
+4, Kansas,Wichita,29,Health Technologists,Specimen Processing Technician,Ascension,3.7,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,29,Health Technologists,CT Technologist,Ascension Via Christi,,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,29,Health Technologists,Sonography Technologist,Ascension,3.7,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,29,Health Technologists,Medical Lab Scientist (MLS),Ascension,3.7,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,29,Health Technologists,CT Technologist,Kansas Heart Hospital,3.9,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,29,Health Technologists,Medical Lab Scientist - Microbiology,Ascension Via Christi,3.7,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,29,Health Technologists,CT Technologist PRN,Wesley Woodlawn Hospital & ER,3.3,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,29,Health Technologists,Lab Manager,Gables Search Group,5.0,"Wichita, KS","$65,000 - $80,000 a year",Not Remote
+12, Kansas,Wichita,29,Health Technologists,Allied Health job: Medical Laboratory Technologist - ASCP - Acute,McCallandLee,,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,29,Healthcare Practitioners ,Hospice Admission Nurse,Rivercross Hospice,3.1,"Wichita, KS",$33 - $35 an hour,Not Remote
+1, Kansas,Wichita,29,Healthcare Practitioners ,Medical Assistant (MA),HealthCore Clinic,,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,29,Healthcare Practitioners ,Certified Nursing Assistant (CNA),HealthCore Clinic,,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,29,Healthcare Practitioners ,Telehealth Behavioral Health Provider (Independent Contractor),Ayana Therapy,,Kansas,"$46,946 - $80,359 a year",Remote
+4, Kansas,Wichita,29,Healthcare Practitioners ,"Respiratory Therapists - $5K Sign On Available - Fishersville, VA",Augusta Health,3.6,United States,Unknown,Not Remote
+5, Kansas,Wichita,29,Healthcare Practitioners ,Medical Assistant,Wesleycare Clinic,3.6,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,29,Healthcare Practitioners ,Medical Assistant,WesleyCare - Pediatrics,3.6,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,29,Healthcare Practitioners ,Medical Assistant (MA),HealthCore Clinic,,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,29,Healthcare Practitioners ,Infection Prevention Practitioner,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,29,Healthcare Practitioners ,RN or LPN,Hermes Healthcare P.A.,,"Wichita, KS",$17 - $22 an hour,Not Remote
+10, Kansas,Wichita,29,Healthcare Practitioners ,"Territory Manager - LifeVest - Wichita West, KS",ZOLL LifeVest,3.4,"Wichita, KS",Unknown,Remote
+11, Kansas,Wichita,29,Healthcare Practitioners ,Hospice Admission Nurse,Rivercross Hospice,3.1,"Wichita, KS",$33 - $35 an hour,Not Remote
+12, Kansas,Wichita,29,Healthcare Practitioners ,Certified Nursing Assistant (CNA),HealthCore Clinic,,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,29,Healthcare Practitioners ,Respiratory Therapist (RT),"Spiras Health, Inc.",5.0,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,29,Nurse Midwives,Certified Nurse Midwife,"Willow Midwife Center for Birth and Wellness AZ, LLC",,United States,Unknown,Not Remote
+0, Kansas,Wichita,29,Therapists,Pediatric Behavioral Health Therapist,Heartspring,3.8,"Wichita, KS","$55,000 - $75,000 a year",Not Remote
+1, Kansas,Wichita,29,Therapists,Substance Abuse Licensed Therapist,Confidential,,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,29,Therapists,Occupational Therapist (OT) - SNF / LTC,Centra Healthcare Solutions,4.4,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,29,Therapists,Therapist,Community Solutions Inc,3.0,"Sedgwick County, KS","$43,000 - $47,000 a year",Not Remote
+4, Kansas,Wichita,29,Therapists,Licensed Mental Health Therapists - Kansas Licensing,Resolutions Therapy,,"Wichita, KS",$35.00 - $71.50 an hour,Remote
+5, Kansas,Wichita,29,Therapists,Occupational Therapist Full Time Mon-Fri No week ends No Holidays,Legacy Healthcare Services,3.0,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,29,Therapists,Behavioral Health Technician - Full time - Evenings 7pm-7am,KVC Hospitals Inc.,3.1,"Wichita, KS",$15 an hour,Not Remote
+7, Kansas,Wichita,29,Therapists,Social Worker,Healthcare Resort of Wichita,,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,29,Therapists,"Therapist, LSCSW",Health Ministries Clinic,3.7,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,29,Therapists,Behavioral Health Utilization Manager,Sunflower State Health Plan,3.2,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,29,Therapists,Occupational Therapist (OT) - Home Health,Encompass Health,3.4,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,29,Therapists,Social Worker,Life Care Center of Wichita,3.2,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,29,Therapists,Physical Therapist,INNOVATIVE PHYSICAL THERAPY,,"Wichita, KS","$60,000 - $80,000 a year",Not Remote
+13, Kansas,Wichita,29,Therapists,Clinical Manager - Home Health,Ascension at Home – Together with Compassus,2.3,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,29,Therapists,Eyewear Addiction Specialist,Eyewear Junkie,,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,29,Therapists,Clinical Supervisor,Saint Francis Community and Residential,,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,29,Therapists,Pediatric Behavioral Health Therapist,Heartspring,3.8,"Wichita, KS","$55,000 - $75,000 a year",Not Remote
+17, Kansas,Wichita,29,Therapists,Behavioral Health/Mental Health Therapist,DCCCA,4.4,"Wichita, KS",$22 - $23 an hour,Not Remote
+18, Kansas,Wichita,29,Therapists,Mental Health Counselor,Wichita Children's Home,2.9,"Wichita, KS","From $41,647 a year",Not Remote
+19, Kansas,Wichita,29,Therapists,Home Health Occupational Therapist,Larksfield Place,3.7,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,29,Therapists,"Occupational Therapist, Full-Time Home Health","Summit Care, Inc.",5.0,"Wichita, KS",Unknown,Not Remote
+21, Kansas,Wichita,29,Therapists,Social Worker - LMSW - Behavioral Health,Ascension,3.7,"Wichita, KS",Unknown,Not Remote
+22, Kansas,Wichita,29,Therapists,Social Worker MSW,DaVita,3.4,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,29,Therapists,Licensed Clinical Social Worker (Part Time),Medical Director Services PC,,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,29,Therapists,Behavioral Health Technician - Full time - Days 7am-7pm,KVC Hospitals Inc.,3.1,"Wichita, KS",$15 an hour,Not Remote
+25, Kansas,Wichita,29,Therapists,PCIT - Therapist,TFI Family Services,2.9,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,29,Therapists,Respiratory Therapist (RT),"Spiras Health, Inc.",5.0,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,29,Therapists,Occupational Therapist PRN,Brookdale Home Health,2.9,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,29,Therapists,Licensed Clinical Psychologist,CHE Behavioral Health Services,3.2,"Wichita, KS",Unknown,Not Remote
+29, Kansas,Wichita,29,Therapists,Physical Therapist Assistant - PRN,Reliant Rehabilitation,2.9,"Haysville, KS",Unknown,Not Remote
+30, Kansas,Wichita,29,Therapists,Clinical Supervisor,TFI Family Services,2.9,"Wichita, KS",Unknown,Not Remote
+31, Kansas,Wichita,29,Therapists,Pediatric Clinical Specialist Registered Respiratory Therapist,Wesley Medical Center,3.8,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,29,Therapists,Physical Therapist (PT) Per-Diem,Centers Health Care,3.7,"Wichita, KS",Unknown,Not Remote
+33, Kansas,Wichita,29,Therapists,Occupational Therapist (OT) Per Diem,Centers Health Care,3.7,"Wichita, KS",Unknown,Not Remote
+34, Kansas,Wichita,29,Therapists,Social Worker - LMSW - Behavioral Health,Ascension,3.7,"Wichita, KS",Unknown,Not Remote
+35, Kansas,Wichita,29,Therapists,Occupational Therapist,Phoenix Home Care and Hospice,3.4,"Wichita, KS",Unknown,Not Remote
+36, Kansas,Wichita,29,Therapists,Home Health Speech Therapist - PRN,Phoenix Home Care and Hospice,3.4,"Wichita, KS",Unknown,Not Remote
+37, Kansas,Wichita,29,Therapists,Home Health Physical Therapist,Phoenix Home Care and Hospice,3.4,"Wichita, KS",Unknown,Not Remote
+38, Kansas,Wichita,29,Therapists,"Physical Therapist, PRN Home Health","Summit Care, Inc.",5.0,"Wichita, KS",Unknown,Not Remote
+39, Kansas,Wichita,29,Therapists,"Full-Time, Remote Licensed Therapist",Lyra Health,4.6,United States,Unknown,Remote
+40, Kansas,Wichita,29,Therapists,Occupational Therapist Full Time Mon-Fri No week ends No Holidays,Legacy Healthcare Services,3.0,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,31,Psychiatric Aides,Police Officer (Instructor),US Department of Veterans Affairs,3.8,"Wichita, KS","$50,860 - $66,120 a year",Not Remote
+0, Kansas,Wichita,31,Physical Therapist Assistants ,Physical Therapist Assistant,"PHYSICAL THERAPY CARE, CLOVIS, NM",,United States,$19 - $30 an hour,Not Remote
+1, Kansas,Wichita,31,Physical Therapist Assistants ,Physical Therapist Assistant - PRN,Reliant Rehabilitation,2.9,"Haysville, KS",Unknown,Not Remote
+0, Kansas,Wichita,31,Occupational Therapy and Physical Therapist Assistants ,Occupational Therapy Assistant / COTA,Aegis Therapies,3.2,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,31,Occupational Therapy and Physical Therapist Assistants ,Home Health Occupational Therapist,Larksfield Place,3.7,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,31,Occupational Therapy and Physical Therapist Assistants ,"Occupational Therapist, Full-Time Home Health","Summit Care, Inc.",5.0,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,31,Occupational Therapy and Physical Therapist Assistants ,"Occupational Therapy Assistant, PRN Home Health","Summit Care, Inc.",5.0,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,31,Occupational Therapy and Physical Therapist Assistants ,Occupational Therapist PRN,Brookdale Home Health,2.9,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,33,Protective Service Workers,BBQ and Outdoor product assembler,QuickContractors.com Inc.,,"Wichita, KS",$20 - $30 an hour,Not Remote
+1, Kansas,Wichita,33,Protective Service Workers,Resolution Specialist,"Account Recovery Specialists, Inc.",,"Wichita, KS",$16 - $18 an hour,Not Remote
+2, Kansas,Wichita,33,Protective Service Workers,RN/LPN Charge Nurse-SIGN ON BONUS,KMH,2.7,"Wichita, KS",$20 - $32 an hour,Not Remote
+3, Kansas,Wichita,33,Protective Service Workers,Certified Medication Aide (CMA)-7p-7a SIGN ON BONUS,KMH,2.7,"Wichita, KS",$13.50 - $14.50 an hour,Not Remote
+4, Kansas,Wichita,33,Protective Service Workers,Administrative Assistant to Vice President of Collections,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+5, Kansas,Wichita,33,Protective Service Workers,Administrative Assistant to Vice President of Legal,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+6, Kansas,Wichita,33,Protective Service Workers,Retail Specialist/Merchandiser,Standard Beverage Corporation,3.3,"Wichita, KS",$14 an hour,Not Remote
+7, Kansas,Wichita,33,Protective Service Workers,Dock Worker/Forklift Operator (Part-Time),Saia LTL Freight,3.2,"Wichita, KS",$18.12 - $24.21 an hour,Not Remote
+8, Kansas,Wichita,33,Protective Service Workers,Tire Service Technician,Discount Tire,4.0,"Wichita, KS",$11 - $15 an hour,Not Remote
+9, Kansas,Wichita,33,Protective Service Workers,Housekeeping Svc Attnd,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,33,Protective Service Workers,Service Writer,Harper Camperland,,"Park City, KS",$16 - $18 an hour,Not Remote
+11, Kansas,Wichita,33,Protective Service Workers,Resolution Specialist,"Account Recovery Specialists, Inc.",,"Wichita, KS",$16 - $18 an hour,Not Remote
+12, Kansas,Wichita,33,Protective Service Workers,Service Technician,Harper Camperland,,"Park City, KS",$16 - $18 an hour,Not Remote
+13, Kansas,Wichita,33,Protective Service Workers,Administrative Assistant to Vice President of Collections,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+14, Kansas,Wichita,33,Protective Service Workers,Housekeeper,"Healthcare Services Group, Inc.",2.6,"Haysville, KS",Unknown,Not Remote
+15, Kansas,Wichita,33,Protective Service Workers,Field Service Technician,"Cogent, Inc.",,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,33,Protective Service Workers,Retail Specialist/Merchandiser,Standard Beverage Corporation,3.3,"Wichita, KS",$14 an hour,Not Remote
+17, Kansas,Wichita,33,Protective Service Workers,"Therapist, LSCSW",Health Ministries Clinic,3.7,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,33,Protective Service Workers,House Cleaner,Fresh Start Cleaning Services,4.0,"Wichita, KS",$9 - $15 an hour,Not Remote
+19, Kansas,Wichita,33,Protective Service Workers,Laundry Worker,"Healthcare Services Group, Inc.",2.6,"Haysville, KS",Unknown,Not Remote
+20, Kansas,Wichita,33,Protective Service Workers,Fiscal Assistant,Sedgwick County Sheriff's Office,3.1,"Wichita, KS",$13.30 an hour,Not Remote
+21, Kansas,Wichita,33,Protective Service Workers,Housekeeping Svc Attnd,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+22, Kansas,Wichita,33,Protective Service Workers,Housekeeping Svc Attnd,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,33,Protective Service Workers,Service Technician/Forklift Mechanic,Berry Material Handling,3.1,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,33,Protective Service Workers,Service Technician/Forklift Mechanic,Berry Material Handling,4.0,"Wichita, KS",Unknown,Not Remote
+25, Kansas,Wichita,33,Protective Service Workers,Shop Foreman,Berry Material Handling,4.0,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,33,Protective Service Workers,Shop Foreman,Berry Material Handling,3.1,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,33,Protective Service Workers,PRN Temporary Housekeeper,"Healthcare Services Group, Inc.",2.6,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,33,Protective Service Workers,Floor Tech,"Healthcare Services Group, Inc.",2.6,"Haysville, KS",Unknown,Not Remote
+29, Kansas,Wichita,33,Protective Service Workers,PRN Temporary Laundry Worker,"Healthcare Services Group, Inc.",2.6,"Wichita, KS",Unknown,Not Remote
+30, Kansas,Wichita,33,Protective Service Workers,Mental Health Counselor,Wichita Children's Home,2.9,"Wichita, KS","From $41,647 a year",Not Remote
+31, Kansas,Wichita,33,Protective Service Workers,Clinical Manager - Home Health,Ascension at Home – Together with Compassus,2.3,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,33,Protective Service Workers,Sales Representative,Colonial Life & Accident Insurance Company,,"Wichita, KS",Unknown,Not Remote
+33, Kansas,Wichita,33,Protective Service Workers,PRN Temporary Housekeeper,"Healthcare Services Group, Inc.",2.6,"Wichita, KS",Unknown,Not Remote
+34, Kansas,Wichita,33,Protective Service Workers,PRN Temporary Laundry Worker,"Healthcare Services Group, Inc.",2.6,"Haysville, KS",Unknown,Not Remote
+35, Kansas,Wichita,33,Protective Service Workers,PRN Temporary Laundry Worker,"Healthcare Services Group, Inc.",2.6,"Wichita, KS",Unknown,Not Remote
+36, Kansas,Wichita,33,Protective Service Workers,Administrative Assistant to Vice President of Legal,"Account Recovery Specialists, Inc.",,"Wichita, KS",$13 - $15 an hour,Not Remote
+37, Kansas,Wichita,33,Protective Service Workers,PRN Temporary Floor Tech,"Healthcare Services Group, Inc.",2.6,"Wichita, KS",Unknown,Not Remote
+38, Kansas,Wichita,33,Protective Service Workers,PRN Temporary Housekeeper,"Healthcare Services Group, Inc.",2.6,"Haysville, KS",Unknown,Not Remote
+39, Kansas,Wichita,33,Protective Service Workers,PRN Temporary Floor Tech,"Healthcare Services Group, Inc.",2.6,"Haysville, KS",Unknown,Not Remote
+0, Kansas,Wichita,33,Private  Investigators,Private Investigator/Process Server,"Red Spade Investigations, Inc",,"Wichita, KS",$12 - $20 an hour,Not Remote
+0, Kansas,Wichita,33,Miscellaneous Protective Service Workers,Fiscal Assistant,Sedgwick County Sheriff's Office,3.1,"Wichita, KS",$13.30 an hour,Not Remote
+0, Kansas,Wichita,35,Waitresses,Food Server,B&C Barbeque,,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,35,Waitresses,Server,PUBLIC AT THE BRICKYARD,3.6,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,35,Waitresses,Restaurant Server,"Best Western , Country Kitchen",,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,35,Waitresses,Server,Longhorn Steakhouse,3.9,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,35,Waitresses,Restaurant Server,"Best Western , Country Kitchen",,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Wichita, KS",$9 - $12 an hour,Not Remote
+6, Kansas,Wichita,35,Waitresses,Server,"HuHot Mongolian Grill | CCW, LLC",3.6,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,35,Waitresses,Fine Dining Server,The Sweet Spot,4.0,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,35,Waitresses,Server,"Applebee's | Thrive Together, LLC",,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,35,Waitresses,Server,Bricktown Brewery,4.2,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,35,Waitresses,Restaurant Server,Todd Brians Old Town LLC,,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,35,Waitresses,Server,On The Border Mexican Grill and Cantina,3.6,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,35,Waitresses,Food Server,B&C Barbeque,,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,35,Waitresses,Restaurant Server,Old Spaghetti Factory,3.6,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,35,Waitresses,Server,Texas Roadhouse,3.9,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,35,Waitresses,"Server, busser. host, manager, bartender & linecook",Blue Hook Cajun Seafood & Bar,,"Wichita, KS",$7.25 - $20.00 an hour,Not Remote
+16, Kansas,Wichita,35,Waitresses,Server Assistant - Busser – Bubbas 33,Texas Roadhouse,3.9,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,35,Waitresses,Server,Carlos O'Kelly's,3.6,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,35,Waitresses,Server,Carrabba's Italian Grill,3.8,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,35,Waitresses,Server - IHOP @ 29th & Maize,IHOP - 29th & Maize,,"Wichita, KS",$8 - $19 an hour,Not Remote
+20, Kansas,Wichita,35,Waitresses,Bartender and Server,Buffalo Wild Wings,3.6,"Wichita, KS",Unknown,Not Remote
+21, Kansas,Wichita,35,Waitresses,ALLEY OF WICHITA - SNACK BAR ATTENDANT / WAITRESS,The Alley Indoor Entertainment,3.3,"Wichita, KS",$10 an hour,Not Remote
+22, Kansas,Wichita,35,Waitresses,Server,Red Robin | Eat PB & J,,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,35,Waitresses,Server,"Applebee's | Thrive Together, LLC",,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,35,Waitresses,Server,Outback Steakhouse,3.8,"Wichita, KS",Unknown,Not Remote
+25, Kansas,Wichita,35,Waitresses,Food and Beverage Server,AJ's Sports Grill at Northrock Lanes,,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,35,Waitresses,Server / Waiter,Old Chicago Pizza and Taproom,3.6,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,35,Waitresses,KONA ICE MANGER / SERVER,Kona Ice of Greater Wichita,,"Wichita, KS",$12 - $15 an hour,Not Remote
+28, Kansas,Wichita,35,Waitresses,Server Assistant - Busser,Texas Roadhouse,3.9,"Wichita, KS",Unknown,Not Remote
+29, Kansas,Wichita,35,Waitresses,Server,Carlos O'Kelly's,3.6,"Wichita, KS",Unknown,Not Remote
+30, Kansas,Wichita,35,Waitresses,Server,On The Border Mexican Grill and Cantina,3.6,"Wichita, KS",Unknown,Not Remote
+31, Kansas,Wichita,35,Waitresses,Wait Staff/Server,M.I.F. Deli,,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,35,Waitresses,Server,"Applebee's | Thrive Together, LLC",,"Park City, KS",Unknown,Not Remote
+33, Kansas,Wichita,35,Waitresses,Server,Newport Grill | Eat PB & J,,"Wichita, KS",Unknown,Not Remote
+34, Kansas,Wichita,35,Waitresses,ALLEY OF WICHITA - BOWLING / GAME ROOM / SERVICE ATTENDANT,The Alley Indoor Entertainment,3.3,"Wichita, KS",From $7.50 an hour,Not Remote
+35, Kansas,Wichita,35,Waitresses,Cooker/Server/Bartender/Prepper/Manager,HEADZ & TAILZ,,"Wichita, KS",Unknown,Not Remote
+36, Kansas,Wichita,35,Waitresses,Server/Bartender/Host,Larkspur Bistro & Bar,3.0,"Wichita, KS",Unknown,Not Remote
+37, Kansas,Wichita,35,Waitresses,Restaurant Server,Sapporo sushi restaurant,,"Wichita, KS",Unknown,Not Remote
+38, Kansas,Wichita,35,Waitresses,Team Member (PT),La Raza Pizza,3.3,"Wichita, KS",Unknown,Not Remote
+39, Kansas,Wichita,35,Waitresses,Server,JOSE PEPPERS,3.4,"Wichita, KS",$8 - $19 an hour,Not Remote
+40, Kansas,Wichita,35,Waitresses,Server,Abuelo's,3.8,"Wichita, KS",Unknown,Not Remote
+41, Kansas,Wichita,35,Waitresses,Wait Staff/Server,Sam's Southern Eatery,3.6,"Wichita, KS",$7.25 - $8.00 an hour,Not Remote
+42, Kansas,Wichita,35,Waitresses,Siena Steakhouse - AM Sever,Coury Hospitality,,"Wichita, KS",Unknown,Not Remote
+43, Kansas,Wichita,35,Waitresses,Server,Abuelo's,3.8,"Wichita, KS",Unknown,Not Remote
+44, Kansas,Wichita,35,Waitresses,Server,Oxford Grand at New Market,1.7,"Wichita, KS",Unknown,Not Remote
+45, Kansas,Wichita,35,Waitresses,Restaurant Server,Buffalo Wild Wings,3.6,"Wichita, KS",Unknown,Not Remote
+46, Kansas,Wichita,35,Waitresses,Bartender and Server,The Grille at Reflection Ridge Golf Club,,"Wichita, KS",$8 an hour,Not Remote
+47, Kansas,Wichita,35,Waitresses,server,Saltgrass Wichita,3.2,"Wichita, KS",Unknown,Not Remote
+48, Kansas,Wichita,35,Waitresses,Server - Bubbas 33,Bubbas 33,3.8,"Wichita, KS",Unknown,Not Remote
+49, Kansas,Wichita,35,Waitresses,"Server, Host",Abuelo's,,"Wichita, KS",Unknown,Not Remote
+50, Kansas,Wichita,35,Waitresses,Server,Bricktown Brewery,4.2,"Wichita, KS",Unknown,Not Remote
+51, Kansas,Wichita,35,Waitresses,Server,Carrabba’s Italian Grill,3.8,"Wichita, KS",Unknown,Not Remote
+52, Kansas,Wichita,35,Waitresses,Siena Steakhouse - PM Server,Coury Hospitality,,"Wichita, KS",Unknown,Not Remote
+53, Kansas,Wichita,35,Waitresses,"Server, busser. host, manager, bartender & linecook",Blue Hook Cajun Seafood & Bar,,"Wichita, KS",$7.25 - $20.00 an hour,Not Remote
+54, Kansas,Wichita,35,Waitresses,Food Server,Chili's Grill and Bar,3.7,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,35,Food Preparation,Texas Roadhouse Kitchen Manager,Texas Roadhouse,3.9,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,35,Food Preparation,Chef de Partie (Expedition Cruise Ship),Lindblad Expeditions,3.1,United States,Unknown,Not Remote
+2, Kansas,Wichita,35,Food Preparation,Papa John's Assistant Manager,Papa John's,3.5,"Park City, KS",$12 an hour,Not Remote
+3, Kansas,Wichita,35,Food Preparation,Food Service Aide 3 (Benefited) - (2 positions available),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,35,Food Preparation,"Nutrition Distribution I, Food Production Center",Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,35,Food Preparation,Canning Line Packer - - 1st Shift,Bev-Hub,,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,35,Food Preparation,Veterinary Receptionist,Pet Haven Veterinary Clinic,,"Wichita, KS",From $10 an hour,Not Remote
+7, Kansas,Wichita,35,Food Preparation,Food Service Director in Training,"Trinity Services Group, Inc.",2.9,"Wichita, KS","Up to $45,000 a year",Not Remote
+8, Kansas,Wichita,35,Food Preparation,Room Service Operator,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,35,Food Preparation,Cook / Food Prep,Bright Minds Learning Center,3.6,"Wichita, KS",$10 - $11 an hour,Not Remote
+10, Kansas,Wichita,35,Food Preparation,Cinnabon - Crew Member,Kwik Shop,3.4,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,35,Food Preparation,Nutrition Services Lead (Benefited),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,35,Food Preparation,Zoo Community Engagement Coordinator,GLMV Architecture,3.4,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,35,Food Preparation,Team Member/Cashier,Firehouse Subs 980,,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,35,Food Preparation,Dining Associate,KMH,2.7,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,35,Food Preparation,Kitchen Crew Member,"Dairy Queen | Neill Enterprises, LLC",3.6,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,35,Food Preparation,Dishwasher,"Applebee's | Thrive Together, LLC",,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,35,Food Preparation,Taco John's - Team Member,Kwik Shop,3.4,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,35,Food Preparation,Team Member,Firehouse Subs,3.5,"Wichita, KS",$8.50 - $10.00 an hour,Not Remote
+19, Kansas,Wichita,35,Food Preparation,Bartender and Server,Buffalo Wild Wings,3.6,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,35,Food Preparation,Kitchen Crew Member,"Dairy Queen | Neill Enterprises, LLC",3.6,"Wichita, KS",Unknown,Not Remote
+21, Kansas,Wichita,35,Food Preparation,Cook I,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+22, Kansas,Wichita,35,Food Preparation,Health Care Center Dietary Aide,Larksfield Place,3.7,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,35,Food Preparation,Cinnabon - Crew Leader,Kwik Shop,3.4,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,35,Food Preparation,Part Time Sales Associate,"Great American Cookies | The Cookie Place, Inc.",3.6,"Wichita, KS",Unknown,Not Remote
+25, Kansas,Wichita,35,Food Preparation,Dishwasher,"Applebee's | Thrive Together, LLC",,"Park City, KS",Unknown,Not Remote
+26, Kansas,Wichita,35,Food Preparation,Bartender,Old Chicago Pizza and Taproom,3.6,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,35,Food Preparation,Prep Cook,"Applebee's | Thrive Together, LLC",,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,35,Food Preparation,Team Member,Firehouse Subs,3.5,"Wichita, KS",$9.50 - $10.50 an hour,Not Remote
+29, Kansas,Wichita,35,Food Preparation,Customer Service Representative / Pizza Maker (47th and Broadway),Domino's,3.6,"Wichita, KS",From $8 an hour,Not Remote
+30, Kansas,Wichita,35,Food Preparation,Line Cook,"Applebee's | Thrive Together, LLC",,"Wichita, KS",Unknown,Not Remote
+31, Kansas,Wichita,35,Food Preparation,Cook,"Healthcare Services Group, Inc.",2.6,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,35,Food Preparation,Server,Oxford Grand at New Market,1.7,"Wichita, KS",Unknown,Not Remote
+33, Kansas,Wichita,35,Food Preparation,Line Cook,Twin Peaks | Eat PB & J,,"Wichita, KS",Unknown,Not Remote
+34, Kansas,Wichita,35,Food Preparation,COOK (FULL-TIME),Compass Group,3.3,"Wichita, KS",Unknown,Not Remote
+35, Kansas,Wichita,35,Food Preparation,Texas Roadhouse Kitchen Manager,Texas Roadhouse,3.9,"Wichita, KS",Unknown,Not Remote
+36, Kansas,Wichita,35,Food Preparation,Grill Cook,Logan's Roadhouse,3.5,"Wichita, KS",Unknown,Not Remote
+37, Kansas,Wichita,35,Food Preparation,Meat/Seafood Clerk,Sprouts Farmers Market,3.1,"Wichita, KS",Unknown,Not Remote
+38, Kansas,Wichita,35,Food Preparation,Cook 3,Hyatt Regency Wichita,4.1,"Wichita, KS",Unknown,Not Remote
+39, Kansas,Wichita,35,Food Preparation,Deli Associate - Bradley Fair,GreenAcres Market,2.6,"Wichita, KS",$10 - $12 an hour,Not Remote
+40, Kansas,Wichita,35,Food Preparation,General Manager,Long John Silver's,3.5,"Wichita, KS",Unknown,Not Remote
+41, Kansas,Wichita,35,Food Preparation,"COOK, NIGHT (FULL-TIME)",Compass Group,3.3,"Wichita, KS",Unknown,Not Remote
+42, Kansas,Wichita,35,Food Preparation,ASST STORE MGR,Dollar General,3.1,"Wichita, KS",Unknown,Not Remote
+43, Kansas,Wichita,35,Food Preparation,Dietary Cook,Homestead of Wichita,3.5,"Wichita, KS",Unknown,Not Remote
+44, Kansas,Wichita,35,Food Preparation,ASST STORE MGR,Dollar General,3.1,"Wichita, KS",Unknown,Not Remote
+45, Kansas,Wichita,35,Food Preparation,Preschool Cook/Chef,Plymouth Preschool Learning Center,,"Wichita, KS",$9 - $11 an hour,Not Remote
+46, Kansas,Wichita,35,Food Preparation,Shift Lead,Taco Bell | Taco Bell of America Inc dba Taco Bell,3.5,"Wichita, KS",Unknown,Not Remote
+47, Kansas,Wichita,35,Food Preparation,Prep Cook,"Applebee's | Thrive Together, LLC",,"Park City, KS",Unknown,Not Remote
+48, Kansas,Wichita,35,Food Preparation,ASST STORE MGR,Dollar General,3.1,"Wichita, KS",Unknown,Not Remote
+49, Kansas,Wichita,35,Food Preparation,ASST STORE MGR,Dollar General,3.1,"Wichita, KS",Unknown,Not Remote
+50, Kansas,Wichita,35,Food Preparation,Line Cook,"Applebee's | Thrive Together, LLC",,"Wichita, KS",Unknown,Not Remote
+51, Kansas,Wichita,35,Food Preparation,ASST STORE MGR,Dollar General,3.1,"Wichita, KS",Unknown,Not Remote
+52, Kansas,Wichita,35,Food Preparation,ASST STORE MGR,Dollar General,3.1,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,35,Food Serving,Server,PUBLIC AT THE BRICKYARD,3.6,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,35,Food Serving,Assistant Restaurant Manager,B&C Barbeque,,"Wichita, KS",$12 - $16 an hour,Not Remote
+2, Kansas,Wichita,35,Food Serving,Server,On The Border Mexican Grill and Cantina,3.6,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,35,Food Serving,Food Service Aide 3 (Benefited) - (2 positions available),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,35,Food Serving,Team Member,KFC | Northwest Restaurants Inc.,3.5,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,35,Food Serving,FOOD SERVICE WORKER (PART-TIME),Compass Group,3.3,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,35,Food Serving,"Cashier/Food Service Worker - McConnell AFB - Wichita, KS",Training Rehabilitation and Development Institute,,"McConnell AFB, KS",Unknown,Not Remote
+7, Kansas,Wichita,35,Food Serving,Service Staff,Planet Sub,,"Wichita, KS",$9 - $12 an hour,Not Remote
+8, Kansas,Wichita,35,Food Serving,Room Service Operator,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,35,Food Serving,FOOD SVC WORKER (FULL & PART-TIME),Compass Group,3.3,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,35,Food Serving,"Cashier/Food Service Worker - McConnell AFB - Wichita, KS","Training, Rehabilitation & Development",,"McConnell AFB, KS",$15.30 an hour,Not Remote
+11, Kansas,Wichita,35,Food Serving,Restaurant Team Member - Crew (547 - Hillside),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,35,Food Serving,TPG (Twin Peaks Girl),Twin Peaks | Eat PB & J,,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,35,Food Serving,Bid Coordinator / Administrator,Trane Technologies,3.3,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,35,Food Serving,Food and Beverage Server,AJ's Sports Grill at Northrock Lanes,,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,35,Food Serving,Part-time Barista,Scooter's Coffeehouse,3.9,"Wichita, KS",$8 an hour,Not Remote
+16, Kansas,Wichita,35,Food Serving,HOUSEKEEPER F (FULL & PART TIME),Compass Group,3.3,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,35,Food Serving,Cinnabon - Crew Member,Kwik Shop,3.4,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,35,Food Serving,Host – Bubbas 33,Bubbas 33,3.8,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,35,Food Serving,Healthcare Host-Hostess,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,35,Food Serving,Nutrition Services Lead (Benefited),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+21, Kansas,Wichita,35,Food Serving,Team Member [Wingstop],Wingstop | Vibe Restaurants,3.5,"Wichita, KS",Unknown,Not Remote
+22, Kansas,Wichita,35,Food Serving,Team Member/Cashier,Firehouse Subs 980,,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,35,Food Serving,Restaurant Team Member - Crew (1952 - Maple & Ridge),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,35,Food Serving,Busser,Old Chicago Pizza and Taproom,3.6,"Wichita, KS",Unknown,Not Remote
+25, Kansas,Wichita,35,Food Serving,Server,"Applebee's | Thrive Together, LLC",,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,35,Food Serving,Fine Dining Server,The Sweet Spot,4.0,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,35,Food Serving,Head Cashier,Sprouts Farmers Market,3.1,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,35,Food Serving,Team Member,KFC | Northwest Restaurants Inc.,3.5,"Park City, KS",Unknown,Not Remote
+29, Kansas,Wichita,35,Food Serving,Dining Associate,KMH,2.7,"Wichita, KS",Unknown,Not Remote
+30, Kansas,Wichita,35,Food Serving,Server,Carlos O'Kelly's,3.6,"Wichita, KS",Unknown,Not Remote
+31, Kansas,Wichita,35,Food Serving,Assistant Manager - Operations,Veterans Canteen Service,3.2,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,35,Food Serving,Server,On The Border Mexican Grill and Cantina,3.6,"Wichita, KS",Unknown,Not Remote
+33, Kansas,Wichita,35,Food Serving,Restaurant Team Member - Crew (3508 - 21st & Amidon),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+34, Kansas,Wichita,35,Food Serving,Server and Cashier.,Panda Kitchen,,"Valley Center, KS",$10.25 - $13.00 an hour,Not Remote
+35, Kansas,Wichita,35,Food Serving,Server,Texas Roadhouse,3.9,"Wichita, KS",Unknown,Not Remote
+36, Kansas,Wichita,35,Food Serving,Host,Texas Roadhouse,3.9,"Wichita, KS",Unknown,Not Remote
+37, Kansas,Wichita,35,Food Serving,Dishwasher,Old Chicago Pizza and Taproom,3.6,"Wichita, KS",Unknown,Not Remote
+38, Kansas,Wichita,35,Food Serving,Part-Time Barista Central & Ridge,Scooter's Coffee,3.3,"Wichita, KS",$8.00 - $8.50 an hour,Not Remote
+39, Kansas,Wichita,35,Food Serving,Team Member [Wingstop],Wingstop | Vibe Restaurants,3.5,"Wichita, KS",Unknown,Not Remote
+40, Kansas,Wichita,35,Food Serving,Host,Abuelo's,3.8,"Wichita, KS",Unknown,Not Remote
+41, Kansas,Wichita,35,Food Serving,Server,Red Robin | Eat PB & J,,"Wichita, KS",Unknown,Not Remote
+42, Kansas,Wichita,35,Food Serving,Team Member,Firehouse Subs,3.5,"Wichita, KS",$8.50 - $10.00 an hour,Not Remote
+43, Kansas,Wichita,35,Food Serving,Server,"Applebee's | Thrive Together, LLC",,"Wichita, KS",Unknown,Not Remote
+44, Kansas,Wichita,35,Food Serving,Server / Waiter,Old Chicago Pizza and Taproom,3.6,"Wichita, KS",Unknown,Not Remote
+45, Kansas,Wichita,35,Food Serving,KONA ICE MANGER / SERVER,Kona Ice of Greater Wichita,,"Wichita, KS",$12 - $15 an hour,Not Remote
+46, Kansas,Wichita,35,Food Serving,FOOD SERVICE WORKER (FULL-TIME),Compass Group,3.3,"Wichita, KS",Unknown,Not Remote
+47, Kansas,Wichita,35,Food Serving,Kona Ice Driver/Kona Ice Event Specialist,Kona Ice of Central Wichita and Mulvane,,"Wichita, KS",$11 - $15 an hour,Not Remote
+48, Kansas,Wichita,35,Food Serving,Cook I,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+49, Kansas,Wichita,35,Food Serving,Cinnabon - Crew Leader,Kwik Shop,3.4,"Wichita, KS",Unknown,Not Remote
+50, Kansas,Wichita,35,Food Serving,Server,Carlos O'Kelly's,3.6,"Wichita, KS",Unknown,Not Remote
+51, Kansas,Wichita,35,Food Serving,Assistant Store Manager,Papa's Partners LLC DBA Papa Murphy's,3.6,"Wichita, KS",$12 an hour,Not Remote
+52, Kansas,Wichita,35,Food Serving,Wait Staff/Server,M.I.F. Deli,,"Wichita, KS",Unknown,Not Remote
+53, Kansas,Wichita,35,Food Serving,Wait Staff/Server,Sam's Southern Eatery,3.6,"Wichita, KS",$7.25 - $8.00 an hour,Not Remote
+54, Kansas,Wichita,35,Food Serving,Kona Ice Driver/Kona Ice Event Specialist,Kona Ice of Central Wichita and Mulvane,,"Wichita, KS",$11 - $15 an hour,Not Remote
+55, Kansas,Wichita,35,Food Serving,Server and Cashier.,Panda Kitchen,,"Valley Center, KS",$10.25 - $13.00 an hour,Not Remote
+0, Kansas,Wichita,37,Building and Grounds  Maintenance,Production Maintenance Tech I - Wichita,"BG Products, Inc.",,"Wichita, KS",$17.50 an hour,Not Remote
+1, Kansas,Wichita,37,Building and Grounds  Maintenance,Loader Operator,Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,37,Building and Grounds  Maintenance,Biodiesel Technician,Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,37,Building and Grounds  Maintenance,Production Maintenance Tech I - Wichita,"BG Products, Inc.",,"Wichita, KS",$17.50 an hour,Not Remote
+4, Kansas,Wichita,37,Building and Grounds  Maintenance,Merchandise Handler,Slumberland Furniture,3.6,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,37,Building and Grounds  Maintenance,Maintenance Technician,Corridor Property Management,,"Wichita, KS",$14.50 - $15.50 an hour,Not Remote
+6, Kansas,Wichita,37,Building and Grounds  Maintenance,Loader Operator,Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,37,Building and Grounds  Maintenance,Maintenance,Midwest Health Consulting,3.3,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,37,Building and Grounds  Maintenance,Maintenance Technician,CBRE,3.7,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,37,Building and Grounds  Maintenance,Custodian - PT/Weekends,Village Travel Llc,4.1,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,37,Building and Grounds  Maintenance,Maintenance Technician,Brookdale Senior Living,2.9,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,37,Building and Grounds  Maintenance,Facilities Manager,Wichita Children's Home,2.9,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,37,Building and Grounds  Maintenance,Facilities Manager,Health Ministries Clinic,3.7,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,37,Building and Grounds  Maintenance,Construction Laborer,Dondlinger & Sons Construction Co Inc,,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,37,Building and Grounds  Maintenance,"Material Support, Intern",Bombardier,3.8,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,37,Building and Grounds  Maintenance,Simulator Technician I,FlightSafety International,3.6,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,37,Building and Grounds  Maintenance,Maintenance Technician - Windridge,The Michaels Organization,3.4,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,37,Building and Grounds  Maintenance,Biodiesel Technician,Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,37,Building and Grounds  Maintenance,HVAC Engineer,CBRE,3.7,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,37,Building and Grounds  Maintenance,Maintenance Technician,"Christian Relief Services Charities, Inc",,"Wichita, KS",$12 - $15 an hour,Not Remote
+20, Kansas,Wichita,37,Building and Grounds  Maintenance,"Porter - Wichita, KS",Kellermeyer Bergensons Services,3.0,"Wichita, KS",Unknown,Not Remote
+21, Kansas,Wichita,37,Building and Grounds  Maintenance,Groundskeeper - Somerset Plaza Tower Apartments,Monroe Group Ltd.,,"Wichita, KS",$13 an hour,Not Remote
+22, Kansas,Wichita,37,Building and Grounds  Maintenance,Field Inspector (Contractors & Adjusters),Seek Now,,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,37,Building and Grounds  Maintenance,Laborer (O) - 616 - Street Maintenance,City of Wichita,3.7,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,37,Building and Grounds  Maintenance,Paid Ads (PPC) Team Leader - PPC Marketing Program Development Leader,PlacementSEO,,United States,$25 - $35 an hour,Remote
+0, Kansas,Wichita,37,Pest Control,Outside Sales Consultant,Terminix Pest Control International,3.0,"Wichita, KS","$35,000 - $55,000 a year",Remote
+1, Kansas,Wichita,37,Pest Control,Sales Representative,Moxie Pest Control,3.5,United States,"$32,499 - $129,959 a year",Remote
+2, Kansas,Wichita,37,Pest Control,Pest Control Technician,Orkin LLC,3.2,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,37,Pest Control,Pest Control Technician,Orkin LLC,3.2,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,37,Pest Control,Pest Control Technician,Orkin LLC,3.2,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,37,Pest Control,Field Technician,Mosquito Joe of Topeka-Lawrence,,"Wichita, KS",$18 an hour,Not Remote
+6, Kansas,Wichita,37,Pest Control,Field Service Technician,Eco Curve Pest Solutions,,"Wichita, KS",$12.50 - $14.50 an hour,Not Remote
+7, Kansas,Wichita,37,Pest Control,Sales Representative,Moxie Pest Control,3.5,"Wichita, KS","$32,499 - $129,959 a year",Remote
+8, Kansas,Wichita,37,Pest Control,Outside Sales Consultant,Terminix Pest Control International,3.0,"Wichita, KS","$35,000 - $55,000 a year",Remote
+9, Kansas,Wichita,37,Pest Control,Outside Sales Representative,Terminix,3.0,"Wichita, KS","$40,000 - $60,000 a year",Not Remote
+0, Kansas,Wichita,37,Tree Trimmers and Pruners,Line Clearance Trimmer,Wright Tree Service,3.6,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,39,Hairdressers,Hair Stylist,SmartStyle Hair Salon,3.2,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,39,Hairdressers,Hair Stylist,Lady Jane's Haircuts for Men,4.1,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,39,Hairdressers,Professional Hair Stylist Barber,Wilder Society Salon Artistry,,"Wichita, KS","$30,000 a year",Not Remote
+3, Kansas,Wichita,39,Hairdressers,Hair Stylist,SmartStyle Hair Salon,3.2,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,39,Hairdressers,Hair Stylist,Lady Jane's Haircuts for Men,4.1,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,39,Hairdressers,Stylist,"Supercuts | NEAMM, Inc.",,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,39,Hairdressers,Stylist - SmartStyle,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,39,Hairdressers,Stylist - SmartStyle,SmartStyle Hair Salon | Salon - 1031,,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,39,Hairdressers,Stylist-in-Training,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,39,Hairdressers,Stylist - SmartStyle,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,39,Hairdressers,Stylist - SmartStyle,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,39,Hairdressers,Stylist-in-Training,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,39,Hairdressers,Stylist-in-Training,SmartStyle Hair Salon | Salon - 1031,,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,39,Hairdressers,Stylist - SmartStyle,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,39,Hairdressers,Stylist - SmartStyle,SmartStyle Hair Salon | Salon - 1031,,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,39,Hairdressers,Stylist-in-Training,SmartStyle Hair Salon | Salon - 1031,,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,39,Hairdressers,Assistant Salon Leader,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,39,Hairdressers,Hair Stylist/Cosmetologist/Barber,"Pigtails & Crewcuts of Wichita, KS - Maize Rd.",,"Wichita, KS",$10 - $12 an hour,Not Remote
+18, Kansas,Wichita,39,Hairdressers,Professional Hair Stylist Barber,Wilder Society Salon Artistry,,"Wichita, KS","$30,000 a year",Not Remote
+19, Kansas,Wichita,39,Hairdressers,Assistant Salon Leader,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,39,Hairdressers,Stylist,"Pigtails & Crewcuts of Wichita, KS - Maize Rd.",,"Wichita, KS",$10 - $12 an hour,Not Remote
+21, Kansas,Wichita,39,Hairdressers,Cosmetologist/Barber,"Pigtails & Crewcuts of Wichita, KS - Maize Rd.",,"Wichita, KS",$10 - $12 an hour,Not Remote
+22, Kansas,Wichita,39,Hairdressers,Hair Stylist - Southridge Retail,Great Clips,3.5,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,39,Group Fitness Instructor,Group Fitness Instructor,VASA Fitness,3.1,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,39,Group Fitness Instructor,Regional Group Fitness Coordinator,Genesis Health Clubs,2.9,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,39,Group Fitness Instructor,Police Officer (Instructor),US Department of Veterans Affairs,3.8,"Wichita, KS","$50,860 - $66,120 a year",Not Remote
+3, Kansas,Wichita,39,Group Fitness Instructor,Certified Fitness Instructor/ Fitness Trainer,Planet Fitness - KS/LA Sutherland Group,3.5,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,39,Group Fitness Instructor,Certified Fitness Instructor/ Fitness Trainer,Planet Fitness - KS/LA Sutherland Group,3.5,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,39,Group Fitness Instructor,Barre Instructor,Genesis Health Clubs,2.9,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,41,Financial Services Sales Agents,Leasing Agent - $500 Sign-On Bonus!,"MetroPlains Management, LLC",3.6,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,41,Financial Services Sales Agents,Benefits Advisor,Aflac,3.5,United States,"$32,269 - $89,934 a year",Not Remote
+2, Kansas,Wichita,41,Financial Services Sales Agents,Medicare Insurance Agent,Coverance Insurance Solutions,4.0,"Wichita, KS","$50,000 - $75,000 a year",Remote
+3, Kansas,Wichita,41,Financial Services Sales Agents,Front Desk Agent,Courtyard by Marriott Wichita at Old Town,,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,41,Financial Services Sales Agents,Front Desk Agent,"Crescent Hotels & Resorts, LLC",4.1,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,41,Financial Services Sales Agents,Business Development,Equisset,,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,41,Financial Services Sales Agents,Medicare Insurance Agent,Coverance Insurance Solutions,4.0,"Wichita, KS","$50,000 - $75,000 a year",Remote
+7, Kansas,Wichita,41,Financial Services Sales Agents,Insurance Agent,JOSE GUTIERREZ-District Office,,"Wichita, KS","$25,000 - $50,000 a year",Not Remote
+8, Kansas,Wichita,41,Financial Services Sales Agents,Business Development - Equisset,"RedGuard, LLC",3.6,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,41,Financial Services Sales Agents,Guest Service Agent,Sonesta,3.9,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,41,Financial Services Sales Agents,Retail Sales Representative (2021-1426),AtriumWorks LLC,,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,41,Financial Services Sales Agents,Insurance Account Position - State Farm Agent Team Member,Dustin Sylvester - State Farm Agent,3.7,"Wichita, KS","$25,000 - $40,000 a year",Not Remote
+12, Kansas,Wichita,41,Financial Services Sales Agents,Life Insurance Agent,"Catran Services 2, Inc",,"Wichita, KS",$500 per sale,Remote
+13, Kansas,Wichita,41,Financial Services Sales Agents,Account Manager - State Farm Agent Team Member,Shawn Ferestad - State Farm Agent,3.7,"Wichita, KS","$35,000 - $50,000 a year",Not Remote
+14, Kansas,Wichita,41,Financial Services Sales Agents,Insurance Account Representative - State Farm Agent Team Member,Allen Warren - State Farm Agent,3.7,"Wichita, KS",$12.50 - $15.00 an hour,Not Remote
+15, Kansas,Wichita,41,Financial Services Sales Agents,Front Desk Agent,Courtyard by Marriott Wichita at Old Town,,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,41,Financial Services Sales Agents,Bilingual Administrative Assistant (Spanish),Farmers Insurance - Jesse Miller Agency,,"Wichita, KS",$8.25 - $10.00 an hour,Not Remote
+17, Kansas,Wichita,41,Financial Services Sales Agents,Sales Account Manager - Work From Home,SelectQuote,2.9,Kansas,"From $150,000 a year",Remote
+0, Kansas,Wichita,41,Wholesale Sales Representative,Regional Sales Representative - East Coast,MICHAEL M,,United States,Unknown,Not Remote
+1, Kansas,Wichita,41,Wholesale Sales Representative,Field Merchandiser,L&R Distributors,3.3,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,41,Wholesale Sales Representative,Customer Service Associate,FLEETCOR,3.1,"Wichita, KS",Unknown,Temporarily remote
+3, Kansas,Wichita,41,Wholesale Sales Representative,Customer Service Associate - New Account Implementation,FLEETCOR,3.1,"Wichita, KS",$12.60 - $13.50 an hour,Not Remote
+4, Kansas,Wichita,41,Wholesale Sales Representative,Accounting Specialist - CLC Lodging,FLEETCOR,3.1,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,41,Wholesale Sales Representative,Hotel Account Specialist,FLEETCOR,3.1,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,41,Wholesale Sales Representative,"Copywriter, Demand Gen Specialist (USA, remote)",4 Over llc,2.9,"Wichita, KS",Unknown,Remote
+7, Kansas,Wichita,41,Wholesale Sales Representative,"Copywriter, B2B/B2C Generalist (USA, remote)",4 Over llc,2.9,"Wichita, KS",Unknown,Remote
+0, Kansas,Wichita,41,Real Estate Brokers,Licensed Real Estate Broker,The Brokerage House Realtors,4.5,Kansas,Unknown,Remote
+1, Kansas,Wichita,41,Real Estate Brokers,"Director, Development Services-Phoenix",VanTrust Real Estate,,United States,Unknown,Not Remote
+2, Kansas,Wichita,41,Real Estate Brokers,Real Estate Transaction Coordinator,Urban Cool ICT,,"Wichita, KS","$25,000 - $50,000 a year",Not Remote
+0, Kansas,Wichita,41,Real Estate Sales Agents,Leasing Agent - $500 Sign-On Bonus!,"MetroPlains Management, LLC",3.6,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,41,Real Estate Sales Agents,Licensed Real Estate Broker,The Brokerage House Realtors,4.5,Kansas,Unknown,Remote
+2, Kansas,Wichita,41,Real Estate Sales Agents,Real Estate Sales Agent,Team Home Hero,,"Wichita, KS","$100,000 a year",Not Remote
+3, Kansas,Wichita,41,Real Estate Sales Agents,Real Estate Sales Buyer’s Agent,Team Home Hero,,"Wichita, KS","$100,000 a year",Not Remote
+4, Kansas,Wichita,41,Real Estate Sales Agents,Real Estate Inside Sales Agent,Team Home Hero,,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,41,Real Estate Sales Agents,Real Estate Inside Sales Representative,Team Home Hero,,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,41,Real Estate Sales Agents,Real Estate Sales Buyer's Agent,Team Home Hero,,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,41,Real Estate Sales Agents,Real Estate Agent - Highest commissions,AgentAdvice.com,,"Wichita, KS","$100,000 a year",Not Remote
+8, Kansas,Wichita,41,Real Estate Sales Agents,Business Development,Equisset,,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,41,Real Estate Sales Agents,Business Development - Equisset,"RedGuard, LLC",3.6,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,41,Real Estate Sales Agents,Insurance Agent,JOSE GUTIERREZ-District Office,,"Wichita, KS","$25,000 - $50,000 a year",Not Remote
+11, Kansas,Wichita,41,Real Estate Sales Agents,Associate General Counsel,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,43,Office and Administrative Support Occupations,Program Specialist,US Department of Veterans Affairs,3.8,"Wichita, KS","$53,433 - $69,462 a year",Not Remote
+1, Kansas,Wichita,43,Office and Administrative Support Occupations,Supervisory Police Officer,US Department of Veterans Affairs,3.8,"Wichita, KS","$58,842 - $76,499 a year",Not Remote
+0, Kansas,Wichita,43,Telephone Operators,Network Support Engineer,DE-CIX Management GmbH,,United States,Unknown,Not Remote
+1, Kansas,Wichita,43,Telephone Operators,Call Center Operator - Customer Service,Hamilton Telecommunications,2.8,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,43,Telephone Operators,Elementary Vocal Music 2021-2022 School Year 1.0 FTE,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,43,Telephone Operators,Stylist-in-Training,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,43,Telephone Operators,Stylist - SmartStyle,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,43,Telephone Operators,Stylist-in-Training,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,43,Telephone Operators,Stylist - SmartStyle,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,43,Telephone Operators,Stylist - SmartStyle,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,43,Telephone Operators,Assistant Salon Leader,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+9, Kansas,Wichita,43,Telephone Operators,Stylist - SmartStyle,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,43,Telephone Operators,Stylist-in-Training,SmartStyle Hair Salon | Salon - 1031,,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,43,Telephone Operators,Assistant Salon Leader,"SmartStyle Hair Salon | Yellowhammer Salon Group,...",,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,43,Telephone Operators,Stylist-in-Training,SmartStyle Hair Salon | Salon - 1031,,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,43,Payroll Clerks,Accounting Clerk,Confidential,,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,43,Payroll Clerks,Accounting Clerk,Confidential,,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,43,Payroll Clerks,Accounting Clerk,Don Hattan Dealerships,4.4,"Wichita, KS",$12 - $19 an hour,Not Remote
+0, Kansas,Wichita,45,Farming,Call Center Customer Account Specialist,Cox Communications Inc,3.8,"Wichita, KS",Unknown,Remote
+1, Kansas,Wichita,45,Farming,Precision Farming Specialist,Mountain View Equipment,,United States,"From $50,000 a year",Not Remote
+2, Kansas,Wichita,45,Farming,Restaurant Team Member - Crew (547 - Hillside),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,45,Farming,Restaurant Team Member - Crew (1952 - Maple & Ridge),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,45,Farming,Restaurant Team Member - Crew (3508 - 21st & Amidon),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,45,Farming,KS Private Lands Conservationist - 2 Positions,Pheasants Forever,4.0,"Wichita, KS","$33,000 - $36,000 a year",Not Remote
+6, Kansas,Wichita,45,Farming,Restaurant Team Member - Crew (422 - New Market),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,45,Farming,Restaurant Team Member - Crew (546 - Rock Road),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,45,Farming,Restaurant Team Member - Crew (1302 - Wichita East),Chipotle,3.6,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,47,Construction and Maintenance,Mine Maintenance Planning Superintendent - Texas,North American Construction Group Inc.,,United States,Unknown,Not Remote
+1, Kansas,Wichita,47,Construction and Maintenance,Carpenter,Aerotek,3.7,"Wichita, KS",$25 an hour,Not Remote
+2, Kansas,Wichita,47,Construction and Maintenance,Maintenance Supervisor,Vineyards Management Group,4.1,"Wichita, KS",From $16 an hour,Not Remote
+3, Kansas,Wichita,47,Construction and Maintenance,Highway Maintenance Foreman,Kansas Turnpike Authority,3.6,"Wichita, KS",$21.18 - $25.29 an hour,Not Remote
+4, Kansas,Wichita,47,Construction and Maintenance,Natural Gas Service Tech,Centuri Construction Group,2.6,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,47,Construction and Maintenance,Maintenance Technician,"Christian Relief Services Charities, Inc",,"Wichita, KS",$12 - $15 an hour,Not Remote
+6, Kansas,Wichita,47,Construction and Maintenance,Carpenter / Handyman,Mr. Handyman of the Wichita Metro Area,,"Wichita, KS",$21 - $25 an hour,Not Remote
+7, Kansas,Wichita,47,Construction and Maintenance,Carpenter / Drywall / Home Improvement Professional,Mr. Handyman of the Wichita Metro Area,,"Wichita, KS",$21 - $25 an hour,Not Remote
+8, Kansas,Wichita,47,Construction and Maintenance,Window Installer / Handy Man,New Windows For America,,"Wichita, KS",$12 - $15 an hour,Not Remote
+9, Kansas,Wichita,47,Construction and Maintenance,CARPENTER /INSTALLER /CONSTRUCTION/HANDYMAN,Ace Handyman Services Wichita,,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,47,Construction and Maintenance,Craftsman/Carpenter / Handyman,Mr. Handyman of the Wichita Metro Area,,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,47,Construction and Maintenance,Laborer (O) - 616 - Street Maintenance,City of Wichita,3.7,"Wichita, KS",Unknown,Not Remote
+12, Kansas,Wichita,47,Construction and Maintenance,Handyman / Multi Skilled / Drywall / Carpenter / Electrician / Plumber,Ace Handyman Services Wichita,,"Wichita, KS","$40,000 a year",Not Remote
+13, Kansas,Wichita,47,Construction and Maintenance,Experienced Roofing Associate / Full Time Service Technician,Black Hawk Roof Company,,Kansas,$15 - $25 an hour,Not Remote
+0, Kansas,Wichita,49,Maintenance and Repair,Maintenance Supervisor,Minneapolis Healthcare & Rehabilitation,,Kansas,Unknown,Not Remote
+1, Kansas,Wichita,49,Maintenance and Repair,Repair Technician,Flint Hills Spas & Pools,,"Wichita, KS",From $15 an hour,Not Remote
+2, Kansas,Wichita,49,Maintenance and Repair,Automotive Service Technician,Don Hattan Dealerships,4.4,"Wichita, KS",$13 - $37 an hour,Not Remote
+3, Kansas,Wichita,49,Maintenance and Repair,Experienced HVAC Technician,American Services,,"Wichita, KS",$17 - $30 an hour,Not Remote
+4, Kansas,Wichita,49,Maintenance and Repair,Maintenance Tech,International Paper,3.6,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,49,Maintenance and Repair,Production Maintenance Tech I - Wichita,"BG Products, Inc.",,"Wichita, KS",$17.50 an hour,Not Remote
+6, Kansas,Wichita,49,Maintenance and Repair,Process Technician (Kansas),Igloo Products Corp.,2.4,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,49,Maintenance and Repair,Administrative Assistant 5 - Library Clerk (230 Day),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+8, Kansas,Wichita,49,Maintenance and Repair,General Labor - Operations (FT/Days/SEASONAL),PepsiCo,3.8,"Wichita, KS",$16.90 an hour,Not Remote
+9, Kansas,Wichita,49,Maintenance and Repair,General Maintenance Technician,Cornejo,3.4,"Wichita, KS",Unknown,Not Remote
+10, Kansas,Wichita,49,Maintenance and Repair,"Director, GPNC",The State of Kansas,3.6,"Sedgwick County, KS","$65,000 a year",Not Remote
+11, Kansas,Wichita,49,Maintenance and Repair,Shipping and Receiving Clerk,Wichita State University,4.2,"Wichita, KS",$12.85 an hour,Not Remote
+12, Kansas,Wichita,49,Maintenance and Repair,Director of Maintenance,Healthcare Resort of Wichita,,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,49,Maintenance and Repair,Supv Maintenance,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,49,Maintenance and Repair,Maintenance IV (entry)-Industrial,RAPS Consulting.,,"Wichita, KS",$20 an hour,Not Remote
+15, Kansas,Wichita,49,Maintenance and Repair,Repair Station Technician,Aerospace Systems & Components,3.4,"Wichita, KS",$13 - $15 an hour,Not Remote
+16, Kansas,Wichita,49,Maintenance and Repair,Department Specialist Window and Screen,Westlake ACE Hardware,3.8,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,49,Maintenance and Repair,Housekeeping Svc Attnd,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+18, Kansas,Wichita,49,Maintenance and Repair,IT Assistant,Credit Union of America,3.8,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,49,Maintenance and Repair,Reliability Maintenance Engineer,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+20, Kansas,Wichita,49,Maintenance and Repair,Repair Technician,Flint Hills Spas & Pools,,"Wichita, KS",From $15 an hour,Not Remote
+21, Kansas,Wichita,49,Maintenance and Repair,PT/Seasonal Grounds Maintenance,Heartspring,3.8,"Wichita, KS",$13 - $18 an hour,Not Remote
+22, Kansas,Wichita,49,Maintenance and Repair,Custodian 1 (1.0 FTE),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+23, Kansas,Wichita,49,Maintenance and Repair,Machine Repair Technician 2,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,49,Maintenance and Repair,Loader Operator,Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+25, Kansas,Wichita,49,Maintenance and Repair,Automotive Maintenance Technician,Tires Plus,3.4,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,49,Maintenance and Repair,Maintenance Director,Regent Park Assisted Living and Memory Care,2.3,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,49,Maintenance and Repair,Machine Repair Technician 2,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+28, Kansas,Wichita,49,Maintenance and Repair,Aircraft Maintenance Technician - Wheel & Tire,Bombardier,3.8,"Wichita, KS",Unknown,Not Remote
+29, Kansas,Wichita,49,Maintenance and Repair,Lab Analyst,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+30, Kansas,Wichita,49,Maintenance and Repair,Maintenance Technician,Landmark Commercial Real Estate Inc,,"Wichita, KS",$15 - $20 an hour,Not Remote
+31, Kansas,Wichita,49,Maintenance and Repair,Maintenance Mechanic,All Star Adventures,3.8,"Wichita, KS",Unknown,Not Remote
+32, Kansas,Wichita,49,Maintenance and Repair,Service Advisor,Scholfield Honda,3.8,"Wichita, KS","$35,758 - $100,000 a year",Not Remote
+33, Kansas,Wichita,49,Maintenance and Repair,Maintenance Supervisor,Vineyards Management Group,4.1,"Wichita, KS",From $16 an hour,Not Remote
+34, Kansas,Wichita,49,Maintenance and Repair,Maintenance,Midwest Health Consulting,3.3,"Wichita, KS",Unknown,Not Remote
+35, Kansas,Wichita,49,Maintenance and Repair,Nutrition Services Lead (Benefited),Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+36, Kansas,Wichita,49,Maintenance and Repair,Summer Camp Counselor,"White Memorial Camp Management Group, Inc.",,"Wichita, KS",From $50 a day,Not Remote
+37, Kansas,Wichita,49,Maintenance and Repair,Production Maintenance Tech I - Wichita,"BG Products, Inc.",,"Wichita, KS",$17.50 an hour,Not Remote
+38, Kansas,Wichita,49,Maintenance and Repair,Site Technology Technician,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+39, Kansas,Wichita,49,Maintenance and Repair,"Technician, Hydraulic Mechanical NDI",Bombardier,3.8,"Wichita, KS",Unknown,Not Remote
+40, Kansas,Wichita,49,Maintenance and Repair,Highway Maintenance Foreman,Kansas Turnpike Authority,3.6,"Wichita, KS",$21.18 - $25.29 an hour,Not Remote
+41, Kansas,Wichita,49,Maintenance and Repair,Senior Custodian,Sedgwick County,3.5,"Wichita, KS",$11.49 an hour,Not Remote
+42, Kansas,Wichita,49,Maintenance and Repair,Shift Lead,WALGREENS,3.6,"Wichita, KS",Unknown,Not Remote
+43, Kansas,Wichita,49,Maintenance and Repair,Tire Service Technician,Discount Tire,4.0,"Wichita, KS",$11 - $15 an hour,Not Remote
+44, Kansas,Wichita,49,Maintenance and Repair,Property Manager,A&G Management Company,,"Park East, KS",Unknown,Not Remote
+45, Kansas,Wichita,49,Maintenance and Repair,Technician 5a-c - Mechanical Systems,Wichita Public Schools,3.9,"Wichita, KS",Unknown,Not Remote
+46, Kansas,Wichita,49,Maintenance and Repair,Millwright,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+47, Kansas,Wichita,49,Maintenance and Repair,Natural Gas Service Tech,Centuri Construction Group,2.6,"Wichita, KS",Unknown,Not Remote
+48, Kansas,Wichita,49,Maintenance and Repair,"Technician I, Skilled Facilities Maintenance",Walmart,3.5,"Wichita, KS",Unknown,Not Remote
+49, Kansas,Wichita,49,Maintenance and Repair,Maintenance Technician,CBRE,3.7,"Wichita, KS",Unknown,Not Remote
+50, Kansas,Wichita,49,Maintenance and Repair,Maintenance Technician,Corridor Property Management,,"Wichita, KS",$14.50 - $15.50 an hour,Not Remote
+51, Kansas,Wichita,49,Maintenance and Repair,Floor Technician,Sodexo,3.7,"Wichita, KS",Unknown,Not Remote
+52, Kansas,Wichita,49,Maintenance and Repair,Building Maintenance Worker II,Sedgwick County,3.5,"Wichita, KS",$12.06 an hour,Not Remote
+53, Kansas,Wichita,49,Maintenance and Repair,Cafe Manager,Barnes & Noble,3.8,"Wichita, KS",Unknown,Not Remote
+54, Kansas,Wichita,49,Maintenance and Repair,12R Interior Electrician PAID TRAINING,Kansas Army National Guard,4.4,"Wichita, KS",$14.44 - $18.81 an hour,Not Remote
+55, Kansas,Wichita,49,Maintenance and Repair,Simulator Technician I,FlightSafety International,3.6,"Wichita, KS",Unknown,Not Remote
+56, Kansas,Wichita,49,Maintenance and Repair,Satellite Technician,"Stream Optimization, LLC",3.2,"Wichita, KS","$1,500 - $2,000 a week",Not Remote
+0, Kansas,Wichita,49,Security and Fire Alarm Systems Installers,Security and Alarm Technician,Mobile Security Intergators,,"Wichita, KS",$20 - $32 an hour,Not Remote
+0, Kansas,Wichita,49,Avionics Technicians,Aviation Maintenance Technician,Aerotek,3.7,"Wichita, KS",$27 an hour,Not Remote
+1, Kansas,Wichita,49,Avionics Technicians,Sr. Field Service Calibration Technician,"Transcat, Inc.",3.4,United States,From $28 an hour,Not Remote
+2, Kansas,Wichita,49,Avionics Technicians,A&P Mechanic,Aerotek,3.7,"Wichita, KS",$29.50 an hour,Not Remote
+3, Kansas,Wichita,49,Avionics Technicians,Paint Technician,Bombardier,3.8,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,49,Avionics Technicians,"Technician, Hydraulic Mechanical NDI",Bombardier,3.8,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,49,Avionics Technicians,Simulator Technician I,FlightSafety International,3.6,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,49,Avionics Technicians,Aircraft Maintenance Technician - Wheel & Tire,Bombardier,3.8,"Wichita, KS",Unknown,Not Remote
+7, Kansas,Wichita,49,Avionics Technicians,ELECTRONIC BENCH TECHNICIAN I - 2ND SHIFT,Collins Aerospace,3.7,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,51,Butcher,Line Cook,Lolas Bistro,,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,53,Flight Engineers,Aircraft Structures Engineer,Platform Aerospace,,United States,Unknown,Not Remote
+1, Kansas,Wichita,53,Flight Engineers,ECS & Ice Protection System Engineer - NSR,Noramtec Consultants Americas,3.8,"Wichita, KS",Unknown,Not Remote
+2, Kansas,Wichita,53,Flight Engineers,Certification Engineer (Avionics) - NSR,Noramtec Consultants Americas,3.8,"Wichita, KS",Unknown,Not Remote
+3, Kansas,Wichita,53,Flight Engineers,Weapons/Avionics Engineer,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,53,Flight Engineers,Avionics and Electrical Systems Engineer,Textron Aviation,4.0,"Wichita, KS",Unknown,Not Remote
+5, Kansas,Wichita,53,Flight Engineers,"Senior Technical Program Manager - Opportunity for Working Remotely Wichita, KS",AirWatch,3.2,"Wichita, KS",Unknown,Remote
+6, Kansas,Wichita,53,Flight Engineers,ECS & Ice Protection Design Engineer,"PDS Tech, Inc.",3.9,"Wichita, KS",Unknown,Not Remote
+0, Kansas,Wichita,53,Transportation,Transportation Manager,KETCH,,"Wichita, KS",Unknown,Not Remote
+1, Kansas,Wichita,53,Transportation,Local Driver,Railcrew Xpress (RCX),2.7,"Wichita, KS",$10 an hour,Not Remote
+2, Kansas,Wichita,53,Transportation,Make up to $17/hour - Deliver with DoorDash,Doordash,3.3,"Wichita, KS",Up to $17 an hour,Not Remote
+3, Kansas,Wichita,53,Transportation,"Class B Route Driver - Wichita,KS",Safety-Kleen,3.2,"Wichita, KS",Unknown,Not Remote
+4, Kansas,Wichita,53,Transportation,Truck Driver Trainee – Entry Level – Paid Training – No Experience Needed – Kansas,Stevens Transport,3.0,Kansas,"Up to $60,000 a year",Not Remote
+5, Kansas,Wichita,53,Transportation,Transportation Support Coordinator,Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+6, Kansas,Wichita,53,Transportation,ASSISTANT RURAL CARRIER (ARC),United States Postal Service,3.4,"Wichita, KS",$19.06 an hour,Not Remote
+7, Kansas,Wichita,53,Transportation,"Paid Interns- Transportation, Healthcare and Lodging",VIPNCCC,,"Wichita, KS",$13 - $19 an hour,Not Remote
+8, Kansas,Wichita,53,Transportation,CITY CARRIER ASSISTANT,United States Postal Service,3.4,"Haysville, KS",$17.29 an hour,Not Remote
+9, Kansas,Wichita,53,Transportation,Driver,FedEx Express,3.9,"Wichita, KS",$17.79 an hour,Not Remote
+10, Kansas,Wichita,53,Transportation,Line Service Technician,Signature Flight Support,3.2,"Wichita, KS",Unknown,Not Remote
+11, Kansas,Wichita,53,Transportation,Route Driver,Far From Normal Supply Inc,,"Wichita, KS",$15 - $18 an hour,Not Remote
+12, Kansas,Wichita,53,Transportation,Luxury Driver,Walser Auto Campus,3.1,"Wichita, KS",Unknown,Not Remote
+13, Kansas,Wichita,53,Transportation,Transportation Manager,KETCH,,"Wichita, KS",Unknown,Not Remote
+14, Kansas,Wichita,53,Transportation,Freight Payment & Transportation Data Specialist (Temporary role),Cargill,3.8,"Wichita, KS",Unknown,Not Remote
+15, Kansas,Wichita,53,Transportation,Logistics Coordinator,Koch Glitsch,3.6,"Wichita, KS",Unknown,Not Remote
+16, Kansas,Wichita,53,Transportation,Supply Chain Specialist,Fagron,3.0,"Wichita, KS",Unknown,Not Remote
+17, Kansas,Wichita,53,Transportation,Delivery Driver,Dandurand Drugstore,,"Wichita, KS",$15 an hour,Not Remote
+18, Kansas,Wichita,53,Transportation,Shipping and Logistics Scheduler - Ocean Freight,Koch Minerals,3.6,"Wichita, KS",Unknown,Not Remote
+19, Kansas,Wichita,53,Transportation,Non-Emergency Medical Transport Driver,United Medical Transport of Kansas,,"Wichita, KS",From $10 an hour,Not Remote
+20, Kansas,Wichita,53,Transportation,Van Driver - Aging,Sedgwick County,3.5,"Wichita, KS",$12.06 an hour,Not Remote
+21, Kansas,Wichita,53,Transportation,Home Delivery Driver,SLEEP NUMBER,3.3,"Wichita, KS",Unknown,Not Remote
+22, Kansas,Wichita,53,Transportation,Newspaper Delivery,Mcbride and Fillner LLC,,"Wichita, KS","$800 - $1,500 a month",Not Remote
+23, Kansas,Wichita,53,Transportation,Track Laborer w/ CDL,Watco,3.0,"Wichita, KS",Unknown,Not Remote
+24, Kansas,Wichita,53,Transportation,ARMED SECURITY - DRIVER/MESSENGER/GUARD,GardaWorld,2.7,"Wichita, KS","$40,000 - $60,000 a year",Not Remote
+25, Kansas,Wichita,53,Transportation,Parts Delivery,O'Reilly Auto Parts,3.4,"Wichita, KS",Unknown,Not Remote
+26, Kansas,Wichita,53,Transportation,Driver - Casual,Hertz,3.3,"Wichita, KS",Unknown,Not Remote
+27, Kansas,Wichita,53,Transportation,Kona Ice Driver/Kona Ice Event Specialist,Kona Ice of Central Wichita and Mulvane,,"Wichita, KS",$11 - $15 an hour,Not Remote
+28, Kansas,Wichita,53,Transportation,"INTERSTATE BULK DRIVER - Cheyenne, WY",Dyno Nobel,3.7,"Wichita, KS","$85,000 a year ++",Not Remote
+29, Kansas,Wichita,53,Transportation,Class A/B Driver,STAR LUMBER & SUPPLY CO INC,3.6,"Wichita, KS",Unknown,Not Remote
+30, Kansas,Wichita,53,Transportation,Car Lot Attendant,Elite Auto Sales,,"Wichita, KS",$10 - $12 an hour,Not Remote
+31, Kansas,Wichita,53,Transportation,Haysville Hustle Transportation Driver,City of Haysville,4.5,"Haysville, KS",From $14 an hour,Not Remote
+32, Kansas,Wichita,53,Transportation,Truck Driver - Wichita Plant,Occidental Petroleum Corporation,4.0,"Wichita, KS",Unknown,Not Remote
+33, Kansas,Wichita,53,Transportation,"Class B Route Driver - Wichita,KS",Safety-Kleen,3.2,"Wichita, KS",Unknown,Not Remote
+34, Kansas,Wichita,53,Transportation,"Non-Emergency Medical Transport Driver, CMA",Unified Services Inc.,4.0,"Wichita, KS",$10 - $12 an hour,Not Remote
+35, Kansas,Wichita,53,Transportation,Local Class A Driver,Hi Pro Inc.,2.3,"Wichita, KS",$22.27 an hour,Not Remote
+36, Kansas,Wichita,53,Transportation,Delivery Helper - Building Materials,Beacon Roofing Supply,2.9,"Wichita, KS",Unknown,Not Remote
+37, Kansas,Wichita,53,Transportation,Residential Driver (CDL),Waste Connections,3.0,"Wichita, KS",$16.50 an hour,Not Remote
+38, Kansas,Wichita,53,Transportation,Auto Parts Delivery Driver (Full-Time),AutoZone,3.5,"Wichita, KS",Unknown,Not Remote
+39, Kansas,Wichita,53,Transportation,Auto Parts Delivery Driver (Full-Time),AutoZone,3.5,"Wichita, KS",Unknown,Not Remote
+40, Kansas,Wichita,53,Transportation,Transportation Engineer,JEO Consulting Group,5.0,"Wichita, KS",Unknown,Not Remote
+41, Kansas,Wichita,53,Transportation,Delivery Driver,Domino's,3.6,"Wichita, KS",$8 - $15 an hour,Not Remote
+42, Kansas,Wichita,53,Transportation,Part Time Drivers,Mid Kansas Auto Auction,3.0,"Wichita, KS",From $8 an hour,Not Remote
+43, Kansas,Wichita,53,Transportation,"Warehouse Van Driver - Wichita, KS",CITY ELECTRIC SUPPLY (CES),3.2,"Wichita, KS",$10 - $12 an hour,Not Remote
+44, Kansas,Wichita,53,Transportation,Delivery Driver,Van Meter Inc.,,"Wichita, KS",Unknown,Not Remote
+45, Kansas,Wichita,53,Transportation,Lot Attendant,Scholfield Honda,3.8,"Wichita, KS",From $10 an hour,Not Remote
+46, Kansas,Wichita,53,Transportation,Auto Parts Delivery Driver (Full-Time),AutoZone,3.5,"Park City, KS",Unknown,Not Remote
+47, Kansas,Wichita,53,Transportation,Class A Regional Flatbed-Home Weekends-Will Train FB Securement,Class A Truckin,,"Wichita, KS","$1,000 - $1,300 a month ++",Not Remote
+48, Kansas,Wichita,53,Transportation,Auto Parts Delivery Driver (Part-Time),AutoZone,3.5,"Wichita, KS",Unknown,Not Remote
+49, Kansas,Wichita,53,Transportation,CNA - DRIVER - LAUNDRY,Congregation of St. Joseph,4.1,"Wichita, KS",From $12 an hour,Not Remote
+50, Kansas,Wichita,53,Transportation,Service Driver,Scholfield Honda,3.8,"Wichita, KS",From $10 an hour,Not Remote
+51, Kansas,Wichita,53,Transportation,Delivery Driver,Jimmy John's,,"Wichita, KS",$8 - $11 an hour,Not Remote
+52, Kansas,Wichita,53,Transportation,Auto Parts Delivery Driver (Full-Time),AutoZone,3.5,"Wichita, KS",Unknown,Not Remote
+53, Kansas,Wichita,53,Transportation,Delivery Driver,"Metro Courier, Inc.",4.5,"Wichita, KS",From $10 an hour,Not Remote
+54, Kansas,Wichita,53,Transportation,Driver,FedEx Express,3.9,"Wichita, KS",$17.79 an hour,Not Remote

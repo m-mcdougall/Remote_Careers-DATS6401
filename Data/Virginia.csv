@@ -1,0 +1,307 @@
+,SearchState,SearchCity,Category,SearchTitle,Title,Company,Stars,Location,Wage,Remote
+0, Virginia,Virginia Beach,17,Electrical Engineering Technicians,Maintenance Engineer I/Electrical,City of Virginia Beach,3.8,"Virginia Beach, VA",Unknown,Not Remote
+1, Virginia,Virginia Beach,17,Electrical Engineering Technicians,Field Electronic Engineer,Leidos,3.7,"Virginia Beach, VA",Unknown,Not Remote
+0, Virginia,Virginia Beach,17,Nuclear Engineers,Construction Materials Technician *Entry Level*,Aerotek,3.7,"Virginia Beach, VA",$17 an hour,Not Remote
+1, Virginia,Virginia Beach,17,Nuclear Engineers,Construction Field Technician,Aerotek,3.7,"Virginia Beach, VA",$17 an hour,Not Remote
+2, Virginia,Virginia Beach,17,Nuclear Engineers,Nuclear Island Test Supervisor - AP1000 Initial Test Program (ITP) Team,BCP Engineers & Consultants,,United States,$70 - $90 an hour,Not Remote
+3, Virginia,Virginia Beach,17,Nuclear Engineers,Construction Materials Technician (Field Technician),Aerotek,3.7,"Virginia Beach, VA",$16.50 an hour,Not Remote
+4, Virginia,Virginia Beach,17,Nuclear Engineers,Engineer Systems 3,Huntington Ingalls Industries Inc.,3.8,"Virginia Beach, VA",Unknown,Not Remote
+5, Virginia,Virginia Beach,17,Nuclear Engineers,Staff Technician,Draper Aden Assoc.,,"Virginia Beach, VA",Unknown,Not Remote
+0, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Floor Technician,ABM Industries,3.2,"Virginia Beach, VA",Unknown,Not Remote
+1, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Building Maintenance Technician,"Commonwealth Commercial Partners, LLC",,"Virginia Beach, VA",$20 - $24 an hour,Not Remote
+2, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Maintenance Technician,Wyndham Virginia Beach Oceanfront,,"Virginia Beach, VA",From $12 an hour,Not Remote
+3, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Project Engineer - Acquisition Engineering Agent,The Columbia Group,4.0,"Virginia Beach, VA",Unknown,Not Remote
+4, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Maintenance Tech,Hyatt,4.1,"Virginia Beach, VA",Unknown,Not Remote
+5, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Maintenance Tech (Part-Time),Hyatt House Virginia Beach,,"Virginia Beach, VA",Unknown,Not Remote
+6, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Maintenance Tech (Full-Time),Courtyard South 25th St,,"Virginia Beach, VA",Unknown,Not Remote
+7, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Building Maintenance Technician,"Commonwealth Commercial Partners, LLC",,"Virginia Beach, VA",$20 - $24 an hour,Not Remote
+8, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Engineer (Maintenance)-Delta Virginia Beach Bayfront Suites,Commonwealth Lodging Management LLC,,"Virginia Beach, VA",Unknown,Not Remote
+9, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Maintenance Engineer I/Electrical,City of Virginia Beach,3.8,"Virginia Beach, VA",Unknown,Not Remote
+10, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Installation Manager,"JSL Technologies, Inc.",,"Virginia Beach, VA",Unknown,Not Remote
+11, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Maintenance Tech,Hyatt,4.1,"Virginia Beach, VA",Unknown,Not Remote
+12, Virginia,Virginia Beach,17,Mechanical Engineering Technicians,Maintenance Tech (Full-Time),Hyatt House Virginia Beach,,"Virginia Beach, VA",Unknown,Not Remote
+0, Virginia,Virginia Beach,29,Health Technologists,Clinical Research Coordinator,Urology of Virginia PLLC,,"Virginia Beach, VA",Unknown,Not Remote
+1, Virginia,Virginia Beach,29,Health Technologists,Research Recovery Associate,LifeNet Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+2, Virginia,Virginia Beach,29,Health Technologists,Medical Assistant- Naval Base,Luke & Associates,3.8,"Dam Neck, VA",Unknown,Not Remote
+3, Virginia,Virginia Beach,29,Health Technologists,X-ray Supervisor,Patient First,3.9,"Virginia Beach, VA",Unknown,Not Remote
+4, Virginia,Virginia Beach,29,Health Technologists,CAT SCAN TECHNOLOGIST- SVBGH/ VA Beach - Premium Flexi / Rotating,Sentara Healthcare,3.8,"Virginia Beach, VA",$31 an hour,Not Remote
+5, Virginia,Virginia Beach,29,Health Technologists,Clinical Research Coordinator,Urology of Virginia PLLC,,"Virginia Beach, VA",Unknown,Not Remote
+6, Virginia,Virginia Beach,29,Health Technologists,Research Recovery Associate,LifeNet Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+7, Virginia,Virginia Beach,29,Health Technologists,Surgical Technologist,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+8, Virginia,Virginia Beach,29,Health Technologists,Polysomnographic Technologist,Virginia Neurology & Sleep Centers,,Virginia,$600 - $900 a week,Not Remote
+9, Virginia,Virginia Beach,29,Health Technologists,Surgical Assistant,American Surgical Professionals,3.4,United States,$40 - $80 an hour,Not Remote
+10, Virginia,Virginia Beach,29,Health Technologists,MEDICAL ASSISTANT,Luke & Associates,3.8,"Virginia Beach, VA",Unknown,Not Remote
+11, Virginia,Virginia Beach,29,Health Technologists,Travel Mobile Radiologic Technologist,Dynamic Mobile Imaging,,Virginia,From $28 an hour,Not Remote
+0, Virginia,Virginia Beach,29,Healthcare Practitioners ,Claims Processor,Aerotek,3.7,"Virginia Beach, VA",$18 an hour,Not Remote
+1, Virginia,Virginia Beach,29,Healthcare Practitioners ,Military Family Life Counselor,Magellan Health,3.5,"Fort Story, VA",Unknown,Not Remote
+2, Virginia,Virginia Beach,29,Healthcare Practitioners ,Surgical Assistant,American Surgical Professionals,3.4,United States,$40 - $80 an hour,Not Remote
+3, Virginia,Virginia Beach,29,Healthcare Practitioners ,Medical Assistant,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+4, Virginia,Virginia Beach,29,Healthcare Practitioners ,Medical Assistant,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Remote
+5, Virginia,Virginia Beach,29,Healthcare Practitioners ,Military Family Life Counselor,Magellan Health,3.5,"Fort Story, VA",Unknown,Not Remote
+6, Virginia,Virginia Beach,29,Healthcare Practitioners ,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+7, Virginia,Virginia Beach,29,Healthcare Practitioners ,Talent Acquisition Consultant (contract),Anthem,3.7,"Virginia Beach, VA",Unknown,Not Remote
+8, Virginia,Virginia Beach,29,Healthcare Practitioners ,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+9, Virginia,Virginia Beach,29,Healthcare Practitioners ,"RN, Nursing Development Generalist (RN Educator)",Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+10, Virginia,Virginia Beach,29,Healthcare Practitioners ,Military Family Life Counselor,Magellan Health,3.5,"Fort Story, VA",Unknown,Not Remote
+11, Virginia,Virginia Beach,29,Healthcare Practitioners ,Medical Assistant,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+12, Virginia,Virginia Beach,29,Healthcare Practitioners ,Medical Assistant,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+13, Virginia,Virginia Beach,29,Healthcare Practitioners ,Medical Assistant,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+14, Virginia,Virginia Beach,29,Healthcare Practitioners ,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+15, Virginia,Virginia Beach,29,Healthcare Practitioners ,Medical Assistant,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+16, Virginia,Virginia Beach,29,Healthcare Practitioners ,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+17, Virginia,Virginia Beach,29,Healthcare Practitioners ,Claims Processor,Aerotek,3.7,"Virginia Beach, VA",$18 an hour,Not Remote
+18, Virginia,Virginia Beach,29,Healthcare Practitioners ,Telehealth Behavioral Health Provider (Independent Contractor),Ayana Therapy,,Virginia,"$46,946 - $80,359 a year",Remote
+0, Virginia,Virginia Beach,29,Nurse Midwives,Certified Nurse Midwife,"Willow Midwife Center for Birth and Wellness AZ, LLC",,United States,Unknown,Not Remote
+0, Virginia,Virginia Beach,29,Therapists,"Licensed Counselor (LPC, LMHC, LCPC)",Uplift,,"Virginia Beach, VA","$75,000 - $125,000 a year",Remote
+1, Virginia,Virginia Beach,29,Therapists,Licensed Mental Health Therapist,Uplift,,"Virginia Beach, VA","$75,000 - $125,000 a year",Remote
+2, Virginia,Virginia Beach,29,Therapists,"Licensed Marriage and Family Therapist (LMFT, LCMFT)",Uplift,,"Virginia Beach, VA","$75,000 - $125,000 a year",Remote
+3, Virginia,Virginia Beach,29,Therapists,Physical Therapist (PT) Supervisor,Augusta Health,3.6,Virginia,Unknown,Not Remote
+4, Virginia,Virginia Beach,29,Therapists,Mental Health Counselor,Uplift,,"Virginia Beach, VA","$75,000 - $125,000 a year",Remote
+5, Virginia,Virginia Beach,29,Therapists,"Respiratory Therapists - $5K Sign On Available - Fishersville, VA",Augusta Health,3.6,United States,Unknown,Not Remote
+6, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Fort Story, VA",Unknown,Not Remote
+7, Virginia,Virginia Beach,29,Therapists,Clinical Exercise Specialist,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+8, Virginia,Virginia Beach,29,Therapists,Clinical Exercise Specialist,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+9, Virginia,Virginia Beach,29,Therapists,Respiratory Therapy Clinical Instructor (3 positions),Virginia Community College System,2.9,"Virginia Beach, VA",$21 an hour,Remote
+10, Virginia,Virginia Beach,29,Therapists,Mental Health Counselor - All Shifts,Virginia Beach Psychiatric Center,3.0,"Virginia Beach, VA",Unknown,Not Remote
+11, Virginia,Virginia Beach,29,Therapists,Telephone Counselor (Remote - US),Morneau Shepell,3.0,"Virginia Beach, VA",Unknown,Not Remote
+12, Virginia,Virginia Beach,29,Therapists,Working with Kids - Behavior Therapist,Center for Autism and Related Disorders LLC.,,"Virginia Beach, VA",Unknown,Not Remote
+13, Virginia,Virginia Beach,29,Therapists,Speech Therapist,Acestack LLC,,"Virginia Beach, VA",$40 an hour,Not Remote
+14, Virginia,Virginia Beach,29,Therapists,Residential Counselor,Virginia Tidewater Youth Services Commission,,"Virginia Beach, VA","$33,712 a year",Not Remote
+15, Virginia,Virginia Beach,29,Therapists,Residential Counselor,Virginia Tidewater Youth Services Commission,,"Virginia Beach, VA","$33,712 a year",Not Remote
+16, Virginia,Virginia Beach,29,Therapists,Physical Therapist,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+17, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Fort Story, VA",Unknown,Not Remote
+18, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+19, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Fort Story, VA",Unknown,Not Remote
+20, Virginia,Virginia Beach,29,Therapists,Physical Therapist - Pediatrics,Ivy Rehab,3.2,"Virginia Beach, VA",Unknown,Not Remote
+21, Virginia,Virginia Beach,29,Therapists,Licensed Behavioral Health Therapist,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+22, Virginia,Virginia Beach,29,Therapists,Clinician/Intake Couselor,Virginia Beach Psychiatric Center,3.0,"Virginia Beach, VA",From $21 an hour,Not Remote
+23, Virginia,Virginia Beach,29,Therapists,BH/DS Clinician I,City of Virginia Beach,3.8,"Virginia Beach, VA",Unknown,Not Remote
+24, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+25, Virginia,Virginia Beach,29,Therapists,Behavior Therapist Full and Part-Time (Virginia Beach),Dominion Youth Services,3.1,"Virginia Beach, VA",Unknown,Not Remote
+26, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+27, Virginia,Virginia Beach,29,Therapists,Physical Therapist (PT),Genesis Rehab Services,3.1,"Virginia Beach, VA",Unknown,Not Remote
+28, Virginia,Virginia Beach,29,Therapists,BEHAVIORAL HEALTH THERAPIST - SVBGH/VA BEACH - FT/Rotating,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+29, Virginia,Virginia Beach,29,Therapists,Physical Therapist - Pediatrics,Ivy Rehab,3.2,"Virginia Beach, VA",Unknown,Not Remote
+30, Virginia,Virginia Beach,29,Therapists,Licensed Professional Counselor,LifeStance Health,3.8,"Virginia Beach, VA","$90,000 - $95,000 a year",Temporarily remote
+31, Virginia,Virginia Beach,29,Therapists,QMHP C/A,"Therapeutic Alliance, LLC",3.6,"Virginia Beach, VA",Unknown,Not Remote
+32, Virginia,Virginia Beach,29,Therapists,Occupational Therapist / OT,FOX Rehabilitation,3.8,"Virginia Beach, VA",Unknown,Not Remote
+33, Virginia,Virginia Beach,29,Therapists,Occupational Therapist -- Full Time - 976 Virginia Beach VA,Legacy Healthcare Services,3.0,"Virginia Beach, VA",Unknown,Not Remote
+34, Virginia,Virginia Beach,29,Therapists,Part-time Physical Therapist,PT2Go,,"Virginia Beach, VA",$35 - $50 an hour,Not Remote
+35, Virginia,Virginia Beach,29,Therapists,"Director, Pharmacy - Clinical",Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+36, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Fort Story, VA",Unknown,Not Remote
+37, Virginia,Virginia Beach,29,Therapists,Remote Part Time Licensed Therapist,Thriveworks,3.9,"Virginia Beach, VA","Up to $62,000 a year",Remote
+38, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Fort Story, VA",Unknown,Not Remote
+39, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+40, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+41, Virginia,Virginia Beach,29,Therapists,RBT/BCAT - ABA Therapy,Civitas Health Services,3.4,"Virginia Beach, VA","$36,250 - $45,538 a year",Not Remote
+42, Virginia,Virginia Beach,29,Therapists,Speech Therapist,Aveanna Healthcare,3.3,"Virginia Beach, VA",Unknown,Not Remote
+43, Virginia,Virginia Beach,29,Therapists,Weekend Psychotherapist,Thriveworks,3.9,"Virginia Beach, VA","Up to $25,000 a year",Remote
+44, Virginia,Virginia Beach,29,Therapists,Clinic Director - Physical Therapist,Ivy Rehab,3.2,"Virginia Beach, VA",Unknown,Not Remote
+45, Virginia,Virginia Beach,29,Therapists,Residential Counselor,Virginia Tidewater Youth Services Commission,,"Virginia Beach, VA","$33,712 a year",Not Remote
+46, Virginia,Virginia Beach,29,Therapists,Occupational Therapist,Aveanna Healthcare,3.3,"Virginia Beach, VA",Unknown,Not Remote
+47, Virginia,Virginia Beach,29,Therapists,Physical Therapist,Sentara Healthcare,3.8,"Virginia Beach, VA",Unknown,Not Remote
+48, Virginia,Virginia Beach,29,Therapists,Occupational Therapist,Legacy Healthcare Services,3.0,"Virginia Beach, VA",Unknown,Not Remote
+49, Virginia,Virginia Beach,29,Therapists,Licensed Clinical Social Worker,LifeStance Health,3.8,"Virginia Beach, VA","$90,000 - $95,000 a year",Temporarily remote
+50, Virginia,Virginia Beach,29,Therapists,Physical Therapist: Home Health,Westminster Canterbury on Chesapeake Bay,2.9,"Virginia Beach, VA",Unknown,Not Remote
+51, Virginia,Virginia Beach,29,Therapists,Military Family Life Counselor,Magellan Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+52, Virginia,Virginia Beach,29,Therapists,Licensed or license eligible Mental Health Skill Building/Intensive In-Home,DIIP-IntensiveInhome,,"Virginia Beach, VA",$15 - $30 an hour,Not Remote
+53, Virginia,Virginia Beach,29,Therapists,"LICENSED SUBSTANCE ABUSE COUNSELOR (LCSW , LPC or CSAC) for TeleHealth",GHR Center,,"Virginia Beach, VA","$50,000 - $80,000 a year",Temporarily remote
+54, Virginia,Virginia Beach,29,Therapists,Occupational Therapist (OT),Genesis Rehab Services,3.1,"Virginia Beach, VA",Unknown,Not Remote
+55, Virginia,Virginia Beach,29,Therapists,PT,Soliant,4.0,"Virginia Beach, VA",Unknown,Not Remote
+56, Virginia,Virginia Beach,29,Therapists,"Licensed Counselor (LPC, LMHC, LCPC)",Uplift,,"Virginia Beach, VA","$75,000 - $125,000 a year",Remote
+0, Virginia,Virginia Beach,35,Food Preparation,"Cook 2 (Grille, Saute, Broil, Raw Bar), Tulu Seaside Bar & Grill",Gold Key | PHR,3.4,"Virginia Beach, VA",Unknown,Not Remote
+1, Virginia,Virginia Beach,35,Food Preparation,Food Assembly Line Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",$9 - $14 an hour,Not Remote
+2, Virginia,Virginia Beach,35,Food Preparation,Customer Service Representative up to $10 per hour,"Car Spa, Inc",3.4,"Virginia Beach, VA",$8 - $10 an hour,Not Remote
+3, Virginia,Virginia Beach,35,Food Preparation,"Manager, Talent Acquisition",LifeNet Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+4, Virginia,Virginia Beach,35,Food Preparation,Kitchen Team Member,Tribal Axe,,"Virginia Beach, VA",$10 - $11 an hour,Not Remote
+5, Virginia,Virginia Beach,35,Food Preparation,Closing Operations Specialist,Blend,3.9,"Virginia Beach, VA",$24.00 - $26.50 an hour,Remote
+6, Virginia,Virginia Beach,35,Food Preparation,"Seeking kitchen helper, sushi chef, server, hostess, busser and dishwasher",Mizuno Japanese Restaurant,,"Virginia Beach, VA",$9 - $15 an hour,Not Remote
+7, Virginia,Virginia Beach,35,Food Preparation,Line Cook,Red Robin,3.6,"Virginia Beach, VA",$12 an hour,Not Remote
+8, Virginia,Virginia Beach,35,Food Preparation,Full-Time Overnight Grocery Team Member,Whole Foods Market,3.8,"Virginia Beach, VA",Unknown,Not Remote
+9, Virginia,Virginia Beach,35,Food Preparation,Cafeteria Assistant,Virginia Beach City Public Schools,4.1,"Virginia Beach, VA",Unknown,Not Remote
+10, Virginia,Virginia Beach,35,Food Preparation,CYP Food Service Worker,US Department of the Navy,4.3,"Oceana, VA",$11.19 - $11.66 an hour,Not Remote
+11, Virginia,Virginia Beach,35,Food Preparation,Specialist COP,US Foods,3.4,"Virginia Beach, VA",Unknown,Not Remote
+12, Virginia,Virginia Beach,35,Food Preparation,Food Assembly Line Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",Unknown,Not Remote
+13, Virginia,Virginia Beach,35,Food Preparation,Subway Sandwich Artist®,Subway,3.6,"Virginia Beach, VA",$12 an hour,Not Remote
+14, Virginia,Virginia Beach,35,Food Preparation,PT Center Store (Grocery) Associate,Food Lion,3.6,"Virginia Beach, VA",Unknown,Not Remote
+15, Virginia,Virginia Beach,35,Food Preparation,Food & Beverage Manager,Wawa,4.0,"Virginia Beach, VA",Unknown,Not Remote
+16, Virginia,Virginia Beach,35,Food Preparation,Crew,Boom Inc. dba Sonic Drive In,3.5,"Virginia Beach, VA",Unknown,Not Remote
+17, Virginia,Virginia Beach,35,Food Preparation,Subway Sandwich Artist®,Subway,3.6,"Virginia Beach, VA",Unknown,Not Remote
+18, Virginia,Virginia Beach,35,Food Preparation,Food & Beverage Supervisor (Full-Time),Courtyard North 37th St,,"Virginia Beach, VA",Unknown,Not Remote
+19, Virginia,Virginia Beach,35,Food Preparation,Assistant Food Service Manager,Virginia Dept of Military Affairs,,"Virginia Beach, VA","$34,000 a year",Not Remote
+20, Virginia,Virginia Beach,35,Food Preparation,Food Assembly Line Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",$9 - $14 an hour,Not Remote
+21, Virginia,Virginia Beach,35,Food Preparation,Barista and Cashier,DOMOISHI,,"Virginia Beach, VA",$10 - $11 an hour,Not Remote
+22, Virginia,Virginia Beach,35,Food Preparation,Buffet Server (Full-Time),Courtyard North 37th St,,"Virginia Beach, VA",Unknown,Not Remote
+23, Virginia,Virginia Beach,35,Food Preparation,Subway Sandwich Artist®,Subway,3.6,"Virginia Beach, VA",$12 an hour,Not Remote
+24, Virginia,Virginia Beach,35,Food Preparation,Morning Food Assembly Line Crew Member Openers,Chick-fil-A,4.0,"Virginia Beach, VA",$9 - $14 an hour,Not Remote
+25, Virginia,Virginia Beach,35,Food Preparation,"Cook 2 (Grille, Saute, Broil, Raw Bar), Becca @ The Historic Cavalier Hotel & Beach Club",Gold Key | PHR,3.4,"Virginia Beach, VA",Unknown,Not Remote
+26, Virginia,Virginia Beach,35,Food Preparation,Crew Member,Wendy's,3.5,"Virginia Beach, VA",Unknown,Not Remote
+27, Virginia,Virginia Beach,35,Food Preparation,Crew Member,Wendy's,3.5,"Virginia Beach, VA",Unknown,Not Remote
+28, Virginia,Virginia Beach,35,Food Preparation,Food Service Worker,Chick-fil-A Salem Crossing & Parkway Plaza,4.0,"Virginia Beach, VA",$8 - $13 an hour,Not Remote
+29, Virginia,Virginia Beach,35,Food Preparation,"Seeking kitchen helper, sushi chef, server, hostess, busser and dishwasher",Mizuno Japanese Restaurant,,"Virginia Beach, VA",$9 - $15 an hour,Not Remote
+30, Virginia,Virginia Beach,35,Food Preparation,Subway Sandwich Artist®,Subway,3.6,"Virginia Beach, VA",$8 - $9 an hour,Not Remote
+31, Virginia,Virginia Beach,35,Food Preparation,Server/Waitstaff - Atria Virginia Beach,Atria Senior Living,3.2,"Virginia Beach, VA",Unknown,Not Remote
+32, Virginia,Virginia Beach,35,Food Preparation,Closing Operations Specialist,Blend,3.9,"Virginia Beach, VA",$24.00 - $26.50 an hour,Remote
+33, Virginia,Virginia Beach,35,Food Preparation,Dietary Aide,Colonial Health & Rehab Center,2.8,"Virginia Beach, VA",Unknown,Not Remote
+34, Virginia,Virginia Beach,35,Food Preparation,Crew Member,Cinnabon @ Lynnhaven Mall,3.6,"Virginia Beach, VA",$8 - $12 an hour,Not Remote
+35, Virginia,Virginia Beach,35,Food Preparation,Food Specialist,La Petite Academy,3.3,"Virginia Beach, VA",Unknown,Not Remote
+36, Virginia,Virginia Beach,35,Food Preparation,Fountain,Boom Inc. dba Sonic Drive In,3.5,"Virginia Beach, VA",Unknown,Not Remote
+37, Virginia,Virginia Beach,35,Food Preparation,Cafeteria Manager I,Virginia Beach City Public Schools,4.1,"Virginia Beach, VA",Unknown,Not Remote
+38, Virginia,Virginia Beach,35,Food Preparation,Kitchen Staff Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",Unknown,Not Remote
+39, Virginia,Virginia Beach,35,Food Preparation,Bakery Associate,Wegmans Food Markets,4.1,"Virginia Beach, VA",Unknown,Not Remote
+40, Virginia,Virginia Beach,35,Food Preparation,SUPERVISORY OPERATING ACCOUNTANT,Navy Exchange Service Command,3.7,"Virginia Beach, VA","$55,000 - $71,000 a year",Not Remote
+41, Virginia,Virginia Beach,35,Food Preparation,SUPERVISORY OPERATING ACCOUNTANT,Navy Exchange Service Command,3.7,"Virginia Beach, VA","$55,000 - $71,000 a year",Not Remote
+42, Virginia,Virginia Beach,35,Food Preparation,PT Deli Bakery Associate,Food Lion,3.6,"Virginia Beach, VA",Unknown,Not Remote
+43, Virginia,Virginia Beach,35,Food Preparation,Deli Associate,Food Lion,3.6,"Virginia Beach, VA",$10 - $11 an hour,Not Remote
+44, Virginia,Virginia Beach,35,Food Preparation,3rd Shift Grocery Stock Clerk,Harris Teeter,3.6,"Virginia Beach, VA",Unknown,Not Remote
+45, Virginia,Virginia Beach,35,Food Preparation,Catering Manager,Mermaid Catering,,"Virginia Beach, VA","$600 - $1,800 a week",Not Remote
+46, Virginia,Virginia Beach,35,Food Preparation,Restaurant Manager,DoubleTree by Hilton Virginia Beach,3.8,"Virginia Beach, VA","From $40,000 a year",Not Remote
+47, Virginia,Virginia Beach,35,Food Preparation,Kitchen Staff / Team Member,NY Bagel Cafe,,"Virginia Beach, VA",$10 - $14 an hour,Not Remote
+48, Virginia,Virginia Beach,35,Food Preparation,Crew Member,Wendy's,3.5,"Virginia Beach, VA",Unknown,Not Remote
+49, Virginia,Virginia Beach,35,Food Preparation,Cinnabon Crew Member - Lynnhaven Mall,Cinnabon,3.6,"Virginia Beach, VA",Unknown,Not Remote
+50, Virginia,Virginia Beach,35,Food Preparation,PT Perishable Associate,Food Lion,3.6,"Virginia Beach, VA",Unknown,Not Remote
+51, Virginia,Virginia Beach,35,Food Preparation,PT Deli Bakery Associate,Food Lion,3.6,"Virginia Beach, VA",Unknown,Not Remote
+52, Virginia,Virginia Beach,35,Food Preparation,Server,Tapped Gastropub,,"Virginia Beach, VA",Unknown,Not Remote
+53, Virginia,Virginia Beach,35,Food Preparation,Crew,Boom Inc. dba Sonic Drive In,3.5,"Virginia Beach, VA",Unknown,Not Remote
+54, Virginia,Virginia Beach,35,Food Preparation,Crew Member,Wendy's,3.5,"Virginia Beach, VA",Unknown,Not Remote
+55, Virginia,Virginia Beach,35,Food Preparation,Server,First Watch,3.6,"Virginia Beach, VA",Unknown,Not Remote
+56, Virginia,Virginia Beach,35,Food Preparation,Cook,Boom Inc. dba Sonic Drive In,3.5,"Virginia Beach, VA",Unknown,Not Remote
+57, Virginia,Virginia Beach,35,Food Preparation,PT Center Store (Grocery) Associate,Food Lion,3.6,"Virginia Beach, VA",Unknown,Not Remote
+0, Virginia,Virginia Beach,35,Food Serving,Food Runner/Busser,IL Giardino Ristorante,,"Virginia Beach, VA",Unknown,Not Remote
+1, Virginia,Virginia Beach,35,Food Serving,Food Assembly Line Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",$9 - $14 an hour,Not Remote
+2, Virginia,Virginia Beach,35,Food Serving,Food Server,FunVille Playground and Cafe,,"Virginia Beach, VA",Unknown,Not Remote
+3, Virginia,Virginia Beach,35,Food Serving,Team Member,Shake Shack,3.6,"Virginia Beach, VA",Unknown,Not Remote
+4, Virginia,Virginia Beach,35,Food Serving,"Manager, Talent Acquisition",LifeNet Health,3.5,"Virginia Beach, VA",Unknown,Not Remote
+5, Virginia,Virginia Beach,35,Food Serving,Opening Crew Member Early Mornings,Chick-fil-A,4.0,"Virginia Beach, VA",Unknown,Not Remote
+6, Virginia,Virginia Beach,35,Food Serving,Restaurant Team Member - Entry Level,Shake Shack,3.6,"Virginia Beach, VA",Unknown,Not Remote
+7, Virginia,Virginia Beach,35,Food Serving,Restaurant Server,IL Giardino Ristorante,,"Virginia Beach, VA",Unknown,Not Remote
+8, Virginia,Virginia Beach,35,Food Serving,Cafeteria Assistant,Virginia Beach City Public Schools,4.1,"Virginia Beach, VA",Unknown,Not Remote
+9, Virginia,Virginia Beach,35,Food Serving,Crew Member / Stocker,Thread True,,"Virginia Beach, VA",$10 - $14 an hour,Not Remote
+10, Virginia,Virginia Beach,35,Food Serving,CYP Food Service Worker,US Department of the Navy,4.3,"Oceana, VA",$11.19 - $11.66 an hour,Not Remote
+11, Virginia,Virginia Beach,35,Food Serving,Food Assembly Line Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",Unknown,Not Remote
+12, Virginia,Virginia Beach,35,Food Serving,Food Runner/Busser,IL Giardino Ristorante,,"Virginia Beach, VA",Unknown,Not Remote
+13, Virginia,Virginia Beach,35,Food Serving,Restaurant Team Member - Crew (3559 - Kemps River Commons),Chipotle,3.6,"Virginia Beach, VA",Unknown,Not Remote
+14, Virginia,Virginia Beach,35,Food Serving,Food Server,Pops Diner Co.,,"Virginia Beach, VA",Unknown,Not Remote
+15, Virginia,Virginia Beach,35,Food Serving,Food Service Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",Unknown,Not Remote
+16, Virginia,Virginia Beach,35,Food Serving,Dunkin Donuts Crew Member,VB Donuts LLC,,"Virginia Beach, VA",From $10 an hour,Not Remote
+17, Virginia,Virginia Beach,35,Food Serving,Assistant Food Service Manager,Virginia Dept of Military Affairs,,"Virginia Beach, VA","$34,000 a year",Not Remote
+18, Virginia,Virginia Beach,35,Food Serving,NAVY LODGE LITTLE CREEK-GUEST SVC REPRESENTATIVE- II,Navy Exchange Service Command,3.7,"Virginia Beach, VA",$12 - $17 an hour,Not Remote
+19, Virginia,Virginia Beach,35,Food Serving,Food Assembly Line Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",$9 - $14 an hour,Not Remote
+20, Virginia,Virginia Beach,35,Food Serving,Opening Crew Member Early Mornings,Chick-fil-A,4.0,"Virginia Beach, VA",Unknown,Not Remote
+21, Virginia,Virginia Beach,35,Food Serving,Buffet Server (Full-Time),Courtyard North 37th St,,"Virginia Beach, VA",Unknown,Not Remote
+22, Virginia,Virginia Beach,35,Food Serving,"Server, Tulu Seaside Bar & Grill",Gold Key | PHR,3.4,"Virginia Beach, VA",Unknown,Not Remote
+23, Virginia,Virginia Beach,35,Food Serving,Garden Grille Server,Hilton Garden Inn,,"Virginia Beach, VA",Unknown,Not Remote
+24, Virginia,Virginia Beach,35,Food Serving,Morning Food Assembly Line Crew Member Openers,Chick-fil-A,4.0,"Virginia Beach, VA",$9 - $14 an hour,Not Remote
+25, Virginia,Virginia Beach,35,Food Serving,Crew Member,Wendy's,3.5,"Virginia Beach, VA",Unknown,Not Remote
+26, Virginia,Virginia Beach,35,Food Serving,Food Service Crew Member MORNINGS,Chick-fil-A,4.0,"Virginia Beach, VA",$9 - $14 an hour,Not Remote
+27, Virginia,Virginia Beach,35,Food Serving,Crew Member,Wendy's,3.5,"Virginia Beach, VA",Unknown,Not Remote
+28, Virginia,Virginia Beach,35,Food Serving,Food Service Worker,Chick-fil-A Salem Crossing & Parkway Plaza,4.0,"Virginia Beach, VA",$8 - $13 an hour,Not Remote
+29, Virginia,Virginia Beach,35,Food Serving,"Seeking kitchen helper, sushi chef, server, hostess, busser and dishwasher",Mizuno Japanese Restaurant,,"Virginia Beach, VA",$9 - $15 an hour,Not Remote
+30, Virginia,Virginia Beach,35,Food Serving,Café Team Member,The Cafe at Green Leaf and Pebble,,"Virginia Beach, VA",$9 - $14 an hour,Not Remote
+31, Virginia,Virginia Beach,35,Food Serving,Cabana Server,Ocean Breeze Waterpark,4.0,"Virginia Beach, VA",Unknown,Not Remote
+32, Virginia,Virginia Beach,35,Food Serving,Server/Waitstaff - Atria Virginia Beach,Atria Senior Living,3.2,"Virginia Beach, VA",Unknown,Not Remote
+33, Virginia,Virginia Beach,35,Food Serving,Food Truck Driver,Shake It Up LLC,,"Virginia Beach, VA",$15 an hour,Not Remote
+34, Virginia,Virginia Beach,35,Food Serving,Crew Member,Cinnabon @ Lynnhaven Mall,3.6,"Virginia Beach, VA",$8 - $12 an hour,Not Remote
+35, Virginia,Virginia Beach,35,Food Serving,Server,Coach's Sports Bar & Grill,3.8,"Virginia Beach, VA",Unknown,Not Remote
+36, Virginia,Virginia Beach,35,Food Serving,Restaurant Server,Cavalier Golf & Yacht Club,4.8,"Virginia Beach, VA",Unknown,Not Remote
+37, Virginia,Virginia Beach,35,Food Serving,Cafeteria Manager I,Virginia Beach City Public Schools,4.1,"Virginia Beach, VA",Unknown,Not Remote
+38, Virginia,Virginia Beach,35,Food Serving,Kitchen Staff Crew Member,Chick-fil-A,4.0,"Virginia Beach, VA",Unknown,Not Remote
+39, Virginia,Virginia Beach,35,Food Serving,Cashier/Customer Service,Sal’s NY Slice Pizzeria,,"Virginia Beach, VA",$8 - $9 an hour,Not Remote
+40, Virginia,Virginia Beach,35,Food Serving,Restaurant Server,IL Giardino Ristorante,,"Virginia Beach, VA",Unknown,Not Remote
+41, Virginia,Virginia Beach,35,Food Serving,Restaurant Crew Member,Firehouse Subs | Arrington,3.5,"Virginia Beach, VA",Unknown,Not Remote
+42, Virginia,Virginia Beach,35,Food Serving,Food Assembly Team Member,Chick-fil-A Parkway Plaza & Salem Crossing,4.0,"Virginia Beach, VA",Unknown,Not Remote
+43, Virginia,Virginia Beach,35,Food Serving,Food Server,FunVille Playground and Cafe,,"Virginia Beach, VA",Unknown,Not Remote
+44, Virginia,Virginia Beach,35,Food Serving,Food Server/Bartender,Zoes Steak and Seafood,,"Virginia Beach, VA",Unknown,Not Remote
+45, Virginia,Virginia Beach,35,Food Serving,Food Service Team Member,Ocean Breeze Waterpark,4.0,"Virginia Beach, VA",From $10 an hour,Not Remote
+46, Virginia,Virginia Beach,35,Food Serving,Server,Beachside Social,5.0,"Virginia Beach, VA",Unknown,Not Remote
+47, Virginia,Virginia Beach,35,Food Serving,Banquet Server/Bartender,Wyndham Virginia Beach Oceanfront,,"Virginia Beach, VA",Unknown,Not Remote
+48, Virginia,Virginia Beach,35,Food Serving,Catering Manager,Mermaid Catering,,"Virginia Beach, VA","$600 - $1,800 a week",Not Remote
+49, Virginia,Virginia Beach,35,Food Serving,Crew Member,Wendy's,3.5,"Virginia Beach, VA",Unknown,Not Remote
+50, Virginia,Virginia Beach,35,Food Serving,Birthday Party Host,Ocean Breeze Waterpark,4.0,"Virginia Beach, VA",From $10 an hour,Not Remote
+51, Virginia,Virginia Beach,35,Food Serving,Cinnabon Crew Member - Lynnhaven Mall,Cinnabon,3.6,"Virginia Beach, VA",Unknown,Not Remote
+52, Virginia,Virginia Beach,35,Food Serving,Servers wanted,Osaka ramen and sushi,,"Virginia Beach, VA",$12 - $18 an hour,Not Remote
+53, Virginia,Virginia Beach,35,Food Serving,Server,Tapped Gastropub,,"Virginia Beach, VA",Unknown,Not Remote
+54, Virginia,Virginia Beach,35,Food Serving,Food Server,"First Watch Restaurants, Inc.",3.6,"Virginia Beach, VA",$15 - $20 an hour,Not Remote
+55, Virginia,Virginia Beach,35,Food Serving,Server,Broad Bay Country Club,2.3,"Virginia Beach, VA",$8.98 - $12.00 an hour,Not Remote
+56, Virginia,Virginia Beach,35,Food Serving,Food Service Crew Member Mornings,Chick-fil-A,4.0,"Virginia Beach, VA",Unknown,Not Remote
+57, Virginia,Virginia Beach,35,Food Serving,Bartender,Hilton Virginia Beach Oceanfront,,"Virginia Beach, VA",$10 an hour,Not Remote
+0, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Grounds Maintenance Worker,"Clark Whitehill Enterprises, Inc",,"Virginia Beach, VA",Unknown,Not Remote
+1, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Commercial Real Estate Property Manager,"Commonwealth Commercial Partners, LLC",,"Virginia Beach, VA","$85,000 - $90,000 a year",Not Remote
+2, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Senior Maintenance Technician,County of Orange Public Works,3.8,Virginia,$14.59 - $18.97 an hour,Not Remote
+3, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Sr Data Eng – Start-up,RTRP,,Virginia,"$140,000 - $160,000 a year",Not Remote
+4, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Grounds Maintenance Worker,"Clark Whitehill Enterprises, Inc",,"Virginia Beach, VA",Unknown,Not Remote
+5, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Grounds Maintenance Worker,Wyndham Virginia Beach Oceanfront,,"Virginia Beach, VA",From $10 an hour,Not Remote
+6, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Superintendent of Grounds Services,City of Virginia Beach,3.8,"Virginia Beach, VA",Unknown,Not Remote
+7, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Tech,Hyatt,4.1,"Virginia Beach, VA",Unknown,Not Remote
+8, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Tech (Part-Time),Hyatt House Virginia Beach,,"Virginia Beach, VA",Unknown,Not Remote
+9, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Tech (Full-Time),Courtyard South 25th St,,"Virginia Beach, VA",Unknown,Not Remote
+10, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Facilities Maintenance Coordinator,Virginia Beach United Methodist Church,,"Virginia Beach, VA","$40,000 a year",Not Remote
+11, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Technician -Mayfair,The Franklin Johnston Group,3.0,"Virginia Beach, VA",Unknown,Not Remote
+12, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Technician,The Breeden Company,,"Virginia Beach, VA",$13 - $16 an hour,Not Remote
+13, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Visitor Center Customer Service Associate,Edgar Cayce A.R.E.,,"Virginia Beach, VA",Unknown,Not Remote
+14, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Technician,Crowne Plaza VB,,"Virginia Beach, VA",Unknown,Not Remote
+15, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Service Tech,Greystar,3.6,"Virginia Beach, VA",Unknown,Not Remote
+16, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Customer Service Representative,Public Storage,2.9,"Virginia Beach, VA",Unknown,Not Remote
+17, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,(NAVY LODGE LITTLE CREEK) MAINTENANCE WORKER-RFT,Navy Exchange Service Command,3.7,"Virginia Beach, VA",$12.09 - $14.13 an hour,Not Remote
+18, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Engineer/Maintenance,Westin Virginia Beach,4.1,"Virginia Beach, VA",Unknown,Not Remote
+19, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Porter - Chase Arbor,JRK Residential Group - Chase Arbor,,"Virginia Beach, VA",Up to $12.50 an hour,Not Remote
+20, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,(NAVY EXCHANGE LITTLE CREEK MAIN STORE)MAINTENANCE WORKER SUPERVISOR-RFT,Navy Exchange Service Command,3.7,"Virginia Beach, VA",$15.99 - $18.65 an hour,Not Remote
+21, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Facilities Associate,Virginia Beach Community Development Corporation,3.3,"Virginia Beach, VA",Unknown,Not Remote
+22, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Technician,Kisco Senior Living,3.4,"Virginia Beach, VA",Unknown,Not Remote
+23, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Laborer,US Department of the Navy,4.3,"Oceana, VA",$11.19 - $11.66 an hour,Not Remote
+24, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Groundskeeper - Southern Pine,The Franklin Johnston Group,3.0,"Virginia Beach, VA",Unknown,Not Remote
+25, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Engineer (Maintenance)-Delta Virginia Beach Bayfront Suites,Commonwealth Lodging Management LLC,,"Virginia Beach, VA",Unknown,Not Remote
+26, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Tech,Hyatt,4.1,"Virginia Beach, VA",Unknown,Not Remote
+27, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Gardener,US Department of the Navy,4.3,"Virginia Beach, VA",$11.19 an hour,Not Remote
+28, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Tech (Full-Time),Hyatt House Virginia Beach,,"Virginia Beach, VA",Unknown,Not Remote
+29, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Commercial Real Estate Property Manager,"Commonwealth Commercial Partners, LLC",,"Virginia Beach, VA","$85,000 - $90,000 a year",Not Remote
+30, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Technician,Harbor Group Management Company,3.4,"Virginia Beach, VA",Unknown,Not Remote
+31, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Maintenance Technician - Coastline,The Franklin Johnston Group,3.0,"Virginia Beach, VA",Unknown,Not Remote
+32, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Engineer/Maintenance,Westin Virginia Beach,4.1,"Virginia Beach, VA",Unknown,Not Remote
+33, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Service Technician - Saltmeadow Bay - Virginia Beach,BH Management Services Inc.,3.4,"Virginia Beach, VA",Unknown,Not Remote
+34, Virginia,Virginia Beach,37,Building and Grounds  Maintenance,Paid Ads (PPC) Team Leader - PPC Marketing Program Development Leader,PlacementSEO,,United States,$25 - $35 an hour,Remote
+0, Virginia,Virginia Beach,37,Supervisor Building and Grounds Maintenance Workers,(NAVY EXCHANGE LITTLE CREEK MAIN STORE)MAINTENANCE WORKER SUPERVISOR-RFT,Navy Exchange Service Command,3.7,"Virginia Beach, VA",$15.99 - $18.65 an hour,Not Remote
+0, Virginia,Virginia Beach,37,Pest Control,Pest Technician,Clegg's Pest Control,,"Virginia Beach, VA",$13 - $15 an hour,Not Remote
+1, Virginia,Virginia Beach,37,Pest Control,Commercial Pest Control Technician,Gregory Pest Solutions,3.2,"Virginia Beach, VA","From $40,000 a year",Not Remote
+2, Virginia,Virginia Beach,37,Pest Control,Spray Technician,K&D Round's Landscape Services,,"Virginia Beach, VA",$15 - $20 an hour,Not Remote
+3, Virginia,Virginia Beach,37,Pest Control,Sales Representative,Terminix,3.0,"Virginia Beach, VA","$55,000 - $100,000 a year",Not Remote
+4, Virginia,Virginia Beach,37,Pest Control,Commercial Pest Control Technician,Gregory Pest Solutions,3.2,"Virginia Beach, VA","From $40,000 a year",Not Remote
+5, Virginia,Virginia Beach,37,Pest Control,Pest Control Techinician,Surfside Services LLC,,"Virginia Beach, VA","$28,000 - $31,000 a year",Not Remote
+6, Virginia,Virginia Beach,37,Pest Control,Pest Control Specialist,Insight Pest Solutions LLC,3.8,"Virginia Beach, VA","$45,000 - $55,000 a year",Not Remote
+7, Virginia,Virginia Beach,37,Pest Control,Sales Representative,Terminix,3.0,"Virginia Beach, VA","$55,000 - $100,000 a year",Not Remote
+8, Virginia,Virginia Beach,37,Pest Control,Pest Technician,Clegg's Pest Control,,"Virginia Beach, VA",$13 - $15 an hour,Not Remote
+9, Virginia,Virginia Beach,37,Pest Control,Route Technician,Terminix,3.0,"Virginia Beach, VA",Unknown,Not Remote
+10, Virginia,Virginia Beach,37,Pest Control,Gardener,US Department of the Navy,4.3,"Virginia Beach, VA",$11.19 an hour,Not Remote
+11, Virginia,Virginia Beach,37,Pest Control,Sales Representative,Moxie Pest Control,3.5,"Virginia Beach, VA","$32,499 - $129,959 a year",Remote
+12, Virginia,Virginia Beach,37,Pest Control,Pest Control Specialist,Insight Pest Solutions LLC,3.8,"Virginia Beach, VA","$45,000 - $55,000 a year",Not Remote
+13, Virginia,Virginia Beach,37,Pest Control,Wildlife Service Technician,Terminix,3.0,"Virginia Beach, VA",Unknown,Not Remote
+14, Virginia,Virginia Beach,37,Pest Control,Commercial Service Technician (Will Train),Orkin LLC,3.2,"Virginia Beach, VA",Unknown,Not Remote
+15, Virginia,Virginia Beach,37,Pest Control,Spray Technician,K&D Round's Landscape Services,,"Virginia Beach, VA",$15 - $20 an hour,Not Remote
+16, Virginia,Virginia Beach,37,Pest Control,Commercial Service Technician (Will Train),Orkin LLC,3.2,"Virginia Beach, VA",Unknown,Not Remote
+17, Virginia,Virginia Beach,37,Pest Control,Pest Control Techinician,Surfside Services LLC,,"Virginia Beach, VA","$28,000 - $31,000 a year",Not Remote
+0, Virginia,Virginia Beach,37,Tree Trimmers and Pruners,Trimmer / Climber with DL non-union,"Asplundh Tree Expert, LLC- 029",3.4,"Chesapeake, VA",Unknown,Not Remote
+0, Virginia,Virginia Beach,39,Tour Guides,Ghost Tour Guide & Storyteller (VA Beach),US Ghost Adventures,,"Virginia Beach, VA",From $25 an hour,Not Remote
+0, Virginia,Virginia Beach,45,Logging Workers,FACILITIES PROGRAM ADMINISTRATOR,Dollar Tree,3.4,"Chesapeake, VA",Unknown,Not Remote
+0, Virginia,Virginia Beach,45,Supervisors of Farming Workers,Bilingual Forestry Supervisor,Weed Control Inc,,Virginia,$15 - $18 an hour,Not Remote
+0, Virginia,Virginia Beach,47,Drywall Installer,Metal Framing Superintendent,Digital Building Components,,United States,"$65,000 - $130,000 a year",Not Remote
+0, Virginia,Virginia Beach,47,Construction and Maintenance,Mine Maintenance Planning Superintendent - Texas,North American Construction Group Inc.,,United States,Unknown,Not Remote
+1, Virginia,Virginia Beach,47,Construction and Maintenance,General Handyman/Carpentry,New Life Renovations,,"Virginia Beach, VA",$14 - $20 an hour,Not Remote
+2, Virginia,Virginia Beach,47,Construction and Maintenance,General Laborer,Sunscape Land Works,,"Virginia Beach, VA",$10 - $16 an hour,Not Remote
+3, Virginia,Virginia Beach,47,Construction and Maintenance,Crew leader / Landscape supervisor / Maintenance Foreman,James River Grounds LLC,,"Virginia Beach, VA",$18 - $22 an hour,Not Remote
+4, Virginia,Virginia Beach,47,Construction and Maintenance,Highway Maintenance Technician/Laborer,DBI SERVICES,2.9,"Virginia Beach, VA",Unknown,Not Remote
+5, Virginia,Virginia Beach,47,Construction and Maintenance,General Laborer,Sunscape Land Works,,"Virginia Beach, VA",$10 - $16 an hour,Not Remote
+6, Virginia,Virginia Beach,47,Construction and Maintenance,General Handyman/Carpentry,New Life Renovations,,"Virginia Beach, VA",$14 - $20 an hour,Not Remote
+7, Virginia,Virginia Beach,47,Construction and Maintenance,Carpenter / Drywall / Home Improvement Professional,Mr. Handyman of Virginia Beach,3.3,"Virginia Beach, VA","$40,000 - $60,000 a year",Not Remote
+8, Virginia,Virginia Beach,47,Construction and Maintenance,EMW Electronic Technician III,PAE,3.4,"Virginia Beach, VA",Unknown,Not Remote
+9, Virginia,Virginia Beach,47,Construction and Maintenance,Plumbing Service Technician,Mr. Rooter Plumbing of Virginia Beach,3.2,"Virginia Beach, VA",Unknown,Not Remote
+10, Virginia,Virginia Beach,47,Construction and Maintenance,Crew leader / Landscape supervisor / Maintenance Foreman,James River Grounds LLC,,"Virginia Beach, VA",$18 - $22 an hour,Not Remote
+11, Virginia,Virginia Beach,47,Construction and Maintenance,Maintenance Electrician,Aerotek,3.7,"Virginia Beach, VA",$20.50 an hour,Not Remote
+12, Virginia,Virginia Beach,47,Construction and Maintenance,Installation Technician/Service Technician,Enterprise Security Solutions,,Virginia,Unknown,Not Remote
+13, Virginia,Virginia Beach,47,Construction and Maintenance,Maintenance Electrician,Aerotek,3.7,"Virginia Beach, VA",$20.50 an hour,Not Remote
+0, Virginia,Virginia Beach,49,Security and Fire Alarm Systems Installers,Security Technician (Residential Radio Project),TEKsystems,3.9,"Norfolk, VA",Unknown,Not Remote
+1, Virginia,Virginia Beach,49,Security and Fire Alarm Systems Installers,Security Technician (Residential Radio Project),TEKsystems,3.9,"Norfolk, VA",Unknown,Not Remote
+2, Virginia,Virginia Beach,49,Security and Fire Alarm Systems Installers,Security Technician (Residential Radio Project),TEKsystems,3.9,"Norfolk, VA",Unknown,Not Remote
+0, Virginia,Virginia Beach,49,Avionics Technicians,Sr. Field Service Calibration Technician,"Transcat, Inc.",3.4,United States,From $28 an hour,Not Remote
+0, Virginia,Virginia Beach,51,Butcher,92G Food Service Specialist,Army National Guard,4.4,"Norfolk, VA",Unknown,Not Remote
+1, Virginia,Virginia Beach,51,Butcher,92G Food Service Specialist,Army National Guard,4.4,"Norfolk, VA",Unknown,Not Remote
+2, Virginia,Virginia Beach,51,Butcher,92G Food Service Specialist,Army National Guard,4.4,"Portsmouth, VA",Unknown,Not Remote

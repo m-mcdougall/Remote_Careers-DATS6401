@@ -1,19 +1,13 @@
 # -*- coding: utf-8 -*-
 
 
-#Going to want to extract the date stolen, the location, if the lock was circumvented, and the bike ID (address)
-
-
-
 import os
-import re
 import requests
 from bs4 import BeautifulSoup
-import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import time
-import concurrent.futures as cf
+from tqdm import tqdm
 
 
 pd.set_option('display.max_columns', 10)
@@ -39,11 +33,11 @@ def make_url(title_str, city_str, radius=10):
     title_str=title_str.replace(' ', '+')
     city_str=city_str.replace(' ', '+')
     
-    url='https://www.indeed.com/jobs?as_and='+title_str+'&radius='+str(radius)+'&l='+city_str+'&fromage=any&limit=50&sort=date&psf=advsrch&from=advancedsearch'
+    url='https://www.indeed.com/jobs?as_and='+title_str+'&radius='+str(radius)+'&l='+city_str+'&fromage=15&limit=50&filter=0&psf=advsrch&forceLocation=1&from=advancedsearch'
     
     return url
     
-page_url = make_url('system admin', 'Seattle', radius=10)
+#page_url = make_url('system admin', 'Seattle', radius=10)
 
 
 
@@ -100,5 +94,105 @@ def search_page_downloader(page_url):
     
     return data
 
-x=search_page_downloader(page_url)
+#x=search_page_downloader(page_url)
 #%%
+
+
+cities= pd.read_excel('.//Data//Job_Titles.xlsx', )
+cities=cities[~cities.State.isin([' American Samoa', ' Guam', ' Northern Mariana Islands', ' Puerto Rico', ' Virgin Islands (U.S.)'])]
+cities.reset_index(drop=True, inplace=True)
+
+
+
+
+
+job_collect=[]
+
+for i in range(cities.shape[0]):
+    
+    page_url=make_url('Data Scientist', cities.MostPopulous[i], radius=10)
+    x=search_page_downloader(page_url)
+    
+    x.insert(column='SearchCity', loc=0, value=cities.MostPopulous[i])
+    x.insert(column='SearchState', loc=0, value=cities.State[i])
+    
+    job_collect.append(x)
+    
+    time.sleep(np.random.random_sample()*3)
+
+job_collect_df=pd.concat(job_collect)
+
+
+
+
+
+
+#%%
+#Import the modified jobs excel data file
+
+jobs= pd.read_excel('.//Data//Modified_Jobs2.xlsx', )
+jobs.rename(columns={0:'Category', 1:"JobTitle"}, inplace=True)
+
+
+job_collect=[]
+
+for i in range(jobs.shape[0]):
+    
+    page_url=make_url(jobs.JobTitle[i], 'Seattle', radius=10)
+    x=search_page_downloader(page_url)
+    
+    x.insert(column='SearchTitle', loc=0, value=jobs.JobTitle[i])
+    x.insert(column='Category', loc=0, value=jobs.Category[i])
+    
+    job_collect.append(x)
+    
+    time.sleep(np.random.random_sample()*3)
+
+job_collect_df=pd.concat(job_collect)
+
+
+#%%
+
+cities= pd.read_excel('.//Data//Job_Titles.xlsx', )
+cities=cities[~cities.State.isin([' American Samoa', ' Guam', ' Northern Mariana Islands', ' Puerto Rico', ' Virgin Islands (U.S.)'])]
+cities.reset_index(drop=True, inplace=True)
+
+
+jobs= pd.read_excel('.//Data//Modified_Jobs2.xlsx', )
+jobs.rename(columns={0:'Category', 1:"JobTitle"}, inplace=True)
+
+
+
+
+
+for k in range(28,cities.shape[0]):
+    
+    city=cities.MostPopulous[k]
+    state=cities.State[k]
+    job_collect=[]
+    
+    print(f'\n\nNow working on {city}, {state}.\n\n')
+    
+    for i in tqdm(range(jobs.shape[0])):
+        
+        page_url=make_url(jobs.JobTitle[i], city, radius=10)
+        x=search_page_downloader(page_url)
+        
+        x.insert(column='SearchTitle', loc=0, value=jobs.JobTitle[i])
+        x.insert(column='Category', loc=0, value=jobs.Category[i])
+        x.insert(column='SearchCity', loc=0, value=city)
+        x.insert(column='SearchState', loc=0, value=state)
+        
+        
+        job_collect.append(x)
+        
+        #Sleep to reduce rates of captcha
+        time.sleep(np.random.random_sample()*6)
+    
+    
+    #End of the State, save the result in case of crash or captcha
+    job_collect_df=pd.concat(job_collect)
+    job_collect_df.to_csv('.//Data//'+state+'.csv')
+    
+    print('\n\n\nWaiting........\n\n\n')
+    time.sleep(np.random.random_sample()*14)

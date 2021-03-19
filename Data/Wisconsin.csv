@@ -1,0 +1,667 @@
+,SearchState,SearchCity,Category,SearchTitle,Title,Company,Stars,Location,Wage,Remote
+0, Wisconsin,Milwaukee,13,Tax Preparer,Milwaukee - Tax Preparer,Jackson Hewitt,4.1,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,13,Tax Preparer,Greenfield - Tax Preparer,Jackson Hewitt,4.1,"Greenfield, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,13,Tax Preparer,Franklin - Tax Preparer,Jackson Hewitt,4.1,"Franklin, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,15,Data Scientists,"AI/ML - Annotation Analyst, Hebrew Language",Apple,4.2,United States,Unknown,Temporarily remote
+1, Wisconsin,Milwaukee,15,Data Scientists,Data Migration Architect,CyberCoders,3.3,"Milwaukee, WI","$120,000 - $140,000 a year",Not Remote
+2, Wisconsin,Milwaukee,15,Data Scientists,Data Analyst,GalaxE.Solutions,2.5,"Milwaukee, WI",Unknown,Remote
+3, Wisconsin,Milwaukee,15,Data Scientists,Program Manager - Data Science & Analytics,Northwestern Mutual,3.8,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,15,Data Scientists,Climate Data Scientist - Senior Manager,Deloitte,4.0,"Milwaukee, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,15,Data Scientists,Senior Data Architect,Direct Supply,4.0,"Milwaukee, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,15,Data Scientists,Data Science Manager - Fraud,U.S. Bank,3.6,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,15,Data Scientists,Power BI / Dynamics NAV Senior Data Analyst,Bravent,,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,15,Data Scientists,"Data Governance and Quality – Analytics & Cognitive, Consultant",Deloitte,4.0,"Milwaukee, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,15,Data Scientists,"Data Engineer, Analytics & Cognitive - Senior Consultant (SQL/Python)",Deloitte,4.0,"Milwaukee, WI",Unknown,Not Remote
+10, Wisconsin,Milwaukee,15,Data Scientists,AI SGO Machine Learning Platform Architect,Deloitte,4.0,"Milwaukee, WI",Unknown,Not Remote
+11, Wisconsin,Milwaukee,15,Data Scientists,"Data Engineer, Analytics & Cognitive - Consultant (SQL/Python)",Deloitte,4.0,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,17,Nuclear Engineers,Quality Engineer - Aerospace and Defense,SCOT FORGE,3.8,Wisconsin,"From $55,000 a year",Not Remote
+1, Wisconsin,Milwaukee,17,Nuclear Engineers,Nuclear Island Test Supervisor - AP1000 Initial Test Program (ITP) Team,BCP Engineers & Consultants,,United States,$70 - $90 an hour,Not Remote
+0, Wisconsin,Milwaukee,17,Mechanical Engineering Technicians,Refrigeration Engineering Lab Technician II,Perlick Corporation,3.3,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,19,Medical Scientists,Scientist I Formulation,Thermo Fisher - America,3.5,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,19,Medical Scientists,Sr. Scientist QC - Molecular Biology,Thermo Fisher - America,3.5,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,19,Medical Scientists,Sr. Laboratory Quality Leader,Aerotek,3.7,"Milwaukee, WI",$36.50 an hour,Not Remote
+3, Wisconsin,Milwaukee,19,Medical Scientists,Medical Lab Scientist/Medical Technologist - 1st shift,Children's Hospital of Wisconsin,4.2,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,19,Medical Scientists,Lead Medical Lab Scientist (MLS),Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,19,Medical Scientists,Medical Lab Scientist (MLS),Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,19,Medical Scientists,Clinical Research Assistant II,Medical College of Wisconsin,3.8,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,19,Medical Scientists,"Laboratory Manager, Anatomic Pathology",Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,19,Medical Scientists,Clinical Research Assistant I,Medical College of Wisconsin,3.8,"Milwaukee, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,19,Medical Scientists,Lab Technician III,Medical College of Wisconsin,3.8,"Milwaukee, WI",Unknown,Not Remote
+10, Wisconsin,Milwaukee,19,Medical Scientists,Associate Laboratory Technologist - Molecular Oncology and Genetics,BloodCenter of Wisconsin,3.3,"Milwaukee, WI",Unknown,Not Remote
+11, Wisconsin,Milwaukee,19,Medical Scientists,Cytology Technologist,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,19,Medical Scientists,LC-MS Laboratory Technologist,West Grove Clinic,3.9,"Wauwatosa, WI",$13 - $15 an hour,Not Remote
+13, Wisconsin,Milwaukee,19,Medical Scientists,Clinical Research Coordinator II - Psychiatry,Medical College of Wisconsin,3.8,"Wauwatosa, WI",Unknown,Temporarily remote
+14, Wisconsin,Milwaukee,19,Medical Scientists,Associate Laboratory Technologist - Platelet Neutrophil Lab,BloodCenter of Wisconsin,3.3,"Milwaukee, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,19,Medical Scientists,Laboratory Compliance Officer,Baptist Health South Florida,4.2,United States,Unknown,Not Remote
+16, Wisconsin,Milwaukee,19,Medical Scientists,Lab - Medical Laboratory Scientist/ MLS,Cross Country Allied,4.2,"West Allis, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,19,Food Scientist,Scientist I Formulation,Thermo Fisher - America,3.5,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,19,Food Scientist,Sr. Scientist QC - Molecular Biology,Thermo Fisher - America,3.5,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,21,Counselor,Psychotherapist,Lutheran Counseling and Family Services of Wisconsin,,"Wauwatosa, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,21,Counselor,Licensed Mental Health Therapist,"Jewish Family Services, Milwaukee",,"Milwaukee, WI","$56,000 - $63,000 a year",Temporarily remote
+2, Wisconsin,Milwaukee,21,Counselor,Clinical Office Manager,American Behavioral Clinics,,"Milwaukee, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,21,Counselor,Mental Health Therapist,Professional Services Group,3.6,"West Allis, WI",$25 - $30 an hour,Not Remote
+4, Wisconsin,Milwaukee,21,Counselor,ENT Clinical Operations Manager,"Alliance ENT And Hearing Center, S.C.",,"Wauwatosa, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,21,Counselor,Admissions Counselor,Milwaukee School of Engineering,4.1,"Milwaukee, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,21,Counselor,Counselor,Milwaukee Rescue Mission,4.1,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,21,Counselor,Admissions Counselor,Milwaukee School of Engineering,4.1,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,21,Counselor,Licensed Professional Counselor,MSN Care Clinic,,"West Allis, WI",$37 - $40 an hour,Temporarily remote
+9, Wisconsin,Milwaukee,21,Counselor,Crisis stabilization Worker,Community Harbor,,"Milwaukee, WI",$14 - $20 an hour,Not Remote
+10, Wisconsin,Milwaukee,21,Counselor,Homebuyer Counselor,ACTS Housing,,"Milwaukee, WI","Up to $40,000 a year",Not Remote
+11, Wisconsin,Milwaukee,21,Counselor,Patient Coordinator for Senior Behavioral Health Provider,WellQor Behavioral Health,4.2,"Milwaukee, WI","$30,000 - $40,000 a year",Remote
+12, Wisconsin,Milwaukee,21,Counselor,Intake Counselor,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,21,Counselor,Office Manager of Physical Therapy Department,Affiliated Health of Wisconsin,1.6,"Milwaukee, WI",$30 - $70 an hour,Not Remote
+14, Wisconsin,Milwaukee,21,Counselor,SUD Counselor for Women in Residential Treatment - ARC Milwaukee,"ARC Community Services, Inc.",,"Milwaukee, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,21,Counselor,Behavioral Therapist,The Autism Therapy Group,3.4,"Milwaukee, WI",$17 - $19 an hour,Not Remote
+16, Wisconsin,Milwaukee,21,Counselor,Senior Financial Aid Counselor for Online and Adult Programs,Alverno College,4.3,"Milwaukee, WI",Unknown,Not Remote
+17, Wisconsin,Milwaukee,21,Counselor,Bereavement Coordinator,Moments Hospice,4.7,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,21,Counselor,Behavioral Therapist,The Autism Therapy Group,3.4,"West Allis, WI",$17 - $19 an hour,Not Remote
+19, Wisconsin,Milwaukee,21,Counselor,Behavioral Therapist,The Autism Therapy Group,3.4,"Wauwatosa, WI",$17 - $19 an hour,Not Remote
+20, Wisconsin,Milwaukee,21,Counselor,Intake Counselor Part Time Benefit Eligible,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+21, Wisconsin,Milwaukee,21,Counselor,Licensed Professional Counselor,Red Oak Counseling,,"Milwaukee, WI","$49,000 - $90,000 a year",Temporarily remote
+22, Wisconsin,Milwaukee,21,Counselor,RECREATIONAL THERAPY ASSISTANT,Lutheran Living Services,5.0,"Wauwatosa, WI",Unknown,Not Remote
+23, Wisconsin,Milwaukee,21,Counselor,Licensed Professional Counselor,Red Oak Counseling,,"Elm Grove, WI","$49,000 - $90,000 a year",Temporarily remote
+24, Wisconsin,Milwaukee,21,Counselor,Senior Financial Aid Counselor for Online and Adult Programs,Alverno College,4.3,"Milwaukee, WI","$40,000 - $50,000 a year",Not Remote
+25, Wisconsin,Milwaukee,21,Counselor,Clinical Office Manager,American Behavioral Clinics,,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,21,Counselor,Admissions Counselor (ITCCV),InBetween Living Rehabilitation Center,,"Milwaukee, WI",$50 - $150 a day,Not Remote
+27, Wisconsin,Milwaukee,21,Counselor,Licensed Mental Health Therapist,"Jewish Family Services, Milwaukee",,"Milwaukee, WI","$56,000 - $63,000 a year",Temporarily remote
+28, Wisconsin,Milwaukee,21,Counselor,Clinical/Family Therapist-Aurora Plains,Eau Claire Academy,2.5,"Wauwatosa, WI",Unknown,Not Remote
+29, Wisconsin,Milwaukee,21,Counselor,Supervisor of Anesthesia Clinical Support Services,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+30, Wisconsin,Milwaukee,21,Counselor,Behavioral Health Therapist,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+31, Wisconsin,Milwaukee,21,Counselor,Mental Health Therapist,Professional Services Group,3.6,"West Allis, WI",$25 - $30 an hour,Not Remote
+32, Wisconsin,Milwaukee,21,Counselor,Program Psychotherapist,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+33, Wisconsin,Milwaukee,21,Counselor,Therapist,Rogers Behavioral Health,3.0,"Brown Deer, WI",Unknown,Not Remote
+34, Wisconsin,Milwaukee,21,Counselor,Manager for Physical Therapy Department,TMJ & Orofacial Pain Treatment Centers of Wisconsi...,,"Wauwatosa, WI",Unknown,Not Remote
+35, Wisconsin,Milwaukee,21,Counselor,Therapist,The REDI Clinic,,"Wauwatosa, WI",$25 - $30 an hour,Temporarily remote
+36, Wisconsin,Milwaukee,21,Counselor,AODA & Mental Health Clinician,"Guest House of Milwaukee, Inc.",3.7,"Milwaukee, WI",Unknown,Not Remote
+37, Wisconsin,Milwaukee,21,Counselor,Psychotherapist,Lutheran Counseling and Family Services of Wiscons...,,"Wauwatosa, WI",Unknown,Not Remote
+38, Wisconsin,Milwaukee,21,Counselor,Telehealth & Onsite Therapists & Social Workers in Group Practice,Willis Counseling & Consulting,,"Milwaukee, WI",Unknown,Not Remote
+39, Wisconsin,Milwaukee,21,Counselor,"Milwaukee, WI, Part Time to Full Time Remote Therapist - Please Apply!",Gotham Enterprises LTD,4.2,"Milwaukee, WI",$30 - $70 an hour,Remote
+40, Wisconsin,Milwaukee,21,Counselor,Therapist - Eau Claire Academy,Eau Claire Academy,2.5,"Wauwatosa, WI",Unknown,Not Remote
+41, Wisconsin,Milwaukee,21,Counselor,Board Certified Music Therapist,Healing Harmonies Music Therapy,,"Milwaukee, WI",$18 - $24 an hour,Not Remote
+42, Wisconsin,Milwaukee,21,Counselor,Clinical Therapist for Older Adults,WellQor Behavioral Health,4.2,"Milwaukee, WI",Unknown,Not Remote
+43, Wisconsin,Milwaukee,21,Counselor,Masters Level Clinician - Behavioral Health,MILWAUKEE CENTER FOR INDEPENDENCE INC,3.4,"West Allis, WI",Unknown,Not Remote
+44, Wisconsin,Milwaukee,21,Counselor,Experiential Therapist Pool,Rogers Behavioral Health,3.0,"West Allis, WI",Unknown,Not Remote
+45, Wisconsin,Milwaukee,21,Counselor,Therapist,Rawhide,3.7,"Milwaukee, WI",Unknown,Not Remote
+46, Wisconsin,Milwaukee,21,Counselor,West Milwaukee Clinical Therapist for Older Adults,WellQor Behavioral Health,4.2,"Milwaukee, WI",Unknown,Not Remote
+47, Wisconsin,Milwaukee,21,Counselor,Intake Counselor,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+48, Wisconsin,Milwaukee,21,Counselor,"Master's Level Therapists - Part Time, Full Time & Independent Contractors",Doctor On Demand,2.6,"Milwaukee, WI",Unknown,Remote
+49, Wisconsin,Milwaukee,21,Counselor,Mental Health Professional/CORE Manager,"Wisconsin Community Services, Inc.",2.9,"Milwaukee, WI",Unknown,Not Remote
+50, Wisconsin,Milwaukee,21,Counselor,BCBA Clinical Supervisor,"Center for Autism and Related Disorders, Inc.",2.7,"Milwaukee, WI",Unknown,Not Remote
+51, Wisconsin,Milwaukee,21,Counselor,Clinical Manager (35),Fresenius Medical Care,3.4,"Milwaukee, WI",Unknown,Not Remote
+52, Wisconsin,Milwaukee,21,Counselor,Therapist,Rogers Behavioral Health,3.0,"Brown Deer, WI",Unknown,Not Remote
+53, Wisconsin,Milwaukee,21,Counselor,Behavioral Health Therapist,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+54, Wisconsin,Milwaukee,21,Counselor,Recreational Therapy Assistant PT,Lutheran Home & Harwood Place,4.1,"Wauwatosa, WI",Unknown,Not Remote
+55, Wisconsin,Milwaukee,21,Counselor,"Therapist, Psychologist or Counselor - Telehealth (Remote)",Happier Living,4.0,United States,Unknown,Remote
+0, Wisconsin,Milwaukee,21,Probation Officers ,Fixed Income Capital Markets Supervision Officer,Robert W. Baird,4.0,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,21,Community Social Service,Property Supervisor - Subsidized Housing (Southeastern Wisconsin),Metropolitan Associates,4.3,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,21,Community Social Service,Apartment Maintenance Technician,"Mandel Group, Inc.",3.9,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,21,Community Social Service,On - Site Building Manager,Bell Property Management,,"Milwaukee, WI",Up to $825 a month,Temporarily remote
+3, Wisconsin,Milwaukee,21,Community Social Service,Wisconsin State SCSEP Coordinator,"SER Jobs for Progress National, Inc.",4.0,"West Allis, WI","$57,500 - $60,000 a year",Not Remote
+4, Wisconsin,Milwaukee,21,Community Social Service,"Patient Service Representative - Milwaukee, WI",Vivent Health,4.1,"Milwaukee, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,21,Community Social Service,Sales Representative,Spectrum,,"Milwaukee, WI","$65,000 - $80,000 a year",Not Remote
+6, Wisconsin,Milwaukee,21,Community Social Service,Social Service Intake,Sixteenth Street Community Health Centers,3.8,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,21,Community Social Service,Community Guide,Hires Now,,"Milwaukee, WI","$40,000 - $43,000 a year",Remote
+8, Wisconsin,Milwaukee,21,Community Social Service,Community Service Provider I,MCFI HOME CARE LLC,,"Milwaukee, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,21,Community Social Service,"Victim Service Advocate, The Asha Project/Milwaukee Visitation Center",End Domestic Abuse Wisconsin,,"Milwaukee, WI",From $19 an hour,Temporarily remote
+10, Wisconsin,Milwaukee,21,Community Social Service,Virtual Engagement Librarian,Shorewood Public Library,,"Shorewood, WI",$22.71 - $29.04 an hour,Not Remote
+11, Wisconsin,Milwaukee,21,Community Social Service,Barista,Starbucks,4.0,"Milwaukee, WI",$10 an hour,Not Remote
+12, Wisconsin,Milwaukee,21,Community Social Service,Behavior Technician- Working with Kids,"Center for Autism and Related Disorders, Inc.",2.7,"Milwaukee, WI",$15 - $18 an hour,Not Remote
+13, Wisconsin,Milwaukee,21,Community Social Service,Reproductive Healthcare Assistant,Planned Parenthood of Wisconsin,3.7,"Milwaukee, WI",Unknown,Not Remote
+14, Wisconsin,Milwaukee,21,Community Social Service,Community Planner,Milwaukee Jewish Federation,,"Milwaukee, WI",$32 - $35 an hour,Temporarily remote
+15, Wisconsin,Milwaukee,21,Community Social Service,Service Coordinator,"Team Management, LLC",,"Milwaukee, WI","$32,000 - $45,000 a year",Not Remote
+16, Wisconsin,Milwaukee,21,Community Social Service,Motor Vehicle Operator,US Department of Veterans Affairs,3.8,"Milwaukee, WI",$22.75 - $26.52 an hour,Not Remote
+17, Wisconsin,Milwaukee,21,Community Social Service,Caregiver,Platinum Communities,4.3,"Milwaukee, WI",$11 - $13 an hour,Not Remote
+18, Wisconsin,Milwaukee,21,Community Social Service,"Bilingual Patient Service Representative - Milwaukee, WI",Vivent Health,4.1,"Milwaukee, WI",Unknown,Not Remote
+19, Wisconsin,Milwaukee,21,Community Social Service,Event Sales Manager,Milwaukee Bucks,4.1,"Milwaukee, WI",Unknown,Not Remote
+20, Wisconsin,Milwaukee,21,Community Social Service,Care Coordinator – Comprehensive Community Services,"Guest House of Milwaukee, Inc.",3.7,"Milwaukee, WI",Unknown,Not Remote
+21, Wisconsin,Milwaukee,21,Community Social Service,Receptionist - Every Other Weekend,Eastcastle Place Inc,3.7,"Milwaukee, WI",From $12 an hour,Not Remote
+22, Wisconsin,Milwaukee,21,Community Social Service,Supervised Visitation Worker (social work),Milwaukee Area Parent Services,,"Milwaukee, WI",$14 - $15 an hour,Not Remote
+23, Wisconsin,Milwaukee,21,Community Social Service,Front Desk Coordinator,Doctors of Physical Therapy,,"Wauwatosa, WI",$14 - $16 an hour,Not Remote
+24, Wisconsin,Milwaukee,21,Community Social Service,Partnership Services Coordinator - Milwaukee Office,"Green Bay Packers, Inc.",4.7,"Milwaukee, WI",Unknown,Not Remote
+25, Wisconsin,Milwaukee,21,Community Social Service,Service Coordinator,Penfield Children's Center,,"Milwaukee, WI","$29,640 - $44,460 a year",Temporarily remote
+26, Wisconsin,Milwaukee,21,Community Social Service,"Patient Service Representative - Milwaukee, WI",Vivent Health,4.1,"Milwaukee, WI",Unknown,Not Remote
+27, Wisconsin,Milwaukee,21,Community Social Service,Field Service Referral Coordinator,GT Independence,3.9,"Milwaukee, WI",Unknown,Temporarily remote
+28, Wisconsin,Milwaukee,21,Community Social Service,Achievers Program Facilitator,YMCA of Metropolitan Milwaukee,4.0,"Milwaukee, WI",Unknown,Not Remote
+29, Wisconsin,Milwaukee,21,Community Social Service,"STUDENT SERVICES SPECIALIST (ASSOC, NO PREFIX, SENIOR)",University of Wisconsin–Milwaukee,4.3,"Milwaukee, WI",Unknown,Not Remote
+30, Wisconsin,Milwaukee,21,Community Social Service,PROGRAM SUPPORT ASSISTANT,US Department of Veterans Affairs,3.8,"Milwaukee, WI","$36,789 - $53,311 a year",Not Remote
+31, Wisconsin,Milwaukee,21,Community Social Service,Pediatric Nurse- NICU full time,Children's Hospital of Wisconsin,4.2,"Milwaukee, WI",Unknown,Not Remote
+32, Wisconsin,Milwaukee,21,Community Social Service,Social-Emotional and Behavioral Student Support,Nativity Jesuit Academy,,"Milwaukee, WI",Unknown,Not Remote
+33, Wisconsin,Milwaukee,21,Community Social Service,Kids Clubhouse Team Member,Wisconsin Athletic Club,4.4,"Wauwatosa, WI",Unknown,Not Remote
+34, Wisconsin,Milwaukee,21,Community Social Service,Laundry Attendant/Driver,Eastcastle Place Inc,3.7,"Milwaukee, WI",From $13 an hour,Not Remote
+35, Wisconsin,Milwaukee,21,Community Social Service,Admissions and Marketing Director,Clifden Court Assisted Living,,"Greendale, WI","$60,000 - $70,000 a year",Not Remote
+36, Wisconsin,Milwaukee,21,Community Social Service,Crisis stabilization Worker,Community Harbor,,"Milwaukee, WI",$14 - $20 an hour,Not Remote
+37, Wisconsin,Milwaukee,21,Community Social Service,Reproductive Healthcare Assistant,Planned Parenthood of Wisconsin,3.7,"West Allis, WI",Unknown,Not Remote
+38, Wisconsin,Milwaukee,21,Community Social Service,Program Assistant,Milwaukee School of Engineering,4.1,"Milwaukee, WI",Unknown,Not Remote
+39, Wisconsin,Milwaukee,21,Community Social Service,Patient Coordinator for Senior Behavioral Health Provider,WellQor Behavioral Health,4.2,"Milwaukee, WI","$30,000 - $40,000 a year",Remote
+40, Wisconsin,Milwaukee,21,Community Social Service,In Home Aide,Optimum Home Health Care,3.5,"Milwaukee, WI",$15 - $17 an hour,Not Remote
+41, Wisconsin,Milwaukee,21,Community Social Service,Director of Marketing and Communications,Girl Scouts of Wisconsin Southeast,4.0,"Milwaukee, WI","$55,000 - $60,000 a year",Not Remote
+42, Wisconsin,Milwaukee,21,Community Social Service,Registered Behavior Technician (RBT),Mindcolor Autism,5.0,"Milwaukee, WI",$15 - $18 an hour,Not Remote
+43, Wisconsin,Milwaukee,21,Community Social Service,Admissions Counselor,Milwaukee School of Engineering,4.1,"Milwaukee, WI",Unknown,Not Remote
+44, Wisconsin,Milwaukee,21,Community Social Service,2021-2022 School Social Worker,Carmen Schools of Science & Technology,,"Milwaukee, WI",Unknown,Not Remote
+45, Wisconsin,Milwaukee,21,Community Social Service,Full Time & Part Time Leasing Specialists,Founders 3 Real Estate Services,3.0,"Milwaukee, WI",$16 - $20 an hour,Not Remote
+46, Wisconsin,Milwaukee,21,Community Social Service,Research Program Assistant,Medical College of Wisconsin,3.8,"Milwaukee, WI",Unknown,Not Remote
+47, Wisconsin,Milwaukee,21,Community Social Service,Leasing Consultant,"Pieper Properties, Inc.",,"Milwaukee, WI",$15 - $16 an hour,Not Remote
+48, Wisconsin,Milwaukee,21,Community Social Service,Family Services Specialist - Organ Donation,BloodCenter of Wisconsin,3.3,"Milwaukee, WI",Unknown,Not Remote
+49, Wisconsin,Milwaukee,21,Community Social Service,Director of Business Services,Shorewood School District,3.9,"Shorewood, WI","From $120,000 a year",Not Remote
+50, Wisconsin,Milwaukee,21,Community Social Service,"Instructor, Audio Production",Milwaukee Area Technical College,4.1,"Milwaukee, WI",$28.13 - $36.44 an hour,Not Remote
+51, Wisconsin,Milwaukee,21,Community Social Service,"Community Case Manager - Milwaukee, WI",Vivent Health,4.1,"Milwaukee, WI",Unknown,Not Remote
+52, Wisconsin,Milwaukee,21,Community Social Service,"ASSISTANT DIRECTOR, UNIVERSITY HOUSING/L",University of Wisconsin–Milwaukee,4.3,"Milwaukee, WI",Unknown,Not Remote
+53, Wisconsin,Milwaukee,21,Community Social Service,Client Communication Specialist,BRAY ASSOCIATES ARCHITECTS INC,,"Milwaukee, WI",Unknown,Not Remote
+54, Wisconsin,Milwaukee,21,Community Social Service,Summer Camp Counselor (Rainbow Day Camp),Harry & Rose Samson Family Jewish Community Center,4.0,"Milwaukee, WI",Unknown,Not Remote
+55, Wisconsin,Milwaukee,21,Community Social Service,Vice President for External Affairs,Discovery World,3.9,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,21,Religious Worker,Inbound Sales Rep (Remote- Home Based Worker),Allstate,3.7,"Milwaukee, WI",$16 an hour,Remote
+1, Wisconsin,Milwaukee,21,Religious Worker,Building Services Worker - Milwaukee Emergency Lodge,The Salvation Army USA Central Territory,3.9,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,21,Religious Worker,Social-Emotional and Behavioral Student Support,Nativity Jesuit Academy,,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,23,Legal Support Worker,Legal Assistant,Hupy and Abraham S C,3.7,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,23,Legal Support Worker,Medical Claims Representative,Hupy and Abraham S C,3.7,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,23,Legal Support Worker,Assistant Controller,Sellars Absorbent Materials INC,,"Milwaukee, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,23,Legal Support Worker,Community and Inclusion Advisor,MGIC,4.1,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,23,Legal Support Worker,2021-2022 School Social Worker,Carmen Schools of Science & Technology,,"Milwaukee, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,23,Legal Support Worker,Complimentary AM Attendant,Holiday Express West Allis,3.1,"West Allis, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,23,Legal Support Worker,Customer Service Representative,Hupy and Abraham S C,3.7,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,23,Legal Support Worker,CASHIER/FOOD SERVICE WORKER(PART-TIME),Compass Group,3.3,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,23,Legal Support Worker,Registered Nurse,Divine Personal Care Agency,,"Milwaukee, WI",$20 - $41 an hour,Not Remote
+9, Wisconsin,Milwaukee,23,Legal Support Worker,ICA Enrollment Specialist,Lutheran Social Services of WI & Upper MI,3.6,"West Allis, WI",$15 an hour,Not Remote
+10, Wisconsin,Milwaukee,23,Legal Support Worker,Care Coordinator (Comprehensive Community Services Program-CCS),"Milwaukee Mental Health Associates,Inc.",,"Milwaukee, WI",Unknown,Not Remote
+11, Wisconsin,Milwaukee,23,Legal Support Worker,Legal Assistant,Hupy and Abraham S C,3.7,"Milwaukee, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,23,Legal Support Worker,Complimentary PM Attendant,Homewood Suites Wauwatosa,3.1,"Wauwatosa, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,23,Legal Support Worker,Bilingual Spanish Attendant Care Worker,Supportive Homecare Options,3.9,"Milwaukee, WI",$11.99 an hour,Not Remote
+14, Wisconsin,Milwaukee,23,Legal Support Worker,Regional EHS Manager,"Warren Distribution, Inc",3.5,"Milwaukee, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,23,Legal Support Worker,Career Coach,WRTP|BIG STEP,4.0,"Milwaukee, WI","$41,600 - $49,920 a year",Not Remote
+16, Wisconsin,Milwaukee,23,Legal Support Worker,"Occupational Health(on-site) - ATC,EMT B,Paramedic,RN-Part Time Weekends",Proof Positive Consulting,,"Milwaukee, WI",$18 - $25 an hour,Not Remote
+17, Wisconsin,Milwaukee,23,Legal Support Worker,"STAFF RN - A, FH - CLINIC-DOM-PULMONARY",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,23,Legal Support Worker,Medical Claims Representative,Hupy and Abraham S C,3.7,"Milwaukee, WI",Unknown,Not Remote
+19, Wisconsin,Milwaukee,23,Legal Support Worker,Mental Health Professional/CORE Manager,"Wisconsin Community Services, Inc.",2.9,"Milwaukee, WI",Unknown,Not Remote
+20, Wisconsin,Milwaukee,23,Legal Support Worker,Treasury Systems Analyst,Brookdale Senior Living,2.9,"Milwaukee, WI",Unknown,Not Remote
+21, Wisconsin,Milwaukee,23,Legal Support Worker,Licensed Clinical Social Worker,Blomquist Hale Solutions,,United States,$29.50 - $32.00 an hour,Remote
+22, Wisconsin,Milwaukee,23,Legal Support Worker,Customer Service Representative,Hupy and Abraham S C,3.7,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,23,Legal Occupations,Trust & Estates Paralegal (Tax experience required),"GROUP II, LLC",,"Milwaukee, WI","$55,000 - $70,000 a year",Not Remote
+1, Wisconsin,Milwaukee,23,Legal Occupations,Associate Criminal Defense Attorney,Tracey Wood & Associates,,"Milwaukee, WI",Unknown,Temporarily remote
+2, Wisconsin,Milwaukee,23,Legal Occupations,Assistant General Counsel - Real Estate Investments,Northwestern Mutual,3.8,"Milwaukee, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,23,Legal Occupations,Legal Administrative Assistant,"Bankruptcy Law Office of Richard A Check, S.C.",,"Milwaukee, WI","$30,000 - $35,000 a year",Not Remote
+4, Wisconsin,Milwaukee,23,Legal Occupations,Legal Secretary - Milwaukee Trial,State of Wisconsin,3.5,"Milwaukee County, WI",$18.07 an hour,Not Remote
+5, Wisconsin,Milwaukee,23,Legal Occupations,Paralegal - Trusts & Estates,Quarles & Brady,3.5,"Milwaukee, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,23,Legal Occupations,Litigation Legal Secretary,Hinshaw & Culbertson,3.8,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,23,Legal Occupations,Legal Administrative Assistant-Judgement Entr,Gurstel Law Firm P C,,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,23,Legal Occupations,Intake & Assessment Paralegal,"Legal Action of Wisconsin, Inc.",,"Milwaukee, WI",Unknown,Temporarily remote
+9, Wisconsin,Milwaukee,23,Legal Occupations,Conflicts Analyst,Foley & Lardner LLP,3.7,"Milwaukee, WI",Unknown,Not Remote
+10, Wisconsin,Milwaukee,23,Legal Occupations,Paralegal - Legal Projects Manager,Johnson Controls,3.7,"Milwaukee, WI",Unknown,Not Remote
+11, Wisconsin,Milwaukee,23,Legal Occupations,Estates & Trusts Paralegal (Business Law),Foley & Lardner LLP,3.7,"Milwaukee, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,23,Legal Occupations,Sr. Paralegal,"Fiserv, Inc.",3.4,"Brookfield, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,23,Legal Occupations,Trademark Paralegal (Intellectual Property),Foley & Lardner LLP,3.7,"Milwaukee, WI",Unknown,Not Remote
+14, Wisconsin,Milwaukee,23,Legal Occupations,"Regulatory Administrator/Paralegal - Milwaukee, WI; Mesa, AZ; Glendora, CA; or Cincinnati, OH",U.S. Bank,3.6,"Milwaukee, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,23,Legal Occupations,Patent Paralegal (Intellectual Property),Foley & Lardner LLP,3.7,"Milwaukee, WI",Unknown,Not Remote
+16, Wisconsin,Milwaukee,23,Legal Occupations,Assistant General Counsel,Deloitte,4.0,"Milwaukee, WI",Unknown,Not Remote
+17, Wisconsin,Milwaukee,23,Legal Occupations,Intellectual Property Attorney,Brady Corporation,3.4,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,23,Legal Occupations,Aviation Associate Attorney,Wilson Elser,2.8,"Milwaukee, WI",Unknown,Not Remote
+19, Wisconsin,Milwaukee,23,Legal Occupations,Assistant General Counsel - Real Estate Investments,Northwestern Mutual,3.8,"Milwaukee, WI",Unknown,Not Remote
+20, Wisconsin,Milwaukee,23,Legal Occupations,Legal Assistant,Hupy and Abraham S C,3.7,"Milwaukee, WI",Unknown,Not Remote
+21, Wisconsin,Milwaukee,23,Legal Occupations,Real Estate Attorney,Phoenix Investors,4.7,"Milwaukee, WI",Unknown,Not Remote
+22, Wisconsin,Milwaukee,23,Legal Occupations,Senior Staff Counsel,"Fiserv, Inc.",3.4,"Brookfield, WI",Unknown,Not Remote
+23, Wisconsin,Milwaukee,23,Legal Occupations,Civil Litigation Defense Associate Attorney,Wilson Elser,2.8,"Milwaukee, WI",Unknown,Not Remote
+24, Wisconsin,Milwaukee,23,Legal Occupations,Real Estate Attorney,Phoenix Investors & Logistics,4.7,"Milwaukee, WI",Unknown,Not Remote
+25, Wisconsin,Milwaukee,23,Legal Occupations,Trust & Estates Paralegal (Tax experience required),Group II,,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,23,Legal Occupations,"Litigation Family Law Attorney/Milwaukee, WI","Cordell & Cordell, P.C.",3.0,"Milwaukee, WI",Unknown,Not Remote
+27, Wisconsin,Milwaukee,23,Legal Occupations,"Senior Associate, M&A Partnership Transactions",KPMG,4.0,"Milwaukee, WI",Unknown,Not Remote
+28, Wisconsin,Milwaukee,23,Legal Occupations,Senior Legal Counsel - Mandarin Speaking,HungryPanda,4.8,United States,"$60,000 - $80,000 a year",Remote
+29, Wisconsin,Milwaukee,23,Legal Occupations,Legal Assistant,Hupy and Abraham S C,3.7,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,23,Title Examiner,Remote- Title Insurance Examiner,JobTracks,4.4,United States,"$55,000 - $90,000 a year",Remote
+1, Wisconsin,Milwaukee,23,Title Examiner,RN-Assault Examiner,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,23,Title Examiner,Rep Mobile Examiner,Quest Diagnostics,3.6,"Wauwatosa, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,23,Title Examiner,RN-Assault Examiner,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,25,Teaching Assistants,Substitute Paraprofessional-Teacher Assistant/Aide - Substitute Teacher,Teachers On Call,4.2,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Child Care Teacher,KinderCare,2.8,"Greendale, WI",$10 - $13 an hour,Not Remote
+2, Wisconsin,Milwaukee,25,Teaching Assistants,Ski Coach + Teacher's Assistant + Household Assistant,Caroline Jeske,,United States,From $15 an hour,Not Remote
+3, Wisconsin,Milwaukee,25,Teaching Assistants,Teaching Assistant,"Educational Enterprises, Inc.",2.9,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,25,Teaching Assistants,Elementary-High School Teacher Assistants/School Aides,Carter's Christian Academy,2.7,"Milwaukee, WI",Unknown,Temporarily remote
+5, Wisconsin,Milwaukee,25,Teaching Assistants,Special Education Paraprofessional,Penfield Montessori Academy,,"Milwaukee, WI",$15 - $20 an hour,Not Remote
+6, Wisconsin,Milwaukee,25,Teaching Assistants,Instructional Aide,The Richardson School,2.9,"West Allis, WI",From $14.50 an hour,Not Remote
+7, Wisconsin,Milwaukee,25,Teaching Assistants,Teacher's Assistant,Bader Hillel Academy,,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,25,Teaching Assistants,Paraprofessional,MILWAUKEE CENTER FOR INDEPENDENCE INC,3.4,"Milwaukee, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,25,Teaching Assistants,Teaching Assistant,"Educational Enterprises, Inc.",2.9,"Milwaukee, WI",Unknown,Not Remote
+10, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Teacher,Maggie’s little Angels,,"Milwaukee, WI",$9.50 - $10.50 an hour,Not Remote
+11, Wisconsin,Milwaukee,25,Teaching Assistants,2021-2022 Elementary School Instructional Assistant,St. Augustine Preparatory Academy,,"Milwaukee, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,25,Teaching Assistants,2021-2022 Elementary School Instructional Assistant,St. Augustine Preparatory Academy,,"Milwaukee, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Teachers at St. Francis KinderCare,KinderCare Learning Centers,3.1,"Saint Francis, WI",Unknown,Not Remote
+14, Wisconsin,Milwaukee,25,Teaching Assistants,Educational Assistant (Special Education),School District of West Allis West Milwaukee,,"West Allis, WI",$13.48 an hour,Not Remote
+15, Wisconsin,Milwaukee,25,Teaching Assistants,Lead Teacher-Assistant Teacher,The Graham Cracker Child Care Center,,"Milwaukee, WI",$9.50 - $11.00 an hour,Not Remote
+16, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Teachers at Falk Park KinderCare,KinderCare Learning Centers,3.1,"Franklin, WI",Unknown,Not Remote
+17, Wisconsin,Milwaukee,25,Teaching Assistants,Child Care Assistant Teacher,Bluemound Child Care,,"Brookfield, WI",$11 - $13 an hour,Not Remote
+18, Wisconsin,Milwaukee,25,Teaching Assistants,2021-2022 High School Special Education Paraprofessional,St. Augustine Preparatory Academy,,"Milwaukee, WI",Unknown,Not Remote
+19, Wisconsin,Milwaukee,25,Teaching Assistants,2021-2022 High School Special Education Paraprofessional,St. Augustine Preparatory Academy,,"Milwaukee, WI",Unknown,Not Remote
+20, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Teacher,Penfield Montessori Academy,,"Milwaukee, WI",$15 - $20 an hour,Not Remote
+21, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Child Care Teacher,KinderCare,2.8,"Greendale, WI",$10 - $13 an hour,Not Remote
+22, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Teacher at Greendale KinderCare,KinderCare Learning Centers,3.1,"Greendale, WI",Unknown,Not Remote
+23, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Teachers at Greenfield KinderCare,KinderCare Learning Centers,3.1,"Greenfield, WI",Unknown,Not Remote
+24, Wisconsin,Milwaukee,25,Teaching Assistants,Assistant Teachers at Oak Creek KinderCare,KinderCare Learning Centers,3.1,"Oak Creek, WI",Unknown,Not Remote
+25, Wisconsin,Milwaukee,25,Teaching Assistants,Preschool Teacher Assistant,Cadence Education,2.8,"West Allis, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,25,Teaching Assistants,Early Child Care Substitute Assistant/Teacher $13-$15.50/hr,Teachers On Call,4.2,"Brown Deer, WI",$13.00 - $15.50 an hour,Not Remote
+0, Wisconsin,Milwaukee,25,Geography Teachers,"Summer School Teacher-High School Social Studies: Economics, Government, World History, US History, & Human Geography",School District of Waukesha,3.5,"Waukesha, WI",$25 an hour,Not Remote
+0, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Certified Medical Assistant,Wellpath,2.6,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Medical Assistant/COVID19 Vaccinator,HOLISTIC HOME AND HOSPICE,,"Greenfield, WI",$13 - $20 an hour,Not Remote
+2, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN - A, FH - CLINIC-DOM-INTERNAL MED EAST",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"Respiratory Therapists - $5K Sign On Available - Fishersville, VA",Augusta Health,3.6,United States,Unknown,Not Remote
+4, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Billing Representative,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Medical Liaison - Diabetes Cardiovascular Renal - Wisconsin/Iowa,Novo Nordisk,4.1,"Milwaukee, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Medical Assistant/COVID19 Vaccinator,HOLISTIC HOME AND HOSPICE,,"Greenfield, WI",$13 - $20 an hour,Not Remote
+7, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Registered Respiratory Therapist,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Respiratory Therapist,Lincare,2.6,"Milwaukee, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FMLH - ED/TRAUMA",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+10, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Licensed Master Social Worker,Legacy Home Care,2.8,"Milwaukee, WI",From $25 an hour,Not Remote
+11, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"VASCULAR ACCESS NURSE, FH - VASCULAR ACCESS TEAM",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Licensed Practical or Vocational Nurse,Wellpath,2.6,"Milwaukee, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - 5SE - INTERNAL MEDICINE",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+14, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FMLH - ED/TRAUMA",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - 4SW - INTERNAL MEDICINE",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+16, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN - A, FH - CLINIC-DOM-PULMONARY",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+17, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN - B, FH - INTERVENTIONAL RADIOLOGY",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - 2NT TRAUMA/ACUTE CARE SURGERY",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+19, Wisconsin,Milwaukee,29,Healthcare Practitioners ,PA/NP- Orthopaedic Surgery- Foot/Ankle,Medical College of Wisconsin,3.8,"Milwaukee, WI",Unknown,Not Remote
+20, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - 2NT TRAUMA/ACUTE CARE SURGERY",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+21, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - 4SW - INTERNAL MEDICINE",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+22, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - 5SE - INTERNAL MEDICINE",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+23, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - 5SE - INTERNAL MEDICINE",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+24, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FMLH - RECOVERY ROOM",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+25, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - 2NT TRAUMA/ACUTE CARE SURGERY",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN - A, FH - CLINIC-DOM-INTERNAL MED EAST",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+27, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Certified Medical Assistant,Wellpath,2.6,"Milwaukee, WI",Unknown,Not Remote
+28, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FH - INTERVENTIONAL RADIOLOGY",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+29, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN - B, FH - CLINIC-DOM-CARDIOLOGY",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+30, Wisconsin,Milwaukee,29,Healthcare Practitioners ,APRN-Nurse Pract-Presc Authori,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+31, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Licensed Practical or Vocational Nurse,Wellpath,2.6,"Milwaukee, WI",Unknown,Not Remote
+32, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN - B, FH - CANCER CENTER GRACE CLINIC",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+33, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN, FMLH - NEURO ICU",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+34, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"STAFF RN ICU FELLOWSHIP FLOAT, FH - RESOURCE POOL",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+35, Wisconsin,Milwaukee,29,Healthcare Practitioners ,"RN CASE MANAGER EDUCATOR, FMLH - CARE MANAGEMENT",Froedtert,3.8,"Milwaukee, WI",Unknown,Not Remote
+36, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Telehealth Behavioral Health Provider (Independent Contractor),Ayana Therapy,,Wisconsin,"$46,946 - $80,359 a year",Remote
+37, Wisconsin,Milwaukee,29,Healthcare Practitioners ,Licensed Practical or Vocational Nurse,Wellpath,2.6,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,29,Nurse Midwives,Nurse Practitioner or Certified Nurse Midwife,Planned Parenthood of Wisconsin,3.7,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,29,Therapists,Psychotherapist,Lutheran Counseling and Family Services of Wisconsin,,"Wauwatosa, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,29,Therapists,Licensed Mental Health Therapist,"Jewish Family Services, Milwaukee",,"Milwaukee, WI","$56,000 - $63,000 a year",Temporarily remote
+2, Wisconsin,Milwaukee,29,Therapists,Recreational Therapy Assistant PT,Lutheran Home & Harwood Place,4.1,"Wauwatosa, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,29,Therapists,Clinical Office Manager,American Behavioral Clinics,,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,29,Therapists,ENT Clinical Operations Manager,"Alliance ENT And Hearing Center, S.C.",,"Wauwatosa, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,29,Therapists,MSW Care Manager,Confidential,,"Milwaukee, WI","$50,000 - $60,000 a year",Temporarily remote
+6, Wisconsin,Milwaukee,29,Therapists,"Respiratory Therapists - $5K Sign On Available - Fishersville, VA",Augusta Health,3.6,United States,Unknown,Not Remote
+7, Wisconsin,Milwaukee,29,Therapists,Mental Health Therapist,Professional Services Group,3.6,"West Allis, WI",$25 - $30 an hour,Not Remote
+8, Wisconsin,Milwaukee,29,Therapists,Therapist-Occupational,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,29,Therapists,Crisis stabilization Worker,Community Harbor,,"Milwaukee, WI",$14 - $20 an hour,Not Remote
+10, Wisconsin,Milwaukee,29,Therapists,Patient Coordinator for Senior Behavioral Health Provider,WellQor Behavioral Health,4.2,"Milwaukee, WI","$30,000 - $40,000 a year",Remote
+11, Wisconsin,Milwaukee,29,Therapists,Office Manager of Physical Therapy Department,Affiliated Health of Wisconsin,1.6,"Milwaukee, WI",$30 - $70 an hour,Not Remote
+12, Wisconsin,Milwaukee,29,Therapists,Counselor,Milwaukee Rescue Mission,4.1,"Milwaukee, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,29,Therapists,ABA Therapist/RBT,Great Lakes Behavior Analysis,,"Milwaukee, WI",$12 - $16 an hour,Not Remote
+14, Wisconsin,Milwaukee,29,Therapists,Behavioral Therapist,The Autism Therapy Group,3.4,"Milwaukee, WI",$17 - $19 an hour,Not Remote
+15, Wisconsin,Milwaukee,29,Therapists,Behavioral Therapist,The Autism Therapy Group,3.4,"West Allis, WI",$17 - $19 an hour,Not Remote
+16, Wisconsin,Milwaukee,29,Therapists,Behavioral Therapist,The Autism Therapy Group,3.4,"Wauwatosa, WI",$17 - $19 an hour,Not Remote
+17, Wisconsin,Milwaukee,29,Therapists,Therapist-Occupational,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,29,Therapists,Bereavement Coordinator,Moments Hospice,4.7,"Milwaukee, WI",Unknown,Not Remote
+19, Wisconsin,Milwaukee,29,Therapists,Licensed Professional Counselor,MSN Care Clinic,,"West Allis, WI",$37 - $40 an hour,Temporarily remote
+20, Wisconsin,Milwaukee,29,Therapists,Dietitian-Clinical Nutrition,Ascension,3.7,"Glendale, WI",Unknown,Not Remote
+21, Wisconsin,Milwaukee,29,Therapists,Social Worker MSW,Froedtert Health,3.8,"Milwaukee, WI",Unknown,Not Remote
+22, Wisconsin,Milwaukee,29,Therapists,Clinical Office Manager,American Behavioral Clinics,,"Milwaukee, WI",Unknown,Not Remote
+23, Wisconsin,Milwaukee,29,Therapists,RECREATIONAL THERAPY ASSISTANT,Lutheran Living Services,5.0,"Wauwatosa, WI",Unknown,Not Remote
+24, Wisconsin,Milwaukee,29,Therapists,Licensed Mental Health Therapist,"Jewish Family Services, Milwaukee",,"Milwaukee, WI","$56,000 - $63,000 a year",Temporarily remote
+25, Wisconsin,Milwaukee,29,Therapists,Telehealth & Onsite Therapists & Social Workers in Group Practice,Willis Counseling & Consulting,,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,29,Therapists,Clinical/Family Therapist-Aurora Plains,Eau Claire Academy,2.5,"Wauwatosa, WI",Unknown,Not Remote
+27, Wisconsin,Milwaukee,29,Therapists,Intake Counselor,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+28, Wisconsin,Milwaukee,29,Therapists,2021-2022 Speech Language Therapist,St. Augustine Preparatory Academy,,"Milwaukee, WI",Unknown,Not Remote
+29, Wisconsin,Milwaukee,29,Therapists,Physical Therapist,TMJ & Orofacial Pain Treatment Centers of Wisconsi...,,"Wauwatosa, WI",Unknown,Not Remote
+30, Wisconsin,Milwaukee,29,Therapists,Registered Respiratory Therapist,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+31, Wisconsin,Milwaukee,29,Therapists,Behavioral Health Therapist,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+32, Wisconsin,Milwaukee,29,Therapists,SUD Counselor for Women in Residential Treatment - ARC Milwaukee,"ARC Community Services, Inc.",,"Milwaukee, WI",Unknown,Not Remote
+33, Wisconsin,Milwaukee,29,Therapists,Cert Hand Therapist - OT,Children's Hospital of Wisconsin,4.2,"Milwaukee, WI",Unknown,Not Remote
+34, Wisconsin,Milwaukee,29,Therapists,Physical Therapist,"Team Rehabilitation Services, LLC",,"Wauwatosa, WI",Unknown,Not Remote
+35, Wisconsin,Milwaukee,29,Therapists,Board Certified Music Therapist,Healing Harmonies Music Therapy,,"Milwaukee, WI",$18 - $24 an hour,Not Remote
+36, Wisconsin,Milwaukee,29,Therapists,Supervisor of Anesthesia Clinical Support Services,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+37, Wisconsin,Milwaukee,29,Therapists,Physical Therapist,Team Rehabilitation,4.4,"Wauwatosa, WI",Unknown,Not Remote
+38, Wisconsin,Milwaukee,29,Therapists,AODA & Mental Health Clinician,"Guest House of Milwaukee, Inc.",3.7,"Milwaukee, WI",Unknown,Not Remote
+39, Wisconsin,Milwaukee,29,Therapists,Physical Therapist - School Based,School District of Cudahy,,"Cudahy, WI","$47,000 - $57,000 a year",Not Remote
+40, Wisconsin,Milwaukee,29,Therapists,Intake Counselor Part Time Benefit Eligible,Advocate Aurora Health,3.7,"Wauwatosa, WI",Unknown,Not Remote
+41, Wisconsin,Milwaukee,29,Therapists,Manager for Physical Therapy Department,TMJ & Orofacial Pain Treatment Centers of Wisconsi...,,"Wauwatosa, WI",Unknown,Not Remote
+42, Wisconsin,Milwaukee,29,Therapists,SLP Clinical Fellowship Year,Cameo Care Center,2.7,"Milwaukee, WI",Unknown,Not Remote
+43, Wisconsin,Milwaukee,29,Therapists,Therapist,Rogers Behavioral Health,3.0,"Brown Deer, WI",Unknown,Not Remote
+44, Wisconsin,Milwaukee,29,Therapists,Summer Camp Mental Health Professional,Camp Ben Frankel,,"Whitefish Bay, WI",$550 - $667 a week,Not Remote
+45, Wisconsin,Milwaukee,29,Therapists,Assistant Director of Clinical Services (FT),Lad Lake Inc,2.9,"Milwaukee, WI",Unknown,Not Remote
+46, Wisconsin,Milwaukee,29,Therapists,PRN Physical Therapist Assistant,Stern Consultants,,"Milwaukee, WI",Unknown,Not Remote
+47, Wisconsin,Milwaukee,29,Therapists,Clinical Pharmacist (Part-Time),Ascension Wisconsin Hospital,,"Milwaukee, WI",Unknown,Not Remote
+48, Wisconsin,Milwaukee,29,Therapists,Therapist - Eau Claire Academy,Eau Claire Academy,2.5,"Wauwatosa, WI",Unknown,Not Remote
+49, Wisconsin,Milwaukee,29,Therapists,Clinical Therapist for Older Adults,WellQor Behavioral Health,4.2,"Milwaukee, WI",Unknown,Not Remote
+50, Wisconsin,Milwaukee,29,Therapists,Respiratory Therapist,Lincare,2.6,"Milwaukee, WI",Unknown,Not Remote
+51, Wisconsin,Milwaukee,29,Therapists,Mental Health Therapist,Professional Services Group,3.6,"West Allis, WI",$25 - $30 an hour,Not Remote
+52, Wisconsin,Milwaukee,29,Therapists,Psychiatric Social Worker - Part-Time Float,County of Milwaukee,3.6,"Milwaukee, WI",$21.19 - $30.72 an hour,Not Remote
+53, Wisconsin,Milwaukee,29,Therapists,Licensed Master Social Worker,Legacy Home Care,2.8,"Milwaukee, WI",From $25 an hour,Not Remote
+54, Wisconsin,Milwaukee,29,Therapists,Medical Social Worker - Hospice,Preceptor Home Health & Hospice,,"Milwaukee, WI",Unknown,Not Remote
+55, Wisconsin,Milwaukee,29,Therapists,"Master's Level Therapists - Part Time, Full Time & Independent Contractors",Doctor On Demand,2.6,"Milwaukee, WI",Unknown,Remote
+56, Wisconsin,Milwaukee,29,Therapists,SNF Social Worker,St. Camillus,3.5,"Wauwatosa, WI",Unknown,Not Remote
+57, Wisconsin,Milwaukee,29,Therapists,2021-2022 Speech Language Therapist,St. Augustine Preparatory Academy,,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,31,Psychiatric Aides,"Physician, Psychiatrist",Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,31,Physical Therapist Assistants ,Physical Therapist Assistant,"PHYSICAL THERAPY CARE, CLOVIS, NM",,United States,$19 - $30 an hour,Not Remote
+1, Wisconsin,Milwaukee,31,Physical Therapist Assistants ,PRN Physical Therapist Assistant,Stern Consultants,,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Therapist-Occupational,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Therapist-Occupational,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Shorewood, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Whitefish Bay, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Glendale, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Brown Deer, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Therapist-Occupational,Ascension,3.7,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Shorewood, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Shorewood, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Shorewood, WI",Unknown,Not Remote
+10, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Whitefish Bay, WI",Unknown,Not Remote
+11, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Whitefish Bay, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Whitefish Bay, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,31,Occupational Therapy and Physical Therapist Assistants ,Behavior Technician,Caravel Autism Health,3.4,"Glendale, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,31,Medical Equipment Preparers,Covid-19 Vaccine Preparers (Pharmacy Technicians),Internal Data Resources,3.7,United States,From $18 an hour,Not Remote
+0, Wisconsin,Milwaukee,33,Protective Service Workers,Engine Department QMED,Grand River Navigation Company,4.4,"Milwaukee, WI",$284 a day,Not Remote
+1, Wisconsin,Milwaukee,33,Protective Service Workers,Member Services Representative,Planet Fitness,3.5,"Milwaukee, WI",From $9 an hour,Not Remote
+2, Wisconsin,Milwaukee,33,Protective Service Workers,Dog Daycare Handler,Playtime Doggy Daycare,,"Milwaukee, WI",$10 - $11 an hour,Not Remote
+3, Wisconsin,Milwaukee,33,Protective Service Workers,Project Manager - Industrial Fall Protection,Lighthouse Safety,2.0,"Brookfield, WI","$60,000 - $70,000 a year",Temporarily remote
+4, Wisconsin,Milwaukee,33,Protective Service Workers,Personal Trainer,The Exercise Coach - Shorewood,,"Shorewood, WI",$15 - $19 an hour,Not Remote
+5, Wisconsin,Milwaukee,33,Protective Service Workers,Care Worker,St. Ann Center for Intergenerational Care - Stein Campus,,"Milwaukee, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,33,Protective Service Workers,Food Service Worker/Kitchen Helper/Dietary Aide,"Healthcare Services Group, Inc.",2.6,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,33,Protective Service Workers,Member Services Representative,Planet Fitness,3.5,"Milwaukee, WI",From $9 an hour,Not Remote
+8, Wisconsin,Milwaukee,33,Protective Service Workers,Food Service Worker/Kitchen Helper/Dietary Aide,"Healthcare Services Group, Inc.",2.6,"Greenfield, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,33,Protective Service Workers,Pest Control Service Technician,Safeway Pest Management,3.3,"Milwaukee, WI",$15 - $20 an hour,Not Remote
+10, Wisconsin,Milwaukee,33,Protective Service Workers,Service Coordinator,Penfield Children's Center,,"Milwaukee, WI","$29,640 - $44,460 a year",Temporarily remote
+11, Wisconsin,Milwaukee,33,Protective Service Workers,Member Services Representative,Planet Fitness,3.5,"Milwaukee, WI",From $9 an hour,Not Remote
+12, Wisconsin,Milwaukee,33,Protective Service Workers,Crisis stabilization Worker,Community Harbor,,"Milwaukee, WI",$14 - $20 an hour,Not Remote
+13, Wisconsin,Milwaukee,33,Protective Service Workers,FOOD SERVICE WORKER(FULL-TIME),Compass Group,3.3,"Brookfield, WI",Unknown,Not Remote
+14, Wisconsin,Milwaukee,33,Protective Service Workers,Cashier and Customer Service Associate,"Roettgers Company, Inc.",,"Glendale, WI",$9 an hour,Not Remote
+15, Wisconsin,Milwaukee,33,Protective Service Workers,Member Services Representative,Planet Fitness,3.5,"Franklin, WI",$8.50 - $10.50 an hour,Not Remote
+16, Wisconsin,Milwaukee,33,Protective Service Workers,Utility Worker - Laundry Department,Goodwill Industries of Southeastern Wisconsin & Me...,3.6,"Milwaukee, WI",$14.64 an hour,Not Remote
+17, Wisconsin,Milwaukee,33,Protective Service Workers,Administrator,Rheumatic Disease Center,4.0,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,33,Protective Service Workers,Youth Advocate,Running Rebels Community Organization,3.8,"Milwaukee, WI",Unknown,Temporarily remote
+19, Wisconsin,Milwaukee,33,Protective Service Workers,Supervised Visitation Worker (social work),Milwaukee Area Parent Services,,"Milwaukee, WI",$14 - $15 an hour,Not Remote
+20, Wisconsin,Milwaukee,33,Protective Service Workers,Engine Department QMED,Grand River Navigation Company,4.4,"Milwaukee, WI",$284 a day,Not Remote
+21, Wisconsin,Milwaukee,33,Protective Service Workers,Care Worker,St. Ann Center for Intergenerational Care - Stein...,,"Milwaukee, WI",Unknown,Not Remote
+22, Wisconsin,Milwaukee,33,Protective Service Workers,Licensed Professional Counselor,MSN Care Clinic,,"West Allis, WI",$37 - $40 an hour,Temporarily remote
+23, Wisconsin,Milwaukee,33,Protective Service Workers,Job Coach/Employment Specialist (Day Shift),Accessible Career Options,,"Milwaukee, WI",$15 - $19 an hour,Not Remote
+24, Wisconsin,Milwaukee,33,Protective Service Workers,Shift lead,Aloha Poke Company,,"Milwaukee, WI",From $13 an hour,Not Remote
+25, Wisconsin,Milwaukee,33,Protective Service Workers,Assistant Property Manager - Johnston Center Residences,Mercy Housing,3.4,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,33,Protective Service Workers,Client Manager-Business Development,ReCRÜT,,"Milwaukee, WI",$20 - $30 an hour,Not Remote
+27, Wisconsin,Milwaukee,33,Protective Service Workers,Assistant Trainer,Planet Fitness,3.5,"Milwaukee, WI",From $9 an hour,Not Remote
+28, Wisconsin,Milwaukee,33,Protective Service Workers,Retail Sales Associate,LensCrafters,3.4,"Greenfield, WI",Unknown,Not Remote
+29, Wisconsin,Milwaukee,33,Protective Service Workers,Cashier Customer Service Associate,"Roettgers Company, Inc.",,"Brown Deer, WI",$9 an hour,Not Remote
+30, Wisconsin,Milwaukee,33,Protective Service Workers,Part Time Home Health Sales Representative,Holding Hands Homecare,,"Milwaukee, WI",From $20 an hour,Not Remote
+31, Wisconsin,Milwaukee,33,Protective Service Workers,Registered Nurse,Able Living LLC,,"Milwaukee, WI",From $30 an hour,Remote
+32, Wisconsin,Milwaukee,33,Protective Service Workers,2021-2022 School Social Worker,Carmen Schools of Science & Technology,,"Milwaukee, WI",Unknown,Not Remote
+33, Wisconsin,Milwaukee,33,Protective Service Workers,Personal Trainer,The Exercise Coach - Shorewood,,"Shorewood, WI",$15 - $19 an hour,Not Remote
+34, Wisconsin,Milwaukee,33,Protective Service Workers,Registered Nurse,Divine Personal Care Agency,,"Milwaukee, WI",$20 - $41 an hour,Not Remote
+35, Wisconsin,Milwaukee,33,Protective Service Workers,Cashier Customer Service Associate,"Roettgers Company, Inc.",,"Butler, WI",$9 an hour,Not Remote
+36, Wisconsin,Milwaukee,33,Protective Service Workers,Care Coordinator (Comprehensive Community Services Program-CCS),"Milwaukee Mental Health Associates,Inc.",,"Milwaukee, WI",Unknown,Not Remote
+37, Wisconsin,Milwaukee,33,Protective Service Workers,Utility Worker Laundry - AbilityOne,Goodwill Industries of Southeastern Wisconsin & Me...,3.6,"Milwaukee, WI",Unknown,Not Remote
+38, Wisconsin,Milwaukee,33,Protective Service Workers,Clinical Psychologist,Vitae Health Systems,,"Milwaukee, WI",Unknown,Not Remote
+39, Wisconsin,Milwaukee,33,Protective Service Workers,Caregiver,Our Home Sweet Home LLC,,"Milwaukee, WI",$10 - $12 an hour,Not Remote
+40, Wisconsin,Milwaukee,33,Protective Service Workers,Case Manager - Behavioral Health (Bachelors),MILWAUKEE CENTER FOR INDEPENDENCE INC,3.4,"West Allis, WI",Unknown,Not Remote
+41, Wisconsin,Milwaukee,33,Protective Service Workers,Personal Care Worker with Patient,Able Living LLC,,"Milwaukee, WI",$10.25 - $12.00 an hour,Not Remote
+42, Wisconsin,Milwaukee,33,Protective Service Workers,Shift Supervisor - Laundry,Goodwill Industries of Southeastern Wisconsin & Me...,3.6,"Milwaukee, WI",$15 - $17 an hour,Not Remote
+43, Wisconsin,Milwaukee,33,Protective Service Workers,Personal Care Worker with patient,Able Living LLC,,"Milwaukee, WI",$10.25 - $12.00 an hour,Not Remote
+44, Wisconsin,Milwaukee,33,Protective Service Workers,Dispensing Optician,LensCrafters,3.4,"Greenfield, WI",Unknown,Not Remote
+45, Wisconsin,Milwaukee,33,Protective Service Workers,Center Manager,CSL Plasma,3.0,"Milwaukee, WI",Unknown,Not Remote
+46, Wisconsin,Milwaukee,33,Protective Service Workers,"Milwaukee, WI, Part Time to Full Time Remote Therapist - Please Apply!",Gotham Enterprises LTD,4.2,"Milwaukee, WI",$30 - $70 an hour,Remote
+47, Wisconsin,Milwaukee,33,Protective Service Workers,Assistant Manager of Quality,CSL Plasma,3.0,"Milwaukee, WI",Unknown,Not Remote
+48, Wisconsin,Milwaukee,33,Protective Service Workers,Assistant Center Manager,CSL Plasma,3.0,"Milwaukee, WI",Unknown,Not Remote
+49, Wisconsin,Milwaukee,33,Protective Service Workers,Therapist,The REDI Clinic,,"Wauwatosa, WI",$25 - $30 an hour,Temporarily remote
+50, Wisconsin,Milwaukee,33,Protective Service Workers,Project Manager - Industrial Fall Protection,Lighthouse Safety,2.0,"Brookfield, WI","$60,000 - $70,000 a year",Temporarily remote
+51, Wisconsin,Milwaukee,33,Protective Service Workers,Center Manager,CSL Plasma,3.0,"South Milwaukee, WI",Unknown,Not Remote
+52, Wisconsin,Milwaukee,33,Protective Service Workers,Licensed Professional Counselor,Red Oak Counseling,,"Milwaukee, WI","$49,000 - $90,000 a year",Temporarily remote
+53, Wisconsin,Milwaukee,33,Protective Service Workers,Controller,AAA Sales & Engineering,,"Oak Creek, WI",Unknown,Not Remote
+54, Wisconsin,Milwaukee,33,Protective Service Workers,Sous Chef,"The University Club of Milwaukee, Country Club",,"Brown Deer, WI","$38,000 - $45,000 a year",Not Remote
+55, Wisconsin,Milwaukee,33,Protective Service Workers,Hosting Data Center Technical Lead,RMM Solutions,3.0,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,33,Private  Investigators,Foundations Relations Administrator,BloodCenter of Wisconsin,3.3,"Wauwatosa, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,33,Miscellaneous Protective Service Workers,Personal Trainer,The Exercise Coach - Shorewood,,"Shorewood, WI",$15 - $19 an hour,Not Remote
+1, Wisconsin,Milwaukee,33,Miscellaneous Protective Service Workers,Administrator,Rheumatic Disease Center,4.0,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,33,Miscellaneous Protective Service Workers,Supervised Visitation Worker (social work),Milwaukee Area Parent Services,,"Milwaukee, WI",$14 - $15 an hour,Not Remote
+3, Wisconsin,Milwaukee,33,Miscellaneous Protective Service Workers,Utility Worker - Laundry Department,Goodwill Industries of Southeastern Wisconsin & Me...,3.6,"Milwaukee, WI",$14.64 an hour,Not Remote
+4, Wisconsin,Milwaukee,33,Miscellaneous Protective Service Workers,Personal Trainer,The Exercise Coach - Shorewood,,"Shorewood, WI",$15 - $19 an hour,Not Remote
+5, Wisconsin,Milwaukee,33,Miscellaneous Protective Service Workers,Utility Worker Laundry - AbilityOne,Goodwill Industries of Southeastern Wisconsin & Me...,3.6,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,35,Private Chef,KM/Head Chef Who's on Third,Who's On Third,4.0,"Milwaukee, WI","$55,000 - $65,000 a year",Not Remote
+1, Wisconsin,Milwaukee,35,Private Chef,Executive Chef,Milwaukee Ale House,3.8,"Milwaukee, WI","$50,000 - $80,000 a year",Not Remote
+2, Wisconsin,Milwaukee,35,Private Chef,KM/Head Chef Who's on Third,Who's On Third,4.0,"Milwaukee, WI","$55,000 - $65,000 a year",Not Remote
+3, Wisconsin,Milwaukee,35,Private Chef,Kitchen Manager/Head Chef Oak Barrel,Oak Barrel Public House,,"Milwaukee, WI","$55,000 - $65,000 a year",Not Remote
+4, Wisconsin,Milwaukee,35,Private Chef,Sous Chef,"The University Club of Milwaukee, Country Club",,"Brown Deer, WI","$38,000 - $45,000 a year",Not Remote
+5, Wisconsin,Milwaukee,35,Private Chef,Cook/Prep Cook,Milwaukee Country Club,3.4,"River Hills, WI",$12 - $16 an hour,Not Remote
+0, Wisconsin,Milwaukee,35,Waitresses,Wait Staff/Banquet Server,Woman's Club of Wisconsin,,"Milwaukee, WI",$11 - $14 an hour,Not Remote
+1, Wisconsin,Milwaukee,35,Waitresses,Onesto is looking for servers,Onesto (Hospitality Democracy),,"Milwaukee, WI",$15 - $20 an hour,Not Remote
+2, Wisconsin,Milwaukee,35,Waitresses,Server - Miller Park Way Chili's,Chilis,3.7,"Milwaukee, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,35,Waitresses,Server and Bartender Cooks,"Q, LLC",3.0,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,35,Waitresses,Restaurant Servers,California Pizza Kitchen,3.9,"Glendale, WI",Unknown,Not Remote
+5, Wisconsin,Milwaukee,35,Waitresses,Server,"University Club of Milwaukee, City Club",,"Milwaukee, WI",$11 - $16 an hour,Not Remote
+6, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Milwaukee, WI",$9 - $12 an hour,Not Remote
+7, Wisconsin,Milwaukee,35,Waitresses,Barista/Cafe Server - Part-Time,Barnes & Noble,3.8,"Glendale, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Milwaukee, WI",$9 - $12 an hour,Not Remote
+9, Wisconsin,Milwaukee,35,Waitresses,Production,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+10, Wisconsin,Milwaukee,35,Waitresses,Onesto is looking for servers,Onesto (Hospitality Democracy),,"Milwaukee, WI",$15 - $20 an hour,Not Remote
+11, Wisconsin,Milwaukee,35,Waitresses,Barista/Cafe Server - Part-Time,Barnes & Noble,3.8,"Wauwatosa, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,35,Waitresses,Team Member,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,35,Waitresses,Server,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+14, Wisconsin,Milwaukee,35,Waitresses,Production,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,35,Waitresses,Wait Staff/Server,Carson's,,"Milwaukee, WI",$15 - $30 an hour,Not Remote
+16, Wisconsin,Milwaukee,35,Waitresses,Line Server,QDOBA,3.5,"Milwaukee, WI",Unknown,Not Remote
+17, Wisconsin,Milwaukee,35,Waitresses,Bartender and Server,Oak Barrel Public House,,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,35,Waitresses,Production,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+19, Wisconsin,Milwaukee,35,Waitresses,Team Member,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+20, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Milwaukee, WI",$9 - $12 an hour,Not Remote
+21, Wisconsin,Milwaukee,35,Waitresses,Server/Expo/Host,Stubby's Gastrogrub & Beer Bar,,"Milwaukee, WI",Up to $25 an hour,Not Remote
+22, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Milwaukee, WI",$9 - $12 an hour,Not Remote
+23, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Milwaukee, WI",$9 - $12 an hour,Not Remote
+24, Wisconsin,Milwaukee,35,Waitresses,Server,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+25, Wisconsin,Milwaukee,35,Waitresses,Line Server,QDOBA,3.5,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Wauwatosa, WI",$9 - $12 an hour,Not Remote
+27, Wisconsin,Milwaukee,35,Waitresses,"Server, Bartender Host",BelAir Cantina,3.9,"Milwaukee, WI",$10 - $20 an hour,Not Remote
+28, Wisconsin,Milwaukee,35,Waitresses,Server,JBs on 41,3.3,"Milwaukee, WI",Unknown,Not Remote
+29, Wisconsin,Milwaukee,35,Waitresses,Server,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+30, Wisconsin,Milwaukee,35,Waitresses,Production,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+31, Wisconsin,Milwaukee,35,Waitresses,Server,Benihana,3.5,"Milwaukee, WI",Unknown,Not Remote
+32, Wisconsin,Milwaukee,35,Waitresses,Server,Centraal | Lowlands Group,,"Milwaukee, WI",Unknown,Not Remote
+33, Wisconsin,Milwaukee,35,Waitresses,Production,Pizza Hut,3.6,"West Allis, WI",Unknown,Not Remote
+34, Wisconsin,Milwaukee,35,Waitresses,Team Member,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+35, Wisconsin,Milwaukee,35,Waitresses,Banquet Server,All Occasions Catering,3.8,"Milwaukee, WI",$10 - $12 an hour,Not Remote
+36, Wisconsin,Milwaukee,35,Waitresses,Server,Pizza Man,3.9,"Wauwatosa, WI",Unknown,Not Remote
+37, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Milwaukee, WI",$9 - $12 an hour,Not Remote
+38, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Wauwatosa, WI",$9 - $12 an hour,Not Remote
+39, Wisconsin,Milwaukee,35,Waitresses,Server,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+40, Wisconsin,Milwaukee,35,Waitresses,Server,Applebee's | Star Brands LLC,,"Milwaukee, WI",Unknown,Not Remote
+41, Wisconsin,Milwaukee,35,Waitresses,Servers / Wait Staff,Cubanitas - Milwaukee St.,,"Milwaukee, WI",Unknown,Not Remote
+42, Wisconsin,Milwaukee,35,Waitresses,Line Server,QDOBA,3.5,"Milwaukee, WI",Unknown,Not Remote
+43, Wisconsin,Milwaukee,35,Waitresses,Server,Cafe Hollander | Lowlands Group,,"Milwaukee, WI",Unknown,Not Remote
+44, Wisconsin,Milwaukee,35,Waitresses,Team Member,Pizza Hut,3.6,"Wauwatosa, WI",Unknown,Not Remote
+45, Wisconsin,Milwaukee,35,Waitresses,Server,Pizza Hut,3.6,"Milwaukee, WI",Unknown,Not Remote
+46, Wisconsin,Milwaukee,35,Waitresses,Wait Staff/Banquet Server,Woman's Club of Wisconsin,,"Milwaukee, WI",$11 - $14 an hour,Not Remote
+47, Wisconsin,Milwaukee,35,Waitresses,Wait Staff/Server,El Beso Mexican Restaurante,,"Greenfield, WI",$400 - $600 a week,Not Remote
+48, Wisconsin,Milwaukee,35,Waitresses,"Restaurant Team Member - Cashier, Server",Noodles & Company,3.5,"Greenfield, WI",$9 - $12 an hour,Not Remote
+49, Wisconsin,Milwaukee,35,Waitresses,Server,Pizza Hut,3.6,"West Allis, WI",Unknown,Not Remote
+50, Wisconsin,Milwaukee,35,Waitresses,Server and To-Go Specialist,Chili's Grill & Bar,3.7,"West Milwaukee, WI",Unknown,Not Remote
+51, Wisconsin,Milwaukee,35,Waitresses,Restaurant Servers,California Pizza Kitchen,3.9,"Glendale, WI",Unknown,Not Remote
+52, Wisconsin,Milwaukee,35,Waitresses,Team Member,Pizza Hut,3.6,"South Milwaukee, WI",Unknown,Not Remote
+53, Wisconsin,Milwaukee,35,Waitresses,Wait Staff,Heartis Village North Shore | Integral Senior Livi...,,"Glendale, WI",Unknown,Not Remote
+54, Wisconsin,Milwaukee,35,Waitresses,Catering Server,Zilli Hospitality Group,3.6,"Milwaukee, WI",$10 - $13 an hour,Not Remote
+0, Wisconsin,Milwaukee,35,Food Preparation,Prep Cook/Cook Full and Part Time Hours Available,Harbour Village,3.5,"Greendale, WI",$11 - $13 an hour,Not Remote
+1, Wisconsin,Milwaukee,35,Food Preparation,Culinary Aide / Dietary Assistant,"HERITAGE SENIOR LIVING, LLC",2.7,"West Allis, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,35,Food Preparation,Food Service - South Side Opportunities!!,Goodwill TalentBridge,4.0,"Milwaukee, WI",$11.52 - $12.00 an hour,Not Remote
+3, Wisconsin,Milwaukee,35,Food Preparation,Sous Chef,"HERITAGE SENIOR LIVING, LLC",2.7,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,35,Food Preparation,Dishwasher/Prep Cook,Onesto (Hospitality Democracy),,"Milwaukee, WI",$10 - $14 an hour,Not Remote
+5, Wisconsin,Milwaukee,35,Food Preparation,Executive Chef,"HERITAGE SENIOR LIVING, LLC",2.7,"Milwaukee, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,35,Food Preparation,"Food Service Worker-Grill Cobeen Hall Marquette Dining Services 12-8pm, $14.73/hr",Sodexo,3.7,"Milwaukee, WI",$14.73 an hour,Not Remote
+7, Wisconsin,Milwaukee,35,Food Preparation,Food Svc Asst,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,35,Food Preparation,Food Service - South Side Opportunities!!,Goodwill TalentBridge,4.0,"Milwaukee, WI",$11.52 - $12.00 an hour,Not Remote
+9, Wisconsin,Milwaukee,35,Food Preparation,Food Service Worker/Kitchen Helper/Dietary Aide,"Healthcare Services Group, Inc.",2.6,"Milwaukee, WI",Unknown,Not Remote
+10, Wisconsin,Milwaukee,35,Food Preparation,Full Time Produce Production Team Member,Whole Foods Market,3.8,"Milwaukee, WI",Unknown,Not Remote
+11, Wisconsin,Milwaukee,35,Food Preparation,Cook Marquette Dining Services Cobeen Hall 12:00pm-8:00pm $15.07/hr,Sodexo,3.7,"Milwaukee, WI",$15.07 an hour,Not Remote
+12, Wisconsin,Milwaukee,35,Food Preparation,Food Service Worker/Kitchen Helper/Dietary Aide,"Healthcare Services Group, Inc.",2.6,"Greenfield, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,35,Food Preparation,Room Service Operator - Children's Wisconsin,Sodexo,3.7,"Wauwatosa, WI",$15 an hour,Not Remote
+14, Wisconsin,Milwaukee,35,Food Preparation,Food and Beverage Service Attendant,Sonesta,3.9,"North Point, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,35,Food Preparation,Food Service Aides,"Congregational Home, Inc.",3.3,"Milwaukee, WI",Unknown,Not Remote
+16, Wisconsin,Milwaukee,35,Food Preparation,Crew Member,Marcos Pizza,3.5,"West Allis, WI",Unknown,Not Remote
+17, Wisconsin,Milwaukee,35,Food Preparation,Administrative Assistant Senior - System Nursing Practice,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,35,Food Preparation,Dietary Aide,Pollak Innovative Management Partners,3.7,"West Allis, WI",$11 - $13 an hour,Not Remote
+19, Wisconsin,Milwaukee,35,Food Preparation,Caregiver (11PM-7AM),Azura Memory Care,2.9,"Fox Point, WI",Unknown,Not Remote
+20, Wisconsin,Milwaukee,35,Food Preparation,Bartender (Full or Part Time),The Iron Horse Hotel,,"Milwaukee, WI",Unknown,Not Remote
+21, Wisconsin,Milwaukee,35,Food Preparation,COOK(FULL-TIME),Compass Group,3.3,"Milwaukee, WI",Unknown,Not Remote
+22, Wisconsin,Milwaukee,35,Food Preparation,Culinary Aide / Dietary Assistant,"HERITAGE SENIOR LIVING, LLC",2.7,"West Allis, WI",Unknown,Not Remote
+23, Wisconsin,Milwaukee,35,Food Preparation,"Part Time - Food Service Worker (Culinary, Deli, Cook)",Whole Foods Market,3.8,"Milwaukee, WI",Unknown,Not Remote
+24, Wisconsin,Milwaukee,35,Food Preparation,Caterer and Server,Me & Mom's Catering Cafe,,"Milwaukee, WI",$12 - $14 an hour,Not Remote
+25, Wisconsin,Milwaukee,35,Food Preparation,COOK(FULL & PART-TIME),Compass Group,3.3,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,35,Food Preparation,Cashier,Badger Restaurant Group,3.5,"Wauwatosa, WI",Unknown,Not Remote
+27, Wisconsin,Milwaukee,35,Food Preparation,Dishwasher/Prep Cook,Onesto (Hospitality Democracy),,"Milwaukee, WI",$10 - $14 an hour,Not Remote
+28, Wisconsin,Milwaukee,35,Food Preparation,FOOD UNIT LEAD(FULL & PART-TIME),Compass Group,3.3,"Milwaukee, WI",Unknown,Not Remote
+29, Wisconsin,Milwaukee,35,Food Preparation,Caregiver - Part-Time,St. Rita Square,2.4,"Milwaukee, WI",Unknown,Not Remote
+30, Wisconsin,Milwaukee,35,Food Preparation,Administrative Assistant Senior - Critical Care/Anesthesia,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+31, Wisconsin,Milwaukee,35,Food Preparation,Ru Yi Cook 2,Potawatomi Bingo Casino,3.7,"Milwaukee, WI",From $13.43 an hour,Not Remote
+32, Wisconsin,Milwaukee,35,Food Preparation,Dishwasher,"Famous Dave's BBQ | Famous Dave's of America, Inc.",3.7,"Milwaukee, WI",Unknown,Not Remote
+33, Wisconsin,Milwaukee,35,Food Preparation,Production Baker,Colectivo Coffee,4.1,"Milwaukee, WI",Unknown,Not Remote
+34, Wisconsin,Milwaukee,35,Food Preparation,Team Member,Badger Restaurant Group,3.5,"Wauwatosa, WI",$7.25 - $10.00 an hour,Not Remote
+35, Wisconsin,Milwaukee,35,Food Preparation,CBRF Group Home Caregiver,MILWAUKEE CENTER FOR INDEPENDENCE INC,3.4,"West Allis, WI",Unknown,Not Remote
+36, Wisconsin,Milwaukee,35,Food Preparation,Patient Service Representative II - Vince Lombardi Clinic,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+37, Wisconsin,Milwaukee,35,Food Preparation,Cook I - Children's Wisconsin,Sodexo,3.7,"Wauwatosa, WI",$15 an hour,Not Remote
+38, Wisconsin,Milwaukee,35,Food Preparation,Ru Yi Cook 3,Potawatomi Bingo Casino,3.7,"Milwaukee, WI",From $14.78 an hour,Not Remote
+39, Wisconsin,Milwaukee,35,Food Preparation,"COOK, GRILL(FULL & PART-TIME)",Compass Group,3.3,"Milwaukee, WI",Unknown,Not Remote
+40, Wisconsin,Milwaukee,35,Food Preparation,Complimentary AM Attendant,Holiday Express West Allis,3.1,"West Allis, WI",Unknown,Not Remote
+41, Wisconsin,Milwaukee,35,Food Preparation,Accountant,General Pet Supply,3.3,"Milwaukee, WI",Unknown,Not Remote
+42, Wisconsin,Milwaukee,35,Food Preparation,$15/hour Cook - Full Time,Whole Foods Market,3.8,"Wauwatosa, WI",$15 an hour,Not Remote
+43, Wisconsin,Milwaukee,35,Food Preparation,WIC Project Nutritionist,Sixteenth Street Community Health Centers,3.8,"Milwaukee, WI",Unknown,Not Remote
+44, Wisconsin,Milwaukee,35,Food Preparation,Dishwasher,Wisconsin City and Country Club,,"Milwaukee, WI",$10 - $12 an hour,Not Remote
+45, Wisconsin,Milwaukee,35,Food Preparation,Server Assistant,Centraal | Lowlands Group,,"Milwaukee, WI",Unknown,Not Remote
+46, Wisconsin,Milwaukee,35,Food Preparation,Dietitian-Clinical Nutrition,Ascension,3.7,"Glendale, WI",Unknown,Not Remote
+47, Wisconsin,Milwaukee,35,Food Preparation,Pizza Cook - Tre Rivali,Kimpton Hotels and Restaurants,4.0,"Milwaukee, WI",Unknown,Not Remote
+48, Wisconsin,Milwaukee,35,Food Preparation,Chef - Full Time Day/PM,LAUREL OAKS,3.6,"Glendale, WI",Unknown,Not Remote
+49, Wisconsin,Milwaukee,35,Food Preparation,Server Assistant,Cafe Hollander | Lowlands Group,,"Milwaukee, WI",Unknown,Not Remote
+50, Wisconsin,Milwaukee,35,Food Preparation,Food Service Supervisor- Community House,St. Camillus,3.5,"Wauwatosa, WI",$15.00 - $17.80 an hour,Not Remote
+51, Wisconsin,Milwaukee,35,Food Preparation,"ASSOCIATE, STEWARD(FULL & PART-TIME)",Compass Group,3.3,"Milwaukee, WI",Unknown,Not Remote
+52, Wisconsin,Milwaukee,35,Food Preparation,Food & Beverage Manager,Round1,2.9,"Greendale, WI",$15 - $18 an hour,Not Remote
+53, Wisconsin,Milwaukee,35,Food Preparation,Server Assistant,Buckatabon | Lowlands Group,,"Milwaukee, WI",Unknown,Not Remote
+54, Wisconsin,Milwaukee,35,Food Preparation,Caregiver - Part-Time All Shifts,Wilson Commons - The Polonaise,2.4,"Milwaukee, WI",Unknown,Not Remote
+55, Wisconsin,Milwaukee,35,Food Preparation,Culinary Aide/Dishwasher PT - every other weekend,Silverado,3.3,"Glendale, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,39,Tour Guides,Part-Time Tour Guide,Foamation Cheesehead Factory,,"Milwaukee, WI",$10 - $12 an hour,Not Remote
+1, Wisconsin,Milwaukee,39,Tour Guides,Part-Time Tour Guide,Foamation Cheesehead Factory,,"Milwaukee, WI",$10 - $12 an hour,Not Remote
+2, Wisconsin,Milwaukee,39,Tour Guides,Campus Tour Guide - Milwaukee School of Engineering,Live Campus Tours by Nylie,,"Milwaukee, WI",$20 an hour,Remote
+0, Wisconsin,Milwaukee,39,Hairdressers,Cosmetologist / Hairdresser / Hairstylist / Beauty / Salon,PS Lifestyle,3.0,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,39,Hairdressers,Cosmetologist / Hairdresser / Hairstylist / Beauty / Salon,PS Lifestyle,3.0,"North Point, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,39,Hairdressers,Cosmetologist / Hairdresser / Hairstylist / Beauty / Salon,PS Lifestyle,3.0,"West Allis, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,39,Hairdressers,Cosmetologist / Hairdresser / Hairstylist / Beauty / Salon,PS Lifestyle,3.0,"Greendale, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,39,Hairdressers,Cosmetologist / Hairdresser / Hairstylist / Beauty / Salon,PS Lifestyle,3.0,"Butler, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,39,Group Fitness Instructor,Group Fitness Instructor/Personal Trainer,Brew Fitness,,"Milwaukee, WI",$17 - $28 an hour,Not Remote
+1, Wisconsin,Milwaukee,39,Group Fitness Instructor,AWP Youth Yoga Provider,Summit Wellness,,"Milwaukee, WI",$500 a week,Not Remote
+2, Wisconsin,Milwaukee,39,Group Fitness Instructor,AWP Yoga Provider,Summit Wellness,,"Milwaukee, WI",$500 a week,Not Remote
+0, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Sales Representative - A&H,National General Insurance,2.9,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Benefits Advisor,Aflac,3.5,United States,"$32,269 - $89,934 a year",Not Remote
+2, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Sales Agent - Life and Health,CVRD,,Wisconsin,"$65,000 - $85,000 a year",Remote
+3, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Account Manager,Krause Financial Services,,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Sales Account Manager - Work From Home,SelectQuote,2.9,"Milwaukee, WI","From $150,000 a year",Remote
+5, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Salaried, Remote Insurance Sales",ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+6, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Insurance Sales Agent - Milwaukee, WI",Auto Club Group,3.4,"Milwaukee, WI",Unknown,Not Remote
+7, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Sales Representative - A&H,National General Insurance,2.9,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Territory Manager Soft Surface,Mohawk Industries,3.6,"Butler, WI",Unknown,Not Remote
+9, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Operator - Global Security Operations Center,G4S,3.4,"Glendale, WI",$18.93 an hour,Not Remote
+10, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Front Desk Agent,CSM Lodging Services Incorporated,,"Milwaukee, WI",Unknown,Not Remote
+11, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Quality Assurance Analyst,National General Insurance,2.9,"Milwaukee, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Automotive Business Development and Product Specialist,Schlossmann Subaru City Of Milwaukee,,"Milwaukee, WI","From $5,000 a month",Not Remote
+13, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Automotive Business Development and Product Specialist,Schlossmann Honda City,4.5,"Greenfield, WI","From $5,000 a month",Not Remote
+14, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Milwaukee - Tax Preparer,Jackson Hewitt,4.1,"Milwaukee, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Brand Ambassador Field Agent,Sales Partnerships,3.0,"Milwaukee, WI","$60,000 a year",Not Remote
+16, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Store Manager,Freeway Insurance,3.1,"Milwaukee, WI",Unknown,Not Remote
+17, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Insurance Account Position - State Farm Agent Team Member,Brian Brecklin - State Farm Agent,3.7,"West Allis, WI","$36,000 - $50,000 a year",Not Remote
+18, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Retail Relationship Banker - Milwaukee (Bilingual - English/Spanish),BMO Harris Bank,3.5,"Milwaukee, WI",Unknown,Not Remote
+19, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Sales Account Manager - Work From Home,SelectQuote,2.9,"Milwaukee, WI","From $150,000 a year",Remote
+20, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Product Security Leader,Rockwell Automation,3.9,"Milwaukee, WI",Unknown,Not Remote
+21, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Greenfield - Tax Preparer,Jackson Hewitt,4.1,"Greenfield, WI",Unknown,Not Remote
+22, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Customer Service Representative - State Farm Agent Team Member,Jon Fernandez - State Farm Agent,3.7,"Greenfield, WI","$20,000 - $35,360 a year",Not Remote
+23, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Franklin - Tax Preparer,Jackson Hewitt,4.1,"Franklin, WI",Unknown,Not Remote
+24, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Operator - Global Security Operations Center,G4S,3.4,"Glendale, WI",$18.93 an hour,Not Remote
+25, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Account Manager,Krause Financial Services,,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Remote) - Flexible Work Schedule,ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+27, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Work from Home) - Performance Bonus,ASSURANCE Independent Agents,3.2,"Glendale, WI",Unknown,Remote
+28, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Work from Home) - Performance Bonus,ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+29, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Work from Home) - Performance Bonus,ASSURANCE Independent Agents,3.2,"Cudahy, WI",Unknown,Remote
+30, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Work from Home) - Performance Bonus,ASSURANCE Independent Agents,3.2,"Elm Grove, WI",Unknown,Remote
+31, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Salaried, Remote Insurance Sales",ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+32, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Remote, Never Go Into an Office Again",ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+33, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Remote) - Flexible Work Schedule,ASSURANCE Independent Agents,3.2,"Whitefish Bay, WI",Unknown,Remote
+34, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Remote, Never Go Into an Office Again",ASSURANCE Independent Agents,3.2,"Whitefish Bay, WI",Unknown,Remote
+35, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent - WFH Full-Time,ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+36, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Don't Stop Selling Now, Year-Round Role",ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+37, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Remote, Never Go Into an Office Again",ASSURANCE Independent Agents,3.2,"Elm Grove, WI",Unknown,Remote
+38, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Don't Stop Selling Now, Year-Round Role",ASSURANCE Independent Agents,3.2,"Whitefish Bay, WI",Unknown,Remote
+39, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Work from Home) - Performance Bonus,ASSURANCE Independent Agents,3.2,"Whitefish Bay, WI",Unknown,Remote
+40, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Don't Stop Selling Now, Year-Round Role",ASSURANCE Independent Agents,3.2,"South Milwaukee, WI",Unknown,Remote
+41, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Don't Stop Selling Now, Year-Round Role",ASSURANCE Independent Agents,3.2,"Elm Grove, WI",Unknown,Remote
+42, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Work from Home) - Performance Bonus,ASSURANCE Independent Agents,3.2,"South Milwaukee, WI",Unknown,Remote
+43, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Salaried, Remote Insurance Sales",ASSURANCE Independent Agents,3.2,"Glendale, WI",Unknown,Remote
+44, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Full-Time, Year Round Role for Top Sellers",ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+45, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Salaried, Remote Insurance Sales",ASSURANCE Independent Agents,3.2,"Whitefish Bay, WI",Unknown,Remote
+46, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Salaried, Remote Insurance Sales",ASSURANCE Independent Agents,3.2,"Cudahy, WI",Unknown,Remote
+47, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Salaried, Remote Insurance Sales",ASSURANCE Independent Agents,3.2,"Elm Grove, WI",Unknown,Remote
+48, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Sell Insurance, License Required",ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+49, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Remote, Never Go Into an Office Again",ASSURANCE Independent Agents,3.2,"Glendale, WI",Unknown,Remote
+50, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Salaried, Remote Insurance Sales",ASSURANCE Independent Agents,3.2,"South Milwaukee, WI",Unknown,Remote
+51, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Remote) - Flexible Work Schedule,ASSURANCE Independent Agents,3.2,"Glendale, WI",Unknown,Remote
+52, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Stable Earning Potential, Full-Time Sales Role",ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+53, Wisconsin,Milwaukee,41,Financial Services Sales Agents,"Licensed Medicare Insurance Agent - Remote, Never Go Into an Office Again",ASSURANCE Independent Agents,3.2,"Cudahy, WI",Unknown,Remote
+54, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent - Stack Paper in 2021 Selling Full-Time for Assurance,ASSURANCE Independent Agents,3.2,"Milwaukee, WI",Unknown,Remote
+55, Wisconsin,Milwaukee,41,Financial Services Sales Agents,Licensed Medicare Insurance Agent (Remote) - Flexible Work Schedule,ASSURANCE Independent Agents,3.2,"Cudahy, WI",Unknown,Remote
+0, Wisconsin,Milwaukee,51,Butcher,Full Time Butcher/Meat Cutter Starting at $18 Experience Required,Whole Foods Market,3.8,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,51,Butcher,Production Line Worker,Klement Sausage Company,3.2,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,51,Butcher,Cook,Kettle Range Meat Company,,"Milwaukee, WI",$14 - $17 an hour,Not Remote
+0, Wisconsin,Milwaukee,53,Supervisor  Material Mover,Supervisor Distribution- St Luke's Medical Center,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+1, Wisconsin,Milwaukee,53,Supervisor  Material Mover,Supervisor Distribution- Interventional Cardiac Services,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+0, Wisconsin,Milwaukee,53,Flight Engineers,Aircraft Structures Engineer,Platform Aerospace,,United States,Unknown,Not Remote
+1, Wisconsin,Milwaukee,53,Flight Engineers,Jr. Software Engineer,Trisept Solutions,4.0,"Milwaukee, WI",Unknown,Not Remote
+2, Wisconsin,Milwaukee,53,Flight Engineers,Jr. Software Engineer,Apple Leisure Group,3.2,"Milwaukee, WI",Unknown,Not Remote
+3, Wisconsin,Milwaukee,53,Flight Engineers,Production Engineering Co-op,Astronautics/Kearfott Corporation,,"Milwaukee, WI",Unknown,Not Remote
+4, Wisconsin,Milwaukee,53,Flight Engineers,"Senior Technical Program Manager - Opportunity for Working Remotely Milwaukee, WI",AirWatch,3.2,"Milwaukee, WI",Unknown,Remote
+0, Wisconsin,Milwaukee,53,Transportation,Make up to $19/hour - Deliver with DoorDash,Doordash,3.3,"Milwaukee, WI",Up to $19 an hour,Not Remote
+1, Wisconsin,Milwaukee,53,Transportation,Engine Department QMED,Grand River Navigation Company,4.4,"Milwaukee, WI",$284 a day,Not Remote
+2, Wisconsin,Milwaukee,53,Transportation,Logistic Coordinator,Stark Pavement Corporation,,"Milwaukee County, WI",$18 - $20 an hour,Not Remote
+3, Wisconsin,Milwaukee,53,Transportation,Aggregate Truck Driver,Trenton Ventures Sand & Gravel,,Wisconsin,$22 - $24 an hour,Not Remote
+4, Wisconsin,Milwaukee,53,Transportation,Deckhand,Lake Express Ferry,4.5,"Milwaukee, WI",$12 - $14 an hour,Not Remote
+5, Wisconsin,Milwaukee,53,Transportation,Parts Driver,Wilde Toyota,,"West Allis, WI",Unknown,Not Remote
+6, Wisconsin,Milwaukee,53,Transportation,Bus Operator - May 2021,Milwaukee County Transit System,3.6,"Milwaukee, WI",$22.32 an hour,Not Remote
+7, Wisconsin,Milwaukee,53,Transportation,Customer Service Agent (Part Time) General Mitchell International Airport (MKE),United Ground Express,2.9,"Milwaukee, WI",Unknown,Not Remote
+8, Wisconsin,Milwaukee,53,Transportation,Motor Vehicle Operator,US Department of Veterans Affairs,3.8,"Milwaukee, WI",$22.75 - $26.52 an hour,Not Remote
+9, Wisconsin,Milwaukee,53,Transportation,Amazon Delivery Driver Associate,Amazon DSP,,"Milwaukee, WI",$300 - $640 a week,Not Remote
+10, Wisconsin,Milwaukee,53,Transportation,Transportation Manager,LINDNER LOGISTICS,4.0,"Milwaukee, WI","$45,000 - $55,000 a year",Not Remote
+11, Wisconsin,Milwaukee,53,Transportation,Courier Opportunities: West Allis,Advocate Aurora Health,3.7,"West Allis, WI",Unknown,Not Remote
+12, Wisconsin,Milwaukee,53,Transportation,Transportation Planner,Rockwell Automation,3.9,"Milwaukee, WI",Unknown,Not Remote
+13, Wisconsin,Milwaukee,53,Transportation,Executive Chauffeur,AJ Prestige Worldwide,,"Cudahy, WI",$16 - $21 an hour,Not Remote
+14, Wisconsin,Milwaukee,53,Transportation,Transportation-Van Driver,Hilton Garden Inn Milwaukee Airport,3.6,"Milwaukee, WI",Unknown,Not Remote
+15, Wisconsin,Milwaukee,53,Transportation,Package Delivery Driver,Amazon DSP,,"Milwaukee, WI",$300 - $640 a week,Not Remote
+16, Wisconsin,Milwaukee,53,Transportation,TRACTOR TRAILER OPERATOR,United States Postal Service,3.4,"Milwaukee, WI",$23.74 - $33.43 an hour,Not Remote
+17, Wisconsin,Milwaukee,53,Transportation,Shuttle Van Driver,HealthPark Valet,3.2,"Milwaukee, WI",Unknown,Not Remote
+18, Wisconsin,Milwaukee,53,Transportation,Driver,FedEx Express,3.9,"Milwaukee, WI",$18.68 an hour,Not Remote
+19, Wisconsin,Milwaukee,53,Transportation,Laundry Attendant/Driver,Eastcastle Place Inc,3.7,"Milwaukee, WI",From $13 an hour,Not Remote
+20, Wisconsin,Milwaukee,53,Transportation,Package Delivery Driver,Amazon DSP,,"Saint Francis, WI",$300 - $640 a week,Not Remote
+21, Wisconsin,Milwaukee,53,Transportation,Valet Attendant,HealthPark Valet,3.2,"Milwaukee, WI",Unknown,Not Remote
+22, Wisconsin,Milwaukee,53,Transportation,Manager-Transportation and Facilities,MILWAUKEE CENTER FOR INDEPENDENCE INC,3.4,"Milwaukee, WI",Unknown,Not Remote
+23, Wisconsin,Milwaukee,53,Transportation,"CDL Delivery Driver - Milwaukee, WI",PODS Inc.,3.2,"Milwaukee, WI",$18.55 an hour,Not Remote
+24, Wisconsin,Milwaukee,53,Transportation,Bus driver full time,National Express Transit,,"Milwaukee, WI",From $17.06 an hour,Not Remote
+25, Wisconsin,Milwaukee,53,Transportation,Passenger Service Assistant (wheelchair service),Prospect,2.9,"Milwaukee, WI",Unknown,Not Remote
+26, Wisconsin,Milwaukee,53,Transportation,Valet Attendant,HealthPark Valet,3.2,"Milwaukee, WI",Unknown,Not Remote
+27, Wisconsin,Milwaukee,53,Transportation,Valet Attendant,HealthPark Valet,3.2,"Milwaukee, WI",Unknown,Not Remote
+28, Wisconsin,Milwaukee,53,Transportation,Transportation Insurance Producer- Remote,Covered by Sage,,"Milwaukee, WI","$80,000 - $150,000 a year",Remote
+29, Wisconsin,Milwaukee,53,Transportation,Transportation CAD Technician T4,GRAEF,4.4,"Milwaukee, WI",Unknown,Not Remote
+30, Wisconsin,Milwaukee,53,Transportation,Delivery Driver - 4 Day Work Week!,Badger Liquor Company,3.2,"West Allis, WI",$18.50 an hour,Not Remote
+31, Wisconsin,Milwaukee,53,Transportation,Driver Transportation-PT 3rd Shift weekends,BloodCenter of Wisconsin,3.3,"Milwaukee, WI",Unknown,Not Remote
+32, Wisconsin,Milwaukee,53,Transportation,Package Delivery Driver,Amazon DSP,,"Milwaukee, WI",$300 - $640 a week,Not Remote
+33, Wisconsin,Milwaukee,53,Transportation,Engine Department QMED,Grand River Navigation Company,4.4,"Milwaukee, WI",$284 a day,Not Remote
+34, Wisconsin,Milwaukee,53,Transportation,Service Representative / Courier / Driver,Labcorp,3.5,"Milwaukee, WI",Unknown,Not Remote
+35, Wisconsin,Milwaukee,53,Transportation,Bus Operator,Milwaukee County Transit System,3.6,"Milwaukee, WI",Unknown,Not Remote
+36, Wisconsin,Milwaukee,53,Transportation,Delivery Driver,Breakthru Beverage Group,3.8,"Milwaukee, WI",$20 an hour,Not Remote
+37, Wisconsin,Milwaukee,53,Transportation,Shuttle Van Driver,Milwaukee Area Technical College,4.1,"Milwaukee, WI",$14.72 - $15.09 an hour,Not Remote
+38, Wisconsin,Milwaukee,53,Transportation,Entry Level Civil Transportation Engineer,"Bloom Companies, LLC",,"Milwaukee, WI",Unknown,Temporarily remote
+39, Wisconsin,Milwaukee,53,Transportation,Patient Transport Dispatcher,Advocate Aurora Health,3.7,"Milwaukee, WI",Unknown,Not Remote
+40, Wisconsin,Milwaukee,53,Transportation,Fuel Facility Operator,Menzies Aviation,3.0,"Milwaukee, WI",From $15 an hour,Not Remote
+41, Wisconsin,Milwaukee,53,Transportation,"Driver, Milwaukee",NorthStar Logistics,,"Oak Creek, WI","$2,500 - $2,900 a month",Not Remote
+42, Wisconsin,Milwaukee,53,Transportation,Van Driver,Sonesta,3.9,"Milwaukee, WI",Unknown,Not Remote
+43, Wisconsin,Milwaukee,53,Transportation,Package Delivery Driver,Amazon DSP,,"West Allis, WI",$300 - $640 a week,Not Remote
+44, Wisconsin,Milwaukee,53,Transportation,Heavy Truck Drivers,"Zignego Ready Mix, Inc.",,"Milwaukee, WI",$20 - $25 an hour,Not Remote
+45, Wisconsin,Milwaukee,53,Transportation,Electronic Devices Delivery Driver,Asurion,3.4,"Milwaukee, WI",$17 an hour,Not Remote
+46, Wisconsin,Milwaukee,53,Transportation,Mover / General Labor / Team Member,"College Hunks Hauling Junk and Moving - Oak Creek,...",,"Milwaukee, WI",$13 - $17 an hour,Not Remote
+47, Wisconsin,Milwaukee,53,Transportation,"CDL-A or B Driver - Local, Home Daily",Arctic Glacier,3.4,"Milwaukee, WI",Unknown,Not Remote
+48, Wisconsin,Milwaukee,53,Transportation,Product Delivery Driver,GET IT NOW,3.4,"Milwaukee, WI",$15 - $17 an hour,Not Remote
+49, Wisconsin,Milwaukee,53,Transportation,Package Delivery Driver,Amazon DSP,,"Greenfield, WI",$300 - $640 a week,Not Remote
+50, Wisconsin,Milwaukee,53,Transportation,Delivery Driver (part-time),Genuine Parts Company,3.5,"Milwaukee, WI",$11.80 - $12.80 an hour,Not Remote
+51, Wisconsin,Milwaukee,53,Transportation,Route Delivery Driver,Hinckley Springs Water,3.2,"Milwaukee, WI","$50,000 - $55,000 a year",Not Remote
+52, Wisconsin,Milwaukee,53,Transportation,"CAREER - Tractor Trailer Operator (TTO) Milwaukee, WI 3/18 to 3/26",United States Postal Service,3.4,"Milwaukee, WI",$23.74 - $33.43 an hour,Not Remote
+53, Wisconsin,Milwaukee,53,Transportation,Lot Attendant,Russ Darrow Mazda of Milwaukee,3.2,"Milwaukee, WI",Unknown,Not Remote
+54, Wisconsin,Milwaukee,53,Transportation,Quad Axle Dump Truck Driver,VLA Grading LLC,,"Milwaukee, WI",Up to $25 an hour,Not Remote
+55, Wisconsin,Milwaukee,53,Transportation,Driver / Field Service Representative,Arjo,3.4,"Milwaukee, WI",$17 - $20 an hour,Not Remote
