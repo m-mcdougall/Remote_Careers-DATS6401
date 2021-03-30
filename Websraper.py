@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 import time
 from tqdm import tqdm
-
+from datetime import date
 
 pd.set_option('display.max_columns', 10)
 
@@ -17,7 +17,7 @@ wd=os.path.abspath('C://Users//Mariko//Documents//GitHub//Remote_Careers-DATS640
 os.chdir(wd)
 
 
-
+today = date.today()
 
 #%%
 
@@ -165,7 +165,7 @@ jobs.rename(columns={0:'Category', 1:"JobTitle"}, inplace=True)
 
 
 
-for k in range(28,cities.shape[0]):
+for k in range(1,cities.shape[0]):
     
     city=cities.MostPopulous[k]
     state=cities.State[k]
@@ -192,7 +192,7 @@ for k in range(28,cities.shape[0]):
     
     #End of the State, save the result in case of crash or captcha
     job_collect_df=pd.concat(job_collect)
-    job_collect_df.to_csv('.//Data//'+state+'.csv')
+    job_collect_df.to_csv('.//Data//'+state+' '+str(today)+'.csv')
     
     print('\n\n\nWaiting........\n\n\n')
     time.sleep(np.random.random_sample()*14)

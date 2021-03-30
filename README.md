@@ -3,6 +3,7 @@ An analysis into the rising prevalence of remote work opportunities arising duri
 
 ## Data Sources
 
+All Job postings taken from Indeed.com [https://www.indeed.com/]
 
 
 ### Supplementary Data
@@ -14,3 +15,9 @@ Sample jobs were modified to increase search compatibility.
 
 A full explanation of the SOC codes can be found here. [https://www.bls.gov/soc/2018/soc_structure_2018.pdf]
 For each major category, three jobs were selected from the ORS list.
+
+
+
+### Templates
+
+Bootstrap interface template [https://startbootstrap.com/theme/sb-admin-2]
