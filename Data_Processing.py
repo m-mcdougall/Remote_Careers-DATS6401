@@ -323,8 +323,8 @@ all_hourly_out = hourly.merge(hourly_out, on=['index'])
 
 data2=pd.concat([all_annual_out, all_hourly_out]).set_index(['index'])
 
-data2=data2.append(data[data.Wage == 'Unknown'])
-data=data2.fillna('Unknown')
+data=data2.append(data[data.Wage == 'Unknown'])
+#data=data2.fillna('Unknown')
 
 data=data.sort_index(axis=0)
 
@@ -335,9 +335,49 @@ del [match0, match1, data2, results, known_wage, all_annual_out,all_hourly_out,
 
 
 
+#%%
+#===================
+
+#Add Region - Add a region by state
+
+#===================
 
 
+def create_regions():
+    #Get a list of us state abbreviations
+    runfile(os.path.abspath('..')+'//UsStateAbbreviations.py')
+    
+    #Define the regions and the component states
+    regions={"Pacific":['WA', 'OR','CA','NV','AK','HI',],
+             'Rocky_Mountains':['MT','ID','WY','UT','CO', 'AZ','NM',],
+             'Midwest':['ND','SD','NE','KS','MN','IA','MO','WI','IL','MI','IN','OH'],
+             'Southwest':['TX','OK', 'AR','LA',],
+             'Southeast':['KY','TN','MS','AL','WV','VA','NC','SC','GA','FL',],
+             'Northeast':['ME','NH','VT','NY','MA','RI','CT','PA','NJ','DE','MD','DC']}    
+    
+    
+    #Flip the key:value pairs, to assign one region for each state
+    region_flip={}
+    for key in regions:
+        for state in regions[key]:
+            full_state = abbrev_us_state[state]
+            region_flip[full_state]=key
+        
 
+    return region_flip
+
+region_dict=create_regions()
+
+data['SearchState']=data['SearchState'].str.strip()
+
+data['Region']=data['SearchState'].replace(region_dict)
+
+#%%
+
+
+data.groupby(['Category']).agg({'Midrange':'mean', })
+data.groupby(['SearchState']).agg({'Midrange':'mean', })
+data.groupby(['Region']).agg({'Midrange':'mean', 'Midrange':'var',})
 
 
 
