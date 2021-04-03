@@ -1,0 +1,438 @@
+,SearchState,SearchCity,Category,SearchTitle,Title,Company,Stars,Location,Wage,Remote
+0, Kentucky,Lexington,11,Manager,Teller Supervisor,Guardian Savings Bank FSB,2.9,"Lexington, KY",Unknown,Not Remote
+1, Kentucky,Lexington,11,Manager,Store Manager,The Fresh Market Inc,3.0,"Lexington, KY",Unknown,Not Remote
+2, Kentucky,Lexington,11,Manager,Accounts Receivable Manager,Aramark,3.5,"Lexington, KY",Unknown,Not Remote
+3, Kentucky,Lexington,11,Manager,Project Manager,Vescio's SportsFields,,"Lexington, KY","$55,000 - $70,000 a year",Not Remote
+4, Kentucky,Lexington,11,Manager,Bookkeeper/Accounts Manager,The Wyatt,,"Lexington, KY",$15 - $18 an hour,Not Remote
+5, Kentucky,Lexington,11,Manager,Proprietor (General Manager),Ted's Montana Grill,3.7,"Lexington, KY","$65,000 - $77,000 a year",Not Remote
+6, Kentucky,Lexington,11,Manager,Warehouse Distribution Manager,"FISTER DISTRIBUTION, INC.",,"Lexington, KY","$40,000 - $60,000 a year",Not Remote
+7, Kentucky,Lexington,11,Manager,Maintenance Manager,Premier Staffing Solution,,"Lexington, KY","$80,000 - $95,000 a year",Not Remote
+8, Kentucky,Lexington,11,Manager,Business Dealer Development Manager (Forklift OEM),CLARK Material Handling Company,3.6,"Lexington, KY",Unknown,Not Remote
+9, Kentucky,Lexington,11,Manager,Patient Access Manager/UKHC,University of Kentucky,4.1,"Lexington, KY","$53,477 - $89,315 a year",Not Remote
+10, Kentucky,Lexington,11,Manager,Practice Manager III/UKHC,University of Kentucky,4.1,"Lexington, KY","$61,630 - $100,485 a year",Not Remote
+11, Kentucky,Lexington,11,Manager,HR Manager,Amazon.com Services LLC,3.6,"Lexington, KY",Unknown,Not Remote
+12, Kentucky,Lexington,11,Manager,Program Manager Associate/BREATHE,University of Kentucky,4.1,"Lexington, KY","$49,254 - $81,266 a year",Not Remote
+13, Kentucky,Lexington,11,Manager,Research Project Manager,University of Kentucky,4.1,"Lexington, KY","$49,254 - $81,266 a year",Not Remote
+14, Kentucky,Lexington,11,Manager,Operations Manager (AM),Blk Out Transport LLC,,"Lexington, KY","$50,000 - $60,000 a year",Not Remote
+15, Kentucky,Lexington,11,Manager,Store Manager,Mattress Firm,3.3,"Lexington, KY","$50,000 - $110,000 a year",Not Remote
+16, Kentucky,Lexington,11,Manager,Subway Manager,Subway,3.6,"Lexington, KY",Unknown,Not Remote
+17, Kentucky,Lexington,11,Manager,Entry Level Manager,Cook Out Restaurants,3.3,"Lexington, KY","$45,000 - $75,000 a year",Not Remote
+18, Kentucky,Lexington,11,Manager,Associate Resource Manager,Kroger Stores,3.4,"Lexington, KY",Unknown,Not Remote
+19, Kentucky,Lexington,11,Manager,Community Center Manager,Recovery Cafe Lexington,,"Lexington, KY","$44,000 - $46,000 a year",Not Remote
+20, Kentucky,Lexington,11,Manager,Store Manager,The Fresh Market Inc,3.0,"Lexington, KY",Unknown,Not Remote
+21, Kentucky,Lexington,11,Manager,Maintenance Manager,Premier Staffing Solution,,"Lexington, KY","$80,000 - $95,000 a year",Not Remote
+22, Kentucky,Lexington,11,Manager,Proprietor (General Manager),Ted's Montana Grill,3.7,"Lexington, KY","$65,000 - $77,000 a year",Not Remote
+23, Kentucky,Lexington,11,Manager,Assistant Property Manager at Latitude 37,"Ball Homes, LLC",,"Lexington, KY",From $16 an hour,Not Remote
+24, Kentucky,Lexington,11,Manager,Guest Service Manager,The Fresh Market Inc,3.0,"Lexington, KY",Unknown,Not Remote
+25, Kentucky,Lexington,11,Manager,"Branch Manager Trainee - Lexington Market - Lexington, KY","JPMorgan Chase Bank, N.A.",3.9,"Lexington, KY",Unknown,Not Remote
+26, Kentucky,Lexington,11,Manager,Outpatient Manager,The Ridge Behavioral Health System,3.1,"Lexington, KY",Unknown,Not Remote
+27, Kentucky,Lexington,11,Manager,Property Manager,Professional Management Group,,"Lexington, KY","$25,000 - $51,000 a year",Not Remote
+28, Kentucky,Lexington,11,Manager,Communications and Engagement Manager,American Board of Family Medicine,,"Lexington, KY",Unknown,Temporarily remote
+29, Kentucky,Lexington,11,Manager,Centralized Denials Manager/UKHC,University of Kentucky,4.1,"Lexington, KY","$53,477 - $89,315 a year",Not Remote
+30, Kentucky,Lexington,11,Manager,Restaurant Manager | First Shift | Lexington First Watch,One Holland - First Watch,,"Lexington, KY","$35,000 - $65,000 a year",Not Remote
+31, Kentucky,Lexington,11,Manager,Sr Manager Coding & Reimbursement/UKHC,University of Kentucky,4.1,"Lexington, KY","$61,630 - $100,485 a year",Not Remote
+32, Kentucky,Lexington,11,Manager,Event Manager,21c Museum Hotels,3.1,"Lexington, KY",Unknown,Not Remote
+33, Kentucky,Lexington,11,Manager,Associate General Manager,Aqua-Tots Swim Schools,3.8,"Lexington, KY",Unknown,Not Remote
+34, Kentucky,Lexington,11,Manager,Bookkeeper/Accounts Manager,The Wyatt,,"Lexington, KY",$15 - $18 an hour,Not Remote
+35, Kentucky,Lexington,11,Manager,Assistant Manager/Merchandise Manager,Gabes(Gabriel Brothers),3.0,"Lexington, KY","From $45,000 a year",Not Remote
+36, Kentucky,Lexington,11,Manager,Patient Financial Services Manager/UKHC,University of Kentucky,4.1,"Lexington, KY","$53,477 - $89,315 a year",Not Remote
+37, Kentucky,Lexington,11,Manager,Ops Manager - Station,FedEx Ground Careers US,3.4,"Lexington, KY",Unknown,Not Remote
+38, Kentucky,Lexington,11,Manager,Subway Manager,Subway,3.6,"Lexington, KY",Unknown,Not Remote
+39, Kentucky,Lexington,11,Manager,Office Manager,Cintas,3.3,"Lexington, KY",Unknown,Not Remote
+40, Kentucky,Lexington,11,Manager,Warehouse Distribution Manager,"FISTER DISTRIBUTION, INC.",,"Lexington, KY","$40,000 - $60,000 a year",Not Remote
+41, Kentucky,Lexington,11,Manager,Development Manager,Child Neurology Education an,,"Lexington, KY","$55,000 - $75,000 a year",Not Remote
+42, Kentucky,Lexington,11,Manager,Front Office Manager,Hyatt,4.1,"Lexington, KY",Unknown,Not Remote
+43, Kentucky,Lexington,11,Manager,Front Office Manager,Hyatt Regency Lexington,3.1,"Lexington, KY",Unknown,Not Remote
+44, Kentucky,Lexington,11,Manager,Assistant General Manager (AGM),The Wyatt,,"Lexington, KY",$18 - $21 an hour,Not Remote
+45, Kentucky,Lexington,11,Manager,Lead Medical Support Assistant (Patient Care Service),US Department of Veterans Affairs,3.8,"Lexington, KY","$43,683 - $56,790 a year",Not Remote
+46, Kentucky,Lexington,11,Manager,"Sales, Account Manager – Community Care Solutions (Indiana/Kentucky)",Philips,4.0,"Lexington, KY",Unknown,Not Remote
+47, Kentucky,Lexington,11,Manager,Customer Care Warehouse Manager,ITW,3.6,"Lexington, KY",Unknown,Not Remote
+48, Kentucky,Lexington,11,Manager,Case Manager,KVC Behavioral Healthcare Kentucky Inc.,3.1,"Lexington, KY",Unknown,Not Remote
+49, Kentucky,Lexington,11,Manager,Account Manager,Colonial Life,3.6,"Lexington, KY",Unknown,Not Remote
+50, Kentucky,Lexington,11,Manager,Assistant General Manager,Fairfield Lexington,3.1,"Lexington, KY",Unknown,Not Remote
+51, Kentucky,Lexington,11,Manager,OPERATIONS ASSISTANT MANAGER,Dollar Tree,3.4,"Lexington, KY",Unknown,Not Remote
+52, Kentucky,Lexington,11,Manager,Manager,Sonic Drive In,3.5,"Lexington, KY","From $110,000 a year",Not Remote
+53, Kentucky,Lexington,11,Manager,Corporate Risk Manager,"Gray Construction, Inc",4.2,"Lexington, KY",Unknown,Not Remote
+54, Kentucky,Lexington,11,Manager,"General Manager - Holiday Inn Express Nicholasville, KY","Holiday Inn Express - Nicholasville, KY",3.6,"Nicholasville, KY","From $40,000 a year",Not Remote
+55, Kentucky,Lexington,11,Manager,Front Office Manager,Hyatt Regency Lexington,4.1,"Lexington, KY",Unknown,Not Remote
+56, Kentucky,Lexington,11,Manager,Leasing Manager at Brookstone Apartments,"Ball Homes, LLC",,"Lexington, KY",$13 - $14 an hour,Not Remote
+57, Kentucky,Lexington,11,Manager,Events Manager,Associations International,,"Lexington, KY",Unknown,Not Remote
+58, Kentucky,Lexington,11,Manager,Restaurant Manager / Assistant Manager,Old Chicago Pizza and Taproom,3.6,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,11,Personal Service Managers,Malone's Sous Chef,Bluegrass Hospitality Group,4.2,"Lexington, KY","From $40,000 a year",Not Remote
+1, Kentucky,Lexington,11,Personal Service Managers,Infiniti Automotive Service Technician,Infiniti of Lexington,,"Lexington, KY",$13 - $30 an hour,Not Remote
+2, Kentucky,Lexington,11,Personal Service Managers,Project Manager,Vescio's SportsFields,,"Lexington, KY","$55,000 - $70,000 a year",Not Remote
+3, Kentucky,Lexington,11,Personal Service Managers,Maintenance Technician - Royal Lexington,American Campus Communities,3.5,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,11,Personal Service Managers,Infiniti Automotive Service Advisor/Writer/ASM,Infiniti of Lexington,,"Lexington, KY","$65,000 - $80,000 a year",Not Remote
+5, Kentucky,Lexington,11,Personal Service Managers,Designer (Residential Remodeling) * Interior * Architectural,BACK Construction,,"Lexington, KY",Unknown,Not Remote
+6, Kentucky,Lexington,11,Personal Service Managers,Teller Supervisor,Guardian Savings Bank FSB,2.9,"Lexington, KY",Unknown,Not Remote
+7, Kentucky,Lexington,11,Personal Service Managers,Automotive Service Advisor,Rod Hatfield Chevrolet,3.3,"Lexington, KY","$55,000 - $111,000 a year",Not Remote
+8, Kentucky,Lexington,11,Personal Service Managers,Food Service Director,Cambridge Place Nursing Home,2.7,"Lexington, KY","From $40,000 a year",Not Remote
+9, Kentucky,Lexington,11,Personal Service Managers,Guest Service Manager,The Fresh Market Inc,3.0,"Lexington, KY",Unknown,Not Remote
+10, Kentucky,Lexington,11,Personal Service Managers,Brand Ambassador,Aeropostale,3.7,"Lexington, KY",Unknown,Not Remote
+11, Kentucky,Lexington,11,Personal Service Managers,Customer Service Associate,WALGREENS,3.6,"Lexington-Fayette, KY",Unknown,Not Remote
+12, Kentucky,Lexington,11,Personal Service Managers,Infiniti Automotive Service Advisor/Writer/ASM,Infiniti of Lexington,,"Lexington, KY","$65,000 - $80,000 a year",Not Remote
+13, Kentucky,Lexington,11,Personal Service Managers,(USA) Personal Shopper - Sam's,Sam's Club,3.5,"Nicholasville, KY",Unknown,Not Remote
+14, Kentucky,Lexington,11,Personal Service Managers,At Risk Youth Program Director,Kentucky MENTOR,,"Lexington, KY",Unknown,Not Remote
+15, Kentucky,Lexington,11,Personal Service Managers,Customer Service Representative,HyperShine Car Wash,,"Lexington, KY",$12 an hour,Not Remote
+16, Kentucky,Lexington,11,Personal Service Managers,Pet Pro (Pet Care Services),Uptown Hounds,2.5,"Lexington, KY",Unknown,Not Remote
+17, Kentucky,Lexington,11,Personal Service Managers,Customer Service Engineer 2 - Lexington KY,Siemens,4.0,"Lexington, KY",Unknown,Not Remote
+18, Kentucky,Lexington,11,Personal Service Managers,Customer Service Associate - Temporary,WALGREENS,3.6,"Lexington-Fayette, KY",Unknown,Not Remote
+19, Kentucky,Lexington,11,Personal Service Managers,Customer Service Associate - Temporary,WALGREENS,3.6,"Lexington-Fayette, KY",Unknown,Not Remote
+20, Kentucky,Lexington,11,Personal Service Managers,Customer Service Representative,HyperShine Car Wash,,"Lexington, KY",$12 an hour,Not Remote
+21, Kentucky,Lexington,11,Personal Service Managers,Executive Chef,Richmond Place Senior Living,3.0,"Lexington, KY",$18 - $29 an hour,Not Remote
+22, Kentucky,Lexington,11,Personal Service Managers,Assistant Manager/Merchandise Manager,Gabes(Gabriel Brothers),3.0,"Lexington, KY","From $45,000 a year",Not Remote
+23, Kentucky,Lexington,11,Personal Service Managers,Guest Services Representative,Don Jacobs Automotive,,"Lexington, KY",$13 an hour,Not Remote
+24, Kentucky,Lexington,11,Personal Service Managers,Customer Service Supervisor - Palomar,City National Bank of WV,3.7,"Lexington, KY",$14.71 an hour,Not Remote
+25, Kentucky,Lexington,11,Personal Service Managers,Phlebotomist,PathGroup,3.1,"Lexington, KY",Unknown,Not Remote
+26, Kentucky,Lexington,11,Personal Service Managers,Crew Member,Culver's | Meal Tkt Inc,3.6,"Lexington, KY",Unknown,Not Remote
+27, Kentucky,Lexington,11,Personal Service Managers,Warehouse Loader (Part Time),Red Bull Distribution Company,4.0,"Lexington, KY",Unknown,Not Remote
+28, Kentucky,Lexington,11,Personal Service Managers,Teller 1,Greater Kentucky Credit Union Inc.,2.3,"Lexington, KY",$13 - $14 an hour,Not Remote
+29, Kentucky,Lexington,11,Personal Service Managers,Service Insights Project Lead,God's Pantry Food Bank,,"Lexington, KY",Up to $24 an hour,Temporarily remote
+30, Kentucky,Lexington,11,Personal Service Managers,Crew Member,Culver's | Meal Tkt Inc,3.6,"Lexington, KY",Unknown,Not Remote
+31, Kentucky,Lexington,11,Personal Service Managers,Crew Member (PT),Culver's of Lexington,,"Lexington, KY",$12 an hour,Not Remote
+32, Kentucky,Lexington,11,Personal Service Managers,Crew Member,Culver's | Meal Tkt Inc,3.6,"Lexington, KY",Unknown,Not Remote
+33, Kentucky,Lexington,11,Personal Service Managers,Brand Ambassador,Forever 21,3.3,"Lexington, KY",$10 - $11 an hour,Not Remote
+34, Kentucky,Lexington,11,Personal Service Managers,Crew Member,Culver's | Meal Tkt Inc,3.6,"Lexington, KY",Unknown,Not Remote
+35, Kentucky,Lexington,11,Personal Service Managers,Dishwasher | First Shift | Hamburg First Watch,One Holland - First Watch,,"Lexington, KY",$13 - $16 an hour,Not Remote
+36, Kentucky,Lexington,11,Personal Service Managers,Community Center Manager,Recovery Cafe Lexington,,"Lexington, KY","$44,000 - $46,000 a year",Not Remote
+37, Kentucky,Lexington,11,Personal Service Managers,Store Manager,The Fresh Market Inc,3.0,"Lexington, KY",Unknown,Not Remote
+38, Kentucky,Lexington,11,Personal Service Managers,Dishwasher | First Shift | South Broadway First Watch,One Holland - First Watch,,"Lexington, KY",$13 - $16 an hour,Not Remote
+39, Kentucky,Lexington,11,Personal Service Managers,Prevention Specialist,"AIDS Volunteers, Inc. (AVOL)",,"Lexington, KY",From $17 an hour,Not Remote
+40, Kentucky,Lexington,11,Personal Service Managers,Seeking Direct Support Professionals - Start Monday!,Key Assets Kentucky,,"Lexington, KY",$12 an hour,Not Remote
+41, Kentucky,Lexington,11,Personal Service Managers,"Sales, Account Manager – Community Care Solutions (Indiana/Kentucky)",Philips,4.0,"Lexington, KY",Unknown,Not Remote
+42, Kentucky,Lexington,11,Personal Service Managers,Medical Screener (New Center),"Octapharma Plasma, Inc.",2.9,"Lexington, KY",Unknown,Not Remote
+43, Kentucky,Lexington,11,Personal Service Managers,(USA) Personal Shopper - Sam's,Sam's Club,3.5,"Nicholasville, KY",Unknown,Not Remote
+44, Kentucky,Lexington,11,Personal Service Managers,Teller 1,Greater Kentucky Credit Union Inc.,2.3,"Lexington, KY",$12 - $14 an hour,Not Remote
+45, Kentucky,Lexington,11,Personal Service Managers,Fulfillment Supervisor,Saddle Creek Logistics Services,3.3,"Lexington, KY",Unknown,Not Remote
+46, Kentucky,Lexington,11,Personal Service Managers,Restaurant Manager | First Shift | Lexington First Watch,One Holland - First Watch,,"Lexington, KY","$35,000 - $65,000 a year",Not Remote
+47, Kentucky,Lexington,11,Personal Service Managers,Property Manager,Professional Management Group,,"Lexington, KY","$25,000 - $51,000 a year",Not Remote
+48, Kentucky,Lexington,11,Personal Service Managers,Bookkeeper/Accounts Manager,The Wyatt,,"Lexington, KY",$15 - $18 an hour,Not Remote
+49, Kentucky,Lexington,11,Personal Service Managers,Housekeeper,Courtyard Lexington,3.1,"Lexington, KY",Unknown,Not Remote
+50, Kentucky,Lexington,11,Personal Service Managers,HVAC Service Technician,Bluegrass HVAC,,"Lexington, KY",$15 - $30 an hour,Not Remote
+51, Kentucky,Lexington,11,Personal Service Managers,Host/Hostess,Applebee's | RMH Franchise Corporation,3.5,"Lexington, KY",Unknown,Not Remote
+52, Kentucky,Lexington,11,Personal Service Managers,Warehouse Associate,Housewamings,,"Lexington, KY",$15 - $18 an hour,Not Remote
+53, Kentucky,Lexington,11,Personal Service Managers,Housekeeper,Hyatt Place Lexington,4.1,"Lexington, KY",$9.50 - $10.50 an hour,Not Remote
+54, Kentucky,Lexington,11,Personal Service Managers,Indirect Loan Processor,University of Kentucky Federal Credit Union,3.9,"Lexington, KY",Unknown,Not Remote
+55, Kentucky,Lexington,11,Personal Service Managers,Targeted Case Manager,New Day Recovery Center,,"Lexington, KY",$14 - $16 an hour,Temporarily remote
+56, Kentucky,Lexington,11,Personal Service Managers,Automotive Detailer,Don Jacobs Automotive,,"Lexington, KY",$12 an hour,Not Remote
+57, Kentucky,Lexington,11,Personal Service Managers,Senior Accountant/Analyst,Dentons Bingham Greenebaum LLP,,"Lexington, KY","$70,000 - $80,000 a year",Temporarily remote
+58, Kentucky,Lexington,11,Personal Service Managers,Food Service Director,Cambridge Place Nursing Home,2.7,"Lexington, KY","From $40,000 a year",Not Remote
+0, Kentucky,Lexington,13,Financial Specialists,Administrative Assistant,"Investments & Financial Planning, LLC",,"Lexington, KY",$16 - $19 an hour,Temporarily remote
+1, Kentucky,Lexington,13,Financial Specialists,Accounts Payable Supervisor,Dentons Bingham Greenebaum LLP,,"Lexington, KY","$50,000 - $60,000 a year",Temporarily remote
+2, Kentucky,Lexington,13,Financial Specialists,Senior Accountant/Analyst,Dentons Bingham Greenebaum LLP,,"Lexington, KY","$70,000 - $80,000 a year",Temporarily remote
+3, Kentucky,Lexington,13,Financial Specialists,"Specialist, Financial Reporting and Analysis",Save the Children,4.1,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,13,Financial Specialists,Administrative Assistant,"Investments & Financial Planning, LLC",,"Lexington, KY",$16 - $19 an hour,Temporarily remote
+5, Kentucky,Lexington,13,Financial Specialists,Assessment Support Specialist,The Ridge Behavioral Health System,3.1,"Lexington, KY",Unknown,Not Remote
+6, Kentucky,Lexington,13,Financial Specialists,Reservation Specialist,FLEETCOR,3.1,"Lexington, KY",$12.50 an hour,Not Remote
+7, Kentucky,Lexington,13,Financial Specialists,"Specialist, External Reporting and Grant Audit",Save the Children,4.1,"Lexington, KY",Unknown,Remote
+8, Kentucky,Lexington,13,Financial Specialists,Community Center Manager,Recovery Cafe Lexington,,"Lexington, KY","$44,000 - $46,000 a year",Not Remote
+9, Kentucky,Lexington,13,Financial Specialists,Reservation Specialist,FLEETCOR,3.1,"Lexington, KY",Unknown,Temporarily remote
+10, Kentucky,Lexington,13,Financial Specialists,Prevention Specialist,New Vista of the Bluegrass Inc,3.0,"Lexington, KY",Unknown,Not Remote
+11, Kentucky,Lexington,13,Financial Specialists,Payroll Specialist,Exceptional Living Centers,3.0,"Lexington, KY",Unknown,Not Remote
+12, Kentucky,Lexington,13,Financial Specialists,Advanced Practice Nurse Practitioner - Sleep,US Department of Veterans Affairs,3.8,"Lexington, KY","$78,558 - $119,363 a year",Not Remote
+13, Kentucky,Lexington,13,Financial Specialists,Accounts Payable Supervisor,Dentons Bingham Greenebaum LLP,,"Lexington, KY","$50,000 - $60,000 a year",Temporarily remote
+14, Kentucky,Lexington,13,Financial Specialists,Licensed Realtor,Realty ONE Group Bluegrass,,"Lexington, KY","$42,000 - $150,000 a year",Remote
+15, Kentucky,Lexington,13,Financial Specialists,Certified Nursing Assistant (CNA),Signature Healthcare at Tanbark Rehab & Wellness C...,3.0,"Lexington, KY",Unknown,Not Remote
+16, Kentucky,Lexington,13,Financial Specialists,Product Management Specialist,MID ATLANTIC CAPITAL GROUP INC,,"Lexington, KY",Unknown,Not Remote
+17, Kentucky,Lexington,13,Financial Specialists,Supervisory Contract Specialist,US Department of Defense,4.2,"Lexington, KY","$109,757 - $144,907 a year",Not Remote
+18, Kentucky,Lexington,13,Financial Specialists,Veterinary Receptionist - Evening Shifts,Bluegrass Veterinary Specialists,2.0,"Lexington, KY",$13 - $16 an hour,Not Remote
+19, Kentucky,Lexington,13,Financial Specialists,Payroll Specialist,Exceptional Living Centers,3.0,"Lexington, KY",Unknown,Not Remote
+20, Kentucky,Lexington,13,Financial Specialists,Assessment Support Specialist,The Ridge Behavioral Health System,3.1,"Lexington, KY",Unknown,Not Remote
+21, Kentucky,Lexington,13,Financial Specialists,Senior Accountant/Analyst,Dentons Bingham Greenebaum LLP,,"Lexington, KY","$70,000 - $80,000 a year",Temporarily remote
+22, Kentucky,Lexington,13,Financial Specialists,Nurse (LPN/RN) - - 7:00 PM - 7:00 AM,Signature Healthcare at Tanbark Rehab & Wellness C...,3.0,"Lexington, KY",Unknown,Not Remote
+23, Kentucky,Lexington,13,Financial Specialists,Accounts Receivable Coordinator,Anderson Communities Inc,3.4,"Lexington, KY",Unknown,Not Remote
+24, Kentucky,Lexington,13,Financial Specialists,TVL Call Center Specialist,FLEETCOR,3.1,"Lexington, KY",$12.50 an hour,Not Remote
+25, Kentucky,Lexington,13,Financial Specialists,Certified Nursing Assistant (CNA) - - 2:00 PM - 10:00 PM,Signature Healthcare at Tanbark Rehab & Wellness C...,3.0,"Lexington, KY",Unknown,Not Remote
+26, Kentucky,Lexington,13,Financial Specialists,Nurse (LPN/RN),Signature Healthcare at Tanbark Rehab & Wellness C...,3.0,"Lexington, KY",Unknown,Not Remote
+27, Kentucky,Lexington,13,Financial Specialists,Nurse (LPN/RN) - - 6:30 AM - 7:00 PM,Signature Healthcare at Tanbark Rehab & Wellness C...,3.0,"Lexington, KY",Unknown,Not Remote
+28, Kentucky,Lexington,13,Financial Specialists,Accounts Receivable Manager,Aramark,3.5,"Lexington, KY",Unknown,Not Remote
+29, Kentucky,Lexington,13,Financial Specialists,Licensed Realtor,Realty ONE Group Bluegrass,,"Lexington, KY","$42,000 - $150,000 a year",Remote
+0, Kentucky,Lexington,13,Business Operations Specialist,Medical Claims Processing Specialist - On-site,Conduent,2.7,"Lexington, KY",Unknown,Not Remote
+1, Kentucky,Lexington,13,Business Operations Specialist,Accounts Receivable Manager,Aramark,3.5,"Lexington, KY",Unknown,Not Remote
+2, Kentucky,Lexington,13,Business Operations Specialist,Retail Merchandising Specialist,AmerisourceBergen,3.4,Kentucky,Unknown,Remote
+3, Kentucky,Lexington,13,Business Operations Specialist,Deposit Operations Specialist,University of Kentucky Federal Credit Union,3.9,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,13,Business Operations Specialist,IT Specialist (Customer Support),US Department of Veterans Affairs,3.8,"Lexington, KY","$50,106 - $85,535 a year",Not Remote
+5, Kentucky,Lexington,13,Business Operations Specialist,Deposit Operations Specialist,University of Kentucky Federal Credit Union,3.9,"Lexington, KY",Unknown,Not Remote
+6, Kentucky,Lexington,13,Business Operations Specialist,Medical Claims Processing Specialist - On-site,Conduent,2.7,"Lexington, KY",Unknown,Not Remote
+7, Kentucky,Lexington,13,Business Operations Specialist,Process Improvement Specialist,Canary - US,3.6,"Lexington, KY",Unknown,Not Remote
+8, Kentucky,Lexington,13,Business Operations Specialist,Broker Placement Specialist,"Risk Placement Services, Inc",3.2,"Lexington, KY",Unknown,Not Remote
+9, Kentucky,Lexington,13,Business Operations Specialist,"Specialist, Financial Reporting and Analysis",Save the Children,4.1,"Lexington, KY",Unknown,Not Remote
+10, Kentucky,Lexington,13,Business Operations Specialist,Asset Recovery (Collections) Specialist,University of Kentucky Federal Credit Union,3.9,"Lexington, KY",Unknown,Not Remote
+11, Kentucky,Lexington,13,Business Operations Specialist,Retail Merchandising Specialist,AmerisourceBergen,3.4,"Lexington, KY",Unknown,Remote
+12, Kentucky,Lexington,13,Business Operations Specialist,Asset Recovery Specialist,University of Kentucky Federal Credit Union,,"Lexington, KY",Unknown,Not Remote
+13, Kentucky,Lexington,13,Business Operations Specialist,Technical Integration Specialist,"Lexmark International, Inc.",3.9,"Lexington, KY",Unknown,Not Remote
+14, Kentucky,Lexington,13,Business Operations Specialist,Technical Support Specialist,TwinSpires.com,3.3,"Lexington, KY",Unknown,Not Remote
+15, Kentucky,Lexington,13,Business Operations Specialist,Support Specialist,RACING OFFICIALS ACCREDITATION PROGRAM,,"Lexington, KY",Unknown,Not Remote
+16, Kentucky,Lexington,13,Business Operations Specialist,Spa Director,The Woodhouse Day Spa - NKY,,"Lexington, KY",Unknown,Not Remote
+17, Kentucky,Lexington,13,Business Operations Specialist,Product Specialist,Ohio Transmission Corporation,3.5,"Lexington, KY",Unknown,Not Remote
+18, Kentucky,Lexington,13,Business Operations Specialist,Memory Care LPN,Richmond Place Senior Living,3.0,"Lexington, KY",$24 - $26 an hour,Not Remote
+19, Kentucky,Lexington,13,Business Operations Specialist,FT-Sales Specialist Cabinets-Day,Lowe's,3.6,"Lexington, KY",Unknown,Not Remote
+20, Kentucky,Lexington,13,Business Operations Specialist,Payroll & Benefits Specialist,Big Ass Fans,3.3,"Lexington, KY",Unknown,Not Remote
+21, Kentucky,Lexington,13,Business Operations Specialist,Product Specialist,Ohio Transmission Corporation,3.5,"Lexington, KY",Unknown,Not Remote
+22, Kentucky,Lexington,13,Business Operations Specialist,"Licensed Practical Nurse 6:30AM-6:30PM, 6:30PM-6:30AM",Richmond Place Senior Living,3.0,"Lexington, KY",$24 - $26 an hour,Not Remote
+23, Kentucky,Lexington,13,Business Operations Specialist,General Manager Specialist for Marriott Select Brands,"Marriott International, Inc",4.1,United States,Unknown,Not Remote
+0, Kentucky,Lexington,15,Data Scientists,Data Scientist - Operations Research,Envision LLC,3.3,United States,Unknown,Not Remote
+0, Kentucky,Lexington,15,Computer Programmers,25N Nodal Network Systems Operator-Maintainer,Army National Guard,4.4,"Lexington, KY",Unknown,Not Remote
+1, Kentucky,Lexington,15,Computer Programmers,14G Air Defense Battle Management System Operator,Army National Guard,4.4,"Lexington, KY",Unknown,Not Remote
+2, Kentucky,Lexington,15,Computer Programmers,Elixir Backend Developer,"Frayt Technologies, Inc",,United States,"Up to $80,000 a year",Remote
+3, Kentucky,Lexington,15,Computer Programmers,Content Mngmt Programmer III/UKHC,University of Kentucky,4.1,"Lexington, KY","$61,630 - $100,485 a year",Not Remote
+4, Kentucky,Lexington,15,Computer Programmers,Senior Quality Assurance Test Analyst,Kentucky Employers' Mutual Insurance,4.2,"Lexington, KY",Unknown,Not Remote
+5, Kentucky,Lexington,15,Computer Programmers,25N Nodal Network Systems Operator-Maintainer,Army National Guard,4.4,"Lexington, KY",Unknown,Not Remote
+6, Kentucky,Lexington,15,Computer Programmers,14G Air Defense Battle Management System Operator,Army National Guard,4.4,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,15,Software Quality Assurance Analyst,Senior Quality Assurance Test Analyst,Kentucky Employers' Mutual Insurance,4.2,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,17,Nuclear Engineers,Stress Analyst,Curtiss-Wright,3.3,United States,Unknown,Not Remote
+0, Kentucky,Lexington,17,Mechanical Engineering Technicians,Hotel Maintenance Technician,Lexington Marriott City Center,,"Lexington, KY",$10.00 - $13.50 an hour,Not Remote
+1, Kentucky,Lexington,17,Mechanical Engineering Technicians,Radar / Electronic Warfare (EW) Systems Field Engineering Technician,"CEA Technologies, Inc.",,United States,$31 - $34 an hour,Not Remote
+2, Kentucky,Lexington,17,Mechanical Engineering Technicians,Installation and Application Engineer,Syntech,3.9,Kentucky,"$70,000 - $90,000 a year",Remote
+3, Kentucky,Lexington,17,Mechanical Engineering Technicians,Forklift Mod Technician,CLARK Material Handling Company,3.6,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,17,Mechanical Engineering Technicians,Maintenance Technician,SRC of Lexington. Inc.,,"Lexington, KY",Unknown,Not Remote
+5, Kentucky,Lexington,17,Mechanical Engineering Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+6, Kentucky,Lexington,17,Mechanical Engineering Technicians,Hotel Maintenance Technician,Lexington Marriott City Center,,"Lexington, KY",$10.00 - $13.50 an hour,Not Remote
+7, Kentucky,Lexington,17,Mechanical Engineering Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+8, Kentucky,Lexington,17,Mechanical Engineering Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+9, Kentucky,Lexington,17,Mechanical Engineering Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+10, Kentucky,Lexington,17,Mechanical Engineering Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,19,Historians,Architectural Historian,Cultural Resource Analysts,,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,19,Medical Scientists,Senior Clinical Scientist / Medical Monitor - Oncology,Covance by Labcorp,,"Lexington, KY",Unknown,Not Remote
+1, Kentucky,Lexington,19,Medical Scientists,Senior Field Application Scientist,Magnetic Insight,,United States,"$90,000 - $140,000 a year",Temporarily remote
+2, Kentucky,Lexington,19,Medical Scientists,Research Associate Clinical I,University of Kentucky,4.1,"Lexington, KY",$14.99 - $23.98 an hour,Not Remote
+3, Kentucky,Lexington,19,Medical Scientists,Laboratory Scientist/UKHC,University of Kentucky,4.1,"Lexington, KY",$19.66 - $31.91 an hour,Not Remote
+4, Kentucky,Lexington,19,Medical Scientists,Research Analyst Principal,University of Kentucky,4.1,"Lexington, KY",$19.94 - $31.91 an hour,Not Remote
+5, Kentucky,Lexington,19,Medical Scientists,Research Associate Clinical I,University of Kentucky,4.1,"Lexington, KY",$14.99 - $23.98 an hour,Not Remote
+6, Kentucky,Lexington,19,Medical Scientists,Research Associate Clinical I,University of Kentucky,4.1,"Lexington, KY",$14.99 - $23.98 an hour,Not Remote
+7, Kentucky,Lexington,19,Medical Scientists,Clinical Lab Scientist Laboratory,Aya Healthcare,4.2,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,21,Counselor,"Kentucky-Licensed Mental Health Counselor [LISW(-S), LPCC(-S), LMFT]",Compass Point Counseling Services,,"Lexington, KY",$30 - $100 an hour,Remote
+1, Kentucky,Lexington,21,Counselor,Mental Health Therapist - Pediatric,Marshall Pediatric Therapy,3.8,"Lexington, KY","$37,000 - $47,000 a year",Not Remote
+2, Kentucky,Lexington,21,Counselor,Telehealth Online Therapist,"Best Life Mental Health Services, LLC.",,"Lexington, KY",$35 - $55 an hour,Not Remote
+3, Kentucky,Lexington,21,Counselor,"Licensed Mental Health Therapist (LCSW, LMFT, LPC) - Remote",NOCD,,United States,Unknown,Remote
+4, Kentucky,Lexington,21,Counselor,Pathology Genetics Counselor/UKHC,University of Kentucky,4.1,"Lexington, KY","$61,630 - $100,485 a year",Not Remote
+5, Kentucky,Lexington,21,Counselor,Counselor,BrightView Health,3.5,"Lexington, KY",Unknown,Not Remote
+6, Kentucky,Lexington,21,Counselor,Admissions Counselor - Lexington,Insights Training Group LLC,3.0,"Lexington, KY",Unknown,Not Remote
+7, Kentucky,Lexington,21,Counselor,Mental Health Counselor (FT/PT),Cognitive Therapy and Mindfulness Practices,,"Lexington, KY","Up to $70,000 a year",Remote
+8, Kentucky,Lexington,21,Counselor,Licensed Clinical Professional Counselor,Creative Solutions of the Bluegrass,,"Lexington, KY",$25 - $35 an hour,Remote
+9, Kentucky,Lexington,21,Counselor,Licensed Therapist/Counselor Remote,Gotham Enterprises LTD,4.2,"Lexington, KY","Up to $120,000 a year",Remote
+10, Kentucky,Lexington,21,Counselor,Therapist,Benchmark Family Services,2.7,"Lexington, KY",Unknown,Not Remote
+11, Kentucky,Lexington,21,Counselor,Therapist School,The Ridge Behavioral Health System,3.1,"Lexington, KY",Unknown,Not Remote
+12, Kentucky,Lexington,21,Counselor,KY BHS Clinician/School-Based Therapist/Social Worker,KVC Behavioral Healthcare Kentucky Inc.,3.1,"Lexington, KY",Unknown,Not Remote
+13, Kentucky,Lexington,21,Counselor,Outpatient Therapist (MHA),Mountain Comprehensive Care Center,3.2,"Lexington, KY",$13 - $16 an hour,Not Remote
+14, Kentucky,Lexington,21,Counselor,Outpatient Therapist (MHA),Mountain Comprehensive Care Center,3.2,"Lexington, KY",$13 - $16 an hour,Not Remote
+15, Kentucky,Lexington,21,Counselor,LCSW Substance Abuse Counselor and Supervisor,Invictus4Core,,"Lexington, KY","Up to $85,000 a year",Temporarily remote
+16, Kentucky,Lexington,21,Counselor,IOP Substance Use Disorder (SUD) Clinician,"Hope Center, Inc.",,"Lexington, KY","$40,000 - $45,000 a year",Not Remote
+17, Kentucky,Lexington,21,Counselor,Telehealth Online Therapist,"Best Life Mental Health Services, LLC.",,"Lexington, KY",$35 - $55 an hour,Not Remote
+18, Kentucky,Lexington,21,Counselor,Mental Health Therapist,Marshall Pediatric Therapy Llc,3.8,"Lexington, KY",Unknown,Not Remote
+19, Kentucky,Lexington,21,Counselor,Activities Director,Bluegrass Care & Rehabilitation Center,,"Lexington, KY",Unknown,Not Remote
+20, Kentucky,Lexington,21,Counselor,Therapist Individual Outpatient,The Ridge Behavioral Health System,3.1,"Lexington, KY",Unknown,Not Remote
+21, Kentucky,Lexington,21,Counselor,Outpatient Therapist (licensed),Mountain Comprehensive Care Center,3.2,"Lexington, KY",$17 - $21 an hour,Not Remote
+22, Kentucky,Lexington,21,Counselor,Outpatient Clinician,New Vista of the Bluegrass Inc,3.0,"Lexington, KY",Unknown,Not Remote
+23, Kentucky,Lexington,21,Counselor,"Jail Triage Clinician, PRN",New Vista of the Bluegrass Inc,3.0,"Lexington, KY",Unknown,Remote
+24, Kentucky,Lexington,21,Counselor,Clinical Supervisor,BrightView Health,3.5,"Lexington, KY",Unknown,Not Remote
+25, Kentucky,Lexington,21,Counselor,Part Time to Full Time Mental Health Clinicians,Gotham Enterprises LTD,4.2,"Lexington, KY",$30 - $70 an hour,Remote
+26, Kentucky,Lexington,21,Counselor,"Manager, Clinical Services - FULL TIME",Brookdale Senior Living,2.9,"Lexington, KY",Unknown,Not Remote
+27, Kentucky,Lexington,21,Counselor,Therapist,The Ridge Behavioral Health System,3.1,"Lexington, KY",Unknown,Not Remote
+28, Kentucky,Lexington,21,Counselor,Part Time to Full Time Mental Health Clinician,Gotham Enterprises LTD,4.2,"Lexington-Fayette, KY",$30 - $70 an hour,Remote
+29, Kentucky,Lexington,21,Counselor,"Master's Level Therapists - Part Time, Full Time & Independent Contractors",Doctor On Demand,2.6,"Lexington, KY",Unknown,Remote
+30, Kentucky,Lexington,21,Counselor,Therapist Weekend,The Ridge Behavioral Health System,3.1,"Lexington, KY",Unknown,Not Remote
+31, Kentucky,Lexington,21,Counselor,Licensed Outpatient Therapist,Mountain Comprehensive Care Center,3.2,"Lexington, KY",$17 - $23 an hour,Not Remote
+32, Kentucky,Lexington,21,Counselor,"Manager, Clinical Services - FULL TIME",Brookdale Senior Living,2.9,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,21,Community Social Service,Maintenance Technician - Royal Lexington,American Campus Communities,3.5,"Lexington, KY",Unknown,Not Remote
+1, Kentucky,Lexington,21,Community Social Service,Experienced Journeyman Electrician,Mr Electric of Central Kentucky,,"Lexington, KY",From $20 an hour,Not Remote
+2, Kentucky,Lexington,21,Community Social Service,Telehealth Online Therapist,"Best Life Mental Health Services, LLC.",,"Lexington, KY",$35 - $55 an hour,Not Remote
+3, Kentucky,Lexington,21,Community Social Service,Bookkeeper/Accounts Manager,The Wyatt,,"Lexington, KY",$15 - $18 an hour,Not Remote
+4, Kentucky,Lexington,21,Community Social Service,Service Insights Project Lead,God's Pantry Food Bank,,"Lexington, KY",Up to $24 an hour,Temporarily remote
+5, Kentucky,Lexington,21,Community Social Service,Project Manager,Vescio's SportsFields,,"Lexington, KY","$55,000 - $70,000 a year",Not Remote
+6, Kentucky,Lexington,21,Community Social Service,ARH Hospital Liaison,"Appalachian Regional Healthcare, Inc.",3.6,"Lexington, KY",Unknown,Not Remote
+7, Kentucky,Lexington,21,Community Social Service,Social Worker Principal/UKHC,University of Kentucky,4.1,"Lexington, KY","$53,477 - $89,315 a year",Not Remote
+8, Kentucky,Lexington,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Lexington, KY",Unknown,Not Remote
+9, Kentucky,Lexington,21,Community Social Service,Information Receptionist,US Department of Veterans Affairs,3.8,"Lexington, KY","$31,520 - $40,974 a year",Not Remote
+10, Kentucky,Lexington,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Lexington, KY",Unknown,Not Remote
+11, Kentucky,Lexington,21,Community Social Service,Lead Medical Support Assistant (Patient Care Service),US Department of Veterans Affairs,3.8,"Lexington, KY","$43,683 - $56,790 a year",Not Remote
+12, Kentucky,Lexington,21,Community Social Service,Community Center Manager,Recovery Cafe Lexington,,"Lexington, KY","$44,000 - $46,000 a year",Not Remote
+13, Kentucky,Lexington,21,Community Social Service,First Shift Server | Richmond Road First Watch,One Holland - First Watch,,"Lexington, KY",$14 - $20 an hour,Not Remote
+14, Kentucky,Lexington,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Lexington, KY",Unknown,Not Remote
+15, Kentucky,Lexington,21,Community Social Service,At Risk Youth Program Director,Kentucky MENTOR,,"Lexington, KY",Unknown,Not Remote
+16, Kentucky,Lexington,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Lexington, KY",Unknown,Not Remote
+17, Kentucky,Lexington,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Lexington, KY",Unknown,Not Remote
+18, Kentucky,Lexington,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Lexington, KY",Unknown,Not Remote
+19, Kentucky,Lexington,21,Community Social Service,Foster Family Development Specialist,Kentucky MENTOR,,"Lexington, KY",Unknown,Not Remote
+20, Kentucky,Lexington,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Lexington, KY",Unknown,Not Remote
+21, Kentucky,Lexington,21,Community Social Service,Leasing Consultant,West Shore,,"Lexington, KY",$12 - $15 an hour,Not Remote
+22, Kentucky,Lexington,21,Community Social Service,Clinical Student Intern,New Vista of the Bluegrass Inc,3.0,"Lexington, KY",Unknown,Not Remote
+23, Kentucky,Lexington,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Lexington, KY",Unknown,Not Remote
+24, Kentucky,Lexington,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Lexington, KY",Unknown,Not Remote
+25, Kentucky,Lexington,21,Community Social Service,Volunteer Coordinator,"Surgery on Sunday, Inc.",,"Lexington, KY",$16 - $20 an hour,Not Remote
+26, Kentucky,Lexington,21,Community Social Service,Licensed Provider Outpatient,Mountain Comprehensive Care Center,3.2,"Lexington, KY",$17 - $25 an hour,Not Remote
+27, Kentucky,Lexington,21,Community Social Service,Executive Chef,Richmond Place Senior Living,3.0,"Lexington, KY",$18 - $29 an hour,Not Remote
+28, Kentucky,Lexington,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Lexington, KY",Unknown,Not Remote
+29, Kentucky,Lexington,21,Community Social Service,Reservation Specialist,FLEETCOR,3.1,"Lexington, KY",$12.50 an hour,Not Remote
+30, Kentucky,Lexington,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Lexington, KY",Unknown,Not Remote
+31, Kentucky,Lexington,21,Community Social Service,First Shift Server |South Broadway First Watch,One Holland - First Watch,,"Lexington, KY",$14 - $20 an hour,Not Remote
+32, Kentucky,Lexington,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Nicholasville, KY",Unknown,Not Remote
+33, Kentucky,Lexington,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Nicholasville, KY",Unknown,Not Remote
+34, Kentucky,Lexington,21,Community Social Service,First Shift Server |Hamburg First Watch,One Holland - First Watch,,"Lexington, KY",$14 - $20 an hour,Not Remote
+35, Kentucky,Lexington,21,Community Social Service,Prevention Specialist,"AIDS Volunteers, Inc. (AVOL)",,"Lexington, KY",From $17 an hour,Not Remote
+36, Kentucky,Lexington,21,Community Social Service,IT Specialist (Customer Support),US Department of Veterans Affairs,3.8,"Lexington, KY","$50,106 - $85,535 a year",Not Remote
+37, Kentucky,Lexington,21,Community Social Service,Client Services Coordinator,"AIDS Volunteers, Inc. (AVOL)",,"Lexington, KY",From $19 an hour,Not Remote
+38, Kentucky,Lexington,21,Community Social Service,Service Insights Project Lead,God's Pantry Food Bank,,"Lexington, KY",Up to $24 an hour,Temporarily remote
+39, Kentucky,Lexington,21,Community Social Service,Dental Auxiliary,HealthFirst Bluegrass,3.3,"Lexington, KY",$14.06 an hour,Not Remote
+40, Kentucky,Lexington,21,Community Social Service,Server,Richmond Place Senior Living,3.0,"Lexington, KY",$11 an hour,Not Remote
+41, Kentucky,Lexington,21,Community Social Service,Marketing & Communications Coordinator,Lextran,3.7,"Lexington, KY",Unknown,Not Remote
+42, Kentucky,Lexington,21,Community Social Service,Pathology Genetics Counselor/UKHC,University of Kentucky,4.1,"Lexington, KY","$61,630 - $100,485 a year",Not Remote
+43, Kentucky,Lexington,21,Community Social Service,Pool Attendant (16YO+),YMCA of Central Kentucky,4.0,"Lexington, KY",Unknown,Not Remote
+44, Kentucky,Lexington,21,Community Social Service,Digital Marketing Intern,Clubhouse,,"Lexington, KY",From $12 an hour,Not Remote
+45, Kentucky,Lexington,21,Community Social Service,Caregiver / Direct Service Professional / Life Skills Trainer,A Brighter Future ABI,,"Lexington, KY",$11 an hour,Not Remote
+46, Kentucky,Lexington,21,Community Social Service,Property Manager,Professional Management Group,,"Lexington, KY","$25,000 - $51,000 a year",Not Remote
+47, Kentucky,Lexington,21,Community Social Service,Dishwasher | First Shift | Hamburg First Watch,One Holland - First Watch,,"Lexington, KY",$13 - $16 an hour,Not Remote
+48, Kentucky,Lexington,21,Community Social Service,Dishwasher | First Shift | South Broadway First Watch,One Holland - First Watch,,"Lexington, KY",$13 - $16 an hour,Not Remote
+49, Kentucky,Lexington,21,Community Social Service,Bookkeeper/Accounts Manager,The Wyatt,,"Lexington, KY",$15 - $18 an hour,Not Remote
+50, Kentucky,Lexington,21,Community Social Service,"Assistant Manager, Hope Lodge",AMERICAN CANCER SOCIETY,3.9,"Lexington-Fayette, KY",Unknown,Not Remote
+51, Kentucky,Lexington,21,Community Social Service,WORKSHOP COORDINATOR,Equus Workforce Solutions,3.4,"Lexington, KY",Unknown,Not Remote
+52, Kentucky,Lexington,21,Community Social Service,Entry Level Sales Representative,Spectrum,3.4,"Lexington, KY","$55,000 - $75,000 a year",Not Remote
+53, Kentucky,Lexington,21,Community Social Service,Activity Assistant,Richmond Place Senior Living,3.0,"Lexington, KY",$11 - $15 an hour,Not Remote
+54, Kentucky,Lexington,21,Community Social Service,Brand Associate,Old Navy,3.7,"Lexington, KY",From $9 an hour,Not Remote
+55, Kentucky,Lexington,21,Community Social Service,Nurse Practitioner / Adult Health,HealthFirst Bluegrass,3.3,"Lexington, KY","$94,348 a year",Not Remote
+56, Kentucky,Lexington,21,Community Social Service,Skilled Inpatient Care Coordinator,"naviHealth, Inc.",3.2,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,21,Religious Worker,Windshield Assembler,Staffmark,3.6,"Lexington, KY",$13.05 an hour,Not Remote
+1, Kentucky,Lexington,21,Religious Worker,Department Support Assistant,CHI Saint Joseph East,3.5,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,23,Legal Support Worker,Office Manager,"Diamond Landscapes, Inc.",,"Lexington, KY","$35,000 - $45,000 a year",Not Remote
+1, Kentucky,Lexington,23,Legal Support Worker,Assistant Trust Officer,Computershare,3.4,United States,Unknown,Not Remote
+2, Kentucky,Lexington,23,Legal Support Worker,Registered Nurse PreOp PACU (POOL) - Lexington Surgery Center,Surgical Care Affiliates SCA,3.0,"Lexington, KY",Unknown,Not Remote
+3, Kentucky,Lexington,23,Legal Support Worker,Office Manager,"Diamond Landscapes, Inc.",,"Lexington, KY","$35,000 - $45,000 a year",Not Remote
+4, Kentucky,Lexington,23,Legal Support Worker,Targeted Case Manager,Necco,2.8,"Lexington, KY",Unknown,Not Remote
+5, Kentucky,Lexington,23,Legal Support Worker,Registered Nurse PreOp PACU (FT) - Lexington Surgery Center,Surgical Care Affiliates SCA,3.0,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,23,Legal Occupations,Legal Secretary,Jackson Kelly PLLC,3.4,"Lexington, KY",From $17 an hour,Not Remote
+1, Kentucky,Lexington,23,Legal Occupations,Attorney,"Quintairos, Prieto, Wood & Boyer, P.A.",2.6,"Lexington, KY",Unknown,Not Remote
+2, Kentucky,Lexington,23,Legal Occupations,Appearance Attorney (Per Diem Counsel),Docketly,4.2,United States,$50 - $200 a day,Not Remote
+3, Kentucky,Lexington,23,Legal Occupations,Real Estate Attorney,Valvoline,3.5,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,23,Legal Occupations,Legal Assistant,"Gess Mattingly & Atchison, PSC",,"Lexington, KY",Up to $23 an hour,Not Remote
+5, Kentucky,Lexington,23,Legal Occupations,Legal Assistant/Paralegal,Wrigley Media Group,1.0,"Lexington, KY","$1,200 - $1,700 a week",Not Remote
+6, Kentucky,Lexington,23,Legal Occupations,Legal Secretary,Jackson Kelly PLLC,3.4,"Lexington, KY",From $17 an hour,Not Remote
+7, Kentucky,Lexington,23,Legal Occupations,Closing Agent or Attorney,"Foundation Title and Escrow Series, LLC",3.4,"Lexington, KY",Unknown,Not Remote
+8, Kentucky,Lexington,23,Legal Occupations,Attorney,"Quintairos, Prieto, Wood & Boyer, P.A.",2.6,"Lexington, KY",Unknown,Not Remote
+9, Kentucky,Lexington,23,Legal Occupations,Real Estate Attorney,Valvoline,3.5,"Lexington, KY",Unknown,Not Remote
+10, Kentucky,Lexington,23,Legal Occupations,"Virtual Active CPA, Enrolled Agent or Tax Attorney - Seasonal Income",Intuit,4.2,"Lexington, KY",Unknown,Remote
+0, Kentucky,Lexington,23,Title Examiner,Remote- Title Insurance Examiner,JobTracks,4.4,United States,"$55,000 - $90,000 a year",Remote
+1, Kentucky,Lexington,23,Title Examiner,Associate Claims Examiner,Kentucky Employers' Mutual Insurance,4.2,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,25,Teaching Assistants,Teacher Assistant,High Street Neighborhood Center,,"Lexington, KY",$9 - $12 an hour,Not Remote
+1, Kentucky,Lexington,25,Teaching Assistants,Preschool Teacher Assistant,"Growing Together Preschool, Inc.",,"Lexington, KY",$9.50 - $12.50 an hour,Not Remote
+2, Kentucky,Lexington,25,Teaching Assistants,Teacher Assistant,High Street Neighborhood Center,,"Lexington, KY",$9 - $12 an hour,Not Remote
+3, Kentucky,Lexington,25,Teaching Assistants,Temp Tech paraprofessional,University of Kentucky,4.1,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,25,Teaching Assistants,Assistant Elementary Teacher,Redwood Cooperative School,,"Lexington, KY",$13 - $15 an hour,Not Remote
+5, Kentucky,Lexington,25,Teaching Assistants,Assistant Teacher,Creation Kingdom McConnell's Trace,4.5,"Lexington, KY",$9.00 - $9.50 an hour,Not Remote
+6, Kentucky,Lexington,25,Teaching Assistants,Pre-K Teacher's Aide,The Salvation Army,,"Lexington, KY",$10 an hour,Not Remote
+7, Kentucky,Lexington,25,Teaching Assistants,Temporary Technical/Paraprofessional,University of Kentucky,4.1,"Lexington, KY",$12 - $15 an hour,Not Remote
+0, Kentucky,Lexington,33,Protective Service Workers,Professional Personal Assistant to Business Owner,T.C.M. Educational Consultants Corporation,,"Lexington, KY",$11.25 an hour,Temporarily remote
+1, Kentucky,Lexington,33,Protective Service Workers,Construction Project Manager,Denham-Blythe,4.1,"Lexington, KY","$70,000 - $90,000 a year",Not Remote
+2, Kentucky,Lexington,33,Protective Service Workers,Health Services Clerk / School-Based Clinic / Bilingual,HealthFirst Bluegrass,3.3,"Lexington, KY",$13.00 - $13.76 an hour,Not Remote
+3, Kentucky,Lexington,33,Protective Service Workers,At Risk Youth Program Director,Kentucky MENTOR,,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,33,Protective Service Workers,Front Office Assistant,Jeffries Chiropractic,,"Nicholasville, KY",$11.50 - $12.00 an hour,Not Remote
+5, Kentucky,Lexington,33,Protective Service Workers,Tradesman,"Spectrum Contracting Services, Inc.",,"Lexington, KY",$14 - $25 an hour,Not Remote
+6, Kentucky,Lexington,33,Protective Service Workers,Executive Chef,Richmond Place Senior Living,3.0,"Lexington, KY",$18 - $29 an hour,Not Remote
+7, Kentucky,Lexington,33,Protective Service Workers,Food Service Worker/Kitchen Helper/Dietary Aide,"Healthcare Services Group, Inc.",2.6,"Lexington, KY",Unknown,Not Remote
+8, Kentucky,Lexington,33,Protective Service Workers,Housekeeper,"Healthcare Services Group, Inc.",2.6,"Lexington, KY",Unknown,Not Remote
+9, Kentucky,Lexington,33,Protective Service Workers,Traffic Controller,Safety Services and Supply,4.8,"Lexington, KY",$17 - $25 an hour,Not Remote
+10, Kentucky,Lexington,33,Protective Service Workers,Seeking Direct Support Professionals - Start Monday!,Key Assets Kentucky,,"Lexington, KY",$12 an hour,Not Remote
+11, Kentucky,Lexington,33,Protective Service Workers,Housekeeper,"Healthcare Services Group, Inc.",2.6,"Lexington, KY",Unknown,Not Remote
+12, Kentucky,Lexington,33,Protective Service Workers,"Maintenance Mechanic, $24.35 per hour",G&J Pepsi-Cola Bottlers,3.2,"Lexington, KY",$24.35 an hour,Not Remote
+13, Kentucky,Lexington,33,Protective Service Workers,Phlebotomist,PathGroup,3.1,"Lexington, KY",Unknown,Not Remote
+14, Kentucky,Lexington,33,Protective Service Workers,Prevention Specialist,"AIDS Volunteers, Inc. (AVOL)",,"Lexington, KY",From $17 an hour,Not Remote
+15, Kentucky,Lexington,33,Protective Service Workers,Housekeeper,Hyatt Place Lexington,4.1,"Lexington, KY",$9.50 - $10.50 an hour,Not Remote
+16, Kentucky,Lexington,33,Protective Service Workers,Server,Richmond Place Senior Living,3.0,"Lexington, KY",$11 an hour,Not Remote
+17, Kentucky,Lexington,33,Protective Service Workers,Laundry Worker,"Healthcare Services Group, Inc.",2.6,"Lexington, KY",Unknown,Not Remote
+18, Kentucky,Lexington,33,Protective Service Workers,Line Cook/Prep Cook,Richmond Place Senior Living,3.0,"Lexington, KY",$13 an hour,Not Remote
+19, Kentucky,Lexington,33,Protective Service Workers,Activity Assistant,Richmond Place Senior Living,3.0,"Lexington, KY",$11 - $15 an hour,Not Remote
+20, Kentucky,Lexington,33,Protective Service Workers,Construction Project Manager,Denham-Blythe,4.1,"Lexington, KY","$70,000 - $90,000 a year",Not Remote
+21, Kentucky,Lexington,33,Protective Service Workers,Memory Care LPN,Richmond Place Senior Living,3.0,"Lexington, KY",$24 - $26 an hour,Not Remote
+22, Kentucky,Lexington,33,Protective Service Workers,Professional Personal Assistant to Business Owner,T.C.M. Educational Consultants Corporation,,"Lexington, KY",$11.25 an hour,Temporarily remote
+23, Kentucky,Lexington,33,Protective Service Workers,CDL-B Route Sales Driving Opportunity (Full-Time),WheelerSP,,"Lexington, KY",From $20 an hour,Not Remote
+24, Kentucky,Lexington,33,Protective Service Workers,Security Guard,Richmond Place Senior Living,3.0,"Lexington, KY",$12 - $13 an hour,Not Remote
+25, Kentucky,Lexington,33,Protective Service Workers,Front Desk Agent,Courtyard Lexington North,,"Lexington, KY",$8 - $11 an hour,Not Remote
+26, Kentucky,Lexington,33,Protective Service Workers,Night Auditor,Courtyard Lexington North,,"Lexington, KY",From $12 an hour,Not Remote
+27, Kentucky,Lexington,33,Protective Service Workers,"CNA - Certified Nursing Assistant 6:30AM-6:30PM, 6:30PM-6:30AM",Richmond Place Senior Living,3.0,"Lexington, KY",$13.50 - $15.00 an hour,Not Remote
+28, Kentucky,Lexington,33,Protective Service Workers,Maintenance Technician,Richmond Place Senior Living,3.0,"Lexington, KY",$13 - $21 an hour,Not Remote
+29, Kentucky,Lexington,33,Protective Service Workers,Health Services Clerk / Dental / Bilingual,HealthFirst Bluegrass,3.3,"Lexington, KY",$13.37 an hour,Not Remote
+30, Kentucky,Lexington,33,Protective Service Workers,Breakfast Attendant,Best Western,3.6,"Lexington, KY",$9 - $10 an hour,Not Remote
+31, Kentucky,Lexington,33,Protective Service Workers,Health Services Clerk / School-Based Clinic / Bilingual,HealthFirst Bluegrass,3.3,"Lexington, KY",$13.00 - $13.76 an hour,Not Remote
+32, Kentucky,Lexington,33,Protective Service Workers,Housekeeper,"Healthcare Services Group, Inc.",2.6,"Lexington, KY",Unknown,Not Remote
+33, Kentucky,Lexington,33,Protective Service Workers,LCSW Substance Abuse Counselor and Supervisor,Invictus4Core,,"Lexington, KY","Up to $85,000 a year",Temporarily remote
+34, Kentucky,Lexington,33,Protective Service Workers,Housekeeper,"Healthcare Services Group, Inc.",2.6,"Lexington, KY",Unknown,Not Remote
+35, Kentucky,Lexington,33,Protective Service Workers,Housekeeper,"Healthcare Services Group, Inc.",2.6,"Lexington, KY",Unknown,Not Remote
+36, Kentucky,Lexington,33,Protective Service Workers,"Licensed Practical Nurse 6:30AM-6:30PM, 6:30PM-6:30AM",Richmond Place Senior Living,3.0,"Lexington, KY",$24 - $26 an hour,Not Remote
+37, Kentucky,Lexington,33,Protective Service Workers,Part Time to Full Time Mental Health Clinicians,Gotham Enterprises LTD,4.2,"Lexington, KY",$30 - $70 an hour,Remote
+38, Kentucky,Lexington,33,Protective Service Workers,Part Time to Full Time Mental Health Clinician,Gotham Enterprises LTD,4.2,"Lexington-Fayette, KY",$30 - $70 an hour,Remote
+39, Kentucky,Lexington,33,Protective Service Workers,Phlebotomist I,PathGroup,3.1,"Lexington, KY",Unknown,Not Remote
+40, Kentucky,Lexington,33,Protective Service Workers,Health Services Clerk / Dental / Bilingual,HealthFirst Bluegrass,3.3,"Lexington, KY",$13.37 an hour,Not Remote
+41, Kentucky,Lexington,33,Protective Service Workers,"Maintenance Mechanic, $24.35 per hour",G&J Pepsi-Cola Bottlers,3.2,"Lexington, KY",$24.35 an hour,Not Remote
+0, Kentucky,Lexington,33,Forest Fire Prevention Specialists,SKC TREES 2021 Wildland Fire Management Student Interns,SKC TREES,,United States,$12.50 - $19.00 an hour,Not Remote
+0, Kentucky,Lexington,45,Logging Workers,Administrative Assistant,Facility Commissioning Group,2.5,"Lexington, KY",$14 - $18 an hour,Not Remote
+1, Kentucky,Lexington,45,Logging Workers,Administrative Assistant,Facility Commissioning Group,2.5,"Lexington, KY",$14 - $18 an hour,Not Remote
+2, Kentucky,Lexington,45,Logging Workers,Front Desk Agent,Courtyard Lexington,3.1,"Lexington, KY",Unknown,Not Remote
+3, Kentucky,Lexington,45,Logging Workers,Front Desk Agent,Courtyard Lexington North,3.1,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,45,Logging Workers,Resort Front Desk Agent,Marriott Griffin Gate Resort & Spa,3.1,"Lexington, KY",Unknown,Not Remote
+5, Kentucky,Lexington,45,Logging Workers,Front Desk Agent,Courtyard Lexington North,,"Lexington, KY",$8 - $11 an hour,Not Remote
+6, Kentucky,Lexington,45,Logging Workers,Front Desk Agent,Residence Lexington,3.1,"Lexington, KY",Unknown,Not Remote
+7, Kentucky,Lexington,45,Logging Workers,Front Desk Agent,Residence Lexington,3.1,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,49,Avionics Technicians,Aircraft Avionics Technician,Expleo,3.4,United States,Unknown,Not Remote
+1, Kentucky,Lexington,49,Avionics Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+2, Kentucky,Lexington,49,Avionics Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+3, Kentucky,Lexington,49,Avionics Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,49,Avionics Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+5, Kentucky,Lexington,49,Avionics Technicians,Aircraft Mechanic I (Electrical),LOCKHEED MARTIN CORPORATION,4.0,"Lexington, KY",Unknown,Not Remote
+0, Kentucky,Lexington,51,Butcher,Kitchen Staff,Bear & The Butcher,,"Lexington, KY",$10 - $13 an hour,Not Remote
+1, Kentucky,Lexington,51,Butcher,Line Cooks Needed,Ted's Montana Grill,3.7,"Lexington, KY",$12 - $16 an hour,Not Remote
+0, Kentucky,Lexington,53,Flight Engineers,Captain 200 Ton,Alaskan Dream Cruises,3.5,United States,$350 - $420 a day,Not Remote
+0, Kentucky,Lexington,53,Transportation,CDL-A DELIVERY TRUCK DRIVER,McLane - Grocery,3.3,"Nicholasville, KY","$65,000 a year",Not Remote
+1, Kentucky,Lexington,53,Transportation,CDL-A Experienced Flatbed Truck Driver,Boyd Bros Transportation,3.2,"Lexington, KY",$0.65 per mile ++,Not Remote
+2, Kentucky,Lexington,53,Transportation,Logistics Coordinator,Point Pickup Technologies,2.4,"Lexington, KY",$17 - $22 an hour,Not Remote
+3, Kentucky,Lexington,53,Transportation,Transportation Center Director,University of Kentucky,4.1,"Lexington, KY",Unknown,Not Remote
+4, Kentucky,Lexington,53,Transportation,Valet Attendant PRN,Baptist Health System KY & IN,3.8,"Lexington, KY",Unknown,Not Remote
+5, Kentucky,Lexington,53,Transportation,Transportation Engineer Supervisor,Commonwealth of Kentucky,3.3,"Lexington, KY","$5,179 - $6,254 a month",Not Remote
+6, Kentucky,Lexington,53,Transportation,Lot Attendant/Porter,Rod Hatfield Chevrolet,3.3,"Lexington, KY",$10 - $12 an hour,Not Remote
+7, Kentucky,Lexington,53,Transportation,Box Truck Driver (Non-CDL),USF Holland,3.3,"Lexington, KY",Unknown,Not Remote
+8, Kentucky,Lexington,53,Transportation,Transportation Associate (Van Driver),Horizon Adult Health Care,3.8,"Lexington, KY",$12.50 an hour,Not Remote
+9, Kentucky,Lexington,53,Transportation,Transporter Car,Hertz,3.3,"Lexington, KY",Unknown,Not Remote
+10, Kentucky,Lexington,53,Transportation,Local Warehouse / Packers / Professional Movers,"Vincent Fister, Inc. and Safeway Moving and Storag...",,"Lexington, KY",From $13 an hour,Not Remote
+11, Kentucky,Lexington,53,Transportation,Delivery Drivers & Assistants - High Commission Pay & Full Benefits!,Pieratt's Inc.,,"Lexington, KY","$40,000 - $55,000 a year",Not Remote
+12, Kentucky,Lexington,53,Transportation,STEPS Athletics Transportation Driver (On-Call),University of Kentucky,4.1,"Lexington, KY",$22 an hour,Not Remote
+13, Kentucky,Lexington,53,Transportation,"Independent Contractor Drivers - Lexington, KY",Kentucky Organ Donor Affiliates,5.0,"Lexington, KY",$15 an hour,Not Remote
+14, Kentucky,Lexington,53,Transportation,CDL-B Route Sales Driving Opportunity (Full-Time),WheelerSP,,"Lexington, KY",From $20 an hour,Not Remote
+15, Kentucky,Lexington,53,Transportation,Student: Sitter/Driver,University of Kentucky,4.1,"Lexington, KY",$12 - $15 an hour,Not Remote
+16, Kentucky,Lexington,53,Transportation,CDL A DRIVERS - Want to be home EVERY Day? Apply Now!,Holland,3.3,"Lexington, KY",$21.50 - $23.89 an hour,Not Remote
+17, Kentucky,Lexington,53,Transportation,Independent contractors for pick up and delivery service,Velox Express,3.0,"Lexington, KY","$200 - $1,000 a week",Not Remote
+18, Kentucky,Lexington,53,Transportation,Transportation Auto/Truck Techn I,Commonwealth of Kentucky,3.3,"Lexington, KY",$14.42 - $17.95 an hour,Not Remote
+19, Kentucky,Lexington,53,Transportation,10189: Driver Apprentice-City,FedEx Freight,3.9,"Lexington, KY",Unknown,Not Remote
+20, Kentucky,Lexington,53,Transportation,AAA Roadside Assistance and Battery Truck Driver,AAA Club Alliance,3.3,"Lexington, KY",$13.75 - $14.75 an hour ++,Not Remote
+21, Kentucky,Lexington,53,Transportation,Pharmacy Delivery Driver,Hometown Pharmacy,,"Lexington, KY",$9 - $10 an hour,Not Remote
+22, Kentucky,Lexington,53,Transportation,Service Valet,Paul Miller Ford,3.8,"Lexington, KY",Unknown,Not Remote
+23, Kentucky,Lexington,53,Transportation,Parking Attendant,21c Museum Hotels,3.1,"Lexington, KY",Unknown,Not Remote
+24, Kentucky,Lexington,53,Transportation,Delivery Driver,S&S Tire,,"Lexington, KY",$14 - $16 an hour,Not Remote
+25, Kentucky,Lexington,53,Transportation,Drivers / Movers / Laborers,TWO MEN AND A TRUCK®,3.3,"Lexington, KY",$18 an hour ++,Not Remote
+26, Kentucky,Lexington,53,Transportation,Route Trainee - UniFirst,UniFirst,3.2,"Lexington-Fayette, KY",Unknown,Not Remote
+27, Kentucky,Lexington,53,Transportation,CDL Driver,Brink's Incorporated,3.3,"Lexington, KY",Unknown,Not Remote
+28, Kentucky,Lexington,53,Transportation,Route Delivery Driver,Crystal Springs Water,3.2,"Lexington, KY",$20 an hour,Not Remote
+29, Kentucky,Lexington,53,Transportation,Parts Delivery Driver,Worldwide Equipment Enterprises Inc,2.0,"Lexington, KY",Unknown,Not Remote
+30, Kentucky,Lexington,53,Transportation,Truck Driver - Class A CDL,Estes Express Lines,3.3,"Lexington, KY","$95,000 - $120,000 a year",Not Remote
+31, Kentucky,Lexington,53,Transportation,Driver,Bateman | Elior North America,,"Lexington, KY",Unknown,Not Remote
+32, Kentucky,Lexington,53,Transportation,Delivery Driver/Customer Service,Jacked-Nutrition,,"Lexington, KY",$15 - $20 an hour,Not Remote
+33, Kentucky,Lexington,53,Transportation,Bellperson/Valet,Hyatt Regency Lexington,3.1,"Lexington, KY",Unknown,Not Remote
+34, Kentucky,Lexington,53,Transportation,Parts Delivery,O'Reilly Auto Parts,3.4,"Nicholasville, KY",Unknown,Not Remote
+35, Kentucky,Lexington,53,Transportation,Delivery Route Driver,Roppel Industries,3.7,"Lexington, KY",$10 - $12 an hour,Not Remote
+36, Kentucky,Lexington,53,Transportation,Student: Weekend Moving Help Needed,University of Kentucky,4.1,"Lexington, KY",$20 an hour,Not Remote
+37, Kentucky,Lexington,53,Transportation,Bellperson/Valet,Hyatt,4.1,"Lexington, KY",Unknown,Not Remote
+38, Kentucky,Lexington,53,Transportation,10020: City Driver,FedEx Freight,3.9,"Lexington, KY",Unknown,Not Remote
+39, Kentucky,Lexington,53,Transportation,Couple Driving Team,Health Conservation Incorporated,,"Lexington, KY",Unknown,Not Remote
+40, Kentucky,Lexington,53,Transportation,Driver - Lexington,LaRosa's,3.7,"Lexington, KY",Unknown,Not Remote
+41, Kentucky,Lexington,53,Transportation,Local CDL A Driver,Stearns and Kimble,5.0,"Lexington, KY",$22 - $29 an hour,Not Remote
+42, Kentucky,Lexington,53,Transportation,Delivery Driver,"Tempur Sealy International, Inc.",2.3,"Lexington, KY",Unknown,Not Remote
+43, Kentucky,Lexington,53,Transportation,Class A Semi Driver - Home every night! Home City Ice,Home City Ice,3.4,"Lexington, KY",$18 - $22 an hour,Not Remote
+44, Kentucky,Lexington,53,Transportation,Driver/Helper,Haywoods Trucking LLC,,"Lexington, KY",From $125 a day,Not Remote
+45, Kentucky,Lexington,53,Transportation,Truck Driver,Reyport,,"Lexington, KY",$0.55 per mile ++,Not Remote
+46, Kentucky,Lexington,53,Transportation,Driver / Warehouse Associate,Best Choice Supply Co,,"Lexington, KY",$13 - $14 an hour,Not Remote
+47, Kentucky,Lexington,53,Transportation,Bellperson/ Valet,Hyatt Regency Lexington,4.1,"Lexington, KY",Unknown,Not Remote
+48, Kentucky,Lexington,53,Transportation,Helicopter Pilot with Aerial Application Experience,"Coastal Air Service, Inc.",,"Lexington, KY","$80,000 - $120,000 a year",Remote
+49, Kentucky,Lexington,53,Transportation,Combo Truck Driver,Estes Express Lines,3.3,"Lexington, KY","$70,000 - $90,000 a year",Not Remote
+50, Kentucky,Lexington,53,Transportation,Route Driver (Lexington),"Ole Mexican Foods, INC",3.2,"Lexington, KY",Unknown,Not Remote
+51, Kentucky,Lexington,53,Transportation,Local Driver (Class A),USF Holland,3.3,"Lexington, KY",Unknown,Not Remote
+52, Kentucky,Lexington,53,Transportation,Delivery & Pickup Driver,Bluegrass Pet Crematorium,,"Lexington, KY",$10 - $12 an hour,Not Remote
+53, Kentucky,Lexington,53,Transportation,Delivery Driver,Hexa Partners,,"Lexington, KY",$15 - $17 an hour,Not Remote
+54, Kentucky,Lexington,53,Transportation,Delivery Driver - No Experience Needed,Caviar,3.3,"Lexington, KY",Unknown,Not Remote
+55, Kentucky,Lexington,53,Transportation,Food Courier,Caviar,3.3,"Lexington, KY",Unknown,Not Remote

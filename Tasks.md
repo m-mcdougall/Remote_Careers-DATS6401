@@ -13,9 +13,18 @@ An analysis into the rising prevalence of remote work opportunities arising duri
 ### Analysis To-Do - Essential
 
 [DONE] - Webscraper Download Initial
-- Translate wage information
+[DONE] - Translate wage information
+[DONE] - Add regions
 
+Total Jobs Remote to Temp Remote to Non Remote
+Remote to non- remote by states
+Remote to non remote by regions
 
+Wage of remote to wage of non remote Total
+Wage of remote to non remote by states
+Wage of remote to non remote by Region
+
+company star value remote vs non-Remote
 
 
 ### Analysis To-Do - Stretch

@@ -1,0 +1,579 @@
+,SearchState,SearchCity,Category,SearchTitle,Title,Company,Stars,Location,Wage,Remote
+0, New York,New York City,11,Facilities Manager,Assistant Facilities Manager,CBRE,3.7,"New York, NY",Unknown,Not Remote
+1, New York,New York City,11,Facilities Manager,Facilities Coordinator,CBRE,3.7,"New York, NY",Unknown,Not Remote
+2, New York,New York City,11,Facilities Manager,"Manager, Operations and Maintenance",Prospect Park Zoo,4.2,"Brooklyn, NY","$68,000 - $78,000 a year",Not Remote
+3, New York,New York City,11,Facilities Manager,Office/Facilities Operations Manager,Access Staffing LLC,3.8,"New York, NY","$80,000 - $90,000 a year",Not Remote
+4, New York,New York City,11,Facilities Manager,Facilities Coordinator,"Independent living Association, Inc",3.5,"Brooklyn, NY",Unknown,Not Remote
+5, New York,New York City,11,Facilities Manager,Bi-Lingual Superintendent,ELH Mgmt. LLC,3.0,"New York, NY",Unknown,Not Remote
+6, New York,New York City,11,Facilities Manager,"Manager, Facilities, Critical Operations",ViacomCBS,4.0,"New York, NY",Unknown,Not Remote
+7, New York,New York City,11,Facilities Manager,Regional Facilities Manager,BuroHappold Engineering,3.8,"New York, NY",Unknown,Not Remote
+8, New York,New York City,11,Facilities Manager,Facilities Manager - New York,Mandarin Oriental Hotel Group,4.1,"New York, NY",Unknown,Not Remote
+9, New York,New York City,11,Facilities Manager,Facilities Manager,American Museum of Natural History,4.2,"New York, NY",Unknown,Not Remote
+10, New York,New York City,11,Facilities Manager,Assistant Facilities Manager,CBRE,3.7,"New York, NY",Unknown,Not Remote
+11, New York,New York City,11,Facilities Manager,Facilities Coordinator,CBRE,3.7,"New York, NY",Unknown,Not Remote
+12, New York,New York City,11,Facilities Manager,Facilities Manager - Maintenance,Aramark,3.5,"New York, NY",Unknown,Not Remote
+13, New York,New York City,11,Facilities Manager,Facilities Coordinator,Gunderson Dettmer,3.6,"New York, NY",Unknown,Remote
+14, New York,New York City,11,Facilities Manager,Facilities Coordinator,Shaker & Spoon,,"Brooklyn, NY","$42,000 - $45,000 a year",Not Remote
+15, New York,New York City,11,Facilities Manager,Facilities Coordinator,"Independent living Association, Inc",3.5,"Brooklyn, NY",Unknown,Not Remote
+16, New York,New York City,11,Facilities Manager,Building Supervisor – Facilities Maintenance (3:00PM – 11:00PM),NewYork-Presbyterian Hospital,4.2,"Manhattan, NY",Unknown,Not Remote
+17, New York,New York City,11,Facilities Manager,Facilities Maintenance Manager,The Bowery Mission,4.2,"New York, NY",Unknown,Not Remote
+18, New York,New York City,11,Facilities Manager,"Manager, Operations & Facilities",Center for Court Innovation,4.1,"Bronx, NY",Unknown,Not Remote
+19, New York,New York City,11,Facilities Manager,"Manager, Operations and Maintenance",Prospect Park Zoo,4.2,"Brooklyn, NY","$68,000 - $78,000 a year",Not Remote
+20, New York,New York City,11,Facilities Manager,Corporate Director of Facilities/Engineering,Highgate Hotels,2.5,"New York, NY",Unknown,Not Remote
+21, New York,New York City,11,Facilities Manager,Engineering Manager,TWA Hotel,4.3,"New York, NY",Unknown,Not Remote
+22, New York,New York City,11,Facilities Manager,Facilities Manager (Manhattan & Brooklyn Locations),"Women In Need, Inc.",3.2,"New York, NY",Unknown,Not Remote
+23, New York,New York City,11,Facilities Manager,Facilities Coordinator,The Bowery Mission,4.2,"New York, NY",Unknown,Not Remote
+24, New York,New York City,11,Facilities Manager,Director of Facility Operations,American Museum of Natural History,4.2,"New York, NY",Unknown,Not Remote
+25, New York,New York City,11,Facilities Manager,Facilities Manager (Manhattan & Brooklyn Locations),"Women In Need, Inc.",3.2,"New York, NY",Unknown,Not Remote
+26, New York,New York City,11,Facilities Manager,Director of Bus Maintenance,TopView Sightseeing,,"Manhattan, NY","$110,000 - $130,000 a year",Not Remote
+27, New York,New York City,11,Facilities Manager,Facility Operations Supervisor,Life Time,3.5,"New York, NY",Unknown,Not Remote
+28, New York,New York City,11,Facilities Manager,Global 7500 Maintenance Manager,Jet Aviation,3.5,"New York, NY",Unknown,Not Remote
+29, New York,New York City,11,Facilities Manager,Live-in Superintendent,J & M Realty Services Corp.,,"New York, NY",Unknown,Not Remote
+30, New York,New York City,11,Facilities Manager,Controller Maintenance,JetBlue Airways Corporation,4.1,"Long Island City, NY",Unknown,Not Remote
+31, New York,New York City,11,Facilities Manager,Global 7500 Maintenance Manager,Hawker Pacific,,"New York, NY",Unknown,Not Remote
+32, New York,New York City,11,Facilities Manager,"Superintendent - Queens, NY",Douglas Elliman Property Management,3.7,"Queens, NY",Unknown,Not Remote
+33, New York,New York City,11,Facilities Manager,Building Superintendent,BNS Real Estate,,"New York, NY","Up to $45,000 a year",Not Remote
+34, New York,New York City,11,Facilities Manager,Director of Bus Maintenance,TopView Sightseeing,,"Brooklyn, NY","$110,000 - $130,000 a year",Not Remote
+35, New York,New York City,11,Facilities Manager,Custodial/ Facilities Coordinator,Hoboken Charter School,4.4,"Hoboken, NJ","$42,000 - $45,000 a year",Not Remote
+36, New York,New York City,11,Facilities Manager,Superintendent,Capital Home Realty,,"Elmhurst, NY",$24 - $25 an hour,Not Remote
+37, New York,New York City,11,Facilities Manager,Maintenance Manager - Jersey City,Equity Residential,3.8,"Jersey City, NJ",Unknown,Not Remote
+38, New York,New York City,11,Facilities Manager,Supervisor/Watch Engineer,Hilton Hotels & Resorts,4.0,"New York, NY",Unknown,Not Remote
+39, New York,New York City,11,Facilities Manager,Maintenance Supervisor- H.J Carter,NYC Health + Hospitals,3.8,"New York, NY","$55,023 a year",Not Remote
+40, New York,New York City,11,Facilities Manager,Director of Engineering,Westgate Resorts,3.5,"New York, NY",Unknown,Not Remote
+41, New York,New York City,11,Facilities Manager,Facility Supervisor,"MAHLE Industries, Incorporated",3.6,"New York, NY",Unknown,Not Remote
+42, New York,New York City,11,Facilities Manager,Director of Maintenance/Engineering,Northern Manhattan Rehab and Nursing Center,4.5,"New York, NY",Unknown,Not Remote
+43, New York,New York City,11,Facilities Manager,Director of Bus Maintenance,TopView Sightseeing,,"Ridgewood, NY","$110,000 - $130,000 a year",Not Remote
+44, New York,New York City,11,Facilities Manager,Superintendent - Provisional,JR Properties Ltd,,"New York, NY",From $15 an hour,Not Remote
+45, New York,New York City,11,Facilities Manager,Chief Maintenance Engineer,Residence Inn | Stonebridge Companies,3.6,"New York, NY",Unknown,Not Remote
+46, New York,New York City,11,Facilities Manager,Chief Engineer - Marriott LaGuardia,Remington Hotels,3.2,"East Elmhurst, NY",Unknown,Not Remote
+47, New York,New York City,11,Facilities Manager,Bi-Lingual Superintendent,ELH Mgmt. LLC,3.0,"New York, NY",Unknown,Not Remote
+48, New York,New York City,11,Facilities Manager,Director of Bus Maintenance,TopView Sightseeing,,"Queens, NY","$110,000 - $130,000 a year",Not Remote
+49, New York,New York City,11,Facilities Manager,Area Chief Engineer,Gatsby Hotel,,"New York, NY",Unknown,Not Remote
+50, New York,New York City,11,Facilities Manager,Maintenance Coordinator,Shinda Management Corporation,3.2,"Brooklyn, NY",Unknown,Not Remote
+51, New York,New York City,11,Facilities Manager,Director of Maintenance,Long-Term healthcare,,"Bronx, NY",Unknown,Not Remote
+52, New York,New York City,11,Facilities Manager,Maintenance Supervisor,Multifamily Management,2.3,"New York, NY",Unknown,Not Remote
+53, New York,New York City,11,Facilities Manager,Chief Maintenance Engineer,Hilton Garden Inn | Stonebridge Companies,,"Long Island City, NY",Unknown,Not Remote
+54, New York,New York City,11,Facilities Manager,Maintenance Supervisor 1,"Parks, Recreation & Historic Preservation, Office...",,"Brooklyn, NY",$23.34 an hour,Not Remote
+55, New York,New York City,11,Facilities Manager,Maintenance Coordinator,Bronx Parent Housing Network,3.0,"Bronx, NY",Unknown,Not Remote
+0, New York,New York City,11,Funeral Home Managers,Multi-Location Manager/Licensed Funeral Director,Brandon G. Thompson Funeral Home,,United States,"$75,000 - $110,000 a year",Not Remote
+1, New York,New York City,11,Funeral Home Managers,Office Manager,"SCI Shared Resources, LLC",3.1,"New York, NY",Unknown,Not Remote
+2, New York,New York City,11,Funeral Home Managers,Funeral Director,Dogwood Services,,"New York, NY","$46,001 - $64,001 a year",Not Remote
+0, New York,New York City,11,Manager,Rx Department Manager - HQ,Medly Pharmacy,3.9,"Brooklyn, NY","$85,000 a year",Not Remote
+1, New York,New York City,11,Manager,Utility Sales Manager (Financial Background),Trina Solar (US) Inc,,"New York, NY",Unknown,Remote
+2, New York,New York City,11,Manager,Channels Manager of Business Recruiting,Indeed,4.3,"New York, NY","$110,000 - $165,000 a year",Not Remote
+3, New York,New York City,11,Manager,Administrative Manager-MSH/Pediatrics,Mount Sinai,3.8,"New York, NY",Unknown,Not Remote
+4, New York,New York City,11,Manager,Office Manager,Imprint,4.0,"New York, NY",Unknown,Remote
+5, New York,New York City,11,Manager,"Manager, Information Technology",Museum of the City of New York,4.2,"New York, NY",Unknown,Not Remote
+6, New York,New York City,11,Manager,Creative Administrative Manager,Sony Music Entertainment US,4.3,"New York, NY",Unknown,Not Remote
+7, New York,New York City,11,Manager,Guest Relations Manager B NE,Marriott Vacations Worldwide,4.2,"New York, NY",Unknown,Not Remote
+8, New York,New York City,11,Manager,Live-in Resident Manager - UES Co-ops,Douglas Elliman Property Management,3.7,"New York, NY",Unknown,Not Remote
+9, New York,New York City,11,Manager,Dermatology Office Manager,Upper East Side Dermatology,,"New York, NY","$48,000 - $68,000 a year",Not Remote
+10, New York,New York City,11,Manager,Channels Manager of Business Recruiting,Indeed,4.3,"New York, NY","$110,000 - $165,000 a year",Not Remote
+11, New York,New York City,11,Manager,Ice Cream Store Manager,MAXWELL RESTAURANT GROUP INC.,,"New York, NY","$67,000 - $77,000 a year",Not Remote
+12, New York,New York City,11,Manager,Store Manager,lululemon,,"New York, NY",$45 - $50 an hour,Not Remote
+13, New York,New York City,11,Manager,Senior District Manager,Fresh & Co.,,"New York, NY","$75,000 - $100,000 a year",Not Remote
+14, New York,New York City,11,Manager,Social Media Manager,PRJON athleisure,,"New York, NY",$19 - $28 an hour,Remote
+15, New York,New York City,11,Manager,"New Products, Program Manager",Facebook,4.2,"New York, NY",Unknown,Not Remote
+16, New York,New York City,11,Manager,Practice Manager- Full Time Days- Stuyvesant Town,Mount Sinai,3.8,"New York, NY",Unknown,Not Remote
+17, New York,New York City,11,Manager,"Strategic Partnerships Manager, Corporate Development",Indeed,4.3,"New York, NY","$132,000 - $190,000 a year",Not Remote
+18, New York,New York City,11,Manager,"General Manager, Airport Customer Service Above Wing - JFK",Delta,4.2,"New York, NY",Unknown,Not Remote
+19, New York,New York City,11,Manager,General Manager- Client Dining- Vice President,"JPMorgan Chase Bank, N.A.",3.9,"New York, NY",Unknown,Not Remote
+20, New York,New York City,11,Manager,Content Operations Manager,Live Nation,4.1,"New York, NY",Unknown,Not Remote
+21, New York,New York City,11,Manager,Recruiting Manager - Sales & CS,Indeed,4.3,"New York, NY","$100,000 - $151,000 a year",Remote
+22, New York,New York City,11,Manager,Retirements Manager,TEACHERS RETIREMENT SYSTEM,3.9,"Manhattan, NY","$80,931 - $97,500 a year",Not Remote
+23, New York,New York City,11,Manager,Program Manager,Felicity House,,"New York, NY","$78,000 - $80,000 a year",Temporarily remote
+24, New York,New York City,11,Manager,Office Manager,Applecart,,"New York, NY",Unknown,Not Remote
+25, New York,New York City,11,Manager,Technical Training Program Manager,"Amazon Web Services, Inc.",3.6,"New York, NY","$98,700 - $160,000 a year",Not Remote
+26, New York,New York City,11,Manager,Practice Manager,Starr,,"New York, NY","$40,000 - $80,000 a year",Not Remote
+27, New York,New York City,11,Manager,Shipping Manager,Lingua Franca NYC,,"New York, NY",From $25 an hour,Not Remote
+28, New York,New York City,11,Manager,"Product Manager, Knits","Lucky Brand, Inc.",3.9,"New York, NY",Unknown,Not Remote
+29, New York,New York City,11,Manager,Supervisory Program Manager,US Department of Health And Human Services,4.1,"New York, NY","$147,994 - $172,500 a year",Remote
+30, New York,New York City,11,Manager,"DISTRICT MANAGER - Bronx, NY",Dollar Tree,3.4,"Bronx, NY",Unknown,Not Remote
+31, New York,New York City,11,Manager,"MANAGER OF RADIO REPAIR OPERATIONS, (NM-1)",POLICE DEPARTMENT,,"New York, NY","$58,700 - $173,486 a year",Not Remote
+32, New York,New York City,11,Manager,Customer Success Manager,Pacvue,,"New York, NY","$80,000 - $95,000 a year",Remote
+33, New York,New York City,11,Manager,Pension Process Improvement Manager,Non Profit in Downtown NYC,4.0,"New York, NY","$110,000 - $140,000 a year",Temporarily remote
+34, New York,New York City,11,Manager,Accounting Manager,"Marriott International, Inc",4.1,"New York, NY",Unknown,Not Remote
+35, New York,New York City,11,Manager,"Manager, Client Success",Indeed,4.3,"New York, NY","$67,000 - $94,000 a year",Not Remote
+36, New York,New York City,11,Manager,Customer Success Manager US,Speakap,,"New York, NY",Unknown,Not Remote
+37, New York,New York City,11,Manager,Venue Operations Manager,Lighthouse Immersive,,"New York, NY","$55,000 - $65,000 a year",Not Remote
+38, New York,New York City,11,Manager,Manager - Client Advisory,Morningstar,3.9,"New York, NY",Unknown,Temporarily remote
+39, New York,New York City,11,Manager,Talent Programs Manager - Remote,Splunk,4.2,"New York, NY",Unknown,Remote
+40, New York,New York City,11,Manager,"Manager, Global Creative Operations, Origins",The Estée Lauder Companies,4.1,"New York, NY",Unknown,Not Remote
+41, New York,New York City,11,Manager,Help Desk Manager,Practising Law Institute,3.6,"New York, NY",Unknown,Not Remote
+42, New York,New York City,11,Manager,Luxury Retail Area Manager,Longchamp USA,3.5,"New York, NY","From $120,000 a year",Not Remote
+43, New York,New York City,11,Manager,"Strategic Partner Development Manager, Social Impact",Google,4.3,"New York, NY",Unknown,Not Remote
+44, New York,New York City,11,Manager,Regional Ecommerce Manager,H&M,3.7,"New York, NY",Unknown,Not Remote
+45, New York,New York City,11,Manager,Customer Success Manager NA,IDBS,3.7,"New York, NY",Unknown,Remote
+46, New York,New York City,11,Manager,Office Manager,NADAP,3.0,"New York, NY","$68,000 - $75,000 a year",Not Remote
+47, New York,New York City,11,Manager,"Manager, Facilities, Critical Operations",ViacomCBS,4.0,"New York, NY",Unknown,Not Remote
+48, New York,New York City,11,Manager,"Manager, Subscription Value Proposition",National Geographic,4.1,"New York, NY",Unknown,Not Remote
+49, New York,New York City,11,Manager,"Customer Success Manager TFB - New York, NY",T-Mobile,3.8,"New York, NY",Unknown,Not Remote
+50, New York,New York City,11,Manager,Office Manager,CaaStle,2.0,"New York, NY",Unknown,Not Remote
+51, New York,New York City,11,Manager,Resident Manager - Luxury High-Rise,Douglas Elliman Property Management,3.7,"New York, NY",Unknown,Not Remote
+52, New York,New York City,11,Manager,Practice Manager,Columbia University,4.1,"New York, NY",Unknown,Not Remote
+53, New York,New York City,11,Manager,Project & Administrations Manager,The Common Good,,"New York, NY","$35,000 - $50,000 a year",Temporarily remote
+54, New York,New York City,11,Manager,Interfaces Manager,Vital Axis,,"New York, NY",Unknown,Not Remote
+55, New York,New York City,11,Manager,Receiving Manager,Nebraskaland Inc.,,"Bronx, NY","$60,000 a year",Not Remote
+0, New York,New York City,11,Personal Service Managers,Manger,Nai,,"New York, NY",Unknown,Not Remote
+1, New York,New York City,11,Personal Service Managers,Ice Cream Scooper,Ample Hills,,"New York, NY",From $15 an hour,Not Remote
+2, New York,New York City,11,Personal Service Managers,General Manager,The Simpson Restaurant and Bar,,"Brooklyn, NY","$49,000 - $70,000 a year",Not Remote
+3, New York,New York City,11,Personal Service Managers,Associate Business Development Manager - Personal Care,Colgate-Palmolive,4.3,"New York, NY",Unknown,Not Remote
+4, New York,New York City,11,Personal Service Managers,Residential Rental Associate,"Time Equities, Inc.",,"New York, NY","$40,000 - $50,000 a year",Not Remote
+5, New York,New York City,11,Personal Service Managers,General Manager,The Spaniard,,"New York, NY",Unknown,Not Remote
+6, New York,New York City,11,Personal Service Managers,Collection Agent,Employee Benefit Funds,,"New York, NY",Unknown,Not Remote
+7, New York,New York City,11,Personal Service Managers,Showroom Manager at New York Design Center,FermobUSA,4.0,"New York, NY","$50,000 - $55,000 a year",Not Remote
+8, New York,New York City,11,Personal Service Managers,Public Records Aide,DEPT OF RECORDS & INFO SERVICE,,"New York, NY",$18.73 - $28.68 an hour,Not Remote
+9, New York,New York City,11,Personal Service Managers,Barista,Ralph Lauren - Ralph's Coffee,,"New York, NY",From $17 an hour,Not Remote
+10, New York,New York City,11,Personal Service Managers,Mentor Coordinator,DEPARTMENT OF PROBATION,4.1,"New York, NY","$38,333 - $63,794 a year",Not Remote
+11, New York,New York City,11,Personal Service Managers,Cashiers/Stock/Produce/Juice bar Clerks,Foragers,,"New York, NY",Unknown,Not Remote
+12, New York,New York City,11,Personal Service Managers,Help Desk Technician,DEPT OF CITYWIDE ADMIN SVCS,4.2,"New York, NY","$72,664 - $75,436 a year",Not Remote
+13, New York,New York City,11,Personal Service Managers,FOH Crew Member,Sticky's Finger Joint,,"New York, NY",$15 - $17 an hour,Not Remote
+14, New York,New York City,11,Personal Service Managers,Chipotle Team Member,Chipotle Mexican Grill,3.6,"New York, NY",$11.23 - $13.28 an hour,Not Remote
+15, New York,New York City,11,Personal Service Managers,Educator,Lululemon,4.2,"New York, NY",Unknown,Not Remote
+16, New York,New York City,11,Personal Service Managers,Patient Care Associate - BI - Nights,Mount Sinai,3.8,"New York, NY",Unknown,Not Remote
+17, New York,New York City,11,Personal Service Managers,Customer Service Associate,WALGREENS,3.6,"New York, NY",Unknown,Not Remote
+18, New York,New York City,11,Personal Service Managers,Cashier/Customer Service,Brooklyn Fare,,"Manhattan, NY",From $15 an hour,Not Remote
+19, New York,New York City,11,Personal Service Managers,Employment Services Analyst,ADMIN FOR CHILDREN'S SVCS,3.4,"Manhattan, NY","$54,100 - $64,419 a year",Not Remote
+20, New York,New York City,11,Personal Service Managers,Counter Staff- Full Time( New Store Opening UWS),Mamoun's Falafel,3.6,"New York, NY",$15 an hour,Not Remote
+21, New York,New York City,11,Personal Service Managers,Procurement Analyst,DEPT OF YOUTH & COMM DEV SRVS,4.0,"Manhattan, NY","$50,972 - $72,628 a year",Not Remote
+22, New York,New York City,11,Personal Service Managers,"Service Aide, Cook/Chill Plant",NYC Health + Hospitals,3.8,"New York, NY",Unknown,Not Remote
+23, New York,New York City,11,Personal Service Managers,Call Center Leasing & Resident Service Specialist,Related Companies,3.2,"New York, NY",$25 an hour,Not Remote
+24, New York,New York City,11,Personal Service Managers,Staff Sustainability Strategy and Disclosure Consultant (Entry Level),ERM Group,3.3,"Manhattan, NY",Unknown,Not Remote
+25, New York,New York City,11,Personal Service Managers,Retail Service Cashier,Eataly North America,3.2,"New York, NY",Unknown,Not Remote
+26, New York,New York City,11,Personal Service Managers,RURAL CARR ASSOC/SRV REG RTE,United States Postal Service,3.4,"New York, NY",$19.06 an hour,Not Remote
+27, New York,New York City,11,Personal Service Managers,Front Line - Evenings / Social Service Workers,Lenox Hill Neighborhood House,3.6,"New York, NY","$38,000 - $40,000 a year",Not Remote
+28, New York,New York City,11,Personal Service Managers,Ambulatory Care Service Representative - Disability Center - Full Time Days,Mount Sinai,3.8,"New York, NY",Unknown,Not Remote
+29, New York,New York City,11,Personal Service Managers,Luxury Fitness Center - Front Desk / Lifeguard Attendant,The Wright Fit,3.6,"New York, NY",Unknown,Not Remote
+30, New York,New York City,11,Personal Service Managers,Ice Cream Store Manager,MAXWELL RESTAURANT GROUP INC.,,"New York, NY","$67,000 - $77,000 a year",Not Remote
+31, New York,New York City,11,Personal Service Managers,Administrative Assistant - Compliance,Signature Bank,3.4,"New York, NY",Unknown,Not Remote
+32, New York,New York City,11,Personal Service Managers,Managers Needed For New Restaurant in Chelsea!,Shukette,,"New York, NY","$58,500 - $120,000 a year",Not Remote
+33, New York,New York City,11,Personal Service Managers,PSE SALES & SVCS/DISTRIBUTION ASSOCIATE,United States Postal Service,3.4,"New York, NY",$18.49 an hour,Not Remote
+34, New York,New York City,11,Personal Service Managers,Store Manager,lululemon,,"New York, NY",$45 - $50 an hour,Not Remote
+35, New York,New York City,11,Personal Service Managers,Front Desk Clerk,Clinton Housing Development Company,,"New York, NY",$15 an hour,Not Remote
+36, New York,New York City,11,Personal Service Managers,Personal Stylist,Macy's,3.7,"Brooklyn, NY",$17 - $23 an hour,Not Remote
+37, New York,New York City,11,Personal Service Managers,Customer Experience Associate,Thinx,3.0,"New York, NY",Unknown,Remote
+38, New York,New York City,11,Personal Service Managers,Supervisory Legal Assistant (OA),US Department of Homeland Security,3.8,"New York, NY","$61,742 - $80,263 a year",Not Remote
+39, New York,New York City,11,Personal Service Managers,CITY CARRIER ASSISTANT,United States Postal Service,3.4,"New York, NY",$17.29 an hour,Not Remote
+40, New York,New York City,11,Personal Service Managers,Dean of Athlete Experience & Culture,Overtime,4.8,"New York, NY","$160,000 - $170,000 a year",Not Remote
+41, New York,New York City,11,Personal Service Managers,Customer Service Associate,The Turn Indoor Golf,,"New York, NY","$38,000 - $42,000 a year",Not Remote
+42, New York,New York City,11,Personal Service Managers,Manhattan NYC - Morning Weekday Receptionist,Silver Mirror Facial Bar,2.6,"New York, NY",$16 - $17 an hour,Not Remote
+43, New York,New York City,11,Personal Service Managers,Front Office Agent,MADE,3.4,"New York, NY",Unknown,Not Remote
+44, New York,New York City,11,Personal Service Managers,Gym Attendant,Elite Amenity Management,4.0,"Manhattan, NY",Unknown,Not Remote
+45, New York,New York City,11,Personal Service Managers,Cashier,TopView Sightseeing,3.3,"New York, NY",From $16 an hour,Not Remote
+46, New York,New York City,11,Personal Service Managers,Service Host - Restroom Attendant,Abigail Kirsch | Elior North America,,"New York, NY",Unknown,Not Remote
+47, New York,New York City,11,Personal Service Managers,Guest Service Agent,Hotel Hendricks LLC,,"New York, NY",$18 - $24 an hour,Not Remote
+48, New York,New York City,11,Personal Service Managers,Associate Business Development Manager - Personal Care,Colgate-Palmolive,4.3,"New York, NY",Unknown,Not Remote
+49, New York,New York City,11,Personal Service Managers,Intergovernmental Affairs Officer,United Nations,4.4,"New York, NY",Unknown,Not Remote
+50, New York,New York City,11,Personal Service Managers,Customer Service Representative,Sun Logistics,3.2,"Maspeth, NY",$16 - $18 an hour,Not Remote
+51, New York,New York City,11,Personal Service Managers,Business Strategy Associate - Virtual Client Solutions,Morgan Stanley,3.9,"New York, NY",Unknown,Remote
+52, New York,New York City,11,Personal Service Managers,Vendor Relationship Manager - Tech Procurement,Spotify,4.3,"New York, NY",Unknown,Not Remote
+53, New York,New York City,11,Personal Service Managers,Case Manager (BSN),Mount Sinai,3.8,"New York, NY",Unknown,Not Remote
+54, New York,New York City,11,Personal Service Managers,Retirements Manager,TEACHERS RETIREMENT SYSTEM,3.9,"Manhattan, NY","$80,931 - $97,500 a year",Not Remote
+55, New York,New York City,11,Personal Service Managers,59th St. – PART TIME SALES ASSOCIATE,MUJI U.S.A. LIMITED,,"New York, NY",$15 an hour,Not Remote
+56, New York,New York City,11,Personal Service Managers,Admissions Representative,ARROJO Cosmetology School,,"New York, NY","$40,000 - $45,000 a year",Not Remote
+57, New York,New York City,11,Personal Service Managers,Catering Attendant,B Hospitality Corp,,"Tribeca, NY",Unknown,Not Remote
+0, New York,New York City,13,Financial Specialists,"Executive Assistant, MacCap NYC",Macquarie Group Limited,3.8,"New York, NY",Unknown,Not Remote
+1, New York,New York City,13,Financial Specialists,"Financial Products Knowledge Group, Training Specialist, Enterprise Data",Bloomberg,3.9,"New York, NY",Unknown,Not Remote
+2, New York,New York City,13,Financial Specialists,CDE-Nutritionist- 7 hours per week,LGI SERVICES LLC,,"New York, NY",Unknown,Not Remote
+3, New York,New York City,13,Financial Specialists,A/R Specialist,Arch Companies,,"New York, NY","$65,000 - $75,000 a year",Not Remote
+4, New York,New York City,13,Financial Specialists,Senior Client Solutions Associate - Healthcare,GLG,3.7,"New York, NY",Unknown,Not Remote
+5, New York,New York City,13,Financial Specialists,Board Certified in Anestesiology and Pain Management,Confidential,,"New York, NY",Unknown,Not Remote
+6, New York,New York City,13,Financial Specialists,Customer Service Representative,Beyond Finance,3.1,"New York, NY",$22 an hour,Remote
+7, New York,New York City,13,Financial Specialists,Financial Advisor (Sales),Northwestern Mutual,3.8,"New York, NY","$60,000 - $126,000 a year",Temporarily remote
+8, New York,New York City,13,Financial Specialists,Organizational Agility Consultant,PA Consulting Group,3.9,"New York, NY",Unknown,Not Remote
+9, New York,New York City,13,Financial Specialists,Finance Specialist,Selfhelp,3.8,"New York, NY",Unknown,Not Remote
+10, New York,New York City,13,Financial Specialists,Research Coordinator,MJHS Institute for Innovation in Palliative Care,3.6,"New York, NY",Unknown,Not Remote
+11, New York,New York City,13,Financial Specialists,Financial Advisor (Sales),Northwestern Mutual,3.8,"Harlem, NY","$60,000 - $126,000 a year",Temporarily remote
+12, New York,New York City,13,Financial Specialists,Financial Advisor (Sales),Northwestern Mutual,3.8,"New York, NY","$60,000 - $126,000 a year",Temporarily remote
+13, New York,New York City,13,Financial Specialists,Sales Rep,Berkman Financial,,"New York, NY","$40,000 - $100,000 a year",Not Remote
+14, New York,New York City,13,Financial Specialists,"Director, Non-Financial Corporates Segment, Primary Accounts",S&P Global,3.9,"New York, NY","$110,100 - $228,700 a year",Not Remote
+15, New York,New York City,13,Financial Specialists,Employee Experience & Onboarding Specialist,Axios,3.9,"New York, NY","$88,000 - $103,000 a year",Temporarily remote
+16, New York,New York City,13,Financial Specialists,Edgar Specialist,Toppan Merrill,2.5,"New York, NY",Unknown,Not Remote
+17, New York,New York City,13,Financial Specialists,Customer Support & Operations Associate,Capitalize,,"New York, NY","$60,000 - $65,000 a year",Remote
+18, New York,New York City,13,Financial Specialists,Medical Device Technology Consultant,PA Consulting Group,3.9,"New York, NY",Unknown,Temporarily remote
+19, New York,New York City,13,Financial Specialists,Trading Operations Associate,Morgan Stanley,3.9,"New York, NY",Unknown,Not Remote
+20, New York,New York City,13,Financial Specialists,Biotechnology Business Developers,PA Consulting Group,3.9,"New York, NY",Unknown,Temporarily remote
+21, New York,New York City,13,Financial Specialists,2021 Summer Internship Program,ING,4.0,"New York, NY",Unknown,Not Remote
+22, New York,New York City,13,Financial Specialists,"BAI, Showcase Event",BlackRock,3.8,"New York, NY",Unknown,Not Remote
+23, New York,New York City,13,Financial Specialists,Financial Specialist,Mayerson & Associates,,"New York, NY","From $50,000 a year",Temporarily remote
+24, New York,New York City,13,Financial Specialists,Financial Advisor Development Program,Northwestern Mutual,,"New York, NY","$110,000 - $200,000 a year",Not Remote
+25, New York,New York City,13,Financial Specialists,Financial Advisor (Sales),Northwestern Mutual,3.8,"Brooklyn, NY","$60,000 - $126,000 a year",Temporarily remote
+26, New York,New York City,13,Financial Specialists,Cybersecurity Threat Intelligence Analyst,"JPMorgan Chase Bank, N.A.",3.9,"New York, NY",Unknown,Not Remote
+27, New York,New York City,13,Financial Specialists,HR Administrative Specialist,Weill Cornell Medicine,4.0,"New York, NY",Unknown,Not Remote
+28, New York,New York City,13,Financial Specialists,Legal Intern,"Two Sigma Investments, LLC.",3.8,"New York, NY",Unknown,Not Remote
+29, New York,New York City,13,Financial Specialists,Key Account Associate - Financial Institutions Group (LAM),Lazard Ltd.,3.9,"New York, NY",Unknown,Not Remote
+30, New York,New York City,13,Financial Specialists,Digital Health Software Medical Device Consultant,PA Consulting,3.9,"New York, NY",Unknown,Not Remote
+31, New York,New York City,13,Financial Specialists,Summer 2021 Financial Representative Internship,Northwestern Mutual,3.8,"New York, NY",Unknown,Not Remote
+32, New York,New York City,13,Financial Specialists,Organizational Agility Consultant,PA Consulting,3.9,"New York, NY",Unknown,Not Remote
+33, New York,New York City,13,Financial Specialists,"Specialist, Financial Planning & Analysis",BNY Mellon,3.5,"New York, NY",Unknown,Not Remote
+34, New York,New York City,13,Financial Specialists,"Summer Intern, Content Management","Kroll Bond Rating Agency, LLC",,"New York, NY",$18 an hour,Not Remote
+35, New York,New York City,13,Financial Specialists,"Executive Assistant, MacCap NYC",Macquarie Group Limited,3.8,"New York, NY",Unknown,Not Remote
+36, New York,New York City,13,Financial Specialists,Service Specialist II T&O,BMO Harris Bank,3.5,"New York, NY",Unknown,Not Remote
+37, New York,New York City,13,Financial Specialists,Financial Advisor Trainee | New York City,Northwestern Mutual,3.8,"New York, NY","$50,000 - $120,000 a year",Temporarily remote
+38, New York,New York City,13,Financial Specialists,A/R Specialist,Arch Companies,,"New York, NY","$65,000 - $75,000 a year",Not Remote
+39, New York,New York City,13,Financial Specialists,Financial Advisor (Sales),Northwestern Mutual,3.8,"Bronx, NY","$60,000 - $126,000 a year",Temporarily remote
+40, New York,New York City,13,Financial Specialists,Client Onboarding Specialist,UBS,3.8,"New York, NY",Unknown,Not Remote
+41, New York,New York City,13,Financial Specialists,M&V Specialist,Honeywell,3.7,"New York, NY",Unknown,Not Remote
+42, New York,New York City,13,Financial Specialists,Business Intake Specialist,Kirkland and Ellis,3.9,"New York, NY",Unknown,Not Remote
+43, New York,New York City,13,Financial Specialists,Financial Analysis Director,HUB International,3.2,"New York, NY",Unknown,Not Remote
+44, New York,New York City,13,Financial Specialists,Financial Recruiter,The Pontem Group,,"New York, NY","$50,000 - $65,000 a year",Not Remote
+45, New York,New York City,13,Financial Specialists,UCC Client Service Specialist,COGENCY GLOBAL INC.,,"New York, NY","From $48,000 a year",Not Remote
+46, New York,New York City,13,Financial Specialists,SYEP Data Clerk,St Nicks Alliance,3.7,"Brooklyn, NY",Unknown,Remote
+47, New York,New York City,13,Financial Specialists,Street Settlement Specialist,Wedbush Securities,3.1,"New York, NY",Unknown,Not Remote
+48, New York,New York City,13,Financial Specialists,Healthcare Managing Consultant,PA Consulting Group,3.9,"New York, NY",Unknown,Temporarily remote
+49, New York,New York City,13,Financial Specialists,Total ABA- Remote Outside Sales Executive,Total ABA,4.0,"New York, NY","$80,000 - $120,000 a year",Remote
+50, New York,New York City,13,Financial Specialists,Medical Device Technology Consultant,PA Consulting,3.9,"New York, NY",Unknown,Temporarily remote
+51, New York,New York City,13,Financial Specialists,Financial Services Specialist.,New York Life - Dilshad Rahmonov,,"New York, NY","$68,000 a year",Not Remote
+52, New York,New York City,13,Financial Specialists,Employee Experience & Onboarding Specialist,Axios,3.9,"New York, NY",Unknown,Remote
+53, New York,New York City,13,Financial Specialists,HR Onboarding Specialist,The Lifetime Value Co.,,"New York, NY",Unknown,Remote
+54, New York,New York City,13,Financial Specialists,Financial Advisor (Sales),Northwestern Mutual,3.8,"Staten Island, NY","$60,000 - $126,000 a year",Temporarily remote
+55, New York,New York City,13,Financial Specialists,Billing Specialist,Mount Sinai,3.8,"New York, NY",Unknown,Not Remote
+56, New York,New York City,13,Financial Specialists,Enterprise Product - Portfolio & Index Implementation Specialist,Bloomberg,3.9,"New York, NY",Unknown,Not Remote
+57, New York,New York City,13,Financial Specialists,"Underwriting Consultant, National Insurance Property",Liberty Mutual Insurance,3.6,"Manhattan, NY","$106,000 a year",Not Remote
+58, New York,New York City,13,Financial Specialists,Billing/Collections Specialist,Baralan USA,,"Richmond Hill, NY","$40,000 - $50,000 a year",Not Remote
+0, New York,New York City,13,Business Operations Specialist,Operations Dept.- Senior Order Allocation Specialist/Customer Service Team,Isaac Morris LTD,2.0,"New York, NY",Unknown,Not Remote
+1, New York,New York City,13,Business Operations Specialist,Sales Support Specialist,LG H&H USA,,"New York, NY",From $25 an hour,Not Remote
+2, New York,New York City,13,Business Operations Specialist,Consumer Affairs Specialist,Colgate-Palmolive,4.3,"New York, NY",Unknown,Not Remote
+3, New York,New York City,13,Business Operations Specialist,Platform Operations Specialist,GroundTruth,,"New York, NY",Unknown,Not Remote
+4, New York,New York City,13,Business Operations Specialist,Operations Intermediate Specialist,Brown Brothers Harriman,3.7,"New York, NY",Unknown,Not Remote
+5, New York,New York City,13,Business Operations Specialist,Operations and Support Specialist,Netflix,3.9,"New York, NY",Unknown,Not Remote
+6, New York,New York City,13,Business Operations Specialist,FOIL and eDiscovery Specialist for the Division of Strategic Operations and Analytics,HOUSING PRESERVATION & DVLPMNT,3.7,"New York, NY","$62,397 - $71,757 a year",Not Remote
+7, New York,New York City,13,Business Operations Specialist,Business Continuity Specialist,"Two Sigma Investments, LLC.",3.8,"New York, NY",Unknown,Not Remote
+8, New York,New York City,13,Business Operations Specialist,Customer Support & Operations Associate,Capitalize,,"New York, NY","$60,000 - $65,000 a year",Remote
+9, New York,New York City,13,Business Operations Specialist,Logistics Specialist - US,Suitsupply,3.3,"New York, NY",Unknown,Not Remote
+10, New York,New York City,13,Business Operations Specialist,Trading Operations Associate,Morgan Stanley,3.9,"New York, NY",Unknown,Not Remote
+11, New York,New York City,13,Business Operations Specialist,Operations Specialist (Seasonal),StockX,3.1,"Manhattan, NY",Unknown,Not Remote
+12, New York,New York City,13,Business Operations Specialist,Customer Support Specialist,MakeSpace,3.0,"New York, NY","$40,000 a year",Temporarily remote
+13, New York,New York City,13,Business Operations Specialist,COVID-19 Compliance Officer,BSI,3.6,"New York, NY",Unknown,Not Remote
+14, New York,New York City,13,Business Operations Specialist,Client Onboarding Specialist,UBS,3.8,"New York, NY",Unknown,Not Remote
+15, New York,New York City,13,Business Operations Specialist,Digital Sales Operations Specialist,NBCUniversal,4.0,"New York, NY",Unknown,Not Remote
+16, New York,New York City,13,Business Operations Specialist,"Strategy & Operations Program Analyst, Special Projects",Google,4.3,"New York, NY",Unknown,Not Remote
+17, New York,New York City,13,Business Operations Specialist,"Customer Success Specialist, Sales Operations- Informa Tech",Informa Tech,,"New York, NY",Unknown,Not Remote
+18, New York,New York City,13,Business Operations Specialist,Logistics Specialist - US,Suitsupply,3.3,"New York, NY",Unknown,Not Remote
+19, New York,New York City,13,Business Operations Specialist,J.P. Morgan Advisors Business Management Training Specialist (210078426),"JPMorgan Chase Bank, N.A.",3.9,"New York, NY",Unknown,Not Remote
+20, New York,New York City,13,Business Operations Specialist,Clinical Innovations Specialist,Fidelis Care,3.2,"Long Island City, NY",Unknown,Not Remote
+21, New York,New York City,13,Business Operations Specialist,Customer Engagement Specialist,Levain Bakery,3.2,"New York, NY",$20 an hour,Not Remote
+22, New York,New York City,13,Business Operations Specialist,"Planning Services Specialist, Mission Control",Facebook,4.2,"New York, NY",Unknown,Not Remote
+23, New York,New York City,13,Business Operations Specialist,HR Administrative Specialist,Weill Cornell Medicine,4.0,"New York, NY",Unknown,Not Remote
+24, New York,New York City,13,Business Operations Specialist,M&V Specialist,Honeywell,3.7,"New York, NY",Unknown,Not Remote
+25, New York,New York City,13,Business Operations Specialist,Sr Field Operations Specialist,Worldwide TechServices,3.1,"Brooklyn, NY",Unknown,Not Remote
+26, New York,New York City,13,Business Operations Specialist,Supply Chain Specialist,Eataly North America,3.2,"New York, NY",Unknown,Not Remote
+27, New York,New York City,13,Business Operations Specialist,"Strategy and Operations Analyst, Display and YouTube",Google,4.3,"New York, NY",Unknown,Not Remote
+28, New York,New York City,13,Business Operations Specialist,Service Specialist II T&O,BMO Harris Bank,3.5,"New York, NY",Unknown,Not Remote
+29, New York,New York City,13,Business Operations Specialist,Customer Service Representative,Nfinity Global Inc.,,"New York, NY","$45,000 - $50,000 a year",Temporarily remote
+30, New York,New York City,13,Business Operations Specialist,Sales Specialist,Callisto Media,4.0,"New York, NY",Unknown,Not Remote
+31, New York,New York City,13,Business Operations Specialist,Process Specialist (Contract),Pinterest,4.2,"New York, NY",Unknown,Not Remote
+32, New York,New York City,13,Business Operations Specialist,On-site AV Specialist,TRITECH Communications,3.3,"New York, NY",$35 - $40 an hour,Not Remote
+33, New York,New York City,13,Business Operations Specialist,Information Technology Specialist,New York University,4.2,"New York, NY",Unknown,Not Remote
+34, New York,New York City,13,Business Operations Specialist,Onboarding/Application Specialist,Passfeed Inc,,"New York, NY","$45,000 - $55,000 a year",Not Remote
+35, New York,New York City,13,Business Operations Specialist,Specialist Business Systems Analysis – Technology/Custody,BNY Mellon,3.5,"New York, NY",Unknown,Not Remote
+36, New York,New York City,13,Business Operations Specialist,Human Resources (HR) Operations Specialist,New York Public Radio,2.3,"New York, NY",Unknown,Temporarily remote
+37, New York,New York City,13,Business Operations Specialist,"Client Success Specialist / Account Manager, Bronx and Queens",Uber,3.7,"New York, NY",Unknown,Not Remote
+38, New York,New York City,13,Business Operations Specialist,Junior HR Business Partner,Macquarie Group Limited,3.8,"New York, NY",Unknown,Not Remote
+39, New York,New York City,13,Business Operations Specialist,Technology Support Specialist,White & Case,4.4,"New York, NY",Unknown,Not Remote
+40, New York,New York City,13,Business Operations Specialist,Billing & Revenue Operations Specialist,Kaltura,3.7,"New York, NY",Unknown,Not Remote
+41, New York,New York City,13,Business Operations Specialist,Operation Support Specialist,GE Healthcare,3.9,"New York, NY",Unknown,Not Remote
+42, New York,New York City,13,Business Operations Specialist,Trade Support - Operations,Macquarie Group Limited,3.8,"New York, NY",Unknown,Not Remote
+43, New York,New York City,13,Business Operations Specialist,"Director, Programming and Development, Allure (English)",Conde Nast,4.0,"New York, NY",Unknown,Not Remote
+44, New York,New York City,13,Business Operations Specialist,Sales Operations Specialist,Gannett,3.1,"New York, NY",Unknown,Not Remote
+45, New York,New York City,13,Business Operations Specialist,"Associate, IT Operations",IPG Mediabrands,3.7,"New York, NY",Unknown,Not Remote
+46, New York,New York City,13,Business Operations Specialist,Operations Specialist - eCommerce,Passfeed Inc,,"New York, NY","$30,618 - $50,000 a year",Not Remote
+47, New York,New York City,13,Business Operations Specialist,2021 Summer Internship Program,ING,4.0,"New York, NY",Unknown,Not Remote
+48, New York,New York City,13,Business Operations Specialist,"VP, Production Operations (English)",Conde Nast,4.0,"New York, NY",Unknown,Not Remote
+49, New York,New York City,13,Business Operations Specialist,People Operations Business Partner (HRBP),Gemini,3.6,"New York, NY",Unknown,Not Remote
+50, New York,New York City,13,Business Operations Specialist,"Specialist, Digital Success",Publicis Media,3.3,"New York, NY",Unknown,Not Remote
+51, New York,New York City,13,Business Operations Specialist,Billing Specialist,Modernagile Technologies,,"New York, NY","$60,000 - $70,000 a year",Temporarily remote
+52, New York,New York City,13,Business Operations Specialist,"Specialist, Merchandise Planning",Chanel,4.1,"New York, NY",Unknown,Not Remote
+53, New York,New York City,13,Business Operations Specialist,Trade Support - Operations,Macquarie Group Limited,3.8,"New York, NY",Unknown,Not Remote
+54, New York,New York City,13,Business Operations Specialist,Junior HR Business Partner,Macquarie Group Limited,3.8,"New York, NY",Unknown,Not Remote
+0, New York,New York City,13,Tax Preparer,Tax Preparer,Alcott HR,3.8,"New York, NY",Unknown,Not Remote
+0, New York,New York City,21,Community Social Service,Dean of Athlete Experience & Culture,Overtime,4.8,"New York, NY","$160,000 - $170,000 a year",Not Remote
+1, New York,New York City,21,Community Social Service,Ice Cream Scooper,Ample Hills,,"New York, NY",From $15 an hour,Not Remote
+2, New York,New York City,21,Community Social Service,Assistant Community Manager,Fairstead,,"New York, NY",Unknown,Not Remote
+3, New York,New York City,21,Community Social Service,Preventive Service Program Director,Non-Profit Organization,,"New York, NY",Unknown,Not Remote
+4, New York,New York City,21,Community Social Service,Community Administrator - 180 Riverside Blvd Apartments,Equity Residential,3.8,"New York, NY",Unknown,Not Remote
+5, New York,New York City,21,Community Social Service,Caregiver Program Social Service Worker,Lenox Hill Neighborhood House,3.6,"New York, NY","$40,884 - $45,464 a year",Not Remote
+6, New York,New York City,21,Community Social Service,Social Media and Content Manager,Paint 'N Pour,,"New York, NY","$45,000 - $65,000 a year",Not Remote
+7, New York,New York City,21,Community Social Service,Senior District Manager,Fresh & Co.,,"New York, NY","$75,000 - $100,000 a year",Not Remote
+8, New York,New York City,21,Community Social Service,Director of Nursing,Alliance Homecare,3.4,"New York, NY","$74,236 - $90,000 a year",Not Remote
+9, New York,New York City,21,Community Social Service,"Social Media Customer Service Specialist, Call Center",Nestle Nespresso,3.9,"New York, NY",Unknown,Not Remote
+10, New York,New York City,21,Community Social Service,Community Health Worker - New York City,Anthem,3.7,"New York, NY",Unknown,Not Remote
+11, New York,New York City,21,Community Social Service,Client Advisor - Saks Fifth Avenue NY,Louis Vuitton,3.8,"New York, NY",Unknown,Not Remote
+12, New York,New York City,21,Community Social Service,Virtual Wellness Coach,Weight Watchers International,3.8,"New York, NY",Unknown,Remote
+13, New York,New York City,21,Community Social Service,Caregiver Program Social Service Worker,Lenox Hill Neighborhood House,3.6,"New York, NY","$40,884 - $45,464 a year",Not Remote
+14, New York,New York City,21,Community Social Service,"Assistant Director - Community Affair, Patient Relations CAB & Auxiliary (NEW SITE - TREMONT)",NYC Health + Hospitals,3.8,"New York, NY",Unknown,Not Remote
+15, New York,New York City,21,Community Social Service,Social Community Manager,Clarins,4.0,"New York, NY",Unknown,Not Remote
+16, New York,New York City,21,Community Social Service,Virtual Wellness Support,Weight Watchers International,3.8,"New York, NY",Unknown,Remote
+17, New York,New York City,21,Community Social Service,Community Associate,MANHATTAN COMMUNITY BOARD #6,,"Manhattan, NY","$38,333 - $52,000 a year",Not Remote
+18, New York,New York City,21,Community Social Service,"Community Relations Northeast Leader, SVP",Citi,3.9,"New York, NY",Unknown,Not Remote
+19, New York,New York City,21,Community Social Service,Social Work Assistant,VISITING NURSE SERVICE OF NEW YORK,3.6,"Bronx, NY",Unknown,Not Remote
+20, New York,New York City,21,Community Social Service,Program Coordinator/Administrator,DEPARTMENT OF PROBATION,4.1,"Manhattan, NY","$54,100 - $83,981 a year",Not Remote
+21, New York,New York City,21,Community Social Service,Camp Counselor at Summer Day Camp Where Kids Rule,Steve & Kate's Camp,4.3,"New York, NY",$15 - $16 an hour,Not Remote
+22, New York,New York City,21,Community Social Service,SYEP Service-Learning Facilitator CareerReady,Research Foundation of The City University of New...,4.2,"New York, NY",$25 an hour,Not Remote
+23, New York,New York City,21,Community Social Service,Client Associate,Landor,3.6,"New York, NY",Unknown,Not Remote
+24, New York,New York City,21,Community Social Service,Behavioral Health Associate,NYC Health + Hospitals,3.8,"New York, NY",Unknown,Not Remote
+25, New York,New York City,21,Community Social Service,"Transitional Care Coordinator (Correctional Counselor), Correctional Health Services. *Trailer 5 M-F 8am-4pm*",NYC Health + Hospitals,3.8,"New York, NY",Unknown,Not Remote
+26, New York,New York City,21,Community Social Service,"Office Assistant, Bureau of Childcare",DEPT OF HEALTH/MENTAL HYGIENE,4.0,"Manhattan, NY",$15.57 - $20.21 an hour,Not Remote
+27, New York,New York City,21,Community Social Service,Newswriter,NDWA Labs,,"New York, NY",$30 an hour,Temporarily remote
+28, New York,New York City,21,Community Social Service,Criminal Investigator,US Department of Homeland Security,3.8,"New York, NY","$89,537 - $138,413 a year",Not Remote
+29, New York,New York City,21,Community Social Service,Community Engagement Manager,NowPow,4.4,"New York, NY",Unknown,Not Remote
+30, New York,New York City,21,Community Social Service,"Coordinator, Social Media",SHADOW,4.3,"New York, NY",Unknown,Not Remote
+31, New York,New York City,21,Community Social Service,"Program Officer, Community Sponsorship",International Rescue Committee,4.3,"New York, NY",Unknown,Not Remote
+32, New York,New York City,21,Community Social Service,Social Worker - Caregiver Support,US Department of Veterans Affairs,3.8,"New York, NY","$74,702 - $97,118 a year",Not Remote
+33, New York,New York City,21,Community Social Service,Dean of Athlete Experience & Culture,Overtime,4.8,"New York, NY","$160,000 - $170,000 a year",Not Remote
+34, New York,New York City,21,Community Social Service,Social Community Manager,"Clarins USA, Inc.",4.0,"New York, NY",Unknown,Not Remote
+35, New York,New York City,21,Community Social Service,Elementary After School Program Group Leader,Hudson Guild,3.5,"New York, NY",$15 - $17 an hour,Remote
+36, New York,New York City,21,Community Social Service,Social Worker - MSM,Mount Sinai,3.8,"New York, NY",Unknown,Not Remote
+37, New York,New York City,21,Community Social Service,Community Organizer,Good Call,,"New York, NY","$50,000 a year",Not Remote
+38, New York,New York City,21,Community Social Service,Social Media Coordinator,Metropolitan Transportation Authority,3.9,"Manhattan, NY",Unknown,Not Remote
+39, New York,New York City,21,Community Social Service,Outreach Coordinator Consultant,Carter Burden Network,,"East Harlem, NY",$40 an hour,Temporarily remote
+40, New York,New York City,21,Community Social Service,TAIYAKI NYC [ICE CREAM STORE] ENTRY LEVEL - team member,Taiyaki NYC,,"New York, NY",From $15 an hour,Not Remote
+41, New York,New York City,21,Community Social Service,Social Work Assistant,VISITING NURSE SERVICE OF NEW YORK,3.6,"Brooklyn, NY",Unknown,Not Remote
+42, New York,New York City,21,Community Social Service,Social Lead,Shopify,3.9,"New York, NY",Unknown,Not Remote
+43, New York,New York City,21,Community Social Service,Customer Success Associate,"Catchafire, Inc.",5.0,"New York, NY",Unknown,Remote
+44, New York,New York City,21,Community Social Service,Employment Services Analyst,ADMIN FOR CHILDREN'S SVCS,3.4,"Manhattan, NY","$54,100 - $64,419 a year",Not Remote
+45, New York,New York City,21,Community Social Service,"Director, Social Media Brand Marketing",Time Warner,3.8,"New York, NY",Unknown,Not Remote
+46, New York,New York City,21,Community Social Service,Staff Assistant,US Department of Veterans Affairs,3.8,"Bronx, NY","$61,742 - $80,263 a year",Not Remote
+47, New York,New York City,21,Community Social Service,Behavioral Health Associate,NYC Health + Hospitals,3.8,"New York, NY",Unknown,Not Remote
+48, New York,New York City,21,Community Social Service,Social Worker,Mount Sinai,3.8,"New York, NY",Unknown,Not Remote
+49, New York,New York City,21,Community Social Service,Store Manager,lululemon,,"New York, NY",$45 - $50 an hour,Not Remote
+50, New York,New York City,21,Community Social Service,Associate Executive Director (Early Childhood & Youth Programs),Union Settlement,4.0,"New York, NY","$130,000 a year",Not Remote
+51, New York,New York City,21,Community Social Service,SOCIAL WORKER ASSISTANT,Montefiore Medical Center,4.1,"Bronx, NY",Unknown,Not Remote
+52, New York,New York City,21,Community Social Service,"Sr. Specialist, Social Media",EXPRESS,3.6,"New York, NY",Unknown,Not Remote
+53, New York,New York City,21,Community Social Service,Community Outreach Coordinator,Lifeline Wireless,,"Manhattan, NY",$10 - $20 an hour,Not Remote
+54, New York,New York City,21,Community Social Service,Associate Executive Director (Early Childhood & Youth Programs),Union Settlement Association,3.6,"New York, NY","$130,000 a year",Not Remote
+55, New York,New York City,21,Community Social Service,Social Impact & Sustainability Program Director,Vita Coco,4.3,"New York, NY",Unknown,Not Remote
+56, New York,New York City,21,Community Social Service,Field Liaison,Phipps NY,,"New York, NY",Unknown,Not Remote
+57, New York,New York City,21,Community Social Service,Social Media and Content Manager,Paint 'N Pour,,"New York, NY","$45,000 - $65,000 a year",Not Remote
+58, New York,New York City,21,Community Social Service,Case Manager (BA level)- Housing,Selfhelp,3.8,"New York, NY",Unknown,Not Remote
+0, New York,New York City,21,Religious Worker,Social Worker,Brooklyn Center for Psychotherapy,3.6,"Brooklyn, NY","$55,000 - $63,000 a year",Temporarily remote
+1, New York,New York City,21,Religious Worker,Food Service Worker,MealCo,,"New York, NY",$16.50 an hour,Not Remote
+2, New York,New York City,21,Religious Worker,LPN,Hospital for Special Surgery,4.2,"New York, NY",Unknown,Not Remote
+3, New York,New York City,21,Religious Worker,Food Service Worker,MealCo,,"New York, NY",$16.50 an hour,Not Remote
+4, New York,New York City,21,Religious Worker,", 102.7, 94.7)",Entercom Communications Corp.,3.5,"New York, NY",Unknown,Not Remote
+5, New York,New York City,21,Religious Worker,Sales Development Representative | Remote,Informa Tech,,"New York, NY",Unknown,Remote
+6, New York,New York City,21,Religious Worker,Service Host - Restroom Attendant,Abigail Kirsch | Elior North America,,"New York, NY",Unknown,Not Remote
+7, New York,New York City,21,Religious Worker,Social Worker,Brooklyn Center for Psychotherapy,3.6,"Brooklyn, NY","$55,000 - $63,000 a year",Temporarily remote
+8, New York,New York City,21,Religious Worker,EMT (Covid 19 Vaccine Administration),Mobile Health,3.3,"Brooklyn, NY",Unknown,Not Remote
+9, New York,New York City,21,Religious Worker,"Executive Dining Room Captain, Corporate Executive Dining Services",Chubb,3.7,"New York, NY",Unknown,Not Remote
+10, New York,New York City,21,Religious Worker,Social Worker,The Educational Alliance,3.8,"New York, NY",Unknown,Not Remote
+11, New York,New York City,21,Religious Worker,Registered Nurse - Part Time,Hospital for Special Surgery,4.2,"New York, NY",Unknown,Not Remote
+12, New York,New York City,21,Religious Worker,Safety and Occupational Health Specialist,US Department of Homeland Security,3.8,"New York, NY","$74,702 - $116,403 a year",Not Remote
+13, New York,New York City,21,Religious Worker,Assistant to the Chair,School of Visual Arts,4.0,"New York, NY",Unknown,Not Remote
+14, New York,New York City,21,Religious Worker,Microsoft SQL Server Revenue Cycle Support Engineer,RadNet,2.6,"New York, NY",Unknown,Not Remote
+15, New York,New York City,21,Religious Worker,"Corporate Responsibility, Global Philanthropy - Vice President Program Officer for Latin America","JPMorgan Chase Bank, N.A.",3.9,"New York, NY",Unknown,Not Remote
+16, New York,New York City,21,Religious Worker,Warehouse Worker,US Coast Guard Community Service Command,4.4,"Fort Wadsworth, NY",$18.01 an hour,Not Remote
+17, New York,New York City,21,Religious Worker,"Registered Nurse, Care Manager, Day Shift",NYU Langone,4.1,"New York, NY",Unknown,Not Remote
+18, New York,New York City,21,Religious Worker,Community School Coordinator,QUEENS COMMUNIY HOUSE,,"Jackson Heights, NY",Unknown,Not Remote
+19, New York,New York City,21,Religious Worker,Social Worker,The Educational Alliance Inc.,3.8,"New York, NY",Unknown,Not Remote
+20, New York,New York City,21,Religious Worker,"People, Systems, and Culture Manager",Up2Us Sports,4.3,"New York, NY","$46,000 - $52,000 a year",Not Remote
+21, New York,New York City,21,Religious Worker,Sales Representative – COVID Testing,Mobile Health,3.3,"New York, NY",Unknown,Not Remote
+22, New York,New York City,21,Religious Worker,LPN,Hospital for Special Surgery,4.2,"New York, NY",Unknown,Not Remote
+23, New York,New York City,21,Religious Worker,Camp Dialogue Facilitators,Seeds of Peace,4.3,"New York, NY",Unknown,Not Remote
+24, New York,New York City,21,Religious Worker,Camp Counselors,Seeds of Peace,4.3,"New York, NY",Unknown,Not Remote
+25, New York,New York City,21,Religious Worker,Clinical Psychologist or Clinical Social Worker in Brooklyn,The Child & Family Institute,4.0,"Brooklyn, NY",$60 - $100 an hour,Remote
+26, New York,New York City,21,Religious Worker,Shift Supervisor,MealCo,,"New York, NY",$17.50 an hour,Not Remote
+27, New York,New York City,21,Religious Worker,Social Work Manager,Violence Intervention Program,3.1,"New York, NY","$75,000 a year",Not Remote
+28, New York,New York City,21,Religious Worker,Oiler Deckhand,US Department of the Army,4.3,"Jersey City, NJ",$25.41 - $29.64 an hour,Not Remote
+29, New York,New York City,21,Religious Worker,"Registered Nurse, Care Manager, Day Shift",NYU Langone Health,4.1,"New York, NY",Unknown,Not Remote
+30, New York,New York City,21,Religious Worker,Clinical Supervisor (Manhattan),Mobile Health,3.3,"New York, NY",Unknown,Not Remote
+31, New York,New York City,21,Religious Worker,Social Worker,Independent Drivers Guild,,"Queens, NY","From $58,000 a year",Temporarily remote
+32, New York,New York City,21,Religious Worker,LCSW,Bedford Stuyvesant Family Health Center,3.4,"Brooklyn, NY",Unknown,Not Remote
+33, New York,New York City,21,Religious Worker,QMED - Seaward Services,Seaward Services,3.8,"New York, NY",Unknown,Not Remote
+34, New York,New York City,21,Religious Worker,3rd Assistant Engineer- Seaward Services,Seward Services,5.0,"New York, NY",Unknown,Not Remote
+35, New York,New York City,21,Religious Worker,Shift Supervisor,MealCo,,"Brooklyn, NY",$17.50 an hour,Not Remote
+36, New York,New York City,21,Religious Worker,Senior Underwriter – Complex Casualty,Chubb,3.7,"New York, NY",Unknown,Not Remote
+37, New York,New York City,21,Religious Worker,Sales Associate,Victra - Verizon Wireless Premium Retailer,2.7,"Fairview, NJ",Unknown,Not Remote
+38, New York,New York City,21,Religious Worker,Inside Sales professional,Mobile Health,3.3,"New York, NY",Unknown,Not Remote
+39, New York,New York City,21,Religious Worker,2nd Assistant Engineer- Seaward Services,Seward Services,5.0,"New York, NY",Unknown,Not Remote
+40, New York,New York City,21,Religious Worker,1st Assistant Engineer- Seaward Services,Seward Services,5.0,"New York, NY",Unknown,Not Remote
+41, New York,New York City,21,Religious Worker,LCSW,Bedford Stuyvesant Family Health Center,3.4,"Brooklyn, NY",Unknown,Not Remote
+42, New York,New York City,21,Religious Worker,Shift Supervisor,MealCo,,"New York, NY",$17.50 an hour,Not Remote
+43, New York,New York City,21,Religious Worker,Registered Nurse - Part Time,Hospital for Special Surgery,4.2,"New York, NY",Unknown,Not Remote
+0, New York,New York City,41,Real Estate Brokers,Century 21 Preferred Realty (Branch Manager),Century 21 Preferred Realty,,"Hoboken, NJ","$45,000 - $65,000 a year",Not Remote
+1, New York,New York City,41,Real Estate Brokers,MUST HAVE REAL ESTATE LICENSE! Rental Agents (Boutique Real Estate Office),Bruma Realty LLC,,"Bronx, NY","$47,285 - $144,797 a year",Not Remote
+2, New York,New York City,41,Real Estate Brokers,Office Administrator - Real estate management,Nelson Management Group,4.0,"Brooklyn, NY","$38,000 - $40,000 a year",Not Remote
+3, New York,New York City,41,Real Estate Brokers,Lease Administrator/Real Estate,Manhattan Real Estate Management Company,,"New York, NY","$60,000 - $75,000 a year",Not Remote
+4, New York,New York City,41,Real Estate Brokers,Licensed Real Estate Salesperson - up to 100% Commissions!!!,Zaymara Real Estate Group,,"New York, NY","$50,000 - $125,000 a year",Remote
+5, New York,New York City,41,Real Estate Brokers,Real Estate Agent (Junior Agent Position),Compass,3.7,"New York, NY","From $50,000 a year",Temporarily remote
+6, New York,New York City,41,Real Estate Brokers,Real Estate Agents / Brokers,ELIKA Real Estate,,"New York, NY",Unknown,Not Remote
+7, New York,New York City,41,Real Estate Brokers,Manhattan Luxury Real Estate Agent,CRUM,4.7,"New York, NY","Up to $171,146 a year",Remote
+8, New York,New York City,41,Real Estate Brokers,Real Estate Broker Assistant,Douglas Elliman Real Estate,4.2,"New York, NY","$55,000 a year",Temporarily remote
+9, New York,New York City,41,Real Estate Brokers,Salaried Real Estate Agent,Better Mortgage Corporation,,"New York, NY",Unknown,Not Remote
+10, New York,New York City,41,Real Estate Brokers,Seasonal Real Estate Internship,Tri State Commercial Realty,,"Brooklyn, NY","$20,000 - $28,000 a year",Temporarily remote
+11, New York,New York City,41,Real Estate Brokers,Real Estate Broker or Team,Oxford Property Group,4.2,"New York, NY","$94,000 - $250,000 a year",Remote
+12, New York,New York City,41,Real Estate Brokers,Real Estate Associate,Blank Street,,"New York, NY",Unknown,Not Remote
+13, New York,New York City,41,Real Estate Brokers,Commercial Real Estate Sales Associate,Cushman & Wakefield,3.8,"New York, NY",Unknown,Not Remote
+14, New York,New York City,41,Real Estate Brokers,Licensed Real Estate Salesperson - up to 100% Commissions!!!,Zaymara Real Estate Group,,"New York, NY","$50,000 - $125,000 a year",Remote
+15, New York,New York City,41,Real Estate Brokers,Real Estate Appraiser Apprentice,Kech Development,4.2,"New York, NY","$45,000 - $60,000 a year",Not Remote
+16, New York,New York City,41,Real Estate Brokers,Director,Cushman & Wakefield,3.8,"New York, NY",Unknown,Not Remote
+17, New York,New York City,41,Real Estate Brokers,Associate,Cushman & Wakefield,3.8,"New York, NY",Unknown,Not Remote
+18, New York,New York City,41,Real Estate Brokers,"Associate, Real Estate Credit",The Carlyle Group,4.1,"New York, NY",Unknown,Not Remote
+19, New York,New York City,41,Real Estate Brokers,Hospitality Associate,Olive Tree Holdings,5.0,"New York, NY",Unknown,Not Remote
+20, New York,New York City,41,Real Estate Brokers,Post-Production Associate,VTS,3.9,"New York, NY",Unknown,Remote
+21, New York,New York City,41,Real Estate Brokers,Hospitality Associate,Olive Tree Holdings,5.0,"New York, NY",Unknown,Not Remote
+22, New York,New York City,41,Real Estate Brokers,Commercial Real Estate Agents,RI Manhattan Realty,,"New York, NY",Unknown,Not Remote
+23, New York,New York City,41,Real Estate Brokers,Client Services Coordinator,CBRE,3.7,"New York, NY",Unknown,Not Remote
+24, New York,New York City,41,Real Estate Brokers,Commercial Real Estate Salesperson,Spaces Commercial Real Estate,,"New York, NY","$50,000 - $120,000 a year",Not Remote
+25, New York,New York City,41,Real Estate Brokers,Hospitality Associate,The Life Properties,3.2,"New York, NY",Unknown,Not Remote
+26, New York,New York City,41,Real Estate Brokers,Content QA Specialist,VTS,3.9,"New York, NY",Unknown,Remote
+27, New York,New York City,41,Real Estate Brokers,Contract Compliance Specialist,eXp Realty,4.4,"New York, NY",Unknown,Remote
+28, New York,New York City,41,Real Estate Brokers,Marketing Personal Assistant,KJ team,,"New York, NY","$52,250 a year",Not Remote
+29, New York,New York City,41,Real Estate Brokers,Associate Accountant,United Nations,4.4,"New York, NY",Unknown,Not Remote
+30, New York,New York City,41,Real Estate Brokers,"Assistant Project Manager, Development",RXR Construction Services LLC,,"New York, NY",Unknown,Not Remote
+31, New York,New York City,41,Real Estate Brokers,Data Analyst,TheGuarantors,,"New York, NY",Unknown,Temporarily remote
+32, New York,New York City,41,Real Estate Brokers,Regional Facilities Manager,BuroHappold Engineering,3.8,"New York, NY",Unknown,Not Remote
+33, New York,New York City,41,Real Estate Brokers,Licensed Real Estate Agent,Brick and Galo Realty,,"New York, NY",Unknown,Not Remote
+34, New York,New York City,41,Real Estate Brokers,Real Estate Instructor for Real Estate Express and Allied Schools Brands,Colibri Group,3.4,"New York, NY",Unknown,Remote
+35, New York,New York City,41,Real Estate Brokers,"Senior Associate, Debt Originations- Nuveen Real Estate",TIAA,3.7,"New York, NY","$85,500 a year",Not Remote
+36, New York,New York City,41,Real Estate Brokers,Public Relations Account Supervisor - Real Estate,ICR LLC,3.6,"New York, NY",Unknown,Not Remote
+37, New York,New York City,41,Real Estate Brokers,Credit Analyst_Underwriter Commercial Real Estate,"Lancewood Capital, LLC",,"New York, NY","$40,000 - $60,000 a year",Temporarily remote
+38, New York,New York City,41,Real Estate Brokers,Sr. Transaction Manager,Cushman & Wakefield,3.8,"New York, NY",Unknown,Not Remote
+39, New York,New York City,41,Real Estate Brokers,Brokerage Assistant,JLL,3.7,"New York, NY",Unknown,Not Remote
+40, New York,New York City,41,Real Estate Brokers,B2B Marketing Specialist,Spruce,3.7,"New York, NY",Unknown,Not Remote
+41, New York,New York City,41,Real Estate Brokers,"Leasing Manager, Tri-State",WeWork,3.3,"New York, NY",Unknown,Not Remote
+42, New York,New York City,41,Real Estate Brokers,NY & CT Real Estate Agents With a Design Background/Interest,The Designer Realty Group,,"New York, NY","$50,000 - $100,000 a year",Remote
+43, New York,New York City,41,Real Estate Brokers,Commercial Real Estate Salesperson,Habendum Real Estate,,"New York, NY","From $100,000 a year",Not Remote
+44, New York,New York City,41,Real Estate Brokers,Internal Sales Representative,Brookfield Asset Management,3.6,"New York, NY",Unknown,Not Remote
+45, New York,New York City,41,Real Estate Brokers,Housing Specialist,HELP USA,3.2,"Manhattan, NY",Unknown,Not Remote
+46, New York,New York City,41,Real Estate Brokers,Hospitality Associate,The Life Properties,3.2,"New York, NY",Unknown,Not Remote
+47, New York,New York City,41,Real Estate Brokers,"Salaried Real Estate Agent, Brooklyn NY",Better.com,4.2,"Brooklyn, NY",Unknown,Not Remote
+48, New York,New York City,41,Real Estate Brokers,Associate - Commercial Mortgage/CMBS Underwriting,AIG,3.7,"New York, NY",Unknown,Not Remote
+49, New York,New York City,41,Real Estate Brokers,Associate - Commercial Asset Management,Korn Ferry International,3.5,"New York, NY",Unknown,Not Remote
+50, New York,New York City,41,Real Estate Brokers,Associate Implementation Manager,VTS,3.9,"New York, NY",Unknown,Remote
+51, New York,New York City,41,Real Estate Brokers,Paid Acquisition Specialist,"Nasdaq, Inc.",,"New York, NY",Unknown,Not Remote
+52, New York,New York City,41,Real Estate Brokers,Leasing Director,The Corcoran Group,4.1,"New York, NY",Unknown,Not Remote
+53, New York,New York City,41,Real Estate Brokers,"Sales Executive, CoStar – Brooklyn/Queens, NY",CoStar Group,3.0,"New York, NY",Unknown,Not Remote
+54, New York,New York City,41,Real Estate Brokers,Office Administrator - Real estate management,Nelson Management Group,4.0,"Brooklyn, NY","$38,000 - $40,000 a year",Not Remote
+55, New York,New York City,41,Real Estate Brokers,Sales Consultant,CityRealty,,"New York, NY","$39,000 - $47,000 a year",Temporarily remote
+56, New York,New York City,41,Real Estate Brokers,Property Accountant,Fairstead,,"New York, NY",Unknown,Not Remote
+57, New York,New York City,41,Real Estate Brokers,Sales and Marketing Assistant (Korean or Mandarin speaker preferred),New York Moves Real Estate,,"New York, NY","$500 - $2,000 a week",Temporarily remote
+0, New York,New York City,41,Real Estate Sales Agents,MUST HAVE REAL ESTATE LICENSE! Rental Agents (Boutique Real Estate Office),Bruma Realty LLC,,"Bronx, NY","$47,285 - $144,797 a year",Not Remote
+1, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent - License Required,REAL New York,,"New York, NY","Up to $200,000 a year",Remote
+2, New York,New York City,41,Real Estate Sales Agents,Residential Rental Associate,"Time Equities, Inc.",,"New York, NY","$40,000 - $50,000 a year",Not Remote
+3, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent (Junior Agent Position),Compass,3.7,"New York, NY","From $50,000 a year",Temporarily remote
+4, New York,New York City,41,Real Estate Sales Agents,Manager,Cooper & Cooper Real Estate,,"New York, NY","From $80,000 a year",Not Remote
+5, New York,New York City,41,Real Estate Sales Agents,Sales Associate/Investment Sales,APT212,4.6,"New York, NY","$150,000 - $450,000 a year",Not Remote
+6, New York,New York City,41,Real Estate Sales Agents,Real Estate Agents / Brokers,ELIKA Real Estate,,"New York, NY",Unknown,Not Remote
+7, New York,New York City,41,Real Estate Sales Agents,Inside Real Estate Sales Associate (Remote),Chappel Real Estate Advisors,,"New York, NY","$75,000 - $125,000 a year",Remote
+8, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,Keller Williams Realty,4.3,"New York, NY","Up to $214,137 a year",Remote
+9, New York,New York City,41,Real Estate Sales Agents,Manhattan Luxury Real Estate Agent,CRUM,4.7,"New York, NY","Up to $171,146 a year",Remote
+10, New York,New York City,41,Real Estate Sales Agents,Real Estate Broker Assistant,Douglas Elliman Real Estate,4.2,"New York, NY","$55,000 a year",Temporarily remote
+11, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent (Independent Contractor) - New York,Redfin,3.4,"New York, NY",Unknown,Not Remote
+12, New York,New York City,41,Real Estate Sales Agents,Commercial Real Estate Agents,RI Manhattan Realty,,"New York, NY",Unknown,Not Remote
+13, New York,New York City,41,Real Estate Sales Agents,Executive Assistant,Dawson | Varvara Team at Compass,,"New York, NY","$65,000 - $90,000 a year",Remote
+14, New York,New York City,41,Real Estate Sales Agents,Licensed Real Estate Agent,Keller Williams NYC,4.3,"New York, NY","$44,839 - $171,909 a year",Remote
+15, New York,New York City,41,Real Estate Sales Agents,Salaried Real Estate Agent,Better Mortgage Corporation,,"New York, NY",Unknown,Not Remote
+16, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,Mayell Realty,,"New York, NY","$85,000 - $209,365 a year",Not Remote
+17, New York,New York City,41,Real Estate Sales Agents,Real Estate Broker or Team,Oxford Property Group,4.2,"New York, NY","$94,000 - $250,000 a year",Remote
+18, New York,New York City,41,Real Estate Sales Agents,Real Estate Sales Assistant,"Hooli Homes New York, INC.",,"New York, NY","$32,987 - $178,121 a year",Temporarily remote
+19, New York,New York City,41,Real Estate Sales Agents,Licensed Real Estate Salesperson - up to 100% Commissions!!!,Zaymara Real Estate Group,,"New York, NY","$50,000 - $125,000 a year",Remote
+20, New York,New York City,41,Real Estate Sales Agents,Sales Associate/Investment Sales,APT212,4.6,"New York, NY","$150,000 - $450,000 a year",Not Remote
+21, New York,New York City,41,Real Estate Sales Agents,Sales Support Administrator,Coldwell Banker Real Estate LLC,4.2,"New York, NY",Unknown,Not Remote
+22, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent - License Required,REAL New York,,"New York, NY","Up to $200,000 a year",Remote
+23, New York,New York City,41,Real Estate Sales Agents,Licensed Real Estate Agent,Oxford Property Group,4.2,"New York, NY","$38,644 - $216,252 a year",Temporarily remote
+24, New York,New York City,41,Real Estate Sales Agents,ENTRY LEVEL REAL ESTATE AGENT (CREATIVE),Creative Real Estate Pros Rapid,,"Brooklyn, NY",Unknown,Not Remote
+25, New York,New York City,41,Real Estate Sales Agents,Sales Development Representative,Triplemint,4.3,"New York, NY",Unknown,Not Remote
+26, New York,New York City,41,Real Estate Sales Agents,Sales Consultant,CityRealty,,"New York, NY","$39,000 - $47,000 a year",Temporarily remote
+27, New York,New York City,41,Real Estate Sales Agents,NY & CT Real Estate Agents With a Design Background/Interest,The Designer Realty Group,,"New York, NY","$50,000 - $100,000 a year",Remote
+28, New York,New York City,41,Real Estate Sales Agents,Receptionist,The Corcoran Group,4.1,"New York, NY",Unknown,Not Remote
+29, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,Keller Williams Realty,4.3,"New York, NY",Unknown,Not Remote
+30, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,Fave Realty,,"Brooklyn, NY","$50,000 - $100,000 a year",Not Remote
+31, New York,New York City,41,Real Estate Sales Agents,Real Estate Professional,NYrentownsell,,"New York, NY",Unknown,Not Remote
+32, New York,New York City,41,Real Estate Sales Agents,Outside Sales Representative,Simply Moving,,"New York, NY","$80,000 - $120,000 a year",Not Remote
+33, New York,New York City,41,Real Estate Sales Agents,Realtor/Sales Agent,Oxford Property Group,4.2,"New York, NY","$65,000 - $135,059 a year",Remote
+34, New York,New York City,41,Real Estate Sales Agents,Operations Manager,Compass Real Estate,4.0,"New York, NY","$50,000 - $75,000 a year",Temporarily remote
+35, New York,New York City,41,Real Estate Sales Agents,Operations Manager,Orchard,,"New York, NY",Unknown,Temporarily remote
+36, New York,New York City,41,Real Estate Sales Agents,Residential Rental Associate,"Time Equities, Inc.",,"New York, NY","$40,000 - $50,000 a year",Not Remote
+37, New York,New York City,41,Real Estate Sales Agents,Chief Stations Operation Officer,Metropolitan Transportation Authority,3.9,"Manhattan, NY",Unknown,Not Remote
+38, New York,New York City,41,Real Estate Sales Agents,Life Insurance Agent,New York Life,3.7,"New York, NY","$42,182 - $222,799 a year",Temporarily remote
+39, New York,New York City,41,Real Estate Sales Agents,NY & CT Real Estate Agents With a Design Background/Interest,The Designer Realty Group,,"Bronx, NY","$50,000 - $100,000 a year",Remote
+40, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,NYrentownsell,,"New York, NY",Unknown,Not Remote
+41, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,Triplemint,4.3,"New York, NY",Unknown,Not Remote
+42, New York,New York City,41,Real Estate Sales Agents,Project Manager,APT212,4.6,"New York, NY","$36,000 - $60,000 a year",Not Remote
+43, New York,New York City,41,Real Estate Sales Agents,Administrative Assistant,The Corcoran Group,4.1,"Brooklyn, NY",Unknown,Not Remote
+44, New York,New York City,41,Real Estate Sales Agents,Manager,Cooper & Cooper Real Estate,,"New York, NY","From $80,000 a year",Not Remote
+45, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,NFR,4.2,"New York, NY",Unknown,Remote
+46, New York,New York City,41,Real Estate Sales Agents,"Assistant VP, Investment Management Group",RXR Construction Services LLC,,"New York, NY",Unknown,Not Remote
+47, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,One Home Away,,"Brooklyn, NY","$52,457 - $147,758 a year",Temporarily remote
+48, New York,New York City,41,Real Estate Sales Agents,Experienced Commercial Real Estate Agent,Elanden Consulting,,"New York, NY","$54,291 - $173,163 a year",Not Remote
+49, New York,New York City,41,Real Estate Sales Agents,Agent Services Representative,Global Home Protection,,"Brooklyn, NY","$26,732 - $155,249 a year",Temporarily remote
+50, New York,New York City,41,Real Estate Sales Agents,"Salaried Real Estate Agent, Brooklyn NY",Better.com,4.2,"Brooklyn, NY",Unknown,Not Remote
+51, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent Intern - Commission Earned,Mayell Realty,,"New York, NY","$60,030 - $209,365 a year",Not Remote
+52, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,AgentAdvice.com,,"Brooklyn, NY","Up to $96,000 a year",Not Remote
+53, New York,New York City,41,Real Estate Sales Agents,Branch Sales Manager - Exempt,Bank of England,3.8,"New York, NY",Unknown,Not Remote
+54, New York,New York City,41,Real Estate Sales Agents,Leasing Director,The Corcoran Group,4.1,"New York, NY",Unknown,Not Remote
+55, New York,New York City,41,Real Estate Sales Agents,Real Estate Agent,Polanco & Associates Real Estate Firm,,"East Rutherford, NJ","$35,000 - $100,000 a year",Remote
+0, New York,New York City,43,Office and Administrative Support Occupations,Medical Support Assistant,US Department of Veterans Affairs,3.8,"New York, NY","$40,749 - $52,976 a year",Not Remote
+1, New York,New York City,43,Office and Administrative Support Occupations,Local Hire (Customer Representative - Non-Medical Vaccine Support Staff),US Department of Homeland Security,3.8,"Newark, NJ",$18.58 an hour,Not Remote
+2, New York,New York City,43,Office and Administrative Support Occupations,Social Worker - Caregiver Support,US Department of Veterans Affairs,3.8,"New York, NY","$74,702 - $97,118 a year",Not Remote
+3, New York,New York City,43,Office and Administrative Support Occupations,Staff Assistant,US Department of Veterans Affairs,3.8,"Bronx, NY","$61,742 - $80,263 a year",Not Remote
+4, New York,New York City,43,Office and Administrative Support Occupations,Supervisory Biomedical Equipment Support Specialist,US Department of Veterans Affairs,3.8,"New York, NY","$89,537 - $116,403 a year",Not Remote
+5, New York,New York City,43,Office and Administrative Support Occupations,Safety and Occupational Health Specialist,US Department of Homeland Security,3.8,"New York, NY","$74,702 - $116,403 a year",Not Remote
+6, New York,New York City,43,Office and Administrative Support Occupations,Biomedical Equipment Support Specialist,US Department of Veterans Affairs,3.8,"New York, NY","$40,749 - $97,118 a year",Not Remote
+7, New York,New York City,43,Office and Administrative Support Occupations,Inventory Planner,NYC Health + Hospitals,3.8,"Manhattan, NY","$40,776 - $80,000 a year",Not Remote
+8, New York,New York City,43,Office and Administrative Support Occupations,"Inventory Planner (Coordinating Manager), Supply Chain",NYC Health + Hospitals,3.8,"New York, NY",Unknown,Not Remote
+9, New York,New York City,43,Office and Administrative Support Occupations,Social Worker,US Department of Veterans Affairs,3.8,"Bronx, NY","$74,702 - $97,118 a year",Not Remote
+10, New York,New York City,43,Office and Administrative Support Occupations,Audiologist,US Department of Veterans Affairs,3.8,"Bronx, NY","$89,537 - $116,403 a year",Not Remote
+11, New York,New York City,43,Office and Administrative Support Occupations,INTERN - POLITICAL AFFAIRS [Temporary],United Nations,4.4,"New York, NY",Unknown,Not Remote
+12, New York,New York City,43,Office and Administrative Support Occupations,Officer Manager (Supplies),NYC Health + Hospitals,3.8,"Brooklyn, NY","$47,418 a year",Not Remote
+13, New York,New York City,43,Office and Administrative Support Occupations,Practical Nurse,US Department of Veterans Affairs,3.8,"Bronx, NY","$43,061 - $61,542 a year",Not Remote
+14, New York,New York City,43,Office and Administrative Support Occupations,Supervisory Diagnostic Radiologic Technologist,US Department of Veterans Affairs,3.8,"Bronx, NY","$89,537 - $116,403 a year",Not Remote
+15, New York,New York City,43,Office and Administrative Support Occupations,INTERN - POLITICAL AFFAIRS [Temporary],United Nations,4.4,"New York, NY",Unknown,Not Remote
+16, New York,New York City,43,Office and Administrative Support Occupations,Licensed Marriage and Family Therapist (Vet Center Director),US Department of Veterans Affairs,3.8,"Secaucus, NJ","$89,537 - $116,403 a year",Not Remote
+17, New York,New York City,43,Office and Administrative Support Occupations,Social Worker (Vet Center Director),US Department of Veterans Affairs,3.8,"Secaucus, NJ","$89,537 - $116,403 a year",Not Remote
+18, New York,New York City,43,Office and Administrative Support Occupations,Licensed Professional Mental Health Counselor (Vet Center Director),US Department of Veterans Affairs,3.8,"Secaucus, NJ","$89,537 - $116,403 a year",Not Remote
+19, New York,New York City,43,Office and Administrative Support Occupations,Psychologist (Vet Center Director),US Department of Veterans Affairs,3.8,"Secaucus, NJ","$106,471 - $138,413 a year",Not Remote
+20, New York,New York City,43,Office and Administrative Support Occupations,Practical Nurse,US Department of Veterans Affairs,3.8,"Bronx, NY","$45,423 - $59,049 a year",Not Remote
+0, New York,New York City,43,Telephone Operators,Assistant Manager (retail) -NY28,Prime Group Holdings,3.8,"Bronx, NY",From $17 an hour,Not Remote
+1, New York,New York City,43,Telephone Operators,Firefighter (ARFF and EMT certified),PAE- Antarctic Support Contract,,United States,"$1,100 - $1,240 a week",Not Remote
+2, New York,New York City,43,Telephone Operators,Call Center Leasing & Resident Service Specialist,Related Companies,3.2,"New York, NY",$25 an hour,Not Remote
+3, New York,New York City,43,Telephone Operators,Switchboard Operator,Caremount Medical,2.9,"New York, NY",Unknown,Not Remote
+4, New York,New York City,43,Telephone Operators,"MANAGER OF RADIO REPAIR OPERATIONS, (NM-1)",POLICE DEPARTMENT,,"New York, NY","$58,700 - $173,486 a year",Not Remote
+5, New York,New York City,43,Telephone Operators,Dispensary Associate - Part Time,Curaleaf,2.1,"Forest Hills, NY",Unknown,Not Remote
+6, New York,New York City,43,Telephone Operators,Hospitality Associate,Olive Tree Holdings,5.0,"New York, NY",Unknown,Not Remote
+7, New York,New York City,43,Telephone Operators,Hospitality Associate,The Life Properties,3.2,"New York, NY",Unknown,Not Remote
+8, New York,New York City,43,Telephone Operators,Hospitality Associate,Olive Tree Holdings,5.0,"New York, NY",Unknown,Not Remote
+9, New York,New York City,43,Telephone Operators,IT Helpdesk Manager,NYU Langone,4.1,"New York, NY",Unknown,Not Remote
+10, New York,New York City,43,Telephone Operators,Overdrive Operator/Technical Director,Nexstar Broadcasting,2.8,"New York, NY",Unknown,Not Remote
+11, New York,New York City,43,Telephone Operators,Telecommunications Technician,US Department of Veterans Affairs,3.8,"Brooklyn, NY","$40,749 - $52,976 a year",Not Remote
+12, New York,New York City,43,Telephone Operators,"Security Dispatch Manager - NY, NY",Guardian Service Industries Inc,3.3,"New York, NY","$50,000 - $60,000 a year",Not Remote
+13, New York,New York City,43,Telephone Operators,TRACTOR TRAILER OPERATOR,United States Postal Service,3.4,"New York, NY",$23.74 an hour,Not Remote
+14, New York,New York City,43,Telephone Operators,Hospitality Associate,The Life Properties,3.2,"New York, NY",Unknown,Not Remote
+15, New York,New York City,43,Telephone Operators,"Account Executive B2B - Nashville , TN",Williams Sonoma,3.5,"Brooklyn, NY",Unknown,Remote
+16, New York,New York City,43,Telephone Operators,"Director of Central Clearance Unit, Bureau of Childcare",DEPT OF HEALTH/MENTAL HYGIENE,4.0,"Manhattan, NY","$58,700 - $120,000 a year",Not Remote
+17, New York,New York City,43,Telephone Operators,IT Helpdesk Manager,NYU Langone Health,4.1,"New York, NY",Unknown,Not Remote
+18, New York,New York City,43,Telephone Operators,Neighborhood General Manager,REEF,3.3,"New York, NY",Unknown,Not Remote
+19, New York,New York City,43,Telephone Operators,Administrative Assistant,Newark Housing Authority,3.6,"Newark, NJ",Unknown,Not Remote
+20, New York,New York City,43,Telephone Operators,Food Delivery Driver,Southside Restaurant,,"Bronx, NY",$290 - $490 a week,Not Remote
+21, New York,New York City,43,Telephone Operators,"Assistant General Counsel, Privacy",REEF,3.3,"New York, NY",Unknown,Not Remote
+22, New York,New York City,43,Telephone Operators,IT Vulnerability Manager,Wheels Up Partners LLC,,"New York, NY",Unknown,Not Remote
+23, New York,New York City,43,Telephone Operators,Switchboard Operator,Voice Exchange,3.5,"Bronx, NY",Unknown,Not Remote
+24, New York,New York City,43,Telephone Operators,Assistant Manager (retail) -NY28,Prime Group Holdings,3.8,"Bronx, NY",From $17 an hour,Not Remote
+25, New York,New York City,43,Telephone Operators,TRACTOR TRAILER OPERATOR,United States Postal Service,3.4,"Jersey City, NJ",$23.74 an hour,Not Remote
+26, New York,New York City,43,Telephone Operators,Front Desk Agent,Hyatt Place Secaucus Meadowlands,3.1,"Secaucus, NJ",Unknown,Not Remote
+0, New York,New York City,43, Transportation Ticket Agents,Terminal Supervisor,NJ Transit,3.8,"New York, NY",$28.75 an hour,Not Remote
+1, New York,New York City,43, Transportation Ticket Agents,Chief Stations Operation Officer,Metropolitan Transportation Authority,3.9,"Manhattan, NY",Unknown,Not Remote
+2, New York,New York City,43, Transportation Ticket Agents,Government entry level,U.S. Army,4.3,"New York, NY","Up to $79,000 a year",Not Remote
+3, New York,New York City,43, Transportation Ticket Agents,Deputy Chief of Human Resources,NJ Transit,3.8,"Newark, NJ",Unknown,Not Remote
+0, New York,New York City,43,Payroll Clerks,Payroll Clerk,Americare,,"Brooklyn, NY",$19 an hour,Not Remote
+1, New York,New York City,43,Payroll Clerks,Junior Financial Analyst/Accounting Clerk,Established Real Estate Firm in NYC,,"New York, NY","Up to $45,000 a year",Not Remote
+2, New York,New York City,43,Payroll Clerks,Bookkeeper/Administrative Assistant,Europa Concrete Corp.,,"Newark, NJ",$17 - $23 an hour,Not Remote
+3, New York,New York City,43,Payroll Clerks,AP Staff Accountant / Fund EZ,The Essex Companies,,"Brooklyn, NY","Up to $45,000 a year",Not Remote
+4, New York,New York City,43,Payroll Clerks,Payroll Assistant Nursing Administration Evenings,NewYork-Presbyterian Hospital,4.2,"New York, NY",Unknown,Not Remote
+5, New York,New York City,43,Payroll Clerks,"Senior Administrative Assistant, Sloan Kettering Institute",Memorial Sloan-Kettering Cancer Center,4.2,"New York, NY",Unknown,Not Remote
+6, New York,New York City,43,Payroll Clerks,Payroll Clerk,Americare,,"Brooklyn, NY",$19 an hour,Not Remote
+7, New York,New York City,43,Payroll Clerks,Payroll Clerk,Americare,3.5,"Brooklyn, NY",From $19 an hour,Not Remote
+8, New York,New York City,43,Payroll Clerks,"Human Resources Associate, HR",Harlem United,3.8,"New York, NY",Unknown,Not Remote
+9, New York,New York City,43,Payroll Clerks,Payroll Coordinator,"Cast & Crew Entertainment Services, LLC",3.4,"New York, NY",Unknown,Not Remote
+10, New York,New York City,43,Payroll Clerks,Part-time Administrative Assistant,Project Renewal,3.4,"New York, NY",Unknown,Not Remote
+11, New York,New York City,43,Payroll Clerks,Bookkeeper,The UPS Store #7257,,"Brooklyn, NY",Unknown,Not Remote
+12, New York,New York City,43,Payroll Clerks,Spanish payroll clerk,Doral Health & Wellness,,"Brooklyn, NY",Unknown,Not Remote
+13, New York,New York City,43,Payroll Clerks,Accounting Clerk,Brooklyn Job Corps Center,3.7,"Brooklyn, NY",Unknown,Not Remote
+14, New York,New York City,43,Payroll Clerks,Staff Accounting Clerk Complex,"Envue Hotel, an Autograph Collection",,"Weehawken, NJ",Unknown,Not Remote
+15, New York,New York City,43,Payroll Clerks,Payroll Clerk,City Winery International,,"New York, NY",Unknown,Not Remote
+16, New York,New York City,43,Payroll Clerks,Office Lead Worker - Lord Abbett - OS,Aramark,3.5,"Jersey City, NJ",Unknown,Not Remote
+17, New York,New York City,43,Payroll Clerks,Bookkeeper/Administrative Assistant,Europa Concrete Corp.,,"Newark, NJ",$17 - $23 an hour,Not Remote
+18, New York,New York City,43,Payroll Clerks,Accounting Clerk/Sr. Accounting Clerk - Human Resources Division,County of Volusia,3.9,"New York, NY",Unknown,Not Remote
+19, New York,New York City,43,Payroll Clerks,Payroll Specialist / Payroll Clerk / Payroll Coordinator - $17/hr.,DISYS,3.5,United States,$13.00 - $17.05 an hour,Remote
+20, New York,New York City,43,Payroll Clerks,Office Lead Worker - Lord Abbett - OS,Aramark,3.5,"Jersey City, NJ",Unknown,Not Remote

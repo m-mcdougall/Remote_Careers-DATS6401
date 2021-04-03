@@ -1,0 +1,455 @@
+,SearchState,SearchCity,Category,SearchTitle,Title,Company,Stars,Location,Wage,Remote
+0, New Hampshire,Manchester,11,Facilities Manager,Maintenance Planner,Weston Foods,3.3,"Manchester, NH",Unknown,Not Remote
+1, New Hampshire,Manchester,11,Facilities Manager,Director of Maintenance,The Courville at Manchester,3.4,"Manchester, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,11,Facilities Manager,Maintenance Planner,Weston Foods,3.3,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,11,Funeral Home Managers,Multi-Location Manager/Licensed Funeral Director,Brandon G. Thompson Funeral Home,,United States,"$75,000 - $110,000 a year",Not Remote
+0, New Hampshire,Manchester,11,Manager,Assistant Manager,Domino's,3.6,"Manchester, NH","$40,040 - $100,000 a year",Not Remote
+1, New Hampshire,Manchester,11,Manager,Property Manager,Briarcliff Management,,"Manchester, NH","$40,000 - $50,000 a year",Not Remote
+2, New Hampshire,Manchester,11,Manager,Demolition Estimator/Project Manager,New Hampshire Demolition,,"Auburn, NH","$75,000 - $90,000 a year",Not Remote
+3, New Hampshire,Manchester,11,Manager,Project Manager,Universal Windows Direct of Manchester,2.9,"Manchester, NH","$54,000 - $74,000 a year",Not Remote
+4, New Hampshire,Manchester,11,Manager,Kitchen Manager,The Fleury Group LLC,,"Manchester, NH","From $45,000 a year",Not Remote
+5, New Hampshire,Manchester,11,Manager,Business Improvement Manager,CCA Global Partners,4.2,"Manchester, NH",Unknown,Not Remote
+6, New Hampshire,Manchester,11,Manager,CRE Brokerage Manager,Confidential - Real Estate,,"Manchester, NH","$50,000 - $75,000 a year",Not Remote
+7, New Hampshire,Manchester,11,Manager,F&I Manager/Sales Manager,Team Nissan,3.5,"Manchester, NH","$75,129 - $148,615 a year",Not Remote
+8, New Hampshire,Manchester,11,Manager,Human Resources Manager,NH NeuroSpine Institute,,"Bedford, NH",Unknown,Not Remote
+9, New Hampshire,Manchester,11,Manager,Office Manager,"Sweeney Financial Management (SFM, LLC)",,"Manchester, NH",$18 - $25 an hour,Not Remote
+10, New Hampshire,Manchester,11,Manager,Administrative Services Manager - City Clerk,"City of Manchester, NH",,"Manchester, NH",From $20.17 an hour,Not Remote
+11, New Hampshire,Manchester,11,Manager,Office Manager - New Hampshire,"Groups Recover Together, Inc.",,"Manchester, NH",Unknown,Not Remote
+12, New Hampshire,Manchester,11,Manager,Property Manager,Briarcliff Management,,"Manchester, NH","$40,000 - $50,000 a year",Not Remote
+13, New Hampshire,Manchester,11,Manager,Branch Manager,Fox Pest Control,4.0,"Manchester, NH","$75,000 - $100,000 a year",Not Remote
+14, New Hampshire,Manchester,11,Manager,"Collections and Recovery: Regional Portfolio Manager (Remote: MA,VT, CT, ME, RI)",DLL Group,4.2,"Manchester, NH",Unknown,Remote
+15, New Hampshire,Manchester,11,Manager,Portfolio Manager,North Point Property Management LLC,2.4,"Manchester, NH","$45,000 - $55,000 a year",Not Remote
+16, New Hampshire,Manchester,11,Manager,Human Resources Manager,NH NeuroSpine Institute,,"Bedford, NH",Unknown,Not Remote
+17, New Hampshire,Manchester,11,Manager,Assistant Manager of Customer Service,Hannaford,3.7,"Manchester, NH",Unknown,Not Remote
+18, New Hampshire,Manchester,11,Manager,GP Manager,PepsiCo,3.8,"Manchester, NH",Unknown,Not Remote
+19, New Hampshire,Manchester,11,Manager,Business Process Manager,Southern New Hampshire University,4.0,"Manchester, NH",Unknown,Not Remote
+20, New Hampshire,Manchester,11,Manager,Front Desk Manager,Comfort Inn,3.5,"Manchester, NH",Unknown,Not Remote
+21, New Hampshire,Manchester,11,Manager,District Manager,WIS International,2.9,"Manchester, NH",Unknown,Not Remote
+22, New Hampshire,Manchester,11,Manager,Shipping Manager,Harvey Industries LLC,3.0,"Londonderry, NH",Unknown,Not Remote
+23, New Hampshire,Manchester,11,Manager,General Sales Manager,Team Nissan,3.5,"Manchester, NH","$75,129 - $148,615 a year",Not Remote
+24, New Hampshire,Manchester,11,Manager,CRE Brokerage Manager,Confidential - Real Estate,,"Manchester, NH","$50,000 - $75,000 a year",Not Remote
+25, New Hampshire,Manchester,11,Manager,Assistant Property Manager,Devonshire Village Apartments,,"Manchester, NH",$18 - $20 an hour,Not Remote
+26, New Hampshire,Manchester,11,Manager,MANUFACTURING SUPERVISOR,Tecomet,2.6,"Manchester, NH",Unknown,Not Remote
+27, New Hampshire,Manchester,11,Manager,Foundry Supervisor,Uni-Cast,,"Londonderry, NH","$80,000 - $100,000 a year",Not Remote
+28, New Hampshire,Manchester,11,Manager,"Manager - Engineering, Textiles",Velcro USA Inc.,3.4,"Manchester, NH",Unknown,Not Remote
+29, New Hampshire,Manchester,11,Manager,Academic Program Manager,Southern New Hampshire University,4.0,"Manchester, NH",Unknown,Not Remote
+30, New Hampshire,Manchester,11,Manager,Sal's Pizza Store Manager ($500 sign-on bonus),Lupoli Companies,2.4,"Manchester, NH",Unknown,Not Remote
+31, New Hampshire,Manchester,11,Manager,Mortgage Servicing Finance Manager,HarborOne Bank,3.7,"Manchester, NH",Unknown,Not Remote
+32, New Hampshire,Manchester,11,Manager,Help Desk Manager - Telecommunications,"Quality Innovation, Inc.",,"Manchester, NH",Unknown,Remote
+33, New Hampshire,Manchester,11,Manager,"Social Work/Case Manager - Case Management, Full Time",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+34, New Hampshire,Manchester,11,Manager,Front Office Manager,Roedel Companies,2.8,"Manchester, NH",Unknown,Not Remote
+35, New Hampshire,Manchester,11,Manager,Subway® Manager,Subway,3.6,"Manchester, NH","$30,000 - $40,000 a year",Not Remote
+36, New Hampshire,Manchester,11,Manager,"Manager - Engineering, Textiles",Velcro USA Inc.,3.4,"Manchester, NH",Unknown,Not Remote
+37, New Hampshire,Manchester,11,Manager,"Supervisor, Customer Resolutions",EVERSOURCE,3.6,"Manchester, NH",Unknown,Not Remote
+38, New Hampshire,Manchester,11,Manager,Complex Assistant General Manager,Highgate Hotels,2.5,"Manchester, NH",Unknown,Not Remote
+39, New Hampshire,Manchester,11,Manager,Used Car Manager,Team Nissan,3.5,"Manchester, NH","$75,129 - $148,615 a year",Not Remote
+40, New Hampshire,Manchester,11,Manager,Development Manager,JDRF International,3.3,"Manchester, NH",Unknown,Not Remote
+41, New Hampshire,Manchester,11,Manager,Project Manager,Universal Windows Direct of Manchester,2.9,"Manchester, NH","$54,000 - $74,000 a year",Not Remote
+42, New Hampshire,Manchester,11,Manager,General Manager,Global Partners,2.4,"Manchester, NH",Unknown,Not Remote
+43, New Hampshire,Manchester,11,Manager,Purchasing Manager,Wiggins Airways,4.4,"Manchester, NH",Unknown,Not Remote
+44, New Hampshire,Manchester,11,Manager,Development Manager,JDRF,4.0,"Manchester, NH",Unknown,Not Remote
+45, New Hampshire,Manchester,11,Manager,Payroll & Accounts Payable Manager,Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+46, New Hampshire,Manchester,11,Manager,STORE MANAGER,Family Dollar,3.2,"Manchester, NH",Unknown,Not Remote
+47, New Hampshire,Manchester,11,Manager,Law Office Manager,"Hage Hodes, P.A.",,"Manchester, NH",Unknown,Temporarily remote
+48, New Hampshire,Manchester,11,Manager,Assistant Manager,Domino's,3.6,"Manchester, NH","$40,040 - $100,000 a year",Not Remote
+49, New Hampshire,Manchester,11,Manager,Patient Access Supervisor,Conifer Health Solutions,3.1,"Manchester, NH",Unknown,Not Remote
+50, New Hampshire,Manchester,11,Manager,Lowe's Area Sales Manager,MasterBrand Cabinets Inc.,3.4,"Manchester, NH",Unknown,Not Remote
+51, New Hampshire,Manchester,11,Manager,Assistant Office Manager,Ashley Furniture HomeStore,,"Manchester, NH",Unknown,Not Remote
+52, New Hampshire,Manchester,11,Manager,Case Manager,Northeast Family Services,,"Manchester, NH",Unknown,Temporarily remote
+53, New Hampshire,Manchester,11,Manager,Web Manager,Easterseals NH,3.7,"Manchester, NH","$70,000 a year",Not Remote
+54, New Hampshire,Manchester,11,Manager,Lot Manager,Country Camper,,"Manchester, NH",$15 - $20 an hour,Not Remote
+55, New Hampshire,Manchester,11,Manager,Regional Membership Lead Job,"BJ's Wholesale Club, Inc.",3.3,"Manchester, NH",Unknown,Not Remote
+56, New Hampshire,Manchester,11,Manager,Concessions Manager,Levy,3.9,"Manchester, NH",Unknown,Not Remote
+57, New Hampshire,Manchester,11,Manager,Adult Case Manager,Center for Life Management,3.7,"Derry, NH",Unknown,Not Remote
+58, New Hampshire,Manchester,11,Manager,Social Worker/Case Manager,Waypoint,4.3,"Manchester, NH",Up to $21 an hour,Not Remote
+0, New Hampshire,Manchester,11,Personal Service Managers,Chief Safety Officer,Manchester Transit Authority,,"Manchester, NH",From $25 an hour,Not Remote
+1, New Hampshire,Manchester,11,Personal Service Managers,Valet Parking Attendant - Elliot Hospital,Towne Park,3.4,"Manchester, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,11,Personal Service Managers,Director of Finance,CALLOGIX INC,2.6,"Manchester, NH","From $75,000 a year",Not Remote
+3, New Hampshire,Manchester,11,Personal Service Managers,Assistant Manager,Domino's,3.6,"Manchester, NH","$40,040 - $100,000 a year",Not Remote
+4, New Hampshire,Manchester,11,Personal Service Managers,Earthwork Construction Foreman,NAX,,"Manchester, NH","$60,000 - $80,000 a year",Not Remote
+5, New Hampshire,Manchester,11,Personal Service Managers,Restaurant Managers,The Fleury Group LLC,,"Manchester, NH",Unknown,Not Remote
+6, New Hampshire,Manchester,11,Personal Service Managers,Dispatch/Customer Service Representative,Manchester Motor Freight,3.9,"Manchester, NH","From $40,000 a year",Not Remote
+7, New Hampshire,Manchester,11,Personal Service Managers,F&I Manager/Sales Manager,Team Nissan,3.5,"Manchester, NH","$75,129 - $148,615 a year",Not Remote
+8, New Hampshire,Manchester,11,Personal Service Managers,Office Manager,"Sweeney Financial Management (SFM, LLC)",,"Manchester, NH",$18 - $25 an hour,Not Remote
+9, New Hampshire,Manchester,11,Personal Service Managers,Dispatch/Customer Service Representative,Manchester Motor Freight,3.9,"Manchester, NH","From $40,000 a year",Not Remote
+10, New Hampshire,Manchester,11,Personal Service Managers,Patient Service Representative,Aspen Dental,2.6,"Bedford, NH",Unknown,Not Remote
+11, New Hampshire,Manchester,11,Personal Service Managers,Chief Safety Officer,Manchester Transit Authority,,"Manchester, NH",From $25 an hour,Not Remote
+12, New Hampshire,Manchester,11,Personal Service Managers,Assistant Manager of Customer Service,Hannaford,3.7,"Manchester, NH",Unknown,Not Remote
+13, New Hampshire,Manchester,11,Personal Service Managers,Customer Service Associates/Cashiers,Lowes,,"Bedford, NH",From $14 an hour,Not Remote
+14, New Hampshire,Manchester,11,Personal Service Managers,Merchandise Associate,"Homesense Bedford, NH",,"Bedford, NH",$10 - $12 an hour,Not Remote
+15, New Hampshire,Manchester,11,Personal Service Managers,Office Manager - New Hampshire,"Groups Recover Together, Inc.",,"Manchester, NH",Unknown,Not Remote
+16, New Hampshire,Manchester,11,Personal Service Managers,Retail Associate,Laundromax,3.3,"Manchester, NH",$10 - $15 an hour,Not Remote
+17, New Hampshire,Manchester,11,Personal Service Managers,servers,IHOP,3.5,"Bedford, NH",$120 - $200 a day,Not Remote
+18, New Hampshire,Manchester,11,Personal Service Managers,Customer Service Supervisor,VCA Animal Hospitals,3.3,"Bedford, NH",Unknown,Not Remote
+19, New Hampshire,Manchester,11,Personal Service Managers,"Supervisor, Customer Resolutions",EVERSOURCE,3.6,"Manchester, NH",Unknown,Not Remote
+20, New Hampshire,Manchester,11,Personal Service Managers,Foundry Supervisor,Uni-Cast,,"Londonderry, NH","$80,000 - $100,000 a year",Not Remote
+21, New Hampshire,Manchester,11,Personal Service Managers,Part-Time Service Dispatcher,Dead River Company,3.0,"Manchester, NH",Unknown,Not Remote
+22, New Hampshire,Manchester,11,Personal Service Managers,Customer Service Associate,WALGREENS,3.6,"Manchester, NH",Unknown,Not Remote
+23, New Hampshire,Manchester,11,Personal Service Managers,Customer Service Associate / Cashier,WICKED GOOD BUTCHAH,,"Bedford, NH",$10 - $12 an hour,Not Remote
+24, New Hampshire,Manchester,11,Personal Service Managers,Part-time Cashier Customer Service Associate,Hannaford,3.7,"Derry, NH",Unknown,Not Remote
+25, New Hampshire,Manchester,11,Personal Service Managers,Janitorial,Roedel Companies,2.8,"Manchester, NH",Unknown,Not Remote
+26, New Hampshire,Manchester,11,Personal Service Managers,Office Assistant,AutoFair Automotive Group,,"Manchester, NH",Unknown,Not Remote
+27, New Hampshire,Manchester,11,Personal Service Managers,Merchandiser (FT/Night),PepsiCo,3.8,"Manchester, NH",$20.85 an hour,Not Remote
+28, New Hampshire,Manchester,11,Personal Service Managers,Cashier / Host / Attendant,HPL dba Golden Corral,,"Manchester, NH",Unknown,Not Remote
+29, New Hampshire,Manchester,11,Personal Service Managers,Student Career Advisor,NH Job Corps,2.5,"Manchester, NH","$36,000 a year",Not Remote
+30, New Hampshire,Manchester,11,Personal Service Managers,Business Process Manager,Southern New Hampshire University,4.0,"Manchester, NH",Unknown,Not Remote
+31, New Hampshire,Manchester,11,Personal Service Managers,Pet Host (Customer Service Desk),The Barking Dog | NVA,1.7,"Hooksett, NH",Unknown,Not Remote
+32, New Hampshire,Manchester,11,Personal Service Managers,Pet Pro (Day Care/Kennel),The Barking Dog | NVA,1.7,"Hooksett, NH",Unknown,Not Remote
+33, New Hampshire,Manchester,11,Personal Service Managers,Valet Parking Attendant - Elliot Hospital,Towne Park,3.4,"Manchester, NH",Unknown,Not Remote
+34, New Hampshire,Manchester,11,Personal Service Managers,Provider Support Agent: Tier II,Doctor On Demand,2.6,"Manchester, NH",Unknown,Remote
+35, New Hampshire,Manchester,11,Personal Service Managers,Assistant Manager of Customer Service Trainee,Hannaford,3.7,"Bedford, NH",Unknown,Not Remote
+36, New Hampshire,Manchester,11,Personal Service Managers,Social Worker/Case Manager,Waypoint,4.3,"Manchester, NH",Up to $21 an hour,Not Remote
+37, New Hampshire,Manchester,11,Personal Service Managers,Server,HPL dba Golden Corral,,"Manchester, NH",Unknown,Not Remote
+38, New Hampshire,Manchester,11,Personal Service Managers,Supervisor of Volunteer Advocates,CASA of New Hampshire,,"Manchester, NH",Unknown,Not Remote
+39, New Hampshire,Manchester,11,Personal Service Managers,Complex Assistant General Manager,Highgate Hotels,2.5,"Manchester, NH",Unknown,Not Remote
+40, New Hampshire,Manchester,11,Personal Service Managers,Retail Sales Associate,CVS Pharmacy,3.3,"Manchester, NH",$13 - $15 an hour,Not Remote
+41, New Hampshire,Manchester,11,Personal Service Managers,Account Executive,"Nihon Kohden America, Inc",3.1,"Manchester, NH","$90,000 a year",Remote
+42, New Hampshire,Manchester,11,Personal Service Managers,Customer Service Associate,WALGREENS,3.6,"Town of Bedford, NH",Unknown,Not Remote
+43, New Hampshire,Manchester,11,Personal Service Managers,Customer Service Representative - R15472,TruGreen Limited Partnership,3.2,"Londonderry, NH",Unknown,Temporarily remote
+44, New Hampshire,Manchester,11,Personal Service Managers,Restaurant Managers,The Fleury Group LLC,,"Manchester, NH",Unknown,Not Remote
+45, New Hampshire,Manchester,11,Personal Service Managers,Assistant Office Manager,Ashley Furniture HomeStore,,"Manchester, NH",Unknown,Not Remote
+46, New Hampshire,Manchester,11,Personal Service Managers,Automotive Cashier / Receptionist (Part Time),Tulley Automotive Group Inc,3.0,"Manchester, NH",Unknown,Not Remote
+47, New Hampshire,Manchester,11,Personal Service Managers,Customer Service Representative - R15472,TruGreen Limited Partnership,3.2,"Manchester, NH",Unknown,Temporarily remote
+48, New Hampshire,Manchester,11,Personal Service Managers,Lot Manager,Country Camper,,"Manchester, NH",$15 - $20 an hour,Not Remote
+49, New Hampshire,Manchester,11,Personal Service Managers,Furniture Sales Consultant,Ashley Furniture HomeStore,,"Manchester, NH",Unknown,Not Remote
+50, New Hampshire,Manchester,11,Personal Service Managers,Wetland Scientist,Stantec,3.7,"Auburn, NH",Unknown,Not Remote
+51, New Hampshire,Manchester,11,Personal Service Managers,Budget Analyst,US Department of Veterans Affairs,3.8,"Manchester, NH","$71,987 - $93,588 a year",Not Remote
+52, New Hampshire,Manchester,11,Personal Service Managers,Sales Associate,Finish Line Inc.,3.8,"Manchester, NH",$10 an hour,Not Remote
+53, New Hampshire,Manchester,11,Personal Service Managers,Part-time Hannaford to Go,Hannaford,3.7,"Hooksett, NH",Unknown,Not Remote
+54, New Hampshire,Manchester,11,Personal Service Managers,Retail Sales Associate,CVS Pharmacy,3.3,"Manchester, NH",$13 - $15 an hour,Not Remote
+55, New Hampshire,Manchester,11,Personal Service Managers,"Radiology Aide - MRI, Full Time, Nights",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+56, New Hampshire,Manchester,11,Personal Service Managers,Assistant Manager,Domino's,3.6,"Manchester, NH","$40,040 - $100,000 a year",Not Remote
+57, New Hampshire,Manchester,11,Personal Service Managers,Retail Office Associate,Bob's Discount Furniture,3.5,"Manchester, NH",$13 - $14 an hour,Not Remote
+0, New Hampshire,Manchester,13,Financial Specialists,HVAC Install Technician,Heritage Home Service,3.0,"Manchester, NH",$35 - $55 an hour,Not Remote
+1, New Hampshire,Manchester,13,Financial Specialists,HVAC Service Technician,Heritage Home Service,3.0,"Manchester, NH",$35 - $55 an hour,Not Remote
+2, New Hampshire,Manchester,13,Financial Specialists,Business Improvement Manager,CCA Global Partners,4.2,"Manchester, NH",Unknown,Not Remote
+3, New Hampshire,Manchester,13,Financial Specialists,Client Service Specialist,Rise Private Wealth Management,,"Bedford, NH",From $20 an hour,Not Remote
+4, New Hampshire,Manchester,13,Financial Specialists,Property Specialist,Girl Scouts of the Green and White Mountains,,"Bedford, NH",$16 - $18 an hour,Not Remote
+5, New Hampshire,Manchester,13,Financial Specialists,Support Advisor,Rise Private Wealth Management,,"Bedford, NH",From $20 an hour,Not Remote
+6, New Hampshire,Manchester,13,Financial Specialists,ACERT Family Advocate,Amoskeag Health,3.7,"Manchester, NH",Unknown,Not Remote
+7, New Hampshire,Manchester,13,Financial Specialists,Citizens Teller,Citizens,3.4,"Manchester, NH",Unknown,Not Remote
+8, New Hampshire,Manchester,13,Financial Specialists,Financial Representative - Wealth Management Training Program,Northwestern Mutual,3.8,"Manchester, NH","$75,000 - $100,000 a year",Not Remote
+9, New Hampshire,Manchester,13,Financial Specialists,Client Service Specialist,Rise Private Wealth Management,,"Bedford, NH",From $20 an hour,Not Remote
+10, New Hampshire,Manchester,13,Financial Specialists,ACCOUNTS PAYABLE SPECIALIST - TEMPORARY,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+11, New Hampshire,Manchester,13,Financial Specialists,Accounts Payable Specialist,Emerson Ecologics,2.8,"Manchester, NH",Unknown,Not Remote
+12, New Hampshire,Manchester,13,Financial Specialists,Club Coordinator Job,"BJ's Wholesale Club, Inc.",3.3,"Manchester, NH",Unknown,Not Remote
+13, New Hampshire,Manchester,13,Financial Specialists,Medical Receptionist,ConvenientMD Urgent Care,3.1,"Bedford, NH",Unknown,Not Remote
+14, New Hampshire,Manchester,13,Financial Specialists,Support Advisor,Rise Private Wealth Management,,"Bedford, NH",From $20 an hour,Not Remote
+15, New Hampshire,Manchester,13,Financial Specialists,Recreation Therapist,US Department of Veterans Affairs,3.8,"Manchester, NH","$71,987 - $93,588 a year",Not Remote
+16, New Hampshire,Manchester,13,Financial Specialists,"Financial Consultant, Phones - Merrimack, NH",Fidelity Investments,4.1,"Merrimack, NH",Unknown,Not Remote
+17, New Hampshire,Manchester,13,Financial Specialists,Verifications Specialist,Global HR Research,3.2,"Manchester, NH",Unknown,Not Remote
+18, New Hampshire,Manchester,13,Financial Specialists,BENEFITS SPECIALIST- Temporary Role,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+19, New Hampshire,Manchester,13,Financial Specialists,Business Technology Analyst - Asset Based Lending,TD Bank,3.8,"Bedford, NH",Unknown,Not Remote
+20, New Hampshire,Manchester,13,Financial Specialists,Resource Specialist,"Independent Services Network, Inc.",3.3,"Manchester, NH",Unknown,Temporarily remote
+21, New Hampshire,Manchester,13,Financial Specialists,Health Technician (Telehealth) Not-to-Exceed Two Years,US Department of Veterans Affairs,3.8,"Manchester, NH","$39,268 - $56,903 a year",Not Remote
+22, New Hampshire,Manchester,13,Financial Specialists,Family and Community Engagement Specialist,NH College & University Council,,"Manchester, NH","$45,000 - $47,000 a year",Temporarily remote
+23, New Hampshire,Manchester,13,Financial Specialists,"Branch Specialist I, 30hr with benefits",Triangle Credit Union,3.7,"Merrimack, NH",Unknown,Not Remote
+24, New Hampshire,Manchester,13,Financial Specialists,SENIOR COMPLIANCE AUDITOR,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+25, New Hampshire,Manchester,13,Financial Specialists,Controls Lead Systems Specialist,Johnson Controls,3.7,"Manchester, NH",Unknown,Not Remote
+26, New Hampshire,Manchester,13,Financial Specialists,Plumber,Heritage Home Service,3.0,"Manchester, NH",$40 - $60 an hour,Not Remote
+27, New Hampshire,Manchester,13,Financial Specialists,Business Improvement Manager,CCA Global Partners,4.2,"Manchester, NH",Unknown,Not Remote
+28, New Hampshire,Manchester,13,Financial Specialists,Registered Nurse (Nurse Educator),US Department of Veterans Affairs,3.8,"Manchester, NH","$62,114 - $110,481 a year",Not Remote
+29, New Hampshire,Manchester,13,Financial Specialists,Physician Advisor for Clinical Documentation Improvement,Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+30, New Hampshire,Manchester,13,Financial Specialists,Treasury Operations Manager,Fidelity Investments,4.1,"Merrimack, NH",Unknown,Not Remote
+31, New Hampshire,Manchester,13,Financial Specialists,HVAC Service Technician,Heritage Home Service,3.0,"Manchester, NH",$35 - $55 an hour,Not Remote
+32, New Hampshire,Manchester,13,Financial Specialists,NURSE NAVIGATOR,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+33, New Hampshire,Manchester,13,Financial Specialists,Email Marketing Specialist,Arrow Electronics,3.5,"Londonderry, NH",Unknown,Remote
+34, New Hampshire,Manchester,13,Financial Specialists,Property Specialist,Girl Scouts of the Green and White Mountains,,"Bedford, NH",$16 - $18 an hour,Not Remote
+35, New Hampshire,Manchester,13,Financial Specialists,Medical Assistant,ConvenientMD Urgent Care,3.1,"Bedford, NH",Unknown,Not Remote
+36, New Hampshire,Manchester,13,Financial Specialists,Medical Assistant,ConvenientMD Urgent Care,3.1,"Londonderry, NH",Unknown,Not Remote
+37, New Hampshire,Manchester,13,Financial Specialists,Accounts Payable Specialist (1238),Single Digits,3.4,"Bedford, NH",Unknown,Not Remote
+38, New Hampshire,Manchester,13,Financial Specialists,AMBULATORY CLINICAL NURSE MANAGER- Senior Health Primary Care,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+39, New Hampshire,Manchester,13,Financial Specialists,Senior Software Engineer in Test,Fidelity Investments,4.1,"Merrimack, NH",Unknown,Not Remote
+40, New Hampshire,Manchester,13,Financial Specialists,Senior Statistical Programmer (Ref: PY),PHASTAR,,"Londonderry, NH",Unknown,Not Remote
+41, New Hampshire,Manchester,13,Financial Specialists,Electrician,Heritage Home Service,3.0,"Manchester, NH",$35 - $55 an hour,Not Remote
+42, New Hampshire,Manchester,13,Financial Specialists,HVAC Install Technician,Heritage Home Service,3.0,"Manchester, NH",$35 - $55 an hour,Not Remote
+43, New Hampshire,Manchester,13,Financial Specialists,"Director, Theater Lead, VMware App Navigator - Opportunity for Working Remotely Manchester, NH",VMware,4.0,"Manchester, NH",Unknown,Temporarily remote
+44, New Hampshire,Manchester,13,Financial Specialists,"Financial Consultant, Phones - Merrimack, NH",Fidelity Investments,4.1,"Merrimack, NH",Unknown,Not Remote
+45, New Hampshire,Manchester,13,Financial Specialists,Verifications Specialist,Global HR Research,3.2,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,13,Business Operations Specialist,Business Improvement Manager,CCA Global Partners,4.2,"Manchester, NH",Unknown,Not Remote
+1, New Hampshire,Manchester,13,Business Operations Specialist,Client Service Specialist,Rise Private Wealth Management,,"Bedford, NH",From $20 an hour,Not Remote
+2, New Hampshire,Manchester,13,Business Operations Specialist,PPC Support Specialist,Redesign.co,,United States,From $18 an hour,Remote
+3, New Hampshire,Manchester,13,Business Operations Specialist,Registration & Technology Specialist,Community College System of New Hampshire,3.2,"Manchester, NH",Unknown,Not Remote
+4, New Hampshire,Manchester,13,Business Operations Specialist,Client Service Specialist,Rise Private Wealth Management,,"Bedford, NH",From $20 an hour,Not Remote
+5, New Hampshire,Manchester,13,Business Operations Specialist,Mobile Operations Scheduler,DISA Global Solutions,3.2,"Manchester, NH","$65,000 - $70,000 a year",Not Remote
+6, New Hampshire,Manchester,13,Business Operations Specialist,"Specialist, Product Operations",Old Navy,3.7,"Manchester, NH",Unknown,Not Remote
+7, New Hampshire,Manchester,13,Business Operations Specialist,BENEFITS SPECIALIST- Temporary Role,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+8, New Hampshire,Manchester,13,Business Operations Specialist,Business Improvement Manager,CCA Global Partners,4.2,"Manchester, NH",Unknown,Not Remote
+9, New Hampshire,Manchester,13,Business Operations Specialist,Medical Receptionist,ConvenientMD Urgent Care,3.1,"Bedford, NH",Unknown,Not Remote
+10, New Hampshire,Manchester,13,Business Operations Specialist,Business Technology Analyst - Asset Based Lending,TD Bank,3.8,"Bedford, NH",Unknown,Not Remote
+11, New Hampshire,Manchester,13,Business Operations Specialist,"Specialist, Insurance",Merchants Fleet,3.6,"Hooksett, NH",Unknown,Not Remote
+12, New Hampshire,Manchester,13,Business Operations Specialist,Club Coordinator Job,"BJ's Wholesale Club, Inc.",3.3,"Manchester, NH",Unknown,Not Remote
+13, New Hampshire,Manchester,13,Business Operations Specialist,Help Desk Manager - Telecommunications,"Quality Innovation, Inc.",,"Manchester, NH",Unknown,Remote
+14, New Hampshire,Manchester,13,Business Operations Specialist,FT-Sales Specialist ProServices-Opening,Lowe's,3.6,"Bedford, NH",Unknown,Not Remote
+15, New Hampshire,Manchester,13,Business Operations Specialist,Retail Customer Service Specialist,DICK'S Sporting Goods,3.5,"Manchester, NH",Unknown,Not Remote
+16, New Hampshire,Manchester,13,Business Operations Specialist,Outside Sales Rep A,Rexel USA,3.5,"Manchester, NH",Unknown,Not Remote
+17, New Hampshire,Manchester,13,Business Operations Specialist,SENIOR COMPLIANCE AUDITOR,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+18, New Hampshire,Manchester,13,Business Operations Specialist,AMBULATORY CLINICAL NURSE MANAGER- Senior Health Primary Care,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+19, New Hampshire,Manchester,13,Business Operations Specialist,Inventory Control Specialist,Home Depot / THD,3.8,"Hooksett, NH",Unknown,Not Remote
+20, New Hampshire,Manchester,13,Business Operations Specialist,"Help Desk Manager (1157) in Bedford, New Hampshire",Single Digits,3.4,"Bedford, NH",Unknown,Remote
+21, New Hampshire,Manchester,13,Business Operations Specialist,Clinical Educator/Clinical Consultant,Csa Service Solutions Llc,,"Manchester, NH",Unknown,Not Remote
+22, New Hampshire,Manchester,13,Business Operations Specialist,"Director, Theater Lead, VMware App Navigator - Opportunity for Working Remotely Manchester, NH",VMware,4.0,"Manchester, NH",Unknown,Temporarily remote
+23, New Hampshire,Manchester,13,Business Operations Specialist,Clinical Educator/Clinical Consultant,Csa Service Solutions Llc,,"Manchester, NH",Unknown,Not Remote
+24, New Hampshire,Manchester,13,Business Operations Specialist,QA Specialist Validation,System One,3.6,"Bedford, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,13,Tax Preparer,Tax Preparer,Business Systems of Southern NH,,"Nashua, NH",From $17 an hour,Not Remote
+1, New Hampshire,Manchester,13,Tax Preparer,Tax Preparer,Business Systems of Southern NH,,"Nashua, NH",From $17 an hour,Not Remote
+0, New Hampshire,Manchester,15,Data Scientists,Data Scientist - Operations Research,Envision LLC,3.3,United States,Unknown,Not Remote
+1, New Hampshire,Manchester,15,Data Scientists,Machine Learning Software Engineer – Senior,DEKA Research & Development,3.4,"Manchester, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,15,Data Scientists,Senior Statistical Programmer (Ref: PY),PHASTAR,,"Londonderry, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,15,Computer Programmers,Software Engineer,Olympus Corporation of the Americas,,"Manchester, NH",Unknown,Not Remote
+1, New Hampshire,Manchester,15,Computer Programmers,Software Platform Engineer,Olympus Corporation of the Americas,,"Manchester, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,15,Computer Programmers,25B Information Technology Specialist,Army National Guard,4.4,"Manchester, NH",Unknown,Not Remote
+3, New Hampshire,Manchester,15,Computer Programmers,AR Software Developer II,"Avatar Partners, Inc.",,United States,"$90,000 - $115,000 a year",Remote
+4, New Hampshire,Manchester,15,Computer Programmers,Software Engineer,Olympus Corporation of the Americas,,"Manchester, NH",Unknown,Not Remote
+5, New Hampshire,Manchester,15,Computer Programmers,Software Platform Engineer,Olympus Corporation of the Americas,,"Manchester, NH",Unknown,Not Remote
+6, New Hampshire,Manchester,15,Computer Programmers,25B Information Technology Specialist,Army National Guard,4.4,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,15,Software Quality Assurance Analyst,QA Lead,Xcite Interactive,,United States,"$70,000 - $90,000 a year",Not Remote
+1, New Hampshire,Manchester,15,Software Quality Assurance Analyst,Clinical Application Analyst,Farnum,,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,17,Petroleum Engineers,Newly Accredited Gas Engineer - Lincoln,Centrica,3.7,"Concord, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,17,Electrical Engineering Technicians,Electrical Engineering CADD Technician,Wright-Pierce,3.0,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,17,Nuclear Engineers,Senior Aerospace Systems Engineer,Analytical Mechanics Associates,,United States,Unknown,Temporarily remote
+0, New Hampshire,Manchester,17,Mechanical Engineering Technicians,Field Service Technician/Engineer,Climatic Testing Systems Inc.,,United States,$24 - $38 an hour,Not Remote
+0, New Hampshire,Manchester,19,Medical Scientists,Senior Field Application Scientist,Magnetic Insight,,United States,"$90,000 - $140,000 a year",Temporarily remote
+0, New Hampshire,Manchester,21,Community Social Service,Licensed Acupuncturist,Manchester Acupuncture Studio,,"Manchester, NH","$38,000 - $40,000 a year",Not Remote
+1, New Hampshire,Manchester,21,Community Social Service,Valet Parking Attendant -Overnight - Elliot Hospital,Towne Park,3.4,"Manchester, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,21,Community Social Service,Adult Community Case Manager,Center for Life Management,3.7,"Derry, NH",Unknown,Not Remote
+3, New Hampshire,Manchester,21,Community Social Service,Student Career Advisor,NH Job Corps,2.5,"Manchester, NH","$36,000 a year",Not Remote
+4, New Hampshire,Manchester,21,Community Social Service,Hospice Medical Social Worker,Amedisys,3.1,"Bedford, NH",Unknown,Not Remote
+5, New Hampshire,Manchester,21,Community Social Service,"Social Work/Case Manager - Case Management, Full Time",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+6, New Hampshire,Manchester,21,Community Social Service,ACERT Family Advocate,Amoskeag Health,3.7,"Manchester, NH",Unknown,Not Remote
+7, New Hampshire,Manchester,21,Community Social Service,Social Worker/Case Manager,Waypoint,4.3,"Manchester, NH",Up to $21 an hour,Not Remote
+8, New Hampshire,Manchester,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Manchester, NH",Unknown,Not Remote
+9, New Hampshire,Manchester,21,Community Social Service,CHILD PROTECTIVE SERVICE WORKER I-IV,The State of New Hampshire,3.9,"Manchester, NH","$38,201 - $68,952 a year",Not Remote
+10, New Hampshire,Manchester,21,Community Social Service,Home Care Medical Social Worker,Home Health VNA of New Hampshire,,"Bedford, NH",Unknown,Not Remote
+11, New Hampshire,Manchester,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Manchester, NH",Unknown,Not Remote
+12, New Hampshire,Manchester,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Manchester, NH",Unknown,Not Remote
+13, New Hampshire,Manchester,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Manchester, NH",Unknown,Not Remote
+14, New Hampshire,Manchester,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Manchester, NH",Unknown,Not Remote
+15, New Hampshire,Manchester,21,Community Social Service,Shipping/Receiving Clerk,Marmon Aerospace & Defense & Kitco Fiber Optics,,"Manchester, NH",$15 - $16 an hour,Not Remote
+16, New Hampshire,Manchester,21,Community Social Service,Student Career Advisor,NH Job Corps,2.5,"Manchester, NH","$36,000 a year",Not Remote
+17, New Hampshire,Manchester,21,Community Social Service,Valet Parking Attendant -Overnight - Elliot Hospital,Towne Park,3.4,"Manchester, NH",Unknown,Not Remote
+18, New Hampshire,Manchester,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Goffstown, NH",Unknown,Not Remote
+19, New Hampshire,Manchester,21,Community Social Service,Case Manager,Northeast Family Services,,"Manchester, NH",Unknown,Temporarily remote
+20, New Hampshire,Manchester,21,Community Social Service,Admissions Counselor,NH Job Corps,2.5,"Manchester, NH","$42,000 a year",Not Remote
+21, New Hampshire,Manchester,21,Community Social Service,Retail Sales Associate,CVS Pharmacy,3.3,"Manchester, NH",$13 - $15 an hour,Not Remote
+22, New Hampshire,Manchester,21,Community Social Service,CUSTOMER SERVICE REPRESENTATIVE,Family Dollar,3.2,"Allenstown, NH",Unknown,Not Remote
+23, New Hampshire,Manchester,21,Community Social Service,Social Media Project Manager,WestBridge Inc,3.5,"Manchester, NH",Unknown,Not Remote
+24, New Hampshire,Manchester,21,Community Social Service,Adult Community Case Manager,Center for Life Management,3.7,"Derry, NH",Unknown,Not Remote
+25, New Hampshire,Manchester,21,Community Social Service,Marketing Specialist,Gray Property Group,,"Manchester, NH","$40,000 - $60,000 a year",Not Remote
+26, New Hampshire,Manchester,21,Community Social Service,Bank Services Representative,Bank of New Hampshire,4.0,"Manchester, NH",Unknown,Not Remote
+27, New Hampshire,Manchester,21,Community Social Service,Package Delivery Driver,MC Logistics LLC,,"Manchester, NH",$18 - $20 an hour,Not Remote
+28, New Hampshire,Manchester,21,Community Social Service,Advanced Medical Support Assistant,US Department of Veterans Affairs,3.8,"Manchester, NH","$43,772 - $56,903 a year",Not Remote
+29, New Hampshire,Manchester,21,Community Social Service,Retail Sales Associate,CVS Pharmacy,3.3,"Manchester, NH",$13 - $15 an hour,Not Remote
+30, New Hampshire,Manchester,21,Community Social Service,Student Internship Coordinator,NH Job Corps,2.5,"Manchester, NH",Unknown,Not Remote
+31, New Hampshire,Manchester,21,Community Social Service,Social Media & Digital Marketing Manager,Easterseals NH,3.7,"Manchester, NH","$50,000 a year",Not Remote
+32, New Hampshire,Manchester,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Hooksett, NH",Unknown,Not Remote
+33, New Hampshire,Manchester,21,Community Social Service,Digital Media Intern,Pannos Marketing,3.5,"Manchester, NH",Unknown,Not Remote
+34, New Hampshire,Manchester,21,Community Social Service,Community Case Manager for Assertive Community Team (ACT),Center for Life Management,3.7,"Derry, NH",Unknown,Not Remote
+35, New Hampshire,Manchester,21,Community Social Service,Adult Case Manager,Center for Life Management,3.7,"Derry, NH",Unknown,Not Remote
+36, New Hampshire,Manchester,21,Community Social Service,Program Manager- Recovery Housing,Families in Transition,3.9,"Manchester, NH","$57,000 a year",Not Remote
+37, New Hampshire,Manchester,21,Community Social Service,Bank Services Representative,Bank of New Hampshire,4.0,"Bedford, NH",Unknown,Not Remote
+38, New Hampshire,Manchester,21,Community Social Service,Entry Level Sales Representative-,Power Home Remodeling,4.3,"Manchester, NH","$45,000 - $60,000 a year",Not Remote
+39, New Hampshire,Manchester,21,Community Social Service,Marketing Specialist,Gray Property Group,,"Manchester, NH","$40,000 - $50,000 a year",Remote
+40, New Hampshire,Manchester,21,Community Social Service,COUNSELOR - INDIVIDUAL PLACEMENT SERVICES,THE MENTAL HEALTH CENTER OF GREATER MANCHESTER INC,4.0,"Manchester, NH",Unknown,Not Remote
+41, New Hampshire,Manchester,21,Community Social Service,Medical Support Assistant,US Department of Veterans Affairs,3.8,"Manchester, NH","$39,268 - $51,050 a year",Not Remote
+42, New Hampshire,Manchester,21,Community Social Service,Activities Assistant,The Courville at Manchester,3.4,"Manchester, NH",Unknown,Not Remote
+43, New Hampshire,Manchester,21,Community Social Service,Recreation Therapist,US Department of Veterans Affairs,3.8,"Manchester, NH","$71,987 - $93,588 a year",Not Remote
+44, New Hampshire,Manchester,21,Community Social Service,Maintenance Service Technician & Quotation Estimator,New Star Properties,,"Manchester, NH",$22 - $28 an hour,Not Remote
+45, New Hampshire,Manchester,21,Community Social Service,Budget Analyst,US Department of Veterans Affairs,3.8,"Manchester, NH","$71,987 - $93,588 a year",Not Remote
+46, New Hampshire,Manchester,21,Community Social Service,"Associate, Pediatrics",BAYADA Home Health Care,3.8,"Manchester, NH",Unknown,Not Remote
+47, New Hampshire,Manchester,21,Community Social Service,Web Development Intern,Pannos Marketing,3.5,"Manchester, NH",Unknown,Not Remote
+48, New Hampshire,Manchester,21,Community Social Service,Financial Accounts Technician,US Department of Veterans Affairs,3.8,"Manchester, NH","$43,772 - $56,903 a year",Not Remote
+49, New Hampshire,Manchester,21,Community Social Service,General Sales Manager,Team Nissan,3.5,"Manchester, NH","$75,129 - $148,615 a year",Not Remote
+50, New Hampshire,Manchester,21,Community Social Service,Supervisory Medical Support Assistant,US Department of Veterans Affairs,3.8,"Manchester, NH","$48,641 - $63,235 a year",Not Remote
+51, New Hampshire,Manchester,21,Community Social Service,Children’s Community Support Counselor,Center for Life Management,3.7,"Derry, NH",Unknown,Not Remote
+52, New Hampshire,Manchester,21,Community Social Service,Hospice Medical Social Worker,Amedisys,3.1,"Bedford, NH",Unknown,Not Remote
+53, New Hampshire,Manchester,21,Community Social Service,Resource Specialist-Community Based Services,Easterseals NH,3.7,"Manchester, NH","$35,000 - $45,000 a year",Not Remote
+54, New Hampshire,Manchester,21,Community Social Service,SALES FLOOR ASSOCIATE,Dollar Tree,3.4,"Derry, NH",Unknown,Not Remote
+55, New Hampshire,Manchester,21,Community Social Service,Entry Level Sales Representative-,Power Home Remodeling,4.3,"Manchester, NH","$45,000 - $60,000 a year",Not Remote
+56, New Hampshire,Manchester,21,Community Social Service,Community Life Coordinator,RiverWoods Birch Hill,3.5,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,21,Religious Worker,Branch Truck Driver,S.G. Torrice Company,,"Manchester, NH",Unknown,Not Remote
+1, New Hampshire,Manchester,21,Religious Worker,Software Engineer,Olympus Corporation of the Americas,,"Manchester, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,21,Religious Worker,ADMISSIONS REGISTRAR,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+3, New Hampshire,Manchester,21,Religious Worker,"LNA - Tele Med Surg, Full Time, Evenings",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+4, New Hampshire,Manchester,21,Religious Worker,Branch Truck Driver,S.G. Torrice Company,,"Manchester, NH",Unknown,Not Remote
+5, New Hampshire,Manchester,21,Religious Worker,Software Engineer,Olympus Corporation of the Americas,,"Manchester, NH",Unknown,Not Remote
+6, New Hampshire,Manchester,21,Religious Worker,"LNA - ICU, Part Time, Days",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+7, New Hampshire,Manchester,21,Religious Worker,"LNA - Tele Med Surg, Part Time, Days",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+8, New Hampshire,Manchester,21,Religious Worker,Software Platform Engineer,Olympus Corporation of the Americas,,"Manchester, NH",Unknown,Not Remote
+9, New Hampshire,Manchester,21,Religious Worker,"LNA - Tele Med Surg, Full Time, Days",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+10, New Hampshire,Manchester,21,Religious Worker,"LNA - Tele Med Surg, Part Time, Evenings",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+11, New Hampshire,Manchester,21,Religious Worker,"LNA - ICU, Part Time, Nights",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+12, New Hampshire,Manchester,21,Religious Worker,"LNA - Cardiac Medical Unit, Part Time, Days",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+13, New Hampshire,Manchester,21,Religious Worker,"LNA - Cardiac Medical Unit, Full Time, Evenings",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+14, New Hampshire,Manchester,21,Religious Worker,"LNA - Cardiac Medical Unit, Full Time, Days",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+15, New Hampshire,Manchester,21,Religious Worker,"LNA - Cardiac Medical Unit, Part Time, Evenings",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+16, New Hampshire,Manchester,21,Religious Worker,"LNA - Float Pool, Per Diem",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+17, New Hampshire,Manchester,21,Religious Worker,"LNA - Heart & Vascular Intervention Unit, Full Time, Evenings",Catholic Medical Center,3.6,"Manchester, NH",Unknown,Not Remote
+18, New Hampshire,Manchester,21,Religious Worker,Heavy Mobile Equipment Repairer,US Department of the Army,4.3,"Londonderry, NH",$23.47 - $27.43 an hour,Not Remote
+19, New Hampshire,Manchester,21,Religious Worker,Software Platform Engineer,Olympus Corporation of the Americas,,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,23,Legal Support Worker,Assistant Trust Officer,Computershare,3.4,United States,Unknown,Not Remote
+1, New Hampshire,Manchester,23,Legal Support Worker,SharePoint Administrator,Fidelity TalentSource,3.8,"Merrimack, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,23,Legal Support Worker,Club Coordinator Job,"BJ's Wholesale Club, Inc.",3.3,"Manchester, NH",Unknown,Not Remote
+3, New Hampshire,Manchester,23,Legal Support Worker,PATIENT SERVICE REPRESENTATIVE,Elliot Health System,3.5,"Manchester, NH",Unknown,Not Remote
+4, New Hampshire,Manchester,23,Legal Support Worker,Call Center Patient Service Representative,Southern NH Internal Medicine,,"Derry, NH",$15 - $16 an hour,Not Remote
+5, New Hampshire,Manchester,23,Legal Support Worker,Branch Services Representative-1,New Hampshire Mutual Bancorp,4.5,"Hooksett, NH",$15.56 - $21.35 an hour,Not Remote
+6, New Hampshire,Manchester,23,Legal Support Worker,Human Resources Coordinator HRC,Pleasant Valley Nursing Center,2.6,"Derry, NH",Unknown,Not Remote
+7, New Hampshire,Manchester,23,Legal Support Worker,Interim Finance Manager,Sigma Inc,,"Manchester, NH",$35 - $45 an hour,Not Remote
+8, New Hampshire,Manchester,23,Legal Support Worker,SharePoint Administrator,Fidelity TalentSource,3.8,"Merrimack, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,23,Legal Occupations,Probate Paralegal/Legal Assistant,"Normand Higham, PA",,"Manchester, NH",Unknown,Not Remote
+1, New Hampshire,Manchester,23,Legal Occupations,Paralegal,"Owen Law Offices, PLLC",,"Bedford, NH",From $23 an hour,Not Remote
+2, New Hampshire,Manchester,23,Legal Occupations,Law Office Manager,"Hage Hodes, P.A.",,"Manchester, NH",Unknown,Temporarily remote
+3, New Hampshire,Manchester,23,Legal Occupations,Residential Real Estate Paralegal/Processor,Phenix Title Services,,"Bedford, NH","$42,500 - $47,500 a year",Not Remote
+4, New Hampshire,Manchester,23,Legal Occupations,Legal Assistant- Corporate,Devine Millimet & Branch,3.6,"Manchester, NH",Unknown,Not Remote
+5, New Hampshire,Manchester,23,Legal Occupations,Law Office Manager,"Hage Hodes, P.A.",,"Manchester, NH",Unknown,Temporarily remote
+6, New Hampshire,Manchester,23,Legal Occupations,Paralegal,MORRISON MAHONEY LLP,3.8,"Manchester, NH","Up to $50,000 a year",Not Remote
+7, New Hampshire,Manchester,23,Legal Occupations,Litigation Paralegal,"Law Firm - Manchester, NH",,"Manchester, NH",$18 - $22 an hour,Not Remote
+8, New Hampshire,Manchester,23,Legal Occupations,Temporary Document Review Attorney,Sheehan Phinney,,"Manchester, NH",Unknown,Not Remote
+9, New Hampshire,Manchester,23,Legal Occupations,Paralegal,"Owen Law Offices, PLLC",,"Bedford, NH",From $23 an hour,Not Remote
+10, New Hampshire,Manchester,23,Legal Occupations,Intellectual Property Paralegal,"Grossman, Tucker, Perreault & Pfleger, PLLC",,"Manchester, NH","From $65,000 a year",Temporarily remote
+11, New Hampshire,Manchester,23,Legal Occupations,Residential Real Estate Paralegal/Processor,Phenix Title Services,,"Bedford, NH","$42,500 - $47,500 a year",Not Remote
+12, New Hampshire,Manchester,23,Legal Occupations,Claims Intake Associate,The RiverStone Group,4.5,"Manchester, NH",Unknown,Not Remote
+13, New Hampshire,Manchester,23,Legal Occupations,Commercial Real Estate Paralegal,"Wadleigh, Starr & Peters, P.L.L.C.",,"Manchester, NH",$25 - $30 an hour,Temporarily remote
+14, New Hampshire,Manchester,23,Legal Occupations,Probate Paralegal/Legal Assistant,"Normand Higham, PA",,"Manchester, NH",Unknown,Not Remote
+15, New Hampshire,Manchester,23,Legal Occupations,Corporate Legal Assistant,The Nagler Group,3.3,"Manchester, NH",Unknown,Not Remote
+16, New Hampshire,Manchester,23,Legal Occupations,"Virtual Active CPA, Enrolled Agent or Tax Attorney - Seasonal Income",Intuit,4.2,"Manchester, NH",Unknown,Remote
+17, New Hampshire,Manchester,23,Legal Occupations,Intellectual Property Paralegal,"Grossman, Tucker, Perreault & Pfleger, PLLC",,"Manchester, NH","From $65,000 a year",Temporarily remote
+18, New Hampshire,Manchester,23,Legal Occupations,Commercial Real Estate Paralegal,"Wadleigh, Starr & Peters, P.L.L.C.",,"Manchester, NH",$25 - $30 an hour,Temporarily remote
+0, New Hampshire,Manchester,23,Title Examiner,Remote- Title Insurance Examiner,JobTracks,4.4,United States,"$55,000 - $90,000 a year",Remote
+0, New Hampshire,Manchester,25,Teaching Assistants,Paraprofessional,Easterseals NH,,"Manchester, NH",$12.50 an hour,Not Remote
+1, New Hampshire,Manchester,25,Teaching Assistants,"New Opening - ASAP START - Paraprofessional - Manchester, New Hampshire",Soliant,4.0,"Manchester, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,25,Teaching Assistants,Teaching Assistant,Polaris Charter School,,"Manchester, NH",$12 - $14 an hour,Not Remote
+3, New Hampshire,Manchester,25,Teaching Assistants,Paraeducator,Polaris Charter School,,"Manchester, NH",$13 - $14 an hour,Not Remote
+4, New Hampshire,Manchester,25,Teaching Assistants,Associate Teacher & Assistant Teacher,"Alpha-Bits Learning Center, Inc. (333 Allard Drive...",,"Manchester, NH",$10 - $15 an hour,Not Remote
+5, New Hampshire,Manchester,25,Teaching Assistants,Paraprofessional- Maple Ave Elementary,SAU 19,4.3,"Goffstown, NH",$13.40 - $20.22 an hour,Not Remote
+6, New Hampshire,Manchester,25,Teaching Assistants,Child Care Assistant/Teacher,"Tic-Tac-Tots Preschool, Inc.",,"Hooksett, NH",$10 - $14 an hour,Not Remote
+7, New Hampshire,Manchester,25,Teaching Assistants,Paraprofessional,Easterseals NH,,"Manchester, NH",$12.50 an hour,Not Remote
+8, New Hampshire,Manchester,25,Teaching Assistants,Allenstown School District - Paraprofessional,Allenstown School District,,"Allenstown, NH",$12 - $17 an hour,Not Remote
+0, New Hampshire,Manchester,39,Hairdressers,Hairstylist,The 155 Collective Salon & Spa,,"Manchester, NH","$25,349 - $59,897 a year",Not Remote
+1, New Hampshire,Manchester,39,Hairdressers,Hair Stylist - TJ Maxx Plaza,Great Clips,3.5,"Manchester, NH",Unknown,Not Remote
+2, New Hampshire,Manchester,39,Hairdressers,Hairstylist,The 155 Collective Salon & Spa,,"Manchester, NH","$25,349 - $59,897 a year",Not Remote
+3, New Hampshire,Manchester,39,Hairdressers,ASSISTANT MANAGER-0101,Sally Beauty Supply LLC,3.3,"Manchester, NH",Unknown,Not Remote
+4, New Hampshire,Manchester,39,Hairdressers,Hair Stylist,JCPenney,3.7,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,39,Group Fitness Instructor,Pilates Instructor -- Six Nashville-area Club Pilates,Club Pilates,3.3,United States,$32 - $52 an hour,Not Remote
+1, New Hampshire,Manchester,39,Group Fitness Instructor,Fitness Trainer - Full Time,Planet Fitness Club Careers,3.5,"Goffstown, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,41,Financial Services Sales Agents,Allstate Insurance Sales Representative,Allstate Insurance Company,3.7,"Manchester, NH",Unknown,Not Remote
+1, New Hampshire,Manchester,41,Financial Services Sales Agents,"Senior Manager, SMB Direct Sales, OBSR ( VIRTUAL OPTION)",Comcast,3.7,"Manchester, NH",Unknown,Remote
+2, New Hampshire,Manchester,41,Financial Services Sales Agents,Licensed Insurance Sales P&C Producer,A Trust Above Corporation,,New Hampshire,"$28,600 - $115,000 a year",Remote
+3, New Hampshire,Manchester,41,Financial Services Sales Agents,Regional Sales Manager- Automotive F&I,"ECP, Inc.",2.7,New Hampshire,Unknown,Remote
+4, New Hampshire,Manchester,41,Financial Services Sales Agents,Financial Service Representative,PSI Groups,5.0,"Manchester, NH","$50,000 - $250,000 a year",Temporarily remote
+5, New Hampshire,Manchester,41,Financial Services Sales Agents,Experienced Associate Sales Agent,Horace Mann,3.3,"Manchester, NH",Unknown,Not Remote
+6, New Hampshire,Manchester,41,Financial Services Sales Agents,"Senior Manager, SMB Direct Sales, OBSR ( VIRTUAL OPTION)",Comcast,3.7,"Manchester, NH",Unknown,Remote
+7, New Hampshire,Manchester,41,Financial Services Sales Agents,Rental Sales Agent,Avis Budget Group,3.5,"Manchester, NH",Unknown,Not Remote
+8, New Hampshire,Manchester,41,Financial Services Sales Agents,Operations Manager Trainee,Avis Budget Group,3.5,"Manchester, NH",Unknown,Not Remote
+9, New Hampshire,Manchester,41,Financial Services Sales Agents,Office Manager - State Farm Agent Team Member,Jacob Bramel - State Farm Agent,3.7,"Bedford, NH","$55,000 - $70,000 a year",Not Remote
+10, New Hampshire,Manchester,41,Financial Services Sales Agents,Rental Sales Agent,Avis Budget Group,3.5,"Manchester, NH",Unknown,Not Remote
+11, New Hampshire,Manchester,41,Financial Services Sales Agents,Vehicle Return Agent,Avis Budget Group,3.5,"Manchester, NH",Unknown,Not Remote
+12, New Hampshire,Manchester,41,Financial Services Sales Agents,Medicare National Sales Leader,"Ideal Concepts, Inc.",3.7,United States,Unknown,Not Remote
+13, New Hampshire,Manchester,41,Financial Services Sales Agents,Account Executives /Merchant Services,DirectHR,,"Manchester, NH","$75,000 a year",Not Remote
+0, New Hampshire,Manchester,41,Wholesale Sales Representative,Regional Sales Representative - East Coast,MICHAEL M,,United States,Unknown,Not Remote
+0, New Hampshire,Manchester,41,Real Estate Brokers,Licensed Real Estate Recruiter,Realty ONE Group Next Level,,"Bedford, NH","$75,000 - $150,000 a year",Not Remote
+1, New Hampshire,Manchester,41,Real Estate Brokers,CRE Brokerage Manager,Confidential - Real Estate,,"Manchester, NH","$50,000 - $75,000 a year",Not Remote
+2, New Hampshire,Manchester,41,Real Estate Brokers,Wealth Management Advisor Training Program,Northwestern Mutual,3.8,"Manchester, NH","$52,000 - $106,000 a year",Not Remote
+3, New Hampshire,Manchester,41,Real Estate Brokers,Marketing Specialist,Gray Property Group,,"Manchester, NH","$40,000 - $50,000 a year",Remote
+4, New Hampshire,Manchester,41,Real Estate Brokers,Real Estate Agent -- No Experience Needed,Ocean City Development,,"Londonderry, NH","From $100,000 a year",Not Remote
+5, New Hampshire,Manchester,41,Real Estate Brokers,Licensed Real Estate Managing Broker,Realty ONE Group Next Level,,"Manchester, NH","$100,000 - $200,000 a year",Not Remote
+6, New Hampshire,Manchester,41,Real Estate Brokers,Licensed Real Estate Team Leader,Realty ONE Group Next Level,,"Manchester, NH","$100,000 - $250,000 a year",Not Remote
+7, New Hampshire,Manchester,41,Real Estate Brokers,Licensed Real Estate Recruiter,Realty ONE Group Next Level,,"Bedford, NH","$75,000 - $150,000 a year",Not Remote
+8, New Hampshire,Manchester,41,Real Estate Brokers,Marketing Specialist,Gray Property Group,,"Manchester, NH","$40,000 - $60,000 a year",Not Remote
+9, New Hampshire,Manchester,41,Real Estate Brokers,Licensed Real Estate Recruiter,Realty ONE Group Next Level,,"Manchester, NH","$75,000 - $150,000 a year",Not Remote
+10, New Hampshire,Manchester,41,Real Estate Brokers,Licensed Real Estate Team Leader,Realty ONE Group Next Level,,"Bedford, NH","$100,000 - $250,000 a year",Not Remote
+11, New Hampshire,Manchester,41,Real Estate Brokers,Licensed Real Estate Managing Broker,Realty ONE Group Next Level,,"Bedford, NH","$100,000 - $200,000 a year",Not Remote
+12, New Hampshire,Manchester,41,Real Estate Brokers,Leasing Consultant,Briarcliff Management,,"Manchester, NH",$17 - $20 an hour,Not Remote
+13, New Hampshire,Manchester,41,Real Estate Brokers,Marketing Specialist,Gray Property Group,,"Manchester, NH","$40,000 - $50,000 a year",Remote
+14, New Hampshire,Manchester,41,Real Estate Brokers,Real Estate Agent -- Flexible Work Schedule,Ocean City Development,,"Londonderry, NH","From $100,000 a year",Not Remote
+0, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Team Member,Realty ONE Group Next Level,,"Manchester, NH","$50,000 - $150,000 a year",Not Remote
+1, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Recruiter,Realty ONE Group Next Level,,"Manchester, NH","$75,000 - $150,000 a year",Not Remote
+2, New Hampshire,Manchester,41,Real Estate Sales Agents,Marketing Specialist,Gray Property Group,,"Manchester, NH","$40,000 - $50,000 a year",Remote
+3, New Hampshire,Manchester,41,Real Estate Sales Agents,Real Estate Agent,Keller Williams Realty,4.3,"Manchester, NH",Unknown,Not Remote
+4, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Team Member,Realty ONE Group Next Level,,"Manchester, NH","$50,000 - $150,000 a year",Not Remote
+5, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Managing Broker,Realty ONE Group Next Level,,"Manchester, NH","$100,000 - $200,000 a year",Not Remote
+6, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Team Leader,Realty ONE Group Next Level,,"Manchester, NH","$100,000 - $250,000 a year",Not Remote
+7, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Mentor,Realty ONE Group Next Level,,"Bedford, NH","$75,000 - $150,000 a year",Not Remote
+8, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Team Member,Realty ONE Group Next Level,,"Bedford, NH","$50,000 - $150,000 a year",Not Remote
+9, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Team Leader,Realty ONE Group Next Level,,"Bedford, NH","$100,000 - $250,000 a year",Not Remote
+10, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Recruiter,Realty ONE Group Next Level,,"Manchester, NH","$75,000 - $150,000 a year",Not Remote
+11, New Hampshire,Manchester,41,Real Estate Sales Agents,Marketing Specialist,Gray Property Group,,"Manchester, NH","$40,000 - $60,000 a year",Not Remote
+12, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Recruiter,Realty ONE Group Next Level,,"Bedford, NH","$75,000 - $150,000 a year",Not Remote
+13, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Managing Broker,Realty ONE Group Next Level,,"Bedford, NH","$100,000 - $200,000 a year",Not Remote
+14, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Mentor,Realty ONE Group Next Level,,"Manchester, NH","$75,000 - $150,000 a year",Not Remote
+15, New Hampshire,Manchester,41,Real Estate Sales Agents,Sales Representative,AllState Insurance Agent,3.7,"Manchester, NH",Unknown,Not Remote
+16, New Hampshire,Manchester,41,Real Estate Sales Agents,Real Estate Sales Professional,BHHS Verani Realty,5.0,"Londonderry, NH","$60,000 - $100,000 a year",Not Remote
+17, New Hampshire,Manchester,41,Real Estate Sales Agents,Marketing Specialist,Gray Property Group,,"Manchester, NH","$40,000 - $50,000 a year",Remote
+18, New Hampshire,Manchester,41,Real Estate Sales Agents,Real Estate Agent -- No Experience Needed,Ocean City Development,,"Londonderry, NH","From $100,000 a year",Not Remote
+19, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Sales Agent,Ocean City Development,,"Londonderry, NH","From $100,000 a year",Not Remote
+20, New Hampshire,Manchester,41,Real Estate Sales Agents,Real Estate Agent,Ocean City Development,,"Londonderry, NH","From $100,000 a year",Not Remote
+21, New Hampshire,Manchester,41,Real Estate Sales Agents,Real Estate Agent -- Flexible Work Schedule,Ocean City Development,,"Londonderry, NH","From $100,000 a year",Not Remote
+22, New Hampshire,Manchester,41,Real Estate Sales Agents,Real Estate Agent -- No Experience Needed,Ocean City Development,,"Londonderry, NH","From $100,000 a year",Not Remote
+23, New Hampshire,Manchester,41,Real Estate Sales Agents,Licensed Real Estate Mentor,Realty ONE Group Next Level,,"Bedford, NH","$75,000 - $150,000 a year",Not Remote
+0, New Hampshire,Manchester,43,Office and Administrative Support Occupations,Advanced Medical Support Assistant,US Department of Veterans Affairs,3.8,"Manchester, NH","$43,772 - $56,903 a year",Not Remote
+1, New Hampshire,Manchester,43,Office and Administrative Support Occupations,Medical Support Assistant,US Department of Veterans Affairs,3.8,"Manchester, NH","$39,268 - $51,050 a year",Not Remote
+2, New Hampshire,Manchester,43,Office and Administrative Support Occupations,Supervisory Medical Support Assistant,US Department of Veterans Affairs,3.8,"Manchester, NH","$48,641 - $63,235 a year",Not Remote
+3, New Hampshire,Manchester,43,Office and Administrative Support Occupations,Recreation Therapist,US Department of Veterans Affairs,3.8,"Manchester, NH","$71,987 - $93,588 a year",Not Remote
+4, New Hampshire,Manchester,43,Office and Administrative Support Occupations,Health Technician (Telehealth) Not-to-Exceed Two Years,US Department of Veterans Affairs,3.8,"Manchester, NH","$39,268 - $56,903 a year",Not Remote
+0, New Hampshire,Manchester,49,Maintenance and Repair,Groundskeeper and Maintenance,Hanover Hill Health Care Center,4.3,"Manchester, NH",Unknown,Not Remote
+1, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Assistant,NH Job Corps,2.5,"Manchester, NH",$14 an hour,Not Remote
+2, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Technician,Associa Mid-Atlantic,2.9,"Bedford, NH",$20 - $25 an hour,Not Remote
+3, New Hampshire,Manchester,49,Maintenance and Repair,Mechanic II - Wastewater,TOWN OF MERRIMACK,,"Manchester, NH",Up to $26.83 an hour,Not Remote
+4, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Planner,Weston Foods,3.3,"Manchester, NH",Unknown,Not Remote
+5, New Hampshire,Manchester,49,Maintenance and Repair,Property Specialist,Girl Scouts of the Green and White Mountains,,"Bedford, NH",$16 - $18 an hour,Not Remote
+6, New Hampshire,Manchester,49,Maintenance and Repair,Make Ready Technician,The Meetinghouse at Riverfront,3.6,"Manchester, NH",$15 - $16 an hour,Not Remote
+7, New Hampshire,Manchester,49,Maintenance and Repair,School Bus Driver,NH Job Corps,2.5,"Manchester, NH",$15 an hour,Not Remote
+8, New Hampshire,Manchester,49,Maintenance and Repair,Groundskeeper and Maintenance,Hanover Hill Health Care Center,4.3,"Manchester, NH",Unknown,Not Remote
+9, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Planner,Weston Foods,3.3,"Manchester, NH",Unknown,Not Remote
+10, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Mechanic - 2nd shift,Velcro USA Inc.,3.4,"Manchester, NH",Unknown,Not Remote
+11, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Mechanic - 2nd shift,Velcro USA Inc.,3.4,"Manchester, NH",Unknown,Not Remote
+12, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Assistant - Full Time - Mt. Carmel Rehabilitation & Nursing Center,Mount Carmel Rehabilitation & Nursing Center,,"Manchester, NH",Unknown,Not Remote
+13, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Technician,Avenues Recovery,3.9,"Manchester, NH",Unknown,Not Remote
+14, New Hampshire,Manchester,49,Maintenance and Repair,Manufacturing Maintenance Technician - Day shift,Weston Foods,3.3,"Manchester, NH",Unknown,Not Remote
+15, New Hampshire,Manchester,49,Maintenance and Repair,Networking and Migration Consultant,"ASA Automotive Systems, Inc.",,"Londonderry, NH",$32 - $39 an hour,Temporarily remote
+16, New Hampshire,Manchester,49,Maintenance and Repair,Assistant Manager of Customer Service,Hannaford,3.7,"Manchester, NH",Unknown,Not Remote
+17, New Hampshire,Manchester,49,Maintenance and Repair,Full-time Receiver,Hannaford,3.7,"Manchester, NH",Unknown,Not Remote
+18, New Hampshire,Manchester,49,Maintenance and Repair,Part-time Center Store Associate,Hannaford,3.7,"Hooksett, NH",Unknown,Not Remote
+19, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance and Grounds,Mel's Funway Park,3.0,"Litchfield, NH",From $10 an hour,Not Remote
+20, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Service Technician & Quotation Estimator,New Star Properties,,"Manchester, NH",$22 - $28 an hour,Not Remote
+21, New Hampshire,Manchester,49,Maintenance and Repair,A&P Mechanic - Day Shift,"Pro Star Aviation, LLC",4.5,"Londonderry, NH",$26 - $38 an hour,Not Remote
+22, New Hampshire,Manchester,49,Maintenance and Repair,Knotter - 2nd shift,Velcro USA Inc.,3.4,"Manchester, NH",Unknown,Not Remote
+23, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Technician,Families in Transition,3.9,"Manchester, NH",Unknown,Not Remote
+24, New Hampshire,Manchester,49,Maintenance and Repair,Hannaford To Go Shopper – Hannaford,Hannaford,3.7,"Hooksett, NH",Unknown,Not Remote
+25, New Hampshire,Manchester,49,Maintenance and Repair,Knotter - 2nd shift,Velcro USA Inc.,3.4,"Manchester, NH",Unknown,Not Remote
+26, New Hampshire,Manchester,49,Maintenance and Repair,Apprentice Jeweler,Signet Jewelers,2.9,"Manchester, NH","$26,000 - $29,000 a year",Not Remote
+27, New Hampshire,Manchester,49,Maintenance and Repair,Law Office Manager,"Hage Hodes, P.A.",,"Manchester, NH",Unknown,Temporarily remote
+28, New Hampshire,Manchester,49,Maintenance and Repair,Part-time Hannaford to Go,Hannaford,3.7,"Hooksett, NH",Unknown,Not Remote
+29, New Hampshire,Manchester,49,Maintenance and Repair,Center Store Associate – Hannaford,Hannaford,3.7,"Bedford, NH",Unknown,Not Remote
+30, New Hampshire,Manchester,49,Maintenance and Repair,Full-time Overnight Stock Crew Associate,Hannaford,3.7,"Hooksett, NH",Unknown,Not Remote
+31, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Technician,Associa Mid-Atlantic,2.9,"Bedford, NH",$20 - $25 an hour,Not Remote
+32, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Assistant,NH Job Corps,2.5,"Manchester, NH",$14 an hour,Not Remote
+33, New Hampshire,Manchester,49,Maintenance and Repair,Part-Time Service Dispatcher,Dead River Company,3.0,"Manchester, NH",Unknown,Not Remote
+34, New Hampshire,Manchester,49,Maintenance and Repair,OSP Cable Technician,Utilities One Inc,,"Manchester, NH","$1,500 - $2,500 a week",Not Remote
+35, New Hampshire,Manchester,49,Maintenance and Repair,Full-time Janitorial/Maintenance Associate,Hannaford,3.7,"Manchester, NH",Unknown,Not Remote
+36, New Hampshire,Manchester,49,Maintenance and Repair,2nd shift Maintenance Mechanic,Kalwall Corporation,,"Manchester, NH",$17 - $19 an hour,Not Remote
+37, New Hampshire,Manchester,49,Maintenance and Repair,Part-time Bakery Sales Associate,Hannaford,3.7,"Goffstown, NH",Unknown,Not Remote
+38, New Hampshire,Manchester,49,Maintenance and Repair,Part-time Hannaford to Go,Hannaford,3.7,"Manchester, NH",Unknown,Not Remote
+39, New Hampshire,Manchester,49,Maintenance and Repair,Room Attendant,Highgate Hotels,2.5,"Manchester, NH",Unknown,Not Remote
+40, New Hampshire,Manchester,49,Maintenance and Repair,Hotel Maintenance / Shuttle Driver,Country Inn & Suites Manchester Airport,3.4,"Manchester, NH",$13 - $15 an hour,Not Remote
+41, New Hampshire,Manchester,49,Maintenance and Repair,Part-time Bakery Sales Associate,Hannaford,3.7,"Hooksett, NH",Unknown,Not Remote
+42, New Hampshire,Manchester,49,Maintenance and Repair,Commercial Maintenance Technician,Brady Sullivan Properties,3.0,"Manchester, NH",Unknown,Not Remote
+43, New Hampshire,Manchester,49,Maintenance and Repair,Assistant Stock Crew Manager,Hannaford,3.7,"Hooksett, NH",Unknown,Not Remote
+44, New Hampshire,Manchester,49,Maintenance and Repair,Diesel Truck and Trailer Technician,NationaLease,,"Manchester, NH",Unknown,Not Remote
+45, New Hampshire,Manchester,49,Maintenance and Repair,Auto Glass Technician Trainee - $17/hr,Safelite Group,3.3,"Hooksett, NH",$17 an hour,Not Remote
+46, New Hampshire,Manchester,49,Maintenance and Repair,Laborer (Temporary) - Water Works,"City of Manchester, NH",,"Manchester, NH",$13.45 an hour,Not Remote
+47, New Hampshire,Manchester,49,Maintenance and Repair,Lube Technician/Mechanic,South Elm Automotive,,"Manchester, NH",From $15 an hour,Not Remote
+48, New Hampshire,Manchester,49,Maintenance and Repair,Part-time Cashier Customer Service Associate,Hannaford,3.7,"Derry, NH",Unknown,Not Remote
+49, New Hampshire,Manchester,49,Maintenance and Repair,Mold Repair Technician,"Summit Packaging Systems, LLC.",2.8,"Manchester, NH",Unknown,Not Remote
+50, New Hampshire,Manchester,49,Maintenance and Repair,Maintenance Technician,Associa,,"Bedford, NH",Unknown,Not Remote
+51, New Hampshire,Manchester,49,Maintenance and Repair,Customer Service Associate,Synergy Self Storage,,"Merrimack, NH",$14 an hour,Not Remote
+52, New Hampshire,Manchester,49,Maintenance and Repair,HIGHWAY MAINTAINER III,The State of New Hampshire,3.9,"Manchester, NH","$34,798 - $40,560 a year",Not Remote
+53, New Hampshire,Manchester,49,Maintenance and Repair,Warehouse Receiver,Key Floral,2.0,"Bedford, NH",Unknown,Not Remote
+54, New Hampshire,Manchester,49,Maintenance and Repair,Manufacturing Technician 1,Hologic,3.7,"Londonderry, NH",Unknown,Not Remote
+55, New Hampshire,Manchester,49,Maintenance and Repair,Assistant Manager of Customer Service Trainee,Hannaford,3.7,"Bedford, NH",Unknown,Not Remote
+56, New Hampshire,Manchester,49,Maintenance and Repair,Seasonal Cleaning Associate,JCM Business Solutions - Fisher Cats Stadium,,"Manchester, NH",From $11 an hour,Not Remote
+57, New Hampshire,Manchester,49,Maintenance and Repair,Make Ready Technician,The Meetinghouse at Riverfront,3.6,"Manchester, NH",$15 - $16 an hour,Not Remote
+0, New Hampshire,Manchester,49,Security and Fire Alarm Systems Installers,Install Apprentice,ADT Security Services,3.3,"Hollis, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,49,Avionics Technicians,Line MX/AOG Mechanic- CVG (Cincinnati/Northern Kentucky),Coast 2 Coast Recruiting and Consulting,,United States,$33 - $44 an hour,Not Remote
+1, New Hampshire,Manchester,49,Avionics Technicians,A & P Technician,Wiggins Airways,4.4,"Manchester, NH",Unknown,Not Remote
+0, New Hampshire,Manchester,51,Butcher,First Cook / Shift Supervisor,Saint Anselm College,4.0,"Manchester, NH",Unknown,Not Remote

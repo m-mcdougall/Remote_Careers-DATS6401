@@ -374,10 +374,95 @@ data['Region']=data['SearchState'].replace(region_dict)
 
 #%%
 
+#===================
+
+#Add Category String - Add a region by state
+
+#===================
+
+
+#Load the original Job titles data
+x=pd.read_excel('Job_Titles.xlsx', sheet_name='Attempt', header=None)
+
+#Fill Nans to allow boolean filtering
+x=x.fillna('0')
+
+#Keep only the category titles
+x=x[x[0].str.contains('-0000')]
+
+#First category has the title in the wrong column, move, then filter columns
+x.loc[0,4]=x.loc[0,1]
+x=x.drop([1,2,3], axis=1)
+
+#Drop the extra bit, leaving only the category number
+x[0]=x[0].str.replace('-0000', '').astype(int)
+
+#Rename
+x=x.rename(columns={0:'Category', 4:'CategoryStr'})
+
+#Merge into the data
+data=data.merge(x, on='Category')
+
+del x
+#%%
+#===================
+
+#Convert the Remote to a One Hot encoding column
+
+#===================
+
+for status in data.Remote.unique():
+    data[status+'-OHE'] = data.Remote 
+    data[status+'-OHE'] = data[status+'-OHE']==status
+    data[status+'-OHE'] = data[status+'-OHE']*1
+#Load the original Job titles data
+
+#%%
+data=data.drop_duplicates()#Removes job postings that were previously scraped (possibly re-uploaded by the company)
+
+data=data.reset_index(drop=True).reset_index()
+data=data.rename(columns={'index':'JobID'})
+
+data.to_excel('Data_out.xlsx', index=False)
+
+#%%
+
+
 
 data.groupby(['Category']).agg({'Midrange':'mean', })
 data.groupby(['SearchState']).agg({'Midrange':'mean', })
-data.groupby(['Region']).agg({'Midrange':'mean', 'Midrange':'var',})
+x=data.groupby(['CategoryStr','Region', 'Remote']).agg({'Lower':'mean','Midrange':'mean', 'Upper':'mean',}).reset_index()
+
+
+
+x=data.groupby(['CategoryStr','Region', 'Remote']).agg({'Lower':'mean','Midrange':'mean', 'Upper':'mean',}).reset_index()
+
+
+
+
+#%%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

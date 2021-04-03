@@ -9,6 +9,7 @@ import numpy as np
 import time
 from tqdm import tqdm
 from datetime import date
+from datetime import timedelta
 
 pd.set_option('display.max_columns', 10)
 
@@ -17,7 +18,7 @@ wd=os.path.abspath('C://Users//Mariko//Documents//GitHub//Remote_Careers-DATS640
 os.chdir(wd)
 
 
-today = date.today()
+today = date.today()+ + timedelta(days=1)
 
 #%%
 
@@ -65,17 +66,35 @@ def search_page_downloader(page_url):
     #For each result, extract all desired information
     for result in results:
         
-        job_title = result.find('h2').find('a')['title']
+        try: #This will always find a job title, unless there were no postings for that search
+            job_title = result.find('h2').find('a')['title']
+        except:
+            job_title = 'ERROR'
+            
+        if job_title == 'ERROR':
+            print(f'ERROR with:\n {page_url}')
+            continue # Catches the error and quits the loop
         
         try:
             stars=result.find('span', {'class':'ratingsContent'}).get_text().strip()
         except:
             stars=np.nan
-        
-        company = result.find('span', {'class':'company'}).get_text().strip()
-        
-        location = result.find('div', {'class':'recJobLoc'})['data-rc-loc'].strip()
-        
+        try:
+            company = result.find('span', {'class':'company'}).get_text().strip()
+        except:
+            company = 'ERROR'
+            
+        if company == 'ERROR':
+            print(f'ERROR with:\n {page_url}')
+            continue # Catches the error and quits the loop
+        try:
+            location = result.find('div', {'class':'recJobLoc'})['data-rc-loc'].strip()
+        except:
+            location = 'ERROR'
+            
+        if location == 'ERROR':
+            print(f'ERROR with:\n {page_url}')
+            continue # Catches the error and quits the loop
         try:
             wage=result.find('span', {'class':'salaryText'}).get_text().strip()
         except:
@@ -165,11 +184,15 @@ jobs.rename(columns={0:'Category', 1:"JobTitle"}, inplace=True)
 
 
 
-for k in range(1,cities.shape[0]):
+for k in range(0,cities.shape[0]):
+
     
-    city=cities.MostPopulous[k]
+    city=cities['Third Most'][k]
     state=cities.State[k]
     job_collect=[]
+    
+    if city is np.nan:
+        continue
     
     print(f'\n\nNow working on {city}, {state}.\n\n')
     
