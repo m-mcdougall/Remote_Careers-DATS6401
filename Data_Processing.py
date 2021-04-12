@@ -415,8 +415,20 @@ for status in data.Remote.unique():
     data[status+'-OHE'] = data.Remote 
     data[status+'-OHE'] = data[status+'-OHE']==status
     data[status+'-OHE'] = data[status+'-OHE']*1
-#Load the original Job titles data
 
+
+#%%
+#===================
+
+# Remove 'Occupations' From the job string
+
+#===================  
+ 
+x = data.CategoryStr.str.replace(' Occupations', '')
+x=x.str.replace(' and Related', '')
+x=x.str.replace(' Related', '')
+
+data.CategoryStr = x
 #%%
 data=data.drop_duplicates()#Removes job postings that were previously scraped (possibly re-uploaded by the company)
 
@@ -426,16 +438,6 @@ data=data.rename(columns={'index':'JobID'})
 data.to_excel('Data_out.xlsx', index=False)
 
 #%%
-
-
-
-data.groupby(['Category']).agg({'Midrange':'mean', })
-data.groupby(['SearchState']).agg({'Midrange':'mean', })
-x=data.groupby(['CategoryStr','Region', 'Remote']).agg({'Lower':'mean','Midrange':'mean', 'Upper':'mean',}).reset_index()
-
-
-
-x=data.groupby(['CategoryStr','Region', 'Remote']).agg({'Lower':'mean','Midrange':'mean', 'Upper':'mean',}).reset_index()
 
 
 
