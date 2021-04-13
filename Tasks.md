@@ -10,32 +10,19 @@ An analysis into the rising prevalence of remote work opportunities arising duri
 -Show if there is a difference in mean wage for remote vs non-remote positions in the same region and industry
 -Highlight the companies by star value with remote
 
-### Analysis To-Do - Essential
+### To-Do - Essential
+Add region filter to the region plot!
+Add a grouped category filter for tech/inter/phys jobs to the wage plot
+Fix the map on the remote plot
 
-[DONE] - Webscraper Download Initial
-[DONE] - Translate wage information
-[DONE] - Add regions
+Add story shots for each highlight
+Fix spacing after highlights
 
-Total Jobs Remote to Temp Remote to Non Remote
-Remote to non- remote by states
-Remote to non remote by regions
+###To-Do - Stretch
+Add BANs to regional plot with total # jobs in each category
+Add how to use plot sections
 
-Wage of remote to wage of non remote Total
-Wage of remote to non remote by states
-Wage of remote to non remote by Region
+Fix semi-placeholder text
 
-company star value remote vs non-Remote
-
-
-### Analysis To-Do - Stretch
-
-
-
-
-
-### Website To-Do - Essential
-
-
-
-
-### Website To-Do - Stretch
+Turn off zoom in plot?
+Add titles to the plots in the dashboard
