@@ -11,12 +11,10 @@ An analysis into the rising prevalence of remote work opportunities arising duri
 -Highlight the companies by star value with remote
 
 ### To-Do - Essential
-Add region filter to the region plot!
-Add a grouped category filter for tech/inter/phys jobs to the wage plot
+
 Fix the map on the remote plot
 
 Add story shots for each highlight
-Fix spacing after highlights
 
 ###To-Do - Stretch
 Add BANs to regional plot with total # jobs in each category
