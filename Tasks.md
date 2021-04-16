@@ -12,15 +12,12 @@ An analysis into the rising prevalence of remote work opportunities arising duri
 
 ### To-Do - Essential
 
-Fix the map on the remote plot
-
-Add story shots for each highlight
+Add story shot for north/south highlight
 
 ###To-Do - Stretch
 Add BANs to regional plot with total # jobs in each category
 Add how to use plot sections
-
 Fix semi-placeholder text
-
-Turn off zoom in plot?
 Add titles to the plots in the dashboard
+Change boxes from black to no colour? - see if it looks good
+ELSE: fix spacing
