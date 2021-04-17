@@ -10281,6 +10281,14 @@ body {
     padding: 0 0 0 2rem;
     border-left: 0.5rem solid #64a19d;
   }
+  .projects-section .featured-wage-text {
+    padding: 0 0 0 2rem;
+    border-left: 0.5rem solid #76cf76;
+  }
+  .projects-section .featured-star-text {
+    padding: 0 0 0 2rem;
+    border-left: 0.5rem solid #ebc341;
+  }
 }
 .projects-section .project-text {
   padding: 3rem;
@@ -10294,6 +10302,12 @@ body {
     border-color: #64a19d;
     border-width: 0.25rem;
     width: 30%;
+  }
+  .projects-section .wage-hr hr {
+    border-color: #76cf76;
+  }
+  .projects-section .stars-hr hr {
+    border-color: #ebc341;
   }
 }
 
