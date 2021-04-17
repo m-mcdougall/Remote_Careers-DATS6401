@@ -12,12 +12,15 @@ An analysis into the rising prevalence of remote work opportunities arising duri
 
 ### To-Do - Essential
 
-Add story shot for north/south highlight
+Add conclusions sections
+Add methods section?
+Bootstrap template thankyous
+
 
 ###To-Do - Stretch
 Add BANs to regional plot with total # jobs in each category
 Add how to use plot sections
 Fix semi-placeholder text
 Add titles to the plots in the dashboard
-Change boxes from black to no colour? - see if it looks good
-ELSE: fix spacing
+
+role segregation spacign up
