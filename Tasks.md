@@ -12,9 +12,6 @@ An analysis into the rising prevalence of remote work opportunities arising duri
 
 ### To-Do - Essential
 
-Add conclusions sections
-Add methods section?
-Bootstrap template thankyous
 
 
 ###To-Do - Stretch

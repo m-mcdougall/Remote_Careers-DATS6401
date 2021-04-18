@@ -26,7 +26,8 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#region">Regions</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#wage">Wages</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#rating">Ratings</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#signup">Sources</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#conclusions">Conclusions</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#methods">Methods & Sources</a></li>
                     </ul>
                 </div>
             </div>
@@ -78,13 +79,13 @@
                 <div class="col-xl-10 col-lg-8" >
                     <div class="featured-text text-center text-lg-left" >
                         <h4>Regionality in Remote Careers</h4>
-                        <p class="text-black-50 mb-0">While many remote positions can be performed anywhere in the country, many positions require occasional visits to the office.
+                        <p class="text-black-50 mb-0">While some remote positions can be performed anywhere in the country, many positions require occasional visits to the office.
                             Others are only temporarily remote for the duration of the pandemic and will eventually become in-person positions. 
                             The company’s state of origin may be influential in its likelihood to offer remote positions, and it may be relevant to job-seekers who go on site.
                             </p>
                     </div>
                 </div>
-                <hr class="d-none d-lg-block mb-0 mr-0" /> <!-- Adds a space and a line-->
+                <hr class="d-none d-lg-block mb-0 mr-0" /> <!-- Adds a space and a horizontal line-->
                 
                 <!-- The Dashboard Section -->
                 <div class="row align-items-center no-gutters "> 
@@ -244,24 +245,66 @@
             </div>
         </section>
        
-       
-       
-       
-       
-       
-        <!-- Sources-->
-        <section class="signup-section" id="signup">
-            <div class="container">
+
+        <!-- Conclusions-->
+        <section class="signup-section" id="conclusions">
+            <div class="container" style="margin-top: -7.5rem;">
                 <div class="row">
                     <div class="col-md-10 col-lg-8 mx-auto text-center">
                         <i class="fas fa-book-open fa-2x mb-2 text-white"></i>
-                        <h2 class="text-white mb-5">Sources</h2>
-                        <p class="col-md-14 col-lg-14 mx-auto text-white">Standard occupation categories and sample occupations were taken from the Bureau of Labor and Statistics’ 2018 Standard Occupational Classification System Structure Manual. </p>
-                        
-                        <p class="col-md-14 col-lg-14 mx-auto text-white">Each occupation category was sampled 4 times to obtain target positions. The targets were lightly processed to increase searchability.</p>
-                        <p class="col-md-14 col-lg-14 mx-auto text-white">Job posting information from the 3 most populous cities in each state were taken from Indeed.com for each sampled occupation target.</p>
-                        <p><a href="https://www.bls.gov/soc/2018/soc_2018_manual.pdf" class="col-md-10 col-lg-8 mx-auto text-white">[Standard Occupational Classification System Structure Manual]</a></p>
-                        <a href="https://www.indeed.com/" class="col-md-10 col-lg-8 mx-auto text-white">[Indeed.com]</a>
+                        <h2 class="text-white mb-5">Conclusions</h2>
+                        <p class="col-md-14 col-lg-14 mx-auto text-white" style="margin-top: -1.2rem;">
+                            Remote position availability varies strongly by both location and industry. 
+                            Both Pacific and Northeast states are more likely to offer remote positions than Southern and Midwestern states, although there is variation within regions.
+                        </p>
+                        <p class="col-md-14 col-lg-14 mx-auto text-white">
+                            Jobs which typically require a physical presence, such as Fisheries, unsurprisingly have low rates of remote work available, and Technical industries such as Engineering have the highest rates of remote work. 
+                            Medical industries, interestingly, have an intermediate amount of remote work, which fits its unique mix of technical and physical requirements.
+                        </p>
+                        <p class="col-md-14 col-lg-14 mx-auto text-white">
+                            Remote positions pay more on average than in-person positions, which may be that companies are incentivizing the lower overhead cost of these employees,
+                             or it may be that only more senior or tecnhical roles are available remotely.
+                        </p>
+                        <p class="col-md-14 col-lg-14 mx-auto text-white">
+                            Companies that offer remote or temporarily remote positions are correlated to having higher ratings, and by inference are more concerned with employee welfare. 
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Methods-->
+        <section class="methods-section text-center" id="methods">
+            <div class="container">
+                <i class="fas fa-laptop-code fa-2x mb-2 text-white"></i>
+                <div class="row">
+                    <div class="col-lg-10 mx-auto">
+                        <h2 class="text-white mb-4">Data Analysis</h2>
+                        <p class="text-white-50">
+                            Data collection and analysis was performed in Python 3.6.4 using the included scripts. 
+                            Data visualization was performed in Tableau. </p>
+                        <p class="text-white-50"> 
+                            Standard occupation categories and sample occupations were taken from the Bureau of Labor and Statistics’ 2018 Standard Occupational Classification System Structure Manual. Each occupation category was sampled 4 times to obtain target positions. The targets were lightly processed to increase searchability.
+                        </p>
+                        <p class="text-white-50">
+                            Job posting information from the 3 most populous cities in each state were taken from Indeed.com for each sampled occupation target. 
+                        </p>
+                        <p class="text-white-50">
+                            The collected data was aggregated and cleaned, including converting wage information from the format specified in Indeed’s posting to approximate annual wage, and adding state and region information.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="source-section">
+                <i class="fas fa-book-open fa-2x mb-2 text-white" style="margin-top: 2rem;"></i>
+                <div class="row">
+                    <div class="col-lg-10 mx-auto">
+                        <h2 class="text-white mb-4">Sources</h2>
+                        <p class="text-white-50">Bureau of Labor and Statistics:<a href="https://www.bls.gov/soc/2018/soc_2018_manual.pdf" class="col-md-10 col-lg-8 mx-auto text-white">[Standard Occupational Classification System Structure Manual]</a></p>
+                        <p class="text-white-50">Job posting information:<a href="https://www.indeed.com/" class="col-md-10 col-lg-8 mx-auto text-white">[Indeed.com]</a></p>
+                        <p class="text-white-50">"Grayscale" Bootstrap template:<a href="https://startbootstrap.com/theme/grayscale" class="col-md-10 col-lg-8 mx-auto text-white">[Start Bootstrap]</a></p>
                     </div>
                 </div>
             </div>

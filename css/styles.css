@@ -10324,6 +10324,22 @@ body {
   margin-bottom: 10px;
  }
 
+.methods-section {
+  padding-top: 10rem;
+  background-color: #000000;
+}
+.methods-section p {
+  margin-bottom: 2rem;
+}
+.source-section {
+  padding-top: 10rem;
+  background-color: #000000;
+}
+.source-section p {
+  margin-bottom: 0.7rem;
+}
+
+
 .footer {
   padding: 5rem 0;
 }
