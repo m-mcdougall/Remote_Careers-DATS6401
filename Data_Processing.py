@@ -16,12 +16,10 @@ wd=os.path.abspath('C://Users//Mariko//Documents//GitHub//Remote_Careers-DATS640
 os.chdir(wd)
 
 
-
-
 #%%
 
 #For the original files,a whitespace character was present in the file string
-
+#Clear this from the filenames
 for file in os.listdir():
     if '\xa0' in file:
         if file.strip() in os.listdir():
@@ -39,15 +37,11 @@ for file in os.listdir():
         
         
 data=pd.concat(data)
-
 data=data.reset_index(drop=True)
 
 #%%
 
 #Wage calculators
-
-
-
 known_wage=data[data.Wage != 'Unknown']
 
 #Seperate the wages into hourly pay and year
@@ -435,6 +429,7 @@ data=data.drop_duplicates()#Removes job postings that were previously scraped (p
 data=data.reset_index(drop=True).reset_index()
 data=data.rename(columns={'index':'JobID'})
 
+#Export cleaned and aggregated data
 data.to_excel('Data_out.xlsx', index=False)
 
 #%%

@@ -113,77 +113,24 @@ def search_page_downloader(page_url):
     
     return data
 
-#x=search_page_downloader(page_url)
+
+
 #%%
 
-
+# Load and filter the cities in each US state
 cities= pd.read_excel('.//Data//Job_Titles.xlsx', )
 cities=cities[~cities.State.isin([' American Samoa', ' Guam', ' Northern Mariana Islands', ' Puerto Rico', ' Virgin Islands (U.S.)'])]
 cities.reset_index(drop=True, inplace=True)
 
 
-
-
-
-job_collect=[]
-
-for i in range(cities.shape[0]):
-    
-    page_url=make_url('Data Scientist', cities.MostPopulous[i], radius=10)
-    x=search_page_downloader(page_url)
-    
-    x.insert(column='SearchCity', loc=0, value=cities.MostPopulous[i])
-    x.insert(column='SearchState', loc=0, value=cities.State[i])
-    
-    job_collect.append(x)
-    
-    time.sleep(np.random.random_sample()*3)
-
-job_collect_df=pd.concat(job_collect)
-
-
-
-
-
-
-#%%
-#Import the modified jobs excel data file
-
-jobs= pd.read_excel('.//Data//Modified_Jobs2.xlsx', )
-jobs.rename(columns={0:'Category', 1:"JobTitle"}, inplace=True)
-
-
-job_collect=[]
-
-for i in range(jobs.shape[0]):
-    
-    page_url=make_url(jobs.JobTitle[i], 'Seattle', radius=10)
-    x=search_page_downloader(page_url)
-    
-    x.insert(column='SearchTitle', loc=0, value=jobs.JobTitle[i])
-    x.insert(column='Category', loc=0, value=jobs.Category[i])
-    
-    job_collect.append(x)
-    
-    time.sleep(np.random.random_sample()*3)
-
-job_collect_df=pd.concat(job_collect)
-
-
-#%%
-
-cities= pd.read_excel('.//Data//Job_Titles.xlsx', )
-cities=cities[~cities.State.isin([' American Samoa', ' Guam', ' Northern Mariana Islands', ' Puerto Rico', ' Virgin Islands (U.S.)'])]
-cities.reset_index(drop=True, inplace=True)
-
-
+# Load The Sampled and Cleaned Occupations
 jobs= pd.read_excel('.//Data//Modified_Jobs2.xlsx', )
 jobs.rename(columns={0:'Category', 1:"JobTitle"}, inplace=True)
 
 
 
 
-
+#Loop through all occupations and all cities, downloading top 50 most relevant job posts within 10 miles
 for k in range(0,cities.shape[0]):
 
     
