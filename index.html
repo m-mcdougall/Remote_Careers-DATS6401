@@ -58,8 +58,8 @@
                             US labor market even after the pandemic. 
                         </p>
                         <p class="text-white-50">
-                            The proportion of remote jobs vary by industry, and by the main location of the business. 
-                            Predicting remote job availability within your industry is useful for those who would prefer to live outside of large job centers,
+                            The proportion of remote jobs vary by industry, and by geographic region. 
+                            Predicting remote job availability within your industry is useful for those who would prefer to live outside of large metropolitan areas,
                              which tend to have high cost of living. This project aims to highlight industries by the fraction 
                              of remote positions to total positions, and which US regions are most and least likely to have remote positions available.
                         </p>
@@ -159,9 +159,9 @@
                 <div class="col-xl-10 col-lg-8" >
                     <div class="featured-wage-text text-center text-lg-left">
                         <h4>Wage Differences</h4>
-                        <p class="text-black-50 mb-0">Wages offered for positions in remote vs in-person positions may be different, even within industry and location. 
-                            This may be due to remote workers being seen as easier to replace, leading to lower offers, or as requiring less overhead and management, 
-                            leading to higher offers, and this trend varies by industry.</p>
+                        <p class="text-black-50 mb-0">Wages offered for positions in remote vs in-person positions tend to vary by industry and location,
+                             with some industries offering higher wages to remote workers and some offering lower wages.
+                             Lower offers may be due to remote workers being seen as easier to replace, while higher offers may be due to reduced overhead costs.</p>
                         <p class="text-black-50 mb-0" style="margin-top: 2rem;">
                             <i><b>Hover over the plot for an informative tooltip, and select elements to filter the rest of the plots.</b></i>
                         </p>     
@@ -221,8 +221,9 @@
                 <div class="col-xl-10 col-lg-8" id="rating">
                     <div class="featured-star-text text-center text-lg-left">
                         <h4>Company Rating</h4>
-                        <p class="text-black-50 mb-0">Companies that are more concerned with employee welfare may be more likely to offer remote positions, 
-                            where employee welfare is measured by the star rating left by employees on Indeed’s rating system.</p>
+                        <p class="text-black-50 mb-0">Companies with higher star ratings on Indeed were more likely to offer remote work positions to potential employees. 
+                            Higher rated companies have higher concern for employee welfare, or perhaps jobs more suited to remote work 
+                             tend to naturally be higher rated, even within the same industry.</p>
                     </div>
                 </div>
                 <hr class="d-none d-lg-block mb-0 mr-0" /> <!-- Adds a space and a line-->
@@ -260,19 +261,19 @@
                         <i class="fas fa-book-open fa-2x mb-2 text-white"></i>
                         <h2 class="text-white mb-5">Conclusions</h2>
                         <p class="col-md-14 col-lg-14 mx-auto text-white" style="margin-top: -1.2rem;">
-                            Remote position availability varies strongly by both location and industry. 
-                            Both Pacific and Northeast states are more likely to offer remote positions than Southern and Midwestern states, although there is variation within regions.
+                            Remote position availability varies by both location and industry. 
+                            Both Pacific and Northeastern states are more likely to offer remote positions than Southern and Midwestern states, although there is also variation within regions.
                         </p>
                         <p class="col-md-14 col-lg-14 mx-auto text-white">
                             Jobs which typically require a physical presence, such as Fisheries, unsurprisingly have low rates of remote work available, and Technical industries such as Engineering have the highest rates of remote work. 
                             Medical industries, interestingly, have an intermediate amount of remote work, which fits its unique mix of technical and physical requirements.
                         </p>
                         <p class="col-md-14 col-lg-14 mx-auto text-white">
-                            Remote positions pay more on average than in-person positions, which may be that companies are incentivizing the lower overhead cost of these employees,
-                             or it may be that only more senior or tecnhical roles are available remotely.
+                            Remote positions pay more on average than in-person positions, which may reflect companies incentivizing the lower overhead cost of these employees,
+                             or it may be that only more senior or technical roles are available remotely.
                         </p>
                         <p class="col-md-14 col-lg-14 mx-auto text-white">
-                            Companies that offer remote or temporarily remote positions are correlated to having higher ratings, and by inference are more concerned with employee welfare. 
+                            Companies that offer remote or temporarily remote positions tend to have higher ratings, and by inference may be concerned with employee welfare. 
                         </p>
 
                     </div>
@@ -294,7 +295,8 @@
                             Standard occupation categories and sample occupations were taken from the Bureau of Labor and Statistics’ 2018 Standard Occupational Classification System Structure Manual. Each occupation category was sampled 4 times to obtain target positions. The targets were lightly processed to increase searchability.
                         </p>
                         <p class="text-white-50">
-                            Job posting information from the 3 most populous cities in each state were taken from Indeed.com for each sampled occupation target. 
+                            Job posting information from the 3 most populous cities in each state were taken from Indeed.com for each sampled occupation target.
+                            The Job posting information was taken on April 1st-3rd, 2021, prior to vaccine rollout to non-essential healthy adults in the United States.
                         </p>
                         <p class="text-white-50">
                             The collected data was aggregated and cleaned, including converting wage information from the format specified in Indeed’s posting to approximate annual wage, and adding state and region information.
