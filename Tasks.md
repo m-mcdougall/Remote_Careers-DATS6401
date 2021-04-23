@@ -19,5 +19,3 @@ Add BANs to regional plot with total # jobs in each category
 Add how to use plot sections
 Fix semi-placeholder text
 Add titles to the plots in the dashboard
-
-role segregation spacign up
